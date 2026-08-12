@@ -1,7 +1,13 @@
 name: Actualitzar streaming Tarragona
 
 on:
+  schedule:
+    - cron: "*/5 * * * *"
+
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
 
@@ -12,24 +18,35 @@ jobs:
     steps:
 
       - name: Descarregar repositori
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
 
       - name: Configurar Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.12"
 
       - name: Instal·lar dependències
         run: |
+          python -m pip install --upgrade pip
           pip install -r requirements.txt
-          playwright install chromium
-          playwright install-deps chromium
 
-      - name: Buscar streaming
+      - name: Instal·lar Chromium
+        run: |
+          python -m playwright install chromium
+          python -m playwright install-deps chromium
+
+      - name: Capturar streaming
         run: |
           python webcam.py
 
-      - name: Guardar canvis
+      - name: Comprovar M3U
+        run: |
+          echo "Contingut de tarragona.m3u:"
+          cat tarragona.m3u
+
+      - name: Actualitzar repositori
         run: |
 
           git config user.name "github-actions[bot]"
@@ -37,6 +54,11 @@ jobs:
 
           git add tarragona.m3u
 
-          git diff --cached --quiet || git commit -m "Actualitzar streaming Tarragona"
+          if git diff --cached --quiet; then
+            echo "No hi ha canvis."
+            exit 0
+          fi
 
-          git push
+          git commit -m "Actualitzar streaming Tarragona"
+
+          git push origin HEAD:${GITHUB_REF_NAME}
