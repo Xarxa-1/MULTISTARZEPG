@@ -269,65 +269,73 @@
     <title lang="en">In The Grey</title>
     <desc lang="en">A covert team is sent to recover a billion-dollar fortune, but the mission spirals into a high-stakes battle of strategy, deception, and survival.</desc>
   </programme>
-  <programme start="20260911050100 +0200" stop="20260911064000 +0200" channel="starz-stz7">
-    <title lang="en">Falling Up</title>
-    <desc lang="en">After losing his father, Hank becomes a doorman at a prestigious NYC apartment building, where he develops a connection with one of the residents.</desc>
-  </programme>
-  <programme start="20260911064000 +0200" stop="20260911080900 +0200" channel="starz-stz7">
-    <title lang="en">Black Sheep</title>
-    <desc lang="en">An experiment in genetic engineering turns harmless sheep into bloodthirsty killers that terrorize a sprawling New Zealand farm.</desc>
-  </programme>
-  <programme start="20260911080900 +0200" stop="20260911095100 +0200" channel="starz-stz7">
-    <title lang="en">Finn On The Fly</title>
-    <desc lang="en">When a science mishap turns his dog human, a shy teen is swept into chaos, confusion, and first love.</desc>
-  </programme>
-  <programme start="20260911095100 +0200" stop="20260911114800 +0200" channel="starz-stz7">
-    <title lang="en">Words And Pictures</title>
-    <desc lang="en">Two teachers form a rivalry that ends up with a competition at their school in which students decide whether words or pictures are more important.</desc>
-  </programme>
-  <programme start="20260911114800 +0200" stop="20260911133500 +0200" channel="starz-stz7">
-    <title lang="en">Fitting In</title>
-    <desc lang="en">A teen girl is diagnosed with a reproductive condition that upends her plans to have a sex life, propelling her to explore unusual methods.</desc>
-  </programme>
-  <programme start="20260911133500 +0200" stop="20260911154200 +0200" channel="starz-stz7">
-    <title lang="en">Why Men Are Clueless</title>
-    <desc lang="en">In order to land his dream job and win back the love of his life, a young man must figure out what women truly want with the help of his friends.</desc>
-  </programme>
-  <programme start="20260911154200 +0200" stop="20260911172700 +0200" channel="starz-stz7">
-    <title lang="en">The Back-up Plan</title>
-    <desc lang="en">Zoe chooses to have a baby on her own, but then meets Stan, a man she genuinely likes. Now she must find the right moment to reveal she’s pregnant.</desc>
-  </programme>
-  <programme start="20260911172700 +0200" stop="20260911192400 +0200" channel="starz-stz7">
-    <title lang="en">Words And Pictures</title>
-    <desc lang="en">Two teachers form a rivalry that ends up with a competition at their school in which students decide whether words or pictures are more important.</desc>
-  </programme>
-  <programme start="20260911192400 +0200" stop="20260911210600 +0200" channel="starz-stz7">
-    <title lang="en">Bad Kids Of Crestview Academy</title>
-    <desc lang="en">Five high school students get Saturday detention. When hit by a computer virus, the school goes on lockdown and killing ensues.</desc>
-  </programme>
-  <programme start="20260911210600 +0200" stop="20260911225000 +0200" channel="starz-stz7">
-    <title lang="en">Keeping Mum</title>
-    <desc lang="en">Gloria's life is unraveling. When the family hires housekeeper Grace Hawkins, she seems like salvation - until her unsettling secrets emerge.</desc>
-  </programme>
-  <programme start="20260911225000 +0200" stop="20260912001900 +0200" channel="starz-stz7">
-    <title lang="en">Double Take</title>
-    <desc lang="en">An investment banker is on the run to Mexico. But he gets mistaken for a fast-talking con man - who may be a crook, an FBI agent, or an assassin!</desc>
-  </programme>
-  <programme start="20260912001900 +0200" stop="20260912015000 +0200" channel="starz-stz7">
-    <title lang="en">The Great Buck Howard</title>
-    <desc lang="en">A washed-up mentalist hires a law school dropout as his assistant and fights for a comeback with help from a bold publicist.</desc>
-  </programme>
-  <programme start="20260912015000 +0200" stop="20260912034700 +0200" channel="starz-stz7">
-    <title lang="en">Words And Pictures</title>
-    <desc lang="en">Two teachers form a rivalry that ends up with a competition at their school in which students decide whether words or pictures are more important.</desc>
-  </programme>
-  <programme start="20260912034700 +0200" stop="20260912053200 +0200" channel="starz-stz7">
-    <title lang="en">The Back-up Plan</title>
-    <desc lang="en">Zoe chooses to have a baby on her own, but then meets Stan, a man she genuinely likes. Now she must find the right moment to reveal she’s pregnant.</desc>
-  </programme>
   <programme start="20260912053200 +0200" stop="20260912070100 +0200" channel="starz-stz7">
     <title lang="en">Double Take</title>
     <desc lang="en">An investment banker is on the run to Mexico. But he gets mistaken for a fast-talking con man - who may be a crook, an FBI agent, or an assassin!</desc>
+  </programme>
+  <programme start="20260912070100 +0200" stop="20260912084500 +0200" channel="starz-stz7">
+    <title lang="en">House Arrest</title>
+    <desc lang="en">Chanel is living the high life until she is wrongfully arrested while out shopping. Now under house arrest, she must adjust to her new lifestyle.</desc>
+  </programme>
+  <programme start="20260912084500 +0200" stop="20260912101400 +0200" channel="starz-stz7">
+    <title lang="en">Scary Movie</title>
+    <desc lang="en">Cindy and her friends are stalked by a masked killer in a ridiculous slasher spoof full of twists, scares and terrible choices.</desc>
+  </programme>
+  <programme start="20260912101400 +0200" stop="20260912113700 +0200" channel="starz-stz7">
+    <title lang="en">Scary Movie 2</title>
+    <desc lang="en">Cindy and her friends sign up for a sleep study at a haunted mansion and stumble into a barrage of ghosts, bad decisions and ridiculous scares.</desc>
+  </programme>
+  <programme start="20260912113700 +0200" stop="20260912130200 +0200" channel="starz-stz7">
+    <title lang="en">Scary Movie 3</title>
+    <desc lang="en">Cindy must stop a deadly videotape curse while dealing with crop circles, an awkward farmer and a ghost girl determined to ruin everyone's week.</desc>
+  </programme>
+  <programme start="20260912130200 +0200" stop="20260912142800 +0200" channel="starz-stz7">
+    <title lang="en">Eulogy</title>
+    <desc lang="en">Three generations of a dysfunctional family come together for a funeral where family secrets and hidden relationships are revealed.</desc>
+  </programme>
+  <programme start="20260912142800 +0200" stop="20260912161200 +0200" channel="starz-stz7">
+    <title lang="en">House Arrest</title>
+    <desc lang="en">Chanel is living the high life until she is wrongfully arrested while out shopping. Now under house arrest, she must adjust to her new lifestyle.</desc>
+  </programme>
+  <programme start="20260912161200 +0200" stop="20260912174400 +0200" channel="starz-stz7">
+    <title lang="en">The Future</title>
+    <desc lang="en">After deciding to adopt a stray cat, a couple’s reality begins to shift, altering time, space, and their understanding of life together.</desc>
+  </programme>
+  <programme start="20260912174400 +0200" stop="20260912191300 +0200" channel="starz-stz7">
+    <title lang="en">Scary Movie</title>
+    <desc lang="en">Cindy and her friends are stalked by a masked killer in a ridiculous slasher spoof full of twists, scares and terrible choices.</desc>
+  </programme>
+  <programme start="20260912191300 +0200" stop="20260912203600 +0200" channel="starz-stz7">
+    <title lang="en">Scary Movie 2</title>
+    <desc lang="en">Cindy and her friends sign up for a sleep study at a haunted mansion and stumble into a barrage of ghosts, bad decisions and ridiculous scares.</desc>
+  </programme>
+  <programme start="20260912203600 +0200" stop="20260912220100 +0200" channel="starz-stz7">
+    <title lang="en">Scary Movie 3</title>
+    <desc lang="en">Cindy must stop a deadly videotape curse while dealing with crop circles, an awkward farmer and a ghost girl determined to ruin everyone's week.</desc>
+  </programme>
+  <programme start="20260912220100 +0200" stop="20260912234500 +0200" channel="starz-stz7">
+    <title lang="en">House Arrest</title>
+    <desc lang="en">Chanel is living the high life until she is wrongfully arrested while out shopping. Now under house arrest, she must adjust to her new lifestyle.</desc>
+  </programme>
+  <programme start="20260912234500 +0200" stop="20260913011100 +0200" channel="starz-stz7">
+    <title lang="en">Eulogy</title>
+    <desc lang="en">Three generations of a dysfunctional family come together for a funeral where family secrets and hidden relationships are revealed.</desc>
+  </programme>
+  <programme start="20260913011100 +0200" stop="20260913024000 +0200" channel="starz-stz7">
+    <title lang="en">Scary Movie</title>
+    <desc lang="en">Cindy and her friends are stalked by a masked killer in a ridiculous slasher spoof full of twists, scares and terrible choices.</desc>
+  </programme>
+  <programme start="20260913024000 +0200" stop="20260913040300 +0200" channel="starz-stz7">
+    <title lang="en">Scary Movie 2</title>
+    <desc lang="en">Cindy and her friends sign up for a sleep study at a haunted mansion and stumble into a barrage of ghosts, bad decisions and ridiculous scares.</desc>
+  </programme>
+  <programme start="20260913040300 +0200" stop="20260913052800 +0200" channel="starz-stz7">
+    <title lang="en">Scary Movie 3</title>
+    <desc lang="en">Cindy must stop a deadly videotape curse while dealing with crop circles, an awkward farmer and a ghost girl determined to ruin everyone's week.</desc>
+  </programme>
+  <programme start="20260913052800 +0200" stop="20260913070000 +0200" channel="starz-stz7">
+    <title lang="en">The Future</title>
+    <desc lang="en">After deciding to adopt a stray cat, a couple’s reality begins to shift, altering time, space, and their understanding of life together.</desc>
   </programme>
   <programme start="20260912044700 +0200" stop="20260912065200 +0200" channel="starz-stz8">
     <title lang="en">Southpaw</title>
