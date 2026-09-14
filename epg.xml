@@ -21,261 +21,257 @@
   <channel id="starz-stz9">
     <display-name>STARZ Encore (STZ9)</display-name>
   </channel>
-  <programme start="20260913045400 +0200" stop="20260913063500 +0200" channel="starz-stz1">
-    <title lang="en">In The Grey</title>
-    <desc lang="en">A covert team is sent to recover a billion-dollar fortune, but the mission spirals into a high-stakes battle of strategy, deception, and survival.</desc>
-  </programme>
-  <programme start="20260913063500 +0200" stop="20260913072700 +0200" channel="starz-stz1">
-    <title lang="en">S1 E7 - Without Me, There Is No You</title>
-    <desc lang="en">With time running out, Duke closes in on his target. But an unexpected countermove leaves him staring down the barrel of defeat.</desc>
-  </programme>
-  <programme start="20260913072700 +0200" stop="20260913090800 +0200" channel="starz-stz1">
-    <title lang="en">All About the Benjamins</title>
-    <desc lang="en">A bounty hunter chasing a fast-talking con man uncovers a criminal plot tied to a fortune worth millions, forcing the pair to work together.</desc>
-  </programme>
-  <programme start="20260913090800 +0200" stop="20260913100200 +0200" channel="starz-stz1">
-    <title lang="en">S1 E7 - Without Me, There Is No You</title>
-    <desc lang="en">With time running out, Duke closes in on his target. But an unexpected countermove leaves him staring down the barrel of defeat.</desc>
-  </programme>
-  <programme start="20260913100200 +0200" stop="20260913120100 +0200" channel="starz-stz1">
-    <title lang="en">The Devil You Know</title>
-    <desc lang="en">After a lifetime of trouble, a man has the chance to turn things around. He finds himself spiraling back into the dark place he overcame.</desc>
-  </programme>
-  <programme start="20260913120100 +0200" stop="20260913140000 +0200" channel="starz-stz1">
-    <title lang="en">The Bourne Ultimatum</title>
-    <desc lang="en">Jason Bourne evades a relentless C.I.A. official from a new assassination program as he seeks to uncover the origins of his life as a trained killer.</desc>
-  </programme>
-  <programme start="20260913140000 +0200" stop="20260913154100 +0200" channel="starz-stz1">
-    <title lang="en">In The Grey</title>
-    <desc lang="en">A covert team is sent to recover a billion-dollar fortune, but the mission spirals into a high-stakes battle of strategy, deception, and survival.</desc>
-  </programme>
-  <programme start="20260913154100 +0200" stop="20260913163500 +0200" channel="starz-stz1">
-    <title lang="en">S1 E7 - Without Me, There Is No You</title>
-    <desc lang="en">With time running out, Duke closes in on his target. But an unexpected countermove leaves him staring down the barrel of defeat.</desc>
-  </programme>
-  <programme start="20260913163500 +0200" stop="20260913183700 +0200" channel="starz-stz1">
-    <title lang="en">The Bourne Identity</title>
-    <desc lang="en">A man who cannot remember his past but is highly skilled in self-defense attempts to discover his identity while assailants try to kill him.</desc>
-  </programme>
-  <programme start="20260913183700 +0200" stop="20260913202900 +0200" channel="starz-stz1">
-    <title lang="en">The Bourne Supremacy</title>
-    <desc lang="en">Former assassin Jason Bourne is blamed for a murder committed in a failed CIA undercover operation and must go on the run to save his life.</desc>
-  </programme>
-  <programme start="20260913202900 +0200" stop="20260913222800 +0200" channel="starz-stz1">
-    <title lang="en">The Bourne Ultimatum</title>
-    <desc lang="en">Jason Bourne evades a relentless C.I.A. official from a new assassination program as he seeks to uncover the origins of his life as a trained killer.</desc>
-  </programme>
-  <programme start="20260913222800 +0200" stop="20260913232000 +0200" channel="starz-stz1">
-    <title lang="en">S1 E7 - Without Me, There Is No You</title>
-    <desc lang="en">With time running out, Duke closes in on his target. But an unexpected countermove leaves him staring down the barrel of defeat.</desc>
-  </programme>
-  <programme start="20260913232000 +0200" stop="20260914010000 +0200" channel="starz-stz1">
-    <title lang="en">In The Grey</title>
-    <desc lang="en">A covert team is sent to recover a billion-dollar fortune, but the mission spirals into a high-stakes battle of strategy, deception, and survival.</desc>
-  </programme>
-  <programme start="20260914010000 +0200" stop="20260914030500 +0200" channel="starz-stz1">
-    <title lang="en">Southpaw</title>
-    <desc lang="en">After losing everything to a senseless tragedy, a boxer turns to a retired fighter for guidance as he struggles toward redemption.</desc>
-  </programme>
-  <programme start="20260914030500 +0200" stop="20260914040000 +0200" channel="starz-stz1">
-    <title lang="en">S1 E7 - Without Me, There Is No You</title>
-    <desc lang="en">With time running out, Duke closes in on his target. But an unexpected countermove leaves him staring down the barrel of defeat.</desc>
-  </programme>
-  <programme start="20260914040000 +0200" stop="20260914045500 +0200" channel="starz-stz1">
-    <title lang="en">S1 E7 - Without Me, There Is No You</title>
-    <desc lang="en">With time running out, Duke closes in on his target. But an unexpected countermove leaves him staring down the barrel of defeat.</desc>
-  </programme>
-  <programme start="20260914045500 +0200" stop="20260914055000 +0200" channel="starz-stz1">
-    <title lang="en">S1 E7 - Without Me, There Is No You</title>
-    <desc lang="en">With time running out, Duke closes in on his target. But an unexpected countermove leaves him staring down the barrel of defeat.</desc>
-  </programme>
   <programme start="20260914055000 +0200" stop="20260914072200 +0200" channel="starz-stz1">
     <title lang="en">Scary Movie</title>
     <desc lang="en">Cindy and her friends are stalked by a masked killer in a ridiculous slasher spoof full of twists, scares and terrible choices.</desc>
   </programme>
-  <programme start="20260913043200 +0200" stop="20260913064600 +0200" channel="starz-stz3">
-    <title lang="en">The Hate U Give</title>
-    <desc lang="en">After seeing her friend fatally shot by a police officer, a teen must find the courage to speak out and fight for justice for her community.</desc>
-  </programme>
-  <programme start="20260913064600 +0200" stop="20260913082900 +0200" channel="starz-stz3">
-    <title lang="en">Norbit</title>
-    <desc lang="en">Norbit gets a second chance at love with Kate, but his jealous wife Rasputia stands in the way, determined to keep him all to herself.</desc>
-  </programme>
-  <programme start="20260913082900 +0200" stop="20260913095200 +0200" channel="starz-stz3">
-    <title lang="en">4Play</title>
-    <desc lang="en">Successful Chicago lounge owner Todd dates three women at once, until an unexpected connection between them turns his plan upside down.</desc>
-  </programme>
-  <programme start="20260913095200 +0200" stop="20260913120000 +0200" channel="starz-stz3">
-    <title lang="en">Michael</title>
-    <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
-  </programme>
-  <programme start="20260913120000 +0200" stop="20260913135700 +0200" channel="starz-stz3">
-    <title lang="en">Hustle &amp; Flow</title>
-    <desc lang="en">DJay, a Memphis pimp, finds new purpose in rap. With a superstar in town, he hustles to turn street life into music, and a shot at something bigger.</desc>
-  </programme>
-  <programme start="20260913135700 +0200" stop="20260913154000 +0200" channel="starz-stz3">
-    <title lang="en">Norbit</title>
-    <desc lang="en">Norbit gets a second chance at love with Kate, but his jealous wife Rasputia stands in the way, determined to keep him all to herself.</desc>
-  </programme>
-  <programme start="20260913154000 +0200" stop="20260913172800 +0200" channel="starz-stz3">
-    <title lang="en">Imagine That</title>
-    <desc lang="en">A struggling mogul turns to his daughter's vivid imagination for help, discovering that creativity and love may be his greatest assets.</desc>
-  </programme>
-  <programme start="20260913172800 +0200" stop="20260913193600 +0200" channel="starz-stz3">
-    <title lang="en">Michael</title>
-    <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
-  </programme>
-  <programme start="20260913193600 +0200" stop="20260913213300 +0200" channel="starz-stz3">
-    <title lang="en">Hustle &amp; Flow</title>
-    <desc lang="en">DJay, a Memphis pimp, finds new purpose in rap. With a superstar in town, he hustles to turn street life into music, and a shot at something bigger.</desc>
-  </programme>
-  <programme start="20260913213300 +0200" stop="20260913222400 +0200" channel="starz-stz3">
+  <programme start="20260914072200 +0200" stop="20260914081700 +0200" channel="starz-stz1">
     <title lang="en">S1 E7 - Without Me, There Is No You</title>
     <desc lang="en">With time running out, Duke closes in on his target. But an unexpected countermove leaves him staring down the barrel of defeat.</desc>
   </programme>
-  <programme start="20260913222400 +0200" stop="20260914001200 +0200" channel="starz-stz3">
-    <title lang="en">Imagine That</title>
-    <desc lang="en">A struggling mogul turns to his daughter's vivid imagination for help, discovering that creativity and love may be his greatest assets.</desc>
+  <programme start="20260914081700 +0200" stop="20260914102000 +0200" channel="starz-stz1">
+    <title lang="en">Hustle &amp; Flow</title>
+    <desc lang="en">DJay, a Memphis pimp, finds new purpose in rap. With a superstar in town, he hustles to turn street life into music, and a shot at something bigger.</desc>
   </programme>
-  <programme start="20260914001200 +0200" stop="20260914015500 +0200" channel="starz-stz3">
-    <title lang="en">Norbit</title>
-    <desc lang="en">Norbit gets a second chance at love with Kate, but his jealous wife Rasputia stands in the way, determined to keep him all to herself.</desc>
+  <programme start="20260914102000 +0200" stop="20260914111600 +0200" channel="starz-stz1">
+    <title lang="en">S1 E7 - Without Me, There Is No You</title>
+    <desc lang="en">With time running out, Duke closes in on his target. But an unexpected countermove leaves him staring down the barrel of defeat.</desc>
   </programme>
-  <programme start="20260914015500 +0200" stop="20260914040300 +0200" channel="starz-stz3">
+  <programme start="20260914111600 +0200" stop="20260914130000 +0200" channel="starz-stz1">
+    <title lang="en">A Low Down Dirty Shame</title>
+    <desc lang="en">A former Los Angeles policeman helps a DEA agent on a case similar to the one that ended his career.</desc>
+  </programme>
+  <programme start="20260914130000 +0200" stop="20260914150000 +0200" channel="starz-stz1">
+    <title lang="en">The Bourne Identity</title>
+    <desc lang="en">A man who cannot remember his past but is highly skilled in self-defense attempts to discover his identity while assailants try to kill him.</desc>
+  </programme>
+  <programme start="20260914150000 +0200" stop="20260914165000 +0200" channel="starz-stz1">
+    <title lang="en">The Bourne Supremacy</title>
+    <desc lang="en">Former assassin Jason Bourne is blamed for a murder committed in a failed CIA undercover operation and must go on the run to save his life.</desc>
+  </programme>
+  <programme start="20260914165000 +0200" stop="20260914184000 +0200" channel="starz-stz1">
+    <title lang="en">Underworld: Evolution</title>
+    <desc lang="en">The war between the Death Dealers and Lycans continues as Selene and her werewolf lover go searching for their future by seeking their past.</desc>
+  </programme>
+  <programme start="20260914184000 +0200" stop="20260914201600 +0200" channel="starz-stz1">
+    <title lang="en">Underworld: Rise Of The Lycans</title>
+    <desc lang="en">A thousand years ago, the Death Dealer vampires enslaved the werewolf Lycans - but they broke free and began a battle that has lasted centuries!</desc>
+  </programme>
+  <programme start="20260914201600 +0200" stop="20260914215500 +0200" channel="starz-stz1">
+    <title lang="en">Turbulence</title>
+    <desc lang="en">A hot air balloon ride takes an unexpected turn when a third passenger joins, sparking events they never imagined five thousand meters in the air.</desc>
+  </programme>
+  <programme start="20260914215500 +0200" stop="20260914235500 +0200" channel="starz-stz1">
+    <title lang="en">The Devil You Know</title>
+    <desc lang="en">After a lifetime of trouble, a man has the chance to turn things around. He finds himself spiraling back into the dark place he overcame.</desc>
+  </programme>
+  <programme start="20260914235500 +0200" stop="20260915020500 +0200" channel="starz-stz1">
     <title lang="en">Michael</title>
     <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
   </programme>
-  <programme start="20260914040300 +0200" stop="20260914045400 +0200" channel="starz-stz3">
+  <programme start="20260915020500 +0200" stop="20260915030000 +0200" channel="starz-stz1">
     <title lang="en">S1 E7 - Without Me, There Is No You</title>
     <desc lang="en">With time running out, Duke closes in on his target. But an unexpected countermove leaves him staring down the barrel of defeat.</desc>
+  </programme>
+  <programme start="20260915030000 +0200" stop="20260915044100 +0200" channel="starz-stz1">
+    <title lang="en">In The Grey</title>
+    <desc lang="en">A covert team is sent to recover a billion-dollar fortune, but the mission spirals into a high-stakes battle of strategy, deception, and survival.</desc>
+  </programme>
+  <programme start="20260915044100 +0200" stop="20260915064100 +0200" channel="starz-stz1">
+    <title lang="en">Hustle &amp; Flow</title>
+    <desc lang="en">DJay, a Memphis pimp, finds new purpose in rap. With a superstar in town, he hustles to turn street life into music, and a shot at something bigger.</desc>
   </programme>
   <programme start="20260914045400 +0200" stop="20260914065100 +0200" channel="starz-stz3">
     <title lang="en">Hustle &amp; Flow</title>
     <desc lang="en">DJay, a Memphis pimp, finds new purpose in rap. With a superstar in town, he hustles to turn street life into music, and a shot at something bigger.</desc>
   </programme>
-  <programme start="20260913040000 +0200" stop="20260913062600 +0200" channel="starz-stz5">
-    <title lang="en">Minority Report</title>
-    <desc lang="en">In 2054, Officer John Anderton is accused of a future murder. On the run from his own unit, he kidnaps a precog and races to uncover the truth.</desc>
+  <programme start="20260914065100 +0200" stop="20260914082300 +0200" channel="starz-stz3">
+    <title lang="en">Code Name: The Cleaner</title>
+    <desc lang="en">Entangled in a government conspiracy and a love triangle, Jake's only hope of survival is to become one thing - Code Name: The Cleaner!</desc>
   </programme>
-  <programme start="20260913062600 +0200" stop="20260913082900 +0200" channel="starz-stz5">
-    <title lang="en">Silver Linings Playbook</title>
-    <desc lang="en">After a stint in a mental institution, former teacher Pat Solitano moves back in with his parents and tries to reconcile with his ex-wife.</desc>
+  <programme start="20260914082300 +0200" stop="20260914103500 +0200" channel="starz-stz3">
+    <title lang="en">The Last Face</title>
+    <desc lang="en">A charming Spanish doctor and a compassionate relief worker must balance their new love for each other with their passion for the work they are doing.</desc>
   </programme>
-  <programme start="20260913082900 +0200" stop="20260913102000 +0200" channel="starz-stz5">
-    <title lang="en">I Can Only Imagine 2</title>
-    <desc lang="en">Bart Millard, lead singer of MercyMe, has a personal crisis at the height of his career. He grapples with his faith, searching for a way to overcome.</desc>
+  <programme start="20260914103500 +0200" stop="20260914121600 +0200" channel="starz-stz3">
+    <title lang="en">A Low Down Dirty Shame</title>
+    <desc lang="en">A former Los Angeles policeman helps a DEA agent on a case similar to the one that ended his career.</desc>
   </programme>
-  <programme start="20260913102000 +0200" stop="20260913115700 +0200" channel="starz-stz5">
-    <title lang="en">Don Verdean</title>
-    <desc lang="en">A self-proclaimed biblical archaeologist is hired to find sacred relics and scrambles to cover up his failure.</desc>
+  <programme start="20260914121600 +0200" stop="20260914131500 +0200" channel="starz-stz3">
+    <title lang="en">S4 E1 - I Don't Die Easy</title>
+    <desc lang="en">Tariq and Brayden must find a way to secure their own safety as Noma and the Tejadas race to take them out.</desc>
   </programme>
-  <programme start="20260913115700 +0200" stop="20260913134500 +0200" channel="starz-stz5">
-    <title lang="en">All Is Bright</title>
-    <desc lang="en">Out on parole, a man discovers his family has left him for his former criminal partner. They grapple with the straight world and family obligations.</desc>
+  <programme start="20260914131500 +0200" stop="20260914141000 +0200" channel="starz-stz3">
+    <title lang="en">S4 E2 - To Thine Own Self</title>
+    <desc lang="en">Monet wants back into the game and answers about who took shots at her. Noma seeks out an opportunity to expand with the Russians.</desc>
   </programme>
-  <programme start="20260913134500 +0200" stop="20260913152200 +0200" channel="starz-stz5">
-    <title lang="en">Lords Of London</title>
-    <desc lang="en">A notorious London gangster is forced to ponder his criminal past after he mysteriously awakes in 1950s Italy.</desc>
+  <programme start="20260914141000 +0200" stop="20260914154400 +0200" channel="starz-stz3">
+    <title lang="en">Krystal</title>
+    <desc lang="en">Taylor falls for Krystal, an ex-addict. Pretending to be in AA, he faces secrets and family drama as love teaches him to live without fear.</desc>
   </programme>
-  <programme start="20260913152200 +0200" stop="20260913173700 +0200" channel="starz-stz5">
-    <title lang="en">Hostiles</title>
-    <desc lang="en">In 1892, a legendary Army captain reluctantly agrees to escort a Cheyenne chief and his family through dangerous territory.</desc>
+  <programme start="20260914154400 +0200" stop="20260914173900 +0200" channel="starz-stz3">
+    <title lang="en">Fresh</title>
+    <desc lang="en">Street-smart Fresh uses his wits to stay ahead of local criminals and fight for a better life.</desc>
   </programme>
-  <programme start="20260913173700 +0200" stop="20260913194000 +0200" channel="starz-stz5">
-    <title lang="en">Silver Linings Playbook</title>
-    <desc lang="en">After a stint in a mental institution, former teacher Pat Solitano moves back in with his parents and tries to reconcile with his ex-wife.</desc>
+  <programme start="20260914173900 +0200" stop="20260914183000 +0200" channel="starz-stz3">
+    <title lang="en">S1 E7 - Without Me, There Is No You</title>
+    <desc lang="en">With time running out, Duke closes in on his target. But an unexpected countermove leaves him staring down the barrel of defeat.</desc>
   </programme>
-  <programme start="20260913194000 +0200" stop="20260913222700 +0200" channel="starz-stz5">
-    <title lang="en">Gangs of New York</title>
-    <desc lang="en">A young man seeks revenge against the larger-than-life strongman who killed his father in the brutal, gang-dominated New York City of the 1840s.</desc>
+  <programme start="20260914183000 +0200" stop="20260914204200 +0200" channel="starz-stz3">
+    <title lang="en">The Last Face</title>
+    <desc lang="en">A charming Spanish doctor and a compassionate relief worker must balance their new love for each other with their passion for the work they are doing.</desc>
   </programme>
-  <programme start="20260913222700 +0200" stop="20260914000400 +0200" channel="starz-stz5">
-    <title lang="en">Lords Of London</title>
-    <desc lang="en">A notorious London gangster is forced to ponder his criminal past after he mysteriously awakes in 1950s Italy.</desc>
+  <programme start="20260914204200 +0200" stop="20260914221900 +0200" channel="starz-stz3">
+    <title lang="en">Liberty Stands Still</title>
+    <desc lang="en">A beautiful gun-manufacturing heiress becomes embroiled in a vengeful sniper's plan that makes her question everything she believes in.</desc>
   </programme>
-  <programme start="20260914000400 +0200" stop="20260914014100 +0200" channel="starz-stz5">
-    <title lang="en">Don Verdean</title>
-    <desc lang="en">A self-proclaimed biblical archaeologist is hired to find sacred relics and scrambles to cover up his failure.</desc>
+  <programme start="20260914221900 +0200" stop="20260914231000 +0200" channel="starz-stz3">
+    <title lang="en">S1 E7 - Without Me, There Is No You</title>
+    <desc lang="en">With time running out, Duke closes in on his target. But an unexpected countermove leaves him staring down the barrel of defeat.</desc>
   </programme>
-  <programme start="20260914014100 +0200" stop="20260914040000 +0200" channel="starz-stz5">
-    <title lang="en">Shutter Island</title>
-    <desc lang="en">When U.S. Marshal Teddy Daniels arrives at the asylum for the criminally insane on Shutter Island, he uncovers terrifying truths about the island.</desc>
+  <programme start="20260914231000 +0200" stop="20260915004400 +0200" channel="starz-stz3">
+    <title lang="en">Krystal</title>
+    <desc lang="en">Taylor falls for Krystal, an ex-addict. Pretending to be in AA, he faces secrets and family drama as love teaches him to live without fear.</desc>
+  </programme>
+  <programme start="20260915004400 +0200" stop="20260915025600 +0200" channel="starz-stz3">
+    <title lang="en">The Last Face</title>
+    <desc lang="en">A charming Spanish doctor and a compassionate relief worker must balance their new love for each other with their passion for the work they are doing.</desc>
+  </programme>
+  <programme start="20260915025600 +0200" stop="20260915043700 +0200" channel="starz-stz3">
+    <title lang="en">A Low Down Dirty Shame</title>
+    <desc lang="en">A former Los Angeles policeman helps a DEA agent on a case similar to the one that ended his career.</desc>
+  </programme>
+  <programme start="20260915043700 +0200" stop="20260915052800 +0200" channel="starz-stz3">
+    <title lang="en">S1 E7 - Without Me, There Is No You</title>
+    <desc lang="en">With time running out, Duke closes in on his target. But an unexpected countermove leaves him staring down the barrel of defeat.</desc>
+  </programme>
+  <programme start="20260915052800 +0200" stop="20260915072300 +0200" channel="starz-stz3">
+    <title lang="en">Fresh</title>
+    <desc lang="en">Street-smart Fresh uses his wits to stay ahead of local criminals and fight for a better life.</desc>
   </programme>
   <programme start="20260914040000 +0200" stop="20260914064700 +0200" channel="starz-stz5">
     <title lang="en">Gangs of New York</title>
     <desc lang="en">A young man seeks revenge against the larger-than-life strongman who killed his father in the brutal, gang-dominated New York City of the 1840s.</desc>
   </programme>
-  <programme start="20260913045400 +0200" stop="20260913063500 +0200" channel="starz-stz6">
-    <title lang="en">In The Grey</title>
-    <desc lang="en">A covert team is sent to recover a billion-dollar fortune, but the mission spirals into a high-stakes battle of strategy, deception, and survival.</desc>
+  <programme start="20260914064700 +0200" stop="20260914081700 +0200" channel="starz-stz5">
+    <title lang="en">Body Count</title>
+    <desc lang="en">The seemingly idyllic Simpson family gathers for Thanksgiving, but when a pack of killers shows up, their bickering takes a back seat.</desc>
   </programme>
-  <programme start="20260913063500 +0200" stop="20260913072700 +0200" channel="starz-stz6">
-    <title lang="en">S1 E7 - Without Me, There Is No You</title>
-    <desc lang="en">With time running out, Duke closes in on his target. But an unexpected countermove leaves him staring down the barrel of defeat.</desc>
+  <programme start="20260914081700 +0200" stop="20260914094900 +0200" channel="starz-stz5">
+    <title lang="en">Sucker Punch</title>
+    <desc lang="en">Buchinsky seeks revenge on the fighter who knocked him out. When they go toe to toe, he'll make sure his fists do the talking.</desc>
   </programme>
-  <programme start="20260913072700 +0200" stop="20260913090800 +0200" channel="starz-stz6">
-    <title lang="en">All About the Benjamins</title>
-    <desc lang="en">A bounty hunter chasing a fast-talking con man uncovers a criminal plot tied to a fortune worth millions, forcing the pair to work together.</desc>
+  <programme start="20260914094900 +0200" stop="20260914113000 +0200" channel="starz-stz5">
+    <title lang="en">Nothing Left To Fear</title>
+    <desc lang="en">Wendy and Dan move to Kansas to replace a pastor, unaware their home is a gateway to Hell. A charismatic, conflicted preacher derails their new life.</desc>
   </programme>
-  <programme start="20260913090800 +0200" stop="20260913100200 +0200" channel="starz-stz6">
-    <title lang="en">S1 E7 - Without Me, There Is No You</title>
-    <desc lang="en">With time running out, Duke closes in on his target. But an unexpected countermove leaves him staring down the barrel of defeat.</desc>
+  <programme start="20260914113000 +0200" stop="20260914125600 +0200" channel="starz-stz5">
+    <title lang="en">Hi-Life</title>
+    <desc lang="en">Jimmy is in a bind, needing $900 to settle a gambling debt. His web of lies results in Ray attempting to gather the money from friends who owe him.</desc>
   </programme>
-  <programme start="20260913100200 +0200" stop="20260913120100 +0200" channel="starz-stz6">
-    <title lang="en">The Devil You Know</title>
-    <desc lang="en">After a lifetime of trouble, a man has the chance to turn things around. He finds himself spiraling back into the dark place he overcame.</desc>
+  <programme start="20260914125600 +0200" stop="20260914145300 +0200" channel="starz-stz5">
+    <title lang="en">Words And Pictures</title>
+    <desc lang="en">Two teachers form a rivalry that ends up with a competition at their school in which students decide whether words or pictures are more important.</desc>
   </programme>
-  <programme start="20260913120100 +0200" stop="20260913140000 +0200" channel="starz-stz6">
-    <title lang="en">The Bourne Ultimatum</title>
-    <desc lang="en">Jason Bourne evades a relentless C.I.A. official from a new assassination program as he seeks to uncover the origins of his life as a trained killer.</desc>
+  <programme start="20260914145300 +0200" stop="20260914163700 +0200" channel="starz-stz5">
+    <title lang="en">Love, Rosie</title>
+    <desc lang="en">Rosie and Alex have been best friends since they were 5, so they couldn't possibly be right for one another... or could they?</desc>
   </programme>
-  <programme start="20260913140000 +0200" stop="20260913154100 +0200" channel="starz-stz6">
-    <title lang="en">In The Grey</title>
-    <desc lang="en">A covert team is sent to recover a billion-dollar fortune, but the mission spirals into a high-stakes battle of strategy, deception, and survival.</desc>
+  <programme start="20260914163700 +0200" stop="20260914180900 +0200" channel="starz-stz5">
+    <title lang="en">Sucker Punch</title>
+    <desc lang="en">Buchinsky seeks revenge on the fighter who knocked him out. When they go toe to toe, he'll make sure his fists do the talking.</desc>
   </programme>
-  <programme start="20260913154100 +0200" stop="20260913163500 +0200" channel="starz-stz6">
-    <title lang="en">S1 E7 - Without Me, There Is No You</title>
-    <desc lang="en">With time running out, Duke closes in on his target. But an unexpected countermove leaves him staring down the barrel of defeat.</desc>
+  <programme start="20260914180900 +0200" stop="20260914194200 +0200" channel="starz-stz5">
+    <title lang="en">Singing In My Sleep</title>
+    <desc lang="en">A talented teen songwriter grapples with her late father's musical legacy, confronting his absence as the 20th anniversary of his debut album looms.</desc>
   </programme>
-  <programme start="20260913163500 +0200" stop="20260913183700 +0200" channel="starz-stz6">
-    <title lang="en">The Bourne Identity</title>
-    <desc lang="en">A man who cannot remember his past but is highly skilled in self-defense attempts to discover his identity while assailants try to kill him.</desc>
+  <programme start="20260914194200 +0200" stop="20260914211600 +0200" channel="starz-stz5">
+    <title lang="en">The Benefactor</title>
+    <desc lang="en">Consumed by guilt over the accidental death of a couple, an eccentric Philadelphia philanthropist provides financial assistance to their daughter.</desc>
   </programme>
-  <programme start="20260913183700 +0200" stop="20260913202900 +0200" channel="starz-stz6">
-    <title lang="en">The Bourne Supremacy</title>
-    <desc lang="en">Former assassin Jason Bourne is blamed for a murder committed in a failed CIA undercover operation and must go on the run to save his life.</desc>
+  <programme start="20260914211600 +0200" stop="20260914224800 +0200" channel="starz-stz5">
+    <title lang="en">Jack Goes Boating</title>
+    <desc lang="en">A blind date for a limo driver unfolds into a story of romance, betrayal, and friendship among two working-class couples in New York City.</desc>
   </programme>
-  <programme start="20260913202900 +0200" stop="20260913222800 +0200" channel="starz-stz6">
-    <title lang="en">The Bourne Ultimatum</title>
-    <desc lang="en">Jason Bourne evades a relentless C.I.A. official from a new assassination program as he seeks to uncover the origins of his life as a trained killer.</desc>
+  <programme start="20260914224800 +0200" stop="20260915004500 +0200" channel="starz-stz5">
+    <title lang="en">Words And Pictures</title>
+    <desc lang="en">Two teachers form a rivalry that ends up with a competition at their school in which students decide whether words or pictures are more important.</desc>
   </programme>
-  <programme start="20260913222800 +0200" stop="20260913232000 +0200" channel="starz-stz6">
-    <title lang="en">S1 E7 - Without Me, There Is No You</title>
-    <desc lang="en">With time running out, Duke closes in on his target. But an unexpected countermove leaves him staring down the barrel of defeat.</desc>
+  <programme start="20260915004500 +0200" stop="20260915022600 +0200" channel="starz-stz5">
+    <title lang="en">Nothing Left To Fear</title>
+    <desc lang="en">Wendy and Dan move to Kansas to replace a pastor, unaware their home is a gateway to Hell. A charismatic, conflicted preacher derails their new life.</desc>
   </programme>
-  <programme start="20260913232000 +0200" stop="20260914010000 +0200" channel="starz-stz6">
-    <title lang="en">In The Grey</title>
-    <desc lang="en">A covert team is sent to recover a billion-dollar fortune, but the mission spirals into a high-stakes battle of strategy, deception, and survival.</desc>
+  <programme start="20260915022600 +0200" stop="20260915040000 +0200" channel="starz-stz5">
+    <title lang="en">The Benefactor</title>
+    <desc lang="en">Consumed by guilt over the accidental death of a couple, an eccentric Philadelphia philanthropist provides financial assistance to their daughter.</desc>
   </programme>
-  <programme start="20260914010000 +0200" stop="20260914030500 +0200" channel="starz-stz6">
-    <title lang="en">Southpaw</title>
-    <desc lang="en">After losing everything to a senseless tragedy, a boxer turns to a retired fighter for guidance as he struggles toward redemption.</desc>
+  <programme start="20260915040000 +0200" stop="20260915054400 +0200" channel="starz-stz5">
+    <title lang="en">Love, Rosie</title>
+    <desc lang="en">Rosie and Alex have been best friends since they were 5, so they couldn't possibly be right for one another... or could they?</desc>
   </programme>
-  <programme start="20260914030500 +0200" stop="20260914040000 +0200" channel="starz-stz6">
-    <title lang="en">S1 E7 - Without Me, There Is No You</title>
-    <desc lang="en">With time running out, Duke closes in on his target. But an unexpected countermove leaves him staring down the barrel of defeat.</desc>
-  </programme>
-  <programme start="20260914040000 +0200" stop="20260914045500 +0200" channel="starz-stz6">
-    <title lang="en">S1 E7 - Without Me, There Is No You</title>
-    <desc lang="en">With time running out, Duke closes in on his target. But an unexpected countermove leaves him staring down the barrel of defeat.</desc>
-  </programme>
-  <programme start="20260914045500 +0200" stop="20260914055000 +0200" channel="starz-stz6">
-    <title lang="en">S1 E7 - Without Me, There Is No You</title>
-    <desc lang="en">With time running out, Duke closes in on his target. But an unexpected countermove leaves him staring down the barrel of defeat.</desc>
+  <programme start="20260915054400 +0200" stop="20260915071600 +0200" channel="starz-stz5">
+    <title lang="en">Jack Goes Boating</title>
+    <desc lang="en">A blind date for a limo driver unfolds into a story of romance, betrayal, and friendship among two working-class couples in New York City.</desc>
   </programme>
   <programme start="20260914055000 +0200" stop="20260914072200 +0200" channel="starz-stz6">
     <title lang="en">Scary Movie</title>
     <desc lang="en">Cindy and her friends are stalked by a masked killer in a ridiculous slasher spoof full of twists, scares and terrible choices.</desc>
+  </programme>
+  <programme start="20260914072200 +0200" stop="20260914081700 +0200" channel="starz-stz6">
+    <title lang="en">S1 E7 - Without Me, There Is No You</title>
+    <desc lang="en">With time running out, Duke closes in on his target. But an unexpected countermove leaves him staring down the barrel of defeat.</desc>
+  </programme>
+  <programme start="20260914081700 +0200" stop="20260914102000 +0200" channel="starz-stz6">
+    <title lang="en">Hustle &amp; Flow</title>
+    <desc lang="en">DJay, a Memphis pimp, finds new purpose in rap. With a superstar in town, he hustles to turn street life into music, and a shot at something bigger.</desc>
+  </programme>
+  <programme start="20260914102000 +0200" stop="20260914111600 +0200" channel="starz-stz6">
+    <title lang="en">S1 E7 - Without Me, There Is No You</title>
+    <desc lang="en">With time running out, Duke closes in on his target. But an unexpected countermove leaves him staring down the barrel of defeat.</desc>
+  </programme>
+  <programme start="20260914111600 +0200" stop="20260914130000 +0200" channel="starz-stz6">
+    <title lang="en">A Low Down Dirty Shame</title>
+    <desc lang="en">A former Los Angeles policeman helps a DEA agent on a case similar to the one that ended his career.</desc>
+  </programme>
+  <programme start="20260914130000 +0200" stop="20260914150000 +0200" channel="starz-stz6">
+    <title lang="en">The Bourne Identity</title>
+    <desc lang="en">A man who cannot remember his past but is highly skilled in self-defense attempts to discover his identity while assailants try to kill him.</desc>
+  </programme>
+  <programme start="20260914150000 +0200" stop="20260914165000 +0200" channel="starz-stz6">
+    <title lang="en">The Bourne Supremacy</title>
+    <desc lang="en">Former assassin Jason Bourne is blamed for a murder committed in a failed CIA undercover operation and must go on the run to save his life.</desc>
+  </programme>
+  <programme start="20260914165000 +0200" stop="20260914184000 +0200" channel="starz-stz6">
+    <title lang="en">Underworld: Evolution</title>
+    <desc lang="en">The war between the Death Dealers and Lycans continues as Selene and her werewolf lover go searching for their future by seeking their past.</desc>
+  </programme>
+  <programme start="20260914184000 +0200" stop="20260914201600 +0200" channel="starz-stz6">
+    <title lang="en">Underworld: Rise Of The Lycans</title>
+    <desc lang="en">A thousand years ago, the Death Dealer vampires enslaved the werewolf Lycans - but they broke free and began a battle that has lasted centuries!</desc>
+  </programme>
+  <programme start="20260914201600 +0200" stop="20260914215500 +0200" channel="starz-stz6">
+    <title lang="en">Turbulence</title>
+    <desc lang="en">A hot air balloon ride takes an unexpected turn when a third passenger joins, sparking events they never imagined five thousand meters in the air.</desc>
+  </programme>
+  <programme start="20260914215500 +0200" stop="20260914235500 +0200" channel="starz-stz6">
+    <title lang="en">The Devil You Know</title>
+    <desc lang="en">After a lifetime of trouble, a man has the chance to turn things around. He finds himself spiraling back into the dark place he overcame.</desc>
+  </programme>
+  <programme start="20260914235500 +0200" stop="20260915020500 +0200" channel="starz-stz6">
+    <title lang="en">Michael</title>
+    <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
+  </programme>
+  <programme start="20260915020500 +0200" stop="20260915030000 +0200" channel="starz-stz6">
+    <title lang="en">S1 E7 - Without Me, There Is No You</title>
+    <desc lang="en">With time running out, Duke closes in on his target. But an unexpected countermove leaves him staring down the barrel of defeat.</desc>
+  </programme>
+  <programme start="20260915030000 +0200" stop="20260915044100 +0200" channel="starz-stz6">
+    <title lang="en">In The Grey</title>
+    <desc lang="en">A covert team is sent to recover a billion-dollar fortune, but the mission spirals into a high-stakes battle of strategy, deception, and survival.</desc>
+  </programme>
+  <programme start="20260915044100 +0200" stop="20260915064100 +0200" channel="starz-stz6">
+    <title lang="en">Hustle &amp; Flow</title>
+    <desc lang="en">DJay, a Memphis pimp, finds new purpose in rap. With a superstar in town, he hustles to turn street life into music, and a shot at something bigger.</desc>
   </programme>
   <programme start="20260913052800 +0200" stop="20260913070000 +0200" channel="starz-stz7">
     <title lang="en">The Future</title>
@@ -333,132 +329,132 @@
     <title lang="en">Trouble Man</title>
     <desc lang="en">A PI gets hired to find a missing R&amp;B star and accidentally uncovers a larger conspiracy, forcing him to question those around him and his own past.</desc>
   </programme>
-  <programme start="20260913045400 +0200" stop="20260913063900 +0200" channel="starz-stz8">
-    <title lang="en">The Rundown</title>
-    <desc lang="en">A mob boss's &quot;retrieval expert&quot; is sent to the Amazon to retrieve the boss's son, who is currently looking for a priceless treasure.</desc>
-  </programme>
-  <programme start="20260913063900 +0200" stop="20260913082700 +0200" channel="starz-stz8">
-    <title lang="en">Underworld: Evolution</title>
-    <desc lang="en">The war between the Death Dealers and Lycans continues as Selene and her werewolf lover go searching for their future by seeking their past.</desc>
-  </programme>
-  <programme start="20260913082700 +0200" stop="20260913100400 +0200" channel="starz-stz8">
-    <title lang="en">Turbulence</title>
-    <desc lang="en">A hot air balloon ride takes an unexpected turn when a third passenger joins, sparking events they never imagined five thousand meters in the air.</desc>
-  </programme>
-  <programme start="20260913100400 +0200" stop="20260913113200 +0200" channel="starz-stz8">
-    <title lang="en">Bad Karma</title>
-    <desc lang="en">Jack gives up a life of crime after a near-death experience. When his old partner is paroled, he tracks Jack down to blackmail him into one last job.</desc>
-  </programme>
-  <programme start="20260913113200 +0200" stop="20260913131900 +0200" channel="starz-stz8">
-    <title lang="en">Big Eyes</title>
-    <desc lang="en">Artist Margaret Keane struggles to step out of her controlling husband's shadow as he passes off her uniquely mesmerizing paintings as his own.</desc>
-  </programme>
-  <programme start="20260913131900 +0200" stop="20260913153300 +0200" channel="starz-stz8">
-    <title lang="en">The Hate U Give</title>
-    <desc lang="en">After seeing her friend fatally shot by a police officer, a teen must find the courage to speak out and fight for justice for her community.</desc>
-  </programme>
-  <programme start="20260913153300 +0200" stop="20260913170900 +0200" channel="starz-stz8">
-    <title lang="en">The Big Empty</title>
-    <desc lang="en">John is an actor with little work and no money who finds himself with an opportunity to make some quick cash by delivering a mysterious suitcase.</desc>
-  </programme>
-  <programme start="20260913170900 +0200" stop="20260913191300 +0200" channel="starz-stz8">
-    <title lang="en">Warcraft</title>
-    <desc lang="en">A king, a mighty warrior, and a powerful wizard unite to defend the human realm of Azeroth from a tyrannical shaman and his invading army of orcs.</desc>
-  </programme>
-  <programme start="20260913191300 +0200" stop="20260913210500 +0200" channel="starz-stz8">
-    <title lang="en">The Italian Job</title>
-    <desc lang="en">Betrayed after a perfect heist, Charlie Croker teams with a safecracker to steal the loot back, sparking a high‑speed chase through Los Angeles.</desc>
-  </programme>
-  <programme start="20260913210500 +0200" stop="20260913224200 +0200" channel="starz-stz8">
-    <title lang="en">Border Run</title>
-    <desc lang="en">An American reporter searches for her missing brother, where she encounters human smuggling across the U.S.-Mexico border. Inspired by true events.</desc>
-  </programme>
-  <programme start="20260913224200 +0200" stop="20260914005600 +0200" channel="starz-stz8">
-    <title lang="en">The Hate U Give</title>
-    <desc lang="en">After seeing her friend fatally shot by a police officer, a teen must find the courage to speak out and fight for justice for her community.</desc>
-  </programme>
-  <programme start="20260914005600 +0200" stop="20260914030000 +0200" channel="starz-stz8">
-    <title lang="en">Warcraft</title>
-    <desc lang="en">A king, a mighty warrior, and a powerful wizard unite to defend the human realm of Azeroth from a tyrannical shaman and his invading army of orcs.</desc>
-  </programme>
-  <programme start="20260914030000 +0200" stop="20260914044200 +0200" channel="starz-stz8">
-    <title lang="en">Never Let Go</title>
-    <desc lang="en">When an unspeakable evil takes over the world, a mother and her twin sons must fight for survival.</desc>
-  </programme>
   <programme start="20260914044200 +0200" stop="20260914063400 +0200" channel="starz-stz8">
     <title lang="en">The Italian Job</title>
     <desc lang="en">Betrayed after a perfect heist, Charlie Croker teams with a safecracker to steal the loot back, sparking a high‑speed chase through Los Angeles.</desc>
   </programme>
-  <programme start="20260913045400 +0200" stop="20260913063500 +0200" channel="starz-stz9">
-    <title lang="en">In The Grey</title>
-    <desc lang="en">A covert team is sent to recover a billion-dollar fortune, but the mission spirals into a high-stakes battle of strategy, deception, and survival.</desc>
+  <programme start="20260914063400 +0200" stop="20260914080000 +0200" channel="starz-stz8">
+    <title lang="en">Alpha Alert</title>
+    <desc lang="en">Trapped by a dirty bomb, three soldiers fight to survive. When one escapes, she uncovers a deadly conspiracy where nothing is what it seems.</desc>
   </programme>
-  <programme start="20260913063500 +0200" stop="20260913072700 +0200" channel="starz-stz9">
+  <programme start="20260914080000 +0200" stop="20260914092100 +0200" channel="starz-stz8">
+    <title lang="en">Dashcam</title>
+    <desc lang="en">Annie and Stretch livestream a chaotic road trip that turns into a supernatural nightmare when a strange job puts their lives at risk.</desc>
+  </programme>
+  <programme start="20260914092100 +0200" stop="20260914110300 +0200" channel="starz-stz8">
+    <title lang="en">Bad Kids Of Crestview Academy</title>
+    <desc lang="en">Five high school students get Saturday detention. When hit by a computer virus, the school goes on lockdown and killing ensues.</desc>
+  </programme>
+  <programme start="20260914110300 +0200" stop="20260914125800 +0200" channel="starz-stz8">
+    <title lang="en">Beast</title>
+    <desc lang="en">When his brother is at risk, a former MMA champ steps back into the ring for a final battle against a fierce reigning champion.</desc>
+  </programme>
+  <programme start="20260914125800 +0200" stop="20260914143000 +0200" channel="starz-stz8">
+    <title lang="en">The Future</title>
+    <desc lang="en">After deciding to adopt a stray cat, a couple’s reality begins to shift, altering time, space, and their understanding of life together.</desc>
+  </programme>
+  <programme start="20260914143000 +0200" stop="20260914161100 +0200" channel="starz-stz8">
+    <title lang="en">Death Race 2</title>
+    <desc lang="en">Convicted of killing a cop, an inmate competes in a brutal race where cars are used as deadly weapons.</desc>
+  </programme>
+  <programme start="20260914161100 +0200" stop="20260914180700 +0200" channel="starz-stz8">
+    <title lang="en">Jungle</title>
+    <desc lang="en">An adventurous journey into the Amazon turns deadly when a guide’s dark past and the dangers of the wilderness push a group into a fight for survival.</desc>
+  </programme>
+  <programme start="20260914180700 +0200" stop="20260914185800 +0200" channel="starz-stz8">
     <title lang="en">S1 E7 - Without Me, There Is No You</title>
     <desc lang="en">With time running out, Duke closes in on his target. But an unexpected countermove leaves him staring down the barrel of defeat.</desc>
   </programme>
-  <programme start="20260913072700 +0200" stop="20260913090800 +0200" channel="starz-stz9">
-    <title lang="en">All About the Benjamins</title>
-    <desc lang="en">A bounty hunter chasing a fast-talking con man uncovers a criminal plot tied to a fortune worth millions, forcing the pair to work together.</desc>
+  <programme start="20260914185800 +0200" stop="20260914205500 +0200" channel="starz-stz8">
+    <title lang="en">Black Snake Moan</title>
+    <desc lang="en">When ex-bluesman Lazarus finds the town nymphomaniac Rae on the side of the road, he vows to nurse her back to health… and cure her of her wickedness.</desc>
   </programme>
-  <programme start="20260913090800 +0200" stop="20260913100200 +0200" channel="starz-stz9">
+  <programme start="20260914205500 +0200" stop="20260914223100 +0200" channel="starz-stz8">
+    <title lang="en">London Heist</title>
+    <desc lang="en">Following a heist in London, Jack's father is killed, and the stolen money disappears. Driven by vengeance, Jack sets out to uncover the truth.</desc>
+  </programme>
+  <programme start="20260914223100 +0200" stop="20260915002700 +0200" channel="starz-stz8">
+    <title lang="en">Jungle</title>
+    <desc lang="en">An adventurous journey into the Amazon turns deadly when a guide’s dark past and the dangers of the wilderness push a group into a fight for survival.</desc>
+  </programme>
+  <programme start="20260915002700 +0200" stop="20260915020900 +0200" channel="starz-stz8">
+    <title lang="en">Never Let Go</title>
+    <desc lang="en">When an unspeakable evil takes over the world, a mother and her twin sons must fight for survival.</desc>
+  </programme>
+  <programme start="20260915020900 +0200" stop="20260915030000 +0200" channel="starz-stz8">
     <title lang="en">S1 E7 - Without Me, There Is No You</title>
     <desc lang="en">With time running out, Duke closes in on his target. But an unexpected countermove leaves him staring down the barrel of defeat.</desc>
   </programme>
-  <programme start="20260913100200 +0200" stop="20260913120100 +0200" channel="starz-stz9">
-    <title lang="en">The Devil You Know</title>
-    <desc lang="en">After a lifetime of trouble, a man has the chance to turn things around. He finds himself spiraling back into the dark place he overcame.</desc>
+  <programme start="20260915030000 +0200" stop="20260915042000 +0200" channel="starz-stz8">
+    <title lang="en">S1 E1 - Providence</title>
+    <desc lang="en">At the Gathering, Brian Fraser and Ellen MacKenzie meet for the first time and are struck by their strong connection.</desc>
   </programme>
-  <programme start="20260913120100 +0200" stop="20260913140000 +0200" channel="starz-stz9">
-    <title lang="en">The Bourne Ultimatum</title>
-    <desc lang="en">Jason Bourne evades a relentless C.I.A. official from a new assassination program as he seeks to uncover the origins of his life as a trained killer.</desc>
+  <programme start="20260915042000 +0200" stop="20260915052000 +0200" channel="starz-stz8">
+    <title lang="en">S1 E2 - S.W.A.K. (Sealed With A Kiss)</title>
+    <desc lang="en">While Henry fights in WWI and Julia works in the censorship office in London, their love story unfolds through the letters they write to each other.</desc>
   </programme>
-  <programme start="20260913140000 +0200" stop="20260913154100 +0200" channel="starz-stz9">
-    <title lang="en">In The Grey</title>
-    <desc lang="en">A covert team is sent to recover a billion-dollar fortune, but the mission spirals into a high-stakes battle of strategy, deception, and survival.</desc>
-  </programme>
-  <programme start="20260913154100 +0200" stop="20260913163500 +0200" channel="starz-stz9">
-    <title lang="en">S1 E7 - Without Me, There Is No You</title>
-    <desc lang="en">With time running out, Duke closes in on his target. But an unexpected countermove leaves him staring down the barrel of defeat.</desc>
-  </programme>
-  <programme start="20260913163500 +0200" stop="20260913183700 +0200" channel="starz-stz9">
-    <title lang="en">The Bourne Identity</title>
-    <desc lang="en">A man who cannot remember his past but is highly skilled in self-defense attempts to discover his identity while assailants try to kill him.</desc>
-  </programme>
-  <programme start="20260913183700 +0200" stop="20260913202900 +0200" channel="starz-stz9">
-    <title lang="en">The Bourne Supremacy</title>
-    <desc lang="en">Former assassin Jason Bourne is blamed for a murder committed in a failed CIA undercover operation and must go on the run to save his life.</desc>
-  </programme>
-  <programme start="20260913202900 +0200" stop="20260913222800 +0200" channel="starz-stz9">
-    <title lang="en">The Bourne Ultimatum</title>
-    <desc lang="en">Jason Bourne evades a relentless C.I.A. official from a new assassination program as he seeks to uncover the origins of his life as a trained killer.</desc>
-  </programme>
-  <programme start="20260913222800 +0200" stop="20260913232000 +0200" channel="starz-stz9">
-    <title lang="en">S1 E7 - Without Me, There Is No You</title>
-    <desc lang="en">With time running out, Duke closes in on his target. But an unexpected countermove leaves him staring down the barrel of defeat.</desc>
-  </programme>
-  <programme start="20260913232000 +0200" stop="20260914010000 +0200" channel="starz-stz9">
-    <title lang="en">In The Grey</title>
-    <desc lang="en">A covert team is sent to recover a billion-dollar fortune, but the mission spirals into a high-stakes battle of strategy, deception, and survival.</desc>
-  </programme>
-  <programme start="20260914010000 +0200" stop="20260914030500 +0200" channel="starz-stz9">
-    <title lang="en">Southpaw</title>
-    <desc lang="en">After losing everything to a senseless tragedy, a boxer turns to a retired fighter for guidance as he struggles toward redemption.</desc>
-  </programme>
-  <programme start="20260914030500 +0200" stop="20260914040000 +0200" channel="starz-stz9">
-    <title lang="en">S1 E7 - Without Me, There Is No You</title>
-    <desc lang="en">With time running out, Duke closes in on his target. But an unexpected countermove leaves him staring down the barrel of defeat.</desc>
-  </programme>
-  <programme start="20260914040000 +0200" stop="20260914045500 +0200" channel="starz-stz9">
-    <title lang="en">S1 E7 - Without Me, There Is No You</title>
-    <desc lang="en">With time running out, Duke closes in on his target. But an unexpected countermove leaves him staring down the barrel of defeat.</desc>
-  </programme>
-  <programme start="20260914045500 +0200" stop="20260914055000 +0200" channel="starz-stz9">
-    <title lang="en">S1 E7 - Without Me, There Is No You</title>
-    <desc lang="en">With time running out, Duke closes in on his target. But an unexpected countermove leaves him staring down the barrel of defeat.</desc>
+  <programme start="20260915052000 +0200" stop="20260915062100 +0200" channel="starz-stz8">
+    <title lang="en">S1 E3 - School of the Moon</title>
+    <desc lang="en">Ellen hatches a new plan to protect herself and her family. Julia is forced to make an impossible choice.</desc>
   </programme>
   <programme start="20260914055000 +0200" stop="20260914072200 +0200" channel="starz-stz9">
     <title lang="en">Scary Movie</title>
     <desc lang="en">Cindy and her friends are stalked by a masked killer in a ridiculous slasher spoof full of twists, scares and terrible choices.</desc>
+  </programme>
+  <programme start="20260914072200 +0200" stop="20260914081700 +0200" channel="starz-stz9">
+    <title lang="en">S1 E7 - Without Me, There Is No You</title>
+    <desc lang="en">With time running out, Duke closes in on his target. But an unexpected countermove leaves him staring down the barrel of defeat.</desc>
+  </programme>
+  <programme start="20260914081700 +0200" stop="20260914102000 +0200" channel="starz-stz9">
+    <title lang="en">Hustle &amp; Flow</title>
+    <desc lang="en">DJay, a Memphis pimp, finds new purpose in rap. With a superstar in town, he hustles to turn street life into music, and a shot at something bigger.</desc>
+  </programme>
+  <programme start="20260914102000 +0200" stop="20260914111600 +0200" channel="starz-stz9">
+    <title lang="en">S1 E7 - Without Me, There Is No You</title>
+    <desc lang="en">With time running out, Duke closes in on his target. But an unexpected countermove leaves him staring down the barrel of defeat.</desc>
+  </programme>
+  <programme start="20260914111600 +0200" stop="20260914130000 +0200" channel="starz-stz9">
+    <title lang="en">A Low Down Dirty Shame</title>
+    <desc lang="en">A former Los Angeles policeman helps a DEA agent on a case similar to the one that ended his career.</desc>
+  </programme>
+  <programme start="20260914130000 +0200" stop="20260914150000 +0200" channel="starz-stz9">
+    <title lang="en">The Bourne Identity</title>
+    <desc lang="en">A man who cannot remember his past but is highly skilled in self-defense attempts to discover his identity while assailants try to kill him.</desc>
+  </programme>
+  <programme start="20260914150000 +0200" stop="20260914165000 +0200" channel="starz-stz9">
+    <title lang="en">The Bourne Supremacy</title>
+    <desc lang="en">Former assassin Jason Bourne is blamed for a murder committed in a failed CIA undercover operation and must go on the run to save his life.</desc>
+  </programme>
+  <programme start="20260914165000 +0200" stop="20260914184000 +0200" channel="starz-stz9">
+    <title lang="en">Underworld: Evolution</title>
+    <desc lang="en">The war between the Death Dealers and Lycans continues as Selene and her werewolf lover go searching for their future by seeking their past.</desc>
+  </programme>
+  <programme start="20260914184000 +0200" stop="20260914201600 +0200" channel="starz-stz9">
+    <title lang="en">Underworld: Rise Of The Lycans</title>
+    <desc lang="en">A thousand years ago, the Death Dealer vampires enslaved the werewolf Lycans - but they broke free and began a battle that has lasted centuries!</desc>
+  </programme>
+  <programme start="20260914201600 +0200" stop="20260914215500 +0200" channel="starz-stz9">
+    <title lang="en">Turbulence</title>
+    <desc lang="en">A hot air balloon ride takes an unexpected turn when a third passenger joins, sparking events they never imagined five thousand meters in the air.</desc>
+  </programme>
+  <programme start="20260914215500 +0200" stop="20260914235500 +0200" channel="starz-stz9">
+    <title lang="en">The Devil You Know</title>
+    <desc lang="en">After a lifetime of trouble, a man has the chance to turn things around. He finds himself spiraling back into the dark place he overcame.</desc>
+  </programme>
+  <programme start="20260914235500 +0200" stop="20260915020500 +0200" channel="starz-stz9">
+    <title lang="en">Michael</title>
+    <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
+  </programme>
+  <programme start="20260915020500 +0200" stop="20260915030000 +0200" channel="starz-stz9">
+    <title lang="en">S1 E7 - Without Me, There Is No You</title>
+    <desc lang="en">With time running out, Duke closes in on his target. But an unexpected countermove leaves him staring down the barrel of defeat.</desc>
+  </programme>
+  <programme start="20260915030000 +0200" stop="20260915044100 +0200" channel="starz-stz9">
+    <title lang="en">In The Grey</title>
+    <desc lang="en">A covert team is sent to recover a billion-dollar fortune, but the mission spirals into a high-stakes battle of strategy, deception, and survival.</desc>
+  </programme>
+  <programme start="20260915044100 +0200" stop="20260915064100 +0200" channel="starz-stz9">
+    <title lang="en">Hustle &amp; Flow</title>
+    <desc lang="en">DJay, a Memphis pimp, finds new purpose in rap. With a superstar in town, he hustles to turn street life into music, and a shot at something bigger.</desc>
   </programme>
 </tv>
