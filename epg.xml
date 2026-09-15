@@ -265,65 +265,69 @@
     <title lang="en">Scream 2</title>
     <desc lang="en">At college, Sidney Prescott faces a copycat killer reenacting past horrors, trapping her and other survivors in a deadly sequel.</desc>
   </programme>
-  <programme start="20260914055200 +0200" stop="20260914072500 +0200" channel="starz-stz7">
-    <title lang="en">Trouble Man</title>
-    <desc lang="en">A PI gets hired to find a missing R&amp;B star and accidentally uncovers a larger conspiracy, forcing him to question those around him and his own past.</desc>
-  </programme>
-  <programme start="20260914072500 +0200" stop="20260914090900 +0200" channel="starz-stz7">
-    <title lang="en">The Winning Season</title>
-    <desc lang="en">A washed-up coach gets a chance to redeem himself when tasked with leading a high school girls' varsity basketball team.</desc>
-  </programme>
-  <programme start="20260914090900 +0200" stop="20260914103800 +0200" channel="starz-stz7">
-    <title lang="en">30 Beats</title>
-    <desc lang="en">A group of New Yorkers lives intertwine though a series of sexual encounters during a summer heat wave.</desc>
-  </programme>
-  <programme start="20260914103800 +0200" stop="20260914122600 +0200" channel="starz-stz7">
-    <title lang="en">The Wood</title>
-    <desc lang="en">Hours before his wedding, Roland leans on his friends as they revisit growing up in Inglewood, where hard lessons and missteps shaped him.</desc>
-  </programme>
-  <programme start="20260914122600 +0200" stop="20260914141200 +0200" channel="starz-stz7">
-    <title lang="en">Coffee Wars</title>
-    <desc lang="en">A vegan barista competes on a global stage at the World Barista Championship.</desc>
-  </programme>
-  <programme start="20260914141200 +0200" stop="20260914160100 +0200" channel="starz-stz7">
-    <title lang="en">Life</title>
-    <desc lang="en">In Mississippi, two Black men are framed for murder and sentenced to life in prison. They spend the next 60 years planning their big escape.</desc>
-  </programme>
-  <programme start="20260914160100 +0200" stop="20260914174400 +0200" channel="starz-stz7">
-    <title lang="en">Norbit</title>
-    <desc lang="en">Norbit gets a second chance at love with Kate, but his jealous wife Rasputia stands in the way, determined to keep him all to herself.</desc>
-  </programme>
-  <programme start="20260914174400 +0200" stop="20260914192000 +0200" channel="starz-stz7">
-    <title lang="en">The Big Empty</title>
-    <desc lang="en">John is an actor with little work and no money who finds himself with an opportunity to make some quick cash by delivering a mysterious suitcase.</desc>
-  </programme>
-  <programme start="20260914192000 +0200" stop="20260914210500 +0200" channel="starz-stz7">
-    <title lang="en">Deltopia</title>
-    <desc lang="en">A group of friends embarks on a transformative journey as they celebrate their last day of high school.</desc>
-  </programme>
-  <programme start="20260914210500 +0200" stop="20260914223300 +0200" channel="starz-stz7">
-    <title lang="en">Black Sheep</title>
-    <desc lang="en">An experiment in genetic engineering turns harmless sheep into bloodthirsty killers that terrorize a sprawling New Zealand farm.</desc>
-  </programme>
-  <programme start="20260914223300 +0200" stop="20260915002100 +0200" channel="starz-stz7">
-    <title lang="en">The Wood</title>
-    <desc lang="en">Hours before his wedding, Roland leans on his friends as they revisit growing up in Inglewood, where hard lessons and missteps shaped him.</desc>
-  </programme>
-  <programme start="20260915002100 +0200" stop="20260915020000 +0200" channel="starz-stz7">
-    <title lang="en">Ask Me Anything</title>
-    <desc lang="en">A confused teenager writes a blog revealing her daily activities and secrets, advised by her guidance counselor in lieu of her first year in college.</desc>
-  </programme>
-  <programme start="20260915020000 +0200" stop="20260915034300 +0200" channel="starz-stz7">
-    <title lang="en">Norbit</title>
-    <desc lang="en">Norbit gets a second chance at love with Kate, but his jealous wife Rasputia stands in the way, determined to keep him all to herself.</desc>
-  </programme>
-  <programme start="20260915034300 +0200" stop="20260915053200 +0200" channel="starz-stz7">
-    <title lang="en">Life</title>
-    <desc lang="en">In Mississippi, two Black men are framed for murder and sentenced to life in prison. They spend the next 60 years planning their big escape.</desc>
-  </programme>
   <programme start="20260915053200 +0200" stop="20260915072000 +0200" channel="starz-stz7">
     <title lang="en">The Wood</title>
     <desc lang="en">Hours before his wedding, Roland leans on his friends as they revisit growing up in Inglewood, where hard lessons and missteps shaped him.</desc>
+  </programme>
+  <programme start="20260915072000 +0200" stop="20260915085900 +0200" channel="starz-stz7">
+    <title lang="en">Falling Up</title>
+    <desc lang="en">After losing his father, Hank becomes a doorman at a prestigious NYC apartment building, where he develops a connection with one of the residents.</desc>
+  </programme>
+  <programme start="20260915085900 +0200" stop="20260915103100 +0200" channel="starz-stz7">
+    <title lang="en">Date And Switch</title>
+    <desc lang="en">Two high school seniors make a pact to lose their virginity before prom, but their plan takes an unexpected turn when one reveals he’s gay.</desc>
+  </programme>
+  <programme start="20260915103100 +0200" stop="20260915115400 +0200" channel="starz-stz7">
+    <title lang="en">4Play</title>
+    <desc lang="en">Successful Chicago lounge owner Todd dates three women at once, until an unexpected connection between them turns his plan upside down.</desc>
+  </programme>
+  <programme start="20260915115400 +0200" stop="20260915131900 +0200" channel="starz-stz7">
+    <title lang="en">Struck By Lightning</title>
+    <desc lang="en">A high school student recounts his scheme to coerce classmates into contributing to his literary magazine through blackmail.</desc>
+  </programme>
+  <programme start="20260915131900 +0200" stop="20260915144800 +0200" channel="starz-stz7">
+    <title lang="en">Double Take</title>
+    <desc lang="en">An investment banker is on the run to Mexico. But he gets mistaken for a fast-talking con man - who may be a crook, an FBI agent, or an assassin!</desc>
+  </programme>
+  <programme start="20260915144800 +0200" stop="20260915162600 +0200" channel="starz-stz7">
+    <title lang="en">Tales from the Hood</title>
+    <desc lang="en">Three young hustlers, searching for stolen drugs in a mortuary, become enchanted by the supernatural tales told by the undertaker.</desc>
+  </programme>
+  <programme start="20260915162600 +0200" stop="20260915181700 +0200" channel="starz-stz7">
+    <title lang="en">Tales from the Hood 2</title>
+    <desc lang="en">This sequel to the cult classic features a series of bloodcurdling tales about lust, greed, pride and politics.</desc>
+  </programme>
+  <programme start="20260915181700 +0200" stop="20260915200000 +0200" channel="starz-stz7">
+    <title lang="en">Tales from the Hood 3</title>
+    <desc lang="en">Following the franchise's cult classic roots, this new anthology scares and thrills with horrifying twists and social commentary.</desc>
+  </programme>
+  <programme start="20260915200000 +0200" stop="20260915212300 +0200" channel="starz-stz7">
+    <title lang="en">Operation: Endgame</title>
+    <desc lang="en">Two teams of government assassins try to eliminate each other after their boss is killed and their underground headquarters is locked down.</desc>
+  </programme>
+  <programme start="20260915212300 +0200" stop="20260915224500 +0200" channel="starz-stz7">
+    <title lang="en">Casual Encounters</title>
+    <desc lang="en">After a humiliating public breakup, Justin's friends push him into the unfamiliar realm of online dating, hoping to mend his broken heart.</desc>
+  </programme>
+  <programme start="20260915224500 +0200" stop="20260916001000 +0200" channel="starz-stz7">
+    <title lang="en">Struck By Lightning</title>
+    <desc lang="en">A high school student recounts his scheme to coerce classmates into contributing to his literary magazine through blackmail.</desc>
+  </programme>
+  <programme start="20260916001000 +0200" stop="20260916013900 +0200" channel="starz-stz7">
+    <title lang="en">Double Take</title>
+    <desc lang="en">An investment banker is on the run to Mexico. But he gets mistaken for a fast-talking con man - who may be a crook, an FBI agent, or an assassin!</desc>
+  </programme>
+  <programme start="20260916013900 +0200" stop="20260916031700 +0200" channel="starz-stz7">
+    <title lang="en">Tales from the Hood</title>
+    <desc lang="en">Three young hustlers, searching for stolen drugs in a mortuary, become enchanted by the supernatural tales told by the undertaker.</desc>
+  </programme>
+  <programme start="20260916031700 +0200" stop="20260916050800 +0200" channel="starz-stz7">
+    <title lang="en">Tales from the Hood 2</title>
+    <desc lang="en">This sequel to the cult classic features a series of bloodcurdling tales about lust, greed, pride and politics.</desc>
+  </programme>
+  <programme start="20260916050800 +0200" stop="20260916065200 +0200" channel="starz-stz7">
+    <title lang="en">Tales from the Hood 3</title>
+    <desc lang="en">Following the franchise's cult classic roots, this new anthology scares and thrills with horrifying twists and social commentary.</desc>
   </programme>
   <programme start="20260915052000 +0200" stop="20260915062100 +0200" channel="starz-stz8">
     <title lang="en">S1 E3 - School of the Moon</title>
