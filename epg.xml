@@ -85,73 +85,69 @@
     <title lang="en">S2 E1 - Remembrance Day</title>
     <desc lang="en">The fiery crosses have been lit across the Highlands. The call to arms brings friends and enemies home and the Jacobite Rebellion begins in earnest.</desc>
   </programme>
-  <programme start="20260917051000 +0200" stop="20260917062600 +0200" channel="starz-stz3">
-    <title lang="en">Nas: Time Is Illmatic</title>
-    <desc lang="en">A portrait of Nas and the making of &quot;Illmatic,&quot; showing how life in Queensbridge shaped one of hip‑hop’s most influential albums.</desc>
-  </programme>
-  <programme start="20260917062600 +0200" stop="20260917084800 +0200" channel="starz-stz3">
-    <title lang="en">Avengers: Age Of Ultron</title>
-    <desc lang="en">From Marvel Studios: An A.I. known as Ultron has the promise to bring world peace. But when Ultron turns against humanity, The Avengers must assemble.</desc>
-  </programme>
-  <programme start="20260917084800 +0200" stop="20260917101700 +0200" channel="starz-stz3">
-    <title lang="en">Scary Movie</title>
-    <desc lang="en">Cindy and her friends are stalked by a masked killer in a ridiculous slasher spoof full of twists, scares and terrible choices.</desc>
-  </programme>
-  <programme start="20260917101700 +0200" stop="20260917114000 +0200" channel="starz-stz3">
-    <title lang="en">Scary Movie 2</title>
-    <desc lang="en">Cindy and her friends sign up for a sleep study at a haunted mansion and stumble into a barrage of ghosts, bad decisions and ridiculous scares.</desc>
-  </programme>
-  <programme start="20260917114000 +0200" stop="20260917130500 +0200" channel="starz-stz3">
-    <title lang="en">Scary Movie 3</title>
-    <desc lang="en">Cindy must stop a deadly videotape curse while dealing with crop circles, an awkward farmer and a ghost girl determined to ruin everyone's week.</desc>
-  </programme>
-  <programme start="20260917130500 +0200" stop="20260917140500 +0200" channel="starz-stz3">
-    <title lang="en">S4 E7 - I Can't Fix This</title>
-    <desc lang="en">When tragedy strikes, Tariq and the Tejadas are set on a mission to avenge what they’ve lost. Dru must take out a threat to Carter’s organization.</desc>
-  </programme>
-  <programme start="20260917140500 +0200" stop="20260917150000 +0200" channel="starz-stz3">
-    <title lang="en">S4 E8 - Higher Calling</title>
-    <desc lang="en">Tariq and Monet try to leverage a way to get out from under Carter... by making a play to Noma.</desc>
-  </programme>
-  <programme start="20260917150000 +0200" stop="20260917162300 +0200" channel="starz-stz3">
-    <title lang="en">4Play</title>
-    <desc lang="en">Successful Chicago lounge owner Todd dates three women at once, until an unexpected connection between them turns his plan upside down.</desc>
-  </programme>
-  <programme start="20260917162300 +0200" stop="20260917180600 +0200" channel="starz-stz3">
-    <title lang="en">Norbit</title>
-    <desc lang="en">Norbit gets a second chance at love with Kate, but his jealous wife Rasputia stands in the way, determined to keep him all to herself.</desc>
-  </programme>
-  <programme start="20260917180600 +0200" stop="20260917201400 +0200" channel="starz-stz3">
-    <title lang="en">Michael</title>
-    <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
-  </programme>
-  <programme start="20260917201400 +0200" stop="20260917210500 +0200" channel="starz-stz3">
-    <title lang="en">S1 E7 - Without Me, There Is No You</title>
-    <desc lang="en">With time running out, Duke closes in on his target. But an unexpected countermove leaves him staring down the barrel of defeat.</desc>
-  </programme>
-  <programme start="20260917210500 +0200" stop="20260917224300 +0200" channel="starz-stz3">
-    <title lang="en">Bones</title>
-    <desc lang="en">After betrayal and murder, a slain neighborhood protector returns from the grave to seek vengeance on the children of the man who killed him.</desc>
-  </programme>
-  <programme start="20260917224300 +0200" stop="20260918001200 +0200" channel="starz-stz3">
-    <title lang="en">Scary Movie</title>
-    <desc lang="en">Cindy and her friends are stalked by a masked killer in a ridiculous slasher spoof full of twists, scares and terrible choices.</desc>
-  </programme>
-  <programme start="20260918001200 +0200" stop="20260918013500 +0200" channel="starz-stz3">
-    <title lang="en">Scary Movie 2</title>
-    <desc lang="en">Cindy and her friends sign up for a sleep study at a haunted mansion and stumble into a barrage of ghosts, bad decisions and ridiculous scares.</desc>
-  </programme>
-  <programme start="20260918013500 +0200" stop="20260918030000 +0200" channel="starz-stz3">
-    <title lang="en">Scary Movie 3</title>
-    <desc lang="en">Cindy must stop a deadly videotape curse while dealing with crop circles, an awkward farmer and a ghost girl determined to ruin everyone's week.</desc>
-  </programme>
-  <programme start="20260918030000 +0200" stop="20260918050800 +0200" channel="starz-stz3">
-    <title lang="en">Michael</title>
-    <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
-  </programme>
   <programme start="20260918050800 +0200" stop="20260918065100 +0200" channel="starz-stz3">
     <title lang="en">Norbit</title>
     <desc lang="en">Norbit gets a second chance at love with Kate, but his jealous wife Rasputia stands in the way, determined to keep him all to herself.</desc>
+  </programme>
+  <programme start="20260918065100 +0200" stop="20260918082900 +0200" channel="starz-stz3">
+    <title lang="en">Tales from the Hood</title>
+    <desc lang="en">Three young hustlers, searching for stolen drugs in a mortuary, become enchanted by the supernatural tales told by the undertaker.</desc>
+  </programme>
+  <programme start="20260918082900 +0200" stop="20260918102000 +0200" channel="starz-stz3">
+    <title lang="en">Tales from the Hood 2</title>
+    <desc lang="en">This sequel to the cult classic features a series of bloodcurdling tales about lust, greed, pride and politics.</desc>
+  </programme>
+  <programme start="20260918102000 +0200" stop="20260918120300 +0200" channel="starz-stz3">
+    <title lang="en">Tales from the Hood 3</title>
+    <desc lang="en">Following the franchise's cult classic roots, this new anthology scares and thrills with horrifying twists and social commentary.</desc>
+  </programme>
+  <programme start="20260918120300 +0200" stop="20260918125800 +0200" channel="starz-stz3">
+    <title lang="en">Scandalize My Name</title>
+    <desc lang="en">This potent documentary examines several prominent Black performers in the American film and television industries during the 1950s.</desc>
+  </programme>
+  <programme start="20260918125800 +0200" stop="20260918145600 +0200" channel="starz-stz3">
+    <title lang="en">Boomerang</title>
+    <desc lang="en">A successful executive and notorious womanizer gets a taste of his own medicine as his new female boss proves to be even more of a deviant than he is.</desc>
+  </programme>
+  <programme start="20260918145600 +0200" stop="20260918155400 +0200" channel="starz-stz3">
+    <title lang="en">S4 E9 - Married to the Game</title>
+    <desc lang="en">A union that should bring the Tejadas and Noma together, couldn't appear to be further apart. Tariq and Monet are sent on a seemingly simple mission.</desc>
+  </programme>
+  <programme start="20260918155400 +0200" stop="20260918165600 +0200" channel="starz-stz3">
+    <title lang="en">S4 E10 - Ghost in the Machine</title>
+    <desc lang="en">The epic conclusion to this chapter of Power.</desc>
+  </programme>
+  <programme start="20260918165600 +0200" stop="20260918183000 +0200" channel="starz-stz3">
+    <title lang="en">Blood And Bone</title>
+    <desc lang="en">An ex-convict shakes up Los Angeles' underground fighting scene as he pursues a promise made to a friend.</desc>
+  </programme>
+  <programme start="20260918183000 +0200" stop="20260918200000 +0200" channel="starz-stz3">
+    <title lang="en">Body Count</title>
+    <desc lang="en">The seemingly idyllic Simpson family gathers for Thanksgiving, but when a pack of killers shows up, their bickering takes a back seat.</desc>
+  </programme>
+  <programme start="20260918200000 +0200" stop="20260918213800 +0200" channel="starz-stz3">
+    <title lang="en">Tales from the Hood</title>
+    <desc lang="en">Three young hustlers, searching for stolen drugs in a mortuary, become enchanted by the supernatural tales told by the undertaker.</desc>
+  </programme>
+  <programme start="20260918213800 +0200" stop="20260918232900 +0200" channel="starz-stz3">
+    <title lang="en">Tales from the Hood 2</title>
+    <desc lang="en">This sequel to the cult classic features a series of bloodcurdling tales about lust, greed, pride and politics.</desc>
+  </programme>
+  <programme start="20260918232900 +0200" stop="20260919011200 +0200" channel="starz-stz3">
+    <title lang="en">Tales from the Hood 3</title>
+    <desc lang="en">Following the franchise's cult classic roots, this new anthology scares and thrills with horrifying twists and social commentary.</desc>
+  </programme>
+  <programme start="20260919011200 +0200" stop="20260919030000 +0200" channel="starz-stz3">
+    <title lang="en">The Wood</title>
+    <desc lang="en">Hours before his wedding, Roland leans on his friends as they revisit growing up in Inglewood, where hard lessons and missteps shaped him.</desc>
+  </programme>
+  <programme start="20260919030000 +0200" stop="20260919045800 +0200" channel="starz-stz3">
+    <title lang="en">Boomerang</title>
+    <desc lang="en">A successful executive and notorious womanizer gets a taste of his own medicine as his new female boss proves to be even more of a deviant than he is.</desc>
+  </programme>
+  <programme start="20260919045800 +0200" stop="20260919064300 +0200" channel="starz-stz3">
+    <title lang="en">The Rundown</title>
+    <desc lang="en">A mob boss's &quot;retrieval expert&quot; is sent to the Amazon to retrieve the boss's son, who is currently looking for a priceless treasure.</desc>
   </programme>
   <programme start="20260918053400 +0200" stop="20260918073000 +0200" channel="starz-stz5">
     <title lang="en">The Girl In The Spider's Web</title>
