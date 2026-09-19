@@ -269,65 +269,65 @@
     <title lang="en">S2 E1 - Remembrance Day</title>
     <desc lang="en">The fiery crosses have been lit across the Highlands. The call to arms brings friends and enemies home and the Jacobite Rebellion begins in earnest.</desc>
   </programme>
-  <programme start="20260918052200 +0200" stop="20260918072200 +0200" channel="starz-stz7">
-    <title lang="en">Another Happy Day</title>
-    <desc lang="en">A wedding at her parents' estate in Annapolis thrusts Lynn into the heart of delicate family dynamics.</desc>
-  </programme>
-  <programme start="20260918072200 +0200" stop="20260918090900 +0200" channel="starz-stz7">
-    <title lang="en">Wingman Inc.</title>
-    <desc lang="en">A wingman‑for‑hire and a woman who defends against bad advances fall for each other, unaware they’re working for the competition.</desc>
-  </programme>
-  <programme start="20260918090900 +0200" stop="20260918103500 +0200" channel="starz-stz7">
-    <title lang="en">The Sweetest Thing</title>
-    <desc lang="en">A young woman must educate herself on the etiquette of wooing the opposite sex when she finally meets Mr. Right.</desc>
-  </programme>
-  <programme start="20260918103500 +0200" stop="20260918120800 +0200" channel="starz-stz7">
-    <title lang="en">Happy Gilmore</title>
-    <desc lang="en">A hot-headed failed hockey player enters a professional golf tournament, using his massive drive to win prize money and save his grandma's home.</desc>
-  </programme>
-  <programme start="20260918120800 +0200" stop="20260918140300 +0200" channel="starz-stz7">
-    <title lang="en">Dudes &amp; Dragons</title>
-    <desc lang="en">When an evil wizard ravages the land with an army of dragons, it's up to two brothers to fight back and save the damsel in distress.</desc>
-  </programme>
-  <programme start="20260918140300 +0200" stop="20260918154600 +0200" channel="starz-stz7">
-    <title lang="en">Zookeeper</title>
-    <desc lang="en">When a love-struck zookeeper can't land the girl of his dreams, help comes from an unlikely source: the animals at the zoo agree to help!</desc>
-  </programme>
-  <programme start="20260918154600 +0200" stop="20260918175000 +0200" channel="starz-stz7">
-    <title lang="en">The Best Man Holiday</title>
-    <desc lang="en">Long-forgotten rivalries and romances reignite when college friends have a Christmas reunion nearly 15 years after the last time they saw one another.</desc>
-  </programme>
-  <programme start="20260918175000 +0200" stop="20260918192300 +0200" channel="starz-stz7">
-    <title lang="en">Happy Gilmore</title>
-    <desc lang="en">A hot-headed failed hockey player enters a professional golf tournament, using his massive drive to win prize money and save his grandma's home.</desc>
-  </programme>
-  <programme start="20260918192300 +0200" stop="20260918205200 +0200" channel="starz-stz7">
-    <title lang="en">Blood Surf</title>
-    <desc lang="en">An MTV-style crew filming Bloodsurfing faces a giant saltwater crocodile. Survival becomes the ultimate extreme sport.</desc>
-  </programme>
-  <programme start="20260918205200 +0200" stop="20260918222100 +0200" channel="starz-stz7">
-    <title lang="en">Permanent Midnight</title>
-    <desc lang="en">The true story of a successful television writer who keeps making hits during a haunting, darkly comic descent into a $6000 per week heroin addiction.</desc>
-  </programme>
-  <programme start="20260918222100 +0200" stop="20260918235400 +0200" channel="starz-stz7">
-    <title lang="en">Trouble Man</title>
-    <desc lang="en">A PI gets hired to find a missing R&amp;B star and accidentally uncovers a larger conspiracy, forcing him to question those around him and his own past.</desc>
-  </programme>
-  <programme start="20260918235400 +0200" stop="20260919013500 +0200" channel="starz-stz7">
-    <title lang="en">A Low Down Dirty Shame</title>
-    <desc lang="en">A former Los Angeles policeman helps a DEA agent on a case similar to the one that ended his career.</desc>
-  </programme>
-  <programme start="20260919013500 +0200" stop="20260919030800 +0200" channel="starz-stz7">
-    <title lang="en">Happy Gilmore</title>
-    <desc lang="en">A hot-headed failed hockey player enters a professional golf tournament, using his massive drive to win prize money and save his grandma's home.</desc>
-  </programme>
-  <programme start="20260919030800 +0200" stop="20260919051200 +0200" channel="starz-stz7">
-    <title lang="en">The Best Man Holiday</title>
-    <desc lang="en">Long-forgotten rivalries and romances reignite when college friends have a Christmas reunion nearly 15 years after the last time they saw one another.</desc>
-  </programme>
   <programme start="20260919051200 +0200" stop="20260919065500 +0200" channel="starz-stz7">
     <title lang="en">Zookeeper</title>
     <desc lang="en">When a love-struck zookeeper can't land the girl of his dreams, help comes from an unlikely source: the animals at the zoo agree to help!</desc>
+  </programme>
+  <programme start="20260919065500 +0200" stop="20260919090900 +0200" channel="starz-stz7">
+    <title lang="en">Happy Endings</title>
+    <desc lang="en">A clever intertwining of various narratives offers a humorous exploration of love, family, and life's inherent unpredictability.</desc>
+  </programme>
+  <programme start="20260919090900 +0200" stop="20260919104100 +0200" channel="starz-stz7">
+    <title lang="en">Paul Blart: Mall Cop</title>
+    <desc lang="en">When crooks shut down a suburban New Jersey shopping mall, a security officer must find his inner policeman to save the day.</desc>
+  </programme>
+  <programme start="20260919104100 +0200" stop="20260919121600 +0200" channel="starz-stz7">
+    <title lang="en">Paul Blart: Mall Cop 2</title>
+    <desc lang="en">Security guard Paul Blart takes his daughter to Las Vegas and stumbles upon a heist.</desc>
+  </programme>
+  <programme start="20260919121600 +0200" stop="20260919135700 +0200" channel="starz-stz7">
+    <title lang="en">Man Of The House</title>
+    <desc lang="en">A by-the-book Texas Ranger finds himself going undercover as a live-in coach to protect a group of college cheerleaders who witnessed a murder.</desc>
+  </programme>
+  <programme start="20260919135700 +0200" stop="20260919154200 +0200" channel="starz-stz7">
+    <title lang="en">The Back-up Plan</title>
+    <desc lang="en">Zoe chooses to have a baby on her own, but then meets Stan, a man she genuinely likes. Now she must find the right moment to reveal she’s pregnant.</desc>
+  </programme>
+  <programme start="20260919154200 +0200" stop="20260919172500 +0200" channel="starz-stz7">
+    <title lang="en">Norbit</title>
+    <desc lang="en">Norbit gets a second chance at love with Kate, but his jealous wife Rasputia stands in the way, determined to keep him all to herself.</desc>
+  </programme>
+  <programme start="20260919172500 +0200" stop="20260919185700 +0200" channel="starz-stz7">
+    <title lang="en">Paul Blart: Mall Cop</title>
+    <desc lang="en">When crooks shut down a suburban New Jersey shopping mall, a security officer must find his inner policeman to save the day.</desc>
+  </programme>
+  <programme start="20260919185700 +0200" stop="20260919203200 +0200" channel="starz-stz7">
+    <title lang="en">Paul Blart: Mall Cop 2</title>
+    <desc lang="en">Security guard Paul Blart takes his daughter to Las Vegas and stumbles upon a heist.</desc>
+  </programme>
+  <programme start="20260919203200 +0200" stop="20260919221300 +0200" channel="starz-stz7">
+    <title lang="en">Man Of The House</title>
+    <desc lang="en">A by-the-book Texas Ranger finds himself going undercover as a live-in coach to protect a group of college cheerleaders who witnessed a murder.</desc>
+  </programme>
+  <programme start="20260919221300 +0200" stop="20260919235600 +0200" channel="starz-stz7">
+    <title lang="en">Norbit</title>
+    <desc lang="en">Norbit gets a second chance at love with Kate, but his jealous wife Rasputia stands in the way, determined to keep him all to herself.</desc>
+  </programme>
+  <programme start="20260919235600 +0200" stop="20260920014100 +0200" channel="starz-stz7">
+    <title lang="en">The Back-up Plan</title>
+    <desc lang="en">Zoe chooses to have a baby on her own, but then meets Stan, a man she genuinely likes. Now she must find the right moment to reveal she’s pregnant.</desc>
+  </programme>
+  <programme start="20260920014100 +0200" stop="20260920031300 +0200" channel="starz-stz7">
+    <title lang="en">Paul Blart: Mall Cop</title>
+    <desc lang="en">When crooks shut down a suburban New Jersey shopping mall, a security officer must find his inner policeman to save the day.</desc>
+  </programme>
+  <programme start="20260920031300 +0200" stop="20260920044800 +0200" channel="starz-stz7">
+    <title lang="en">Paul Blart: Mall Cop 2</title>
+    <desc lang="en">Security guard Paul Blart takes his daughter to Las Vegas and stumbles upon a heist.</desc>
+  </programme>
+  <programme start="20260920044800 +0200" stop="20260920063100 +0200" channel="starz-stz7">
+    <title lang="en">Norbit</title>
+    <desc lang="en">Norbit gets a second chance at love with Kate, but his jealous wife Rasputia stands in the way, determined to keep him all to herself.</desc>
   </programme>
   <programme start="20260919045200 +0200" stop="20260919065400 +0200" channel="starz-stz8">
     <title lang="en">Scream 2</title>
