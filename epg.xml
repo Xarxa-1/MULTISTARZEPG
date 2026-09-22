@@ -21,265 +21,237 @@
   <channel id="starz-stz9">
     <display-name>STARZ Encore (STZ9)</display-name>
   </channel>
-  <programme start="20260921051500 +0200" stop="20260921062000 +0200" channel="starz-stz1">
-    <title lang="en">S2 E1 - Remembrance Day</title>
-    <desc lang="en">The fiery crosses have been lit across the Highlands. The call to arms brings friends and enemies home and the Jacobite Rebellion begins in earnest.</desc>
-  </programme>
-  <programme start="20260921062000 +0200" stop="20260921081900 +0200" channel="starz-stz1">
-    <title lang="en">The Girl In The Spider's Web</title>
-    <desc lang="en">A skilled hacker and a journalist become entangled in a dangerous network involving spies, cybercriminals, and corrupt officials.</desc>
-  </programme>
-  <programme start="20260921081900 +0200" stop="20260921092400 +0200" channel="starz-stz1">
-    <title lang="en">S2 E1 - Remembrance Day</title>
-    <desc lang="en">The fiery crosses have been lit across the Highlands. The call to arms brings friends and enemies home and the Jacobite Rebellion begins in earnest.</desc>
-  </programme>
-  <programme start="20260921092400 +0200" stop="20260921105300 +0200" channel="starz-stz1">
-    <title lang="en">Clawfoot</title>
-    <desc lang="en">A manipulative contractor terrorizes a housewife. A twisted battle of wits with deliciously unexpected results.</desc>
-  </programme>
-  <programme start="20260921105300 +0200" stop="20260921122500 +0200" channel="starz-stz1">
-    <title lang="en">Paul Blart: Mall Cop</title>
-    <desc lang="en">When crooks shut down a suburban New Jersey shopping mall, a security officer must find his inner policeman to save the day.</desc>
-  </programme>
-  <programme start="20260921122500 +0200" stop="20260921140300 +0200" channel="starz-stz1">
-    <title lang="en">Paul Blart: Mall Cop 2</title>
-    <desc lang="en">Security guard Paul Blart takes his daughter to Las Vegas and stumbles upon a heist.</desc>
-  </programme>
-  <programme start="20260921140300 +0200" stop="20260921160300 +0200" channel="starz-stz1">
-    <title lang="en">John Q</title>
-    <desc lang="en">After his son collapses, John’s insurance won’t cover a needed heart transplant, pushing him to take a hospital hostage to save his son.</desc>
-  </programme>
-  <programme start="20260921160300 +0200" stop="20260921180100 +0200" channel="starz-stz1">
-    <title lang="en">Beast</title>
-    <desc lang="en">When his brother is at risk, a former MMA champ steps back into the ring for a final battle against a fierce reigning champion.</desc>
-  </programme>
-  <programme start="20260921180100 +0200" stop="20260921190600 +0200" channel="starz-stz1">
-    <title lang="en">S2 E1 - Remembrance Day</title>
-    <desc lang="en">The fiery crosses have been lit across the Highlands. The call to arms brings friends and enemies home and the Jacobite Rebellion begins in earnest.</desc>
-  </programme>
-  <programme start="20260921190600 +0200" stop="20260921204200 +0200" channel="starz-stz1">
-    <title lang="en">The Stepford Wives</title>
-    <desc lang="en">After moving to Stepford, Connecticut, Joanna Eberhart senses the town is too perfect - the wives polished and the husbands unnervingly happy.</desc>
-  </programme>
-  <programme start="20260921204200 +0200" stop="20260921214700 +0200" channel="starz-stz1">
-    <title lang="en">S2 E1 - Remembrance Day</title>
-    <desc lang="en">The fiery crosses have been lit across the Highlands. The call to arms brings friends and enemies home and the Jacobite Rebellion begins in earnest.</desc>
-  </programme>
-  <programme start="20260921214700 +0200" stop="20260921232200 +0200" channel="starz-stz1">
-    <title lang="en">Paul Blart: Mall Cop</title>
-    <desc lang="en">When crooks shut down a suburban New Jersey shopping mall, a security officer must find his inner policeman to save the day.</desc>
-  </programme>
-  <programme start="20260921232200 +0200" stop="20260922010000 +0200" channel="starz-stz1">
-    <title lang="en">Paul Blart: Mall Cop 2</title>
-    <desc lang="en">Security guard Paul Blart takes his daughter to Las Vegas and stumbles upon a heist.</desc>
-  </programme>
-  <programme start="20260922010000 +0200" stop="20260922030000 +0200" channel="starz-stz1">
-    <title lang="en">John Q</title>
-    <desc lang="en">After his son collapses, John’s insurance won’t cover a needed heart transplant, pushing him to take a hospital hostage to save his son.</desc>
-  </programme>
-  <programme start="20260922030000 +0200" stop="20260922040500 +0200" channel="starz-stz1">
-    <title lang="en">S2 E1 - Remembrance Day</title>
-    <desc lang="en">The fiery crosses have been lit across the Highlands. The call to arms brings friends and enemies home and the Jacobite Rebellion begins in earnest.</desc>
-  </programme>
-  <programme start="20260922040500 +0200" stop="20260922054500 +0200" channel="starz-stz1">
-    <title lang="en">Dreams</title>
-    <desc lang="en">A powerful American socialite and an undocumented Mexican ballet dancer begin a dangerous affair in this tense, erotic drama.</desc>
-  </programme>
   <programme start="20260922054500 +0200" stop="20260922072100 +0200" channel="starz-stz1">
     <title lang="en">The Take</title>
     <desc lang="en">A young pickpocket and an unruly CIA agent team up on an anti-terrorist mission in France.</desc>
   </programme>
-  <programme start="20260921050500 +0200" stop="20260921062900 +0200" channel="starz-stz3">
-    <title lang="en">Saturday Church</title>
-    <desc lang="en">A 14 year-old struggling with gender identity and religion begins to use fantasy to escape life in the inner city and find passion in the process.</desc>
+  <programme start="20260922072100 +0200" stop="20260922091900 +0200" channel="starz-stz1">
+    <title lang="en">Beast</title>
+    <desc lang="en">When his brother is at risk, a former MMA champ steps back into the ring for a final battle against a fierce reigning champion.</desc>
   </programme>
-  <programme start="20260921062900 +0200" stop="20260921082600 +0200" channel="starz-stz3">
-    <title lang="en">Once Upon A Time In Brooklyn</title>
-    <desc lang="en">Fresh out of prison, Bobby returns to mob life only to face a tough choice that reveals a truth he never saw coming.</desc>
+  <programme start="20260922091900 +0200" stop="20260922110300 +0200" channel="starz-stz1">
+    <title lang="en">Hierarchy</title>
+    <desc lang="en">Brothers prepare for the biggest and most dangerous heist of their lives and find themselves caught in a high-stakes game of survival.</desc>
   </programme>
-  <programme start="20260921082600 +0200" stop="20260921094600 +0200" channel="starz-stz3">
-    <title lang="en">When A Woman's Fed Up</title>
-    <desc lang="en">When Taryln learns her husband has been unfaithful, she hatches a devious plan to teach him a lesson he won’t forget.</desc>
-  </programme>
-  <programme start="20260921094600 +0200" stop="20260921113400 +0200" channel="starz-stz3">
-    <title lang="en">Imagine That</title>
-    <desc lang="en">A struggling mogul turns to his daughter's vivid imagination for help, discovering that creativity and love may be his greatest assets.</desc>
-  </programme>
-  <programme start="20260921113400 +0200" stop="20260921135500 +0200" channel="starz-stz3">
+  <programme start="20260922110300 +0200" stop="20260922124300 +0200" channel="starz-stz1">
     <title lang="en">Dreams</title>
-    <desc lang="en">Mia, Quentin, Paalo, and Alonzo aspire to improve their lives, but their troubled pasts make achieving their dreams a challenging journey.</desc>
+    <desc lang="en">A powerful American socialite and an undocumented Mexican ballet dancer begin a dangerous affair in this tense, erotic drama.</desc>
   </programme>
-  <programme start="20260921135500 +0200" stop="20260921145400 +0200" channel="starz-stz3">
-    <title lang="en">S4 E1 - GANGSTAS DON'T DIE</title>
-    <desc lang="en">Unique endures a painful recovery fueled by hate and vengeance as other untold narratives unfold, filling the gaps prior to the season three finale.</desc>
+  <programme start="20260922124300 +0200" stop="20260922151200 +0200" channel="starz-stz1">
+    <title lang="en">Minority Report</title>
+    <desc lang="en">In 2054, Officer John Anderton is accused of a future murder. On the run from his own unit, he kidnaps a precog and races to uncover the truth.</desc>
   </programme>
-  <programme start="20260921145400 +0200" stop="20260921155000 +0200" channel="starz-stz3">
-    <title lang="en">S4 E2 - IT'S ALL LOVE</title>
-    <desc lang="en">Kanan and Raq navigate a new business relationship just as Unique begins to plot his quest for revenge.</desc>
+  <programme start="20260922151200 +0200" stop="20260922171200 +0200" channel="starz-stz1">
+    <title lang="en">Hustle &amp; Flow</title>
+    <desc lang="en">DJay, a Memphis pimp, finds new purpose in rap. With a superstar in town, he hustles to turn street life into music, and a shot at something bigger.</desc>
   </programme>
-  <programme start="20260921155000 +0200" stop="20260921175400 +0200" channel="starz-stz3">
-    <title lang="en">The Best Man Holiday</title>
-    <desc lang="en">Long-forgotten rivalries and romances reignite when college friends have a Christmas reunion nearly 15 years after the last time they saw one another.</desc>
+  <programme start="20260922171200 +0200" stop="20260922190200 +0200" channel="starz-stz1">
+    <title lang="en">The Wood</title>
+    <desc lang="en">Hours before his wedding, Roland leans on his friends as they revisit growing up in Inglewood, where hard lessons and missteps shaped him.</desc>
   </programme>
-  <programme start="20260921175400 +0200" stop="20260921194200 +0200" channel="starz-stz3">
-    <title lang="en">Imagine That</title>
-    <desc lang="en">A struggling mogul turns to his daughter's vivid imagination for help, discovering that creativity and love may be his greatest assets.</desc>
+  <programme start="20260922190200 +0200" stop="20260922210100 +0200" channel="starz-stz1">
+    <title lang="en">Black Snake Moan</title>
+    <desc lang="en">When ex-bluesman Lazarus finds the town nymphomaniac Rae on the side of the road, he vows to nurse her back to health… and cure her of her wickedness.</desc>
   </programme>
-  <programme start="20260921194200 +0200" stop="20260921212100 +0200" channel="starz-stz3">
-    <title lang="en">Falling Up</title>
-    <desc lang="en">After losing his father, Hank becomes a doorman at a prestigious NYC apartment building, where he develops a connection with one of the residents.</desc>
+  <programme start="20260922210100 +0200" stop="20260922224100 +0200" channel="starz-stz1">
+    <title lang="en">Dreams</title>
+    <desc lang="en">A powerful American socialite and an undocumented Mexican ballet dancer begin a dangerous affair in this tense, erotic drama.</desc>
   </programme>
-  <programme start="20260921212100 +0200" stop="20260921225600 +0200" channel="starz-stz3">
-    <title lang="en">Cake</title>
-    <desc lang="en">A travel writer reluctantly takes over her father's wedding magazine and discovers that the experience might transform her perspective on love.</desc>
+  <programme start="20260922224100 +0200" stop="20260923011000 +0200" channel="starz-stz1">
+    <title lang="en">Minority Report</title>
+    <desc lang="en">In 2054, Officer John Anderton is accused of a future murder. On the run from his own unit, he kidnaps a precog and races to uncover the truth.</desc>
   </programme>
-  <programme start="20260921225600 +0200" stop="20260922010000 +0200" channel="starz-stz3">
-    <title lang="en">The Best Man Holiday</title>
-    <desc lang="en">Long-forgotten rivalries and romances reignite when college friends have a Christmas reunion nearly 15 years after the last time they saw one another.</desc>
+  <programme start="20260923011000 +0200" stop="20260923030000 +0200" channel="starz-stz1">
+    <title lang="en">The Wood</title>
+    <desc lang="en">Hours before his wedding, Roland leans on his friends as they revisit growing up in Inglewood, where hard lessons and missteps shaped him.</desc>
   </programme>
-  <programme start="20260922010000 +0200" stop="20260922023800 +0200" channel="starz-stz3">
-    <title lang="en">Waist Deep</title>
-    <desc lang="en">An ex-convict collides with members of a street gang after his car is stolen with his son inside.</desc>
+  <programme start="20260923030000 +0200" stop="20260923050000 +0200" channel="starz-stz1">
+    <title lang="en">Hustle &amp; Flow</title>
+    <desc lang="en">DJay, a Memphis pimp, finds new purpose in rap. With a superstar in town, he hustles to turn street life into music, and a shot at something bigger.</desc>
   </programme>
-  <programme start="20260922023800 +0200" stop="20260922042600 +0200" channel="starz-stz3">
-    <title lang="en">Imagine That</title>
-    <desc lang="en">A struggling mogul turns to his daughter's vivid imagination for help, discovering that creativity and love may be his greatest assets.</desc>
+  <programme start="20260923050000 +0200" stop="20260923065000 +0200" channel="starz-stz1">
+    <title lang="en">Behind Enemy Lines</title>
+    <desc lang="en">A pilot downed in war-torn Bosnia must evade the local military and an assassin as his commanding officer risks everything to rescue him.</desc>
   </programme>
   <programme start="20260922042600 +0200" stop="20260922064700 +0200" channel="starz-stz3">
     <title lang="en">Dreams</title>
     <desc lang="en">Mia, Quentin, Paalo, and Alonzo aspire to improve their lives, but their troubled pasts make achieving their dreams a challenging journey.</desc>
   </programme>
-  <programme start="20260921040000 +0200" stop="20260921060300 +0200" channel="starz-stz5">
-    <title lang="en">Silver Linings Playbook</title>
-    <desc lang="en">After a stint in a mental institution, former teacher Pat Solitano moves back in with his parents and tries to reconcile with his ex-wife.</desc>
+  <programme start="20260922064700 +0200" stop="20260922082300 +0200" channel="starz-stz3">
+    <title lang="en">Iron Eagle On The Attack</title>
+    <desc lang="en">A fighter pilot runs a flight school for troubled teens. During an emergency landing on an abandoned base, the group stumbles upon a sinister plan.</desc>
   </programme>
-  <programme start="20260921060300 +0200" stop="20260921074800 +0200" channel="starz-stz5">
-    <title lang="en">Wonderland</title>
-    <desc lang="en">On July 1, 1981, LAPD found a grisly quadruple murder on Wonderland Avenue. Two stories surfaced, both involving legendary porn actor John Holmes.</desc>
+  <programme start="20260922082300 +0200" stop="20260922093000 +0200" channel="starz-stz3">
+    <title lang="en">Caught On Tape</title>
+    <desc lang="en">A boy’s video frames a failed heist, but as detectives question the lone survivor, a deeper conspiracy comes to light.</desc>
   </programme>
-  <programme start="20260921074800 +0200" stop="20260921091200 +0200" channel="starz-stz5">
-    <title lang="en">Husk</title>
-    <desc lang="en">A group of friends is stranded in a cornfield and seeks refuge in an old farmhouse, only to uncover that it is the epicenter of a supernatural ritual.</desc>
+  <programme start="20260922093000 +0200" stop="20260922112100 +0200" channel="starz-stz3">
+    <title lang="en">What's Cooking?</title>
+    <desc lang="en">Tensions between family members arise and hilarity ensues when four ethnically diverse Los Angeles families set about preparing a Thanksgiving meal.</desc>
   </programme>
-  <programme start="20260921091200 +0200" stop="20260921112200 +0200" channel="starz-stz5">
-    <title lang="en">Twice Born</title>
-    <desc lang="en">Sixteen years after leaving war-torn Bosnia, a woman returns with her son - but the visit sparks memories that force her to confront painful truths.</desc>
+  <programme start="20260922112100 +0200" stop="20260922130000 +0200" channel="starz-stz3">
+    <title lang="en">Premium</title>
+    <desc lang="en">Cool, a struggling actor, tries to win back his ex-fiancée before her wedding, learning the biggest role of his life may change everything.</desc>
   </programme>
-  <programme start="20260921112200 +0200" stop="20260921131100 +0200" channel="starz-stz5">
-    <title lang="en">Afterwards</title>
-    <desc lang="en">Newly divorced lawyer Nathan Del Amico is shaken up after he meets a doctor who claims that he can sense when select people are about to die.</desc>
+  <programme start="20260922130000 +0200" stop="20260922135900 +0200" channel="starz-stz3">
+    <title lang="en">S4 E3 - BYGONES</title>
+    <desc lang="en">Raq and Marvin face the aftermath of Unique's violent, clandestine comeback. Meanwhile, Lou manages his new artist and Juke embraces her sexuality.</desc>
   </programme>
-  <programme start="20260921131100 +0200" stop="20260921145600 +0200" channel="starz-stz5">
-    <title lang="en">Lulu On The Bridge</title>
-    <desc lang="en">A jazz saxophonist's life is transformed when he is accidentally shot.</desc>
+  <programme start="20260922135900 +0200" stop="20260922145100 +0200" channel="starz-stz3">
+    <title lang="en">S4 E4 - THE WAY WE WERE</title>
+    <desc lang="en">Unique forms an unlikely alliance in his vendetta against Raq while she inches closer to a new drug enterprise. Kanan takes advice from Snaps and Pop.</desc>
   </programme>
-  <programme start="20260921145600 +0200" stop="20260921163400 +0200" channel="starz-stz5">
-    <title lang="en">Confidence</title>
-    <desc lang="en">A con artist plans his most ambitious scheme yet. However, his previous con went awry, leaving him in debt to a dangerous mob boss and his enforcer.</desc>
+  <programme start="20260922145100 +0200" stop="20260922162300 +0200" channel="starz-stz3">
+    <title lang="en">Chocolate City</title>
+    <desc lang="en">A struggling college student's life takes a dramatic turn when he is persuaded by a male strip club owner to try his luck on amateur night.</desc>
   </programme>
-  <programme start="20260921163400 +0200" stop="20260921181900 +0200" channel="starz-stz5">
-    <title lang="en">Wonderland</title>
-    <desc lang="en">On July 1, 1981, LAPD found a grisly quadruple murder on Wonderland Avenue. Two stories surfaced, both involving legendary porn actor John Holmes.</desc>
+  <programme start="20260922162300 +0200" stop="20260922173000 +0200" channel="starz-stz3">
+    <title lang="en">Caught On Tape</title>
+    <desc lang="en">A boy’s video frames a failed heist, but as detectives question the lone survivor, a deeper conspiracy comes to light.</desc>
   </programme>
-  <programme start="20260921181900 +0200" stop="20260921200900 +0200" channel="starz-stz5">
-    <title lang="en">A Slipping-Down Life</title>
-    <desc lang="en">A lonely young woman living in a small North Carolina town resorts to drastic measures to meet the man of her dreams.</desc>
+  <programme start="20260922173000 +0200" stop="20260922185300 +0200" channel="starz-stz3">
+    <title lang="en">A Happening Of Monumental Proportions</title>
+    <desc lang="en">Students at a Los Angeles school find themselves entangled in a chaotic day filled with sex, lies, and dead bodies.</desc>
   </programme>
-  <programme start="20260921200900 +0200" stop="20260921213300 +0200" channel="starz-stz5">
-    <title lang="en">Husk</title>
-    <desc lang="en">A group of friends is stranded in a cornfield and seeks refuge in an old farmhouse, only to uncover that it is the epicenter of a supernatural ritual.</desc>
+  <programme start="20260922185300 +0200" stop="20260922204400 +0200" channel="starz-stz3">
+    <title lang="en">What's Cooking?</title>
+    <desc lang="en">Tensions between family members arise and hilarity ensues when four ethnically diverse Los Angeles families set about preparing a Thanksgiving meal.</desc>
   </programme>
-  <programme start="20260921213300 +0200" stop="20260921231200 +0200" channel="starz-stz5">
-    <title lang="en">Quartet</title>
-    <desc lang="en">A famed singer rejoins her old quartet, stirring up past grudges. Can they mend fences and perform together again?</desc>
+  <programme start="20260922204400 +0200" stop="20260922221900 +0200" channel="starz-stz3">
+    <title lang="en">Blood And Bone</title>
+    <desc lang="en">An ex-convict shakes up Los Angeles' underground fighting scene as he pursues a promise made to a friend.</desc>
   </programme>
-  <programme start="20260921231200 +0200" stop="20260922005200 +0200" channel="starz-stz5">
-    <title lang="en">Only Child</title>
-    <desc lang="en">After the tragic death of her mother, Care moves in with a father she never knew. Now they must navigate a new life together and lean on each other.</desc>
+  <programme start="20260922221900 +0200" stop="20260922235700 +0200" channel="starz-stz3">
+    <title lang="en">The Anomaly</title>
+    <desc lang="en">An ex-soldier is taken captive by the &quot;Anomaly&quot; organization where he learns that he only has 9:47 minutes/seconds to find out why they want him dead.</desc>
   </programme>
-  <programme start="20260922005200 +0200" stop="20260922023000 +0200" channel="starz-stz5">
-    <title lang="en">Confidence</title>
-    <desc lang="en">A con artist plans his most ambitious scheme yet. However, his previous con went awry, leaving him in debt to a dangerous mob boss and his enforcer.</desc>
+  <programme start="20260922235700 +0200" stop="20260923012000 +0200" channel="starz-stz3">
+    <title lang="en">A Happening Of Monumental Proportions</title>
+    <desc lang="en">Students at a Los Angeles school find themselves entangled in a chaotic day filled with sex, lies, and dead bodies.</desc>
   </programme>
-  <programme start="20260922023000 +0200" stop="20260922040000 +0200" channel="starz-stz5">
-    <title lang="en">Ingenious</title>
-    <desc lang="en">Matt and Sam chase a life-changing idea, lose everything, and discover that rock bottom sparks their most brilliant plan yet.</desc>
+  <programme start="20260923012000 +0200" stop="20260923030000 +0200" channel="starz-stz3">
+    <title lang="en">Premium</title>
+    <desc lang="en">Cool, a struggling actor, tries to win back his ex-fiancée before her wedding, learning the biggest role of his life may change everything.</desc>
   </programme>
-  <programme start="20260922040000 +0200" stop="20260922053900 +0200" channel="starz-stz5">
-    <title lang="en">Quartet</title>
-    <desc lang="en">A famed singer rejoins her old quartet, stirring up past grudges. Can they mend fences and perform together again?</desc>
+  <programme start="20260923030000 +0200" stop="20260923043200 +0200" channel="starz-stz3">
+    <title lang="en">Chocolate City</title>
+    <desc lang="en">A struggling college student's life takes a dramatic turn when he is persuaded by a male strip club owner to try his luck on amateur night.</desc>
+  </programme>
+  <programme start="20260923043200 +0200" stop="20260923062300 +0200" channel="starz-stz3">
+    <title lang="en">What's Cooking?</title>
+    <desc lang="en">Tensions between family members arise and hilarity ensues when four ethnically diverse Los Angeles families set about preparing a Thanksgiving meal.</desc>
   </programme>
   <programme start="20260922053900 +0200" stop="20260922072900 +0200" channel="starz-stz5">
     <title lang="en">A Slipping-Down Life</title>
     <desc lang="en">A lonely young woman living in a small North Carolina town resorts to drastic measures to meet the man of her dreams.</desc>
   </programme>
-  <programme start="20260921051500 +0200" stop="20260921062000 +0200" channel="starz-stz6">
-    <title lang="en">S2 E1 - Remembrance Day</title>
-    <desc lang="en">The fiery crosses have been lit across the Highlands. The call to arms brings friends and enemies home and the Jacobite Rebellion begins in earnest.</desc>
+  <programme start="20260922072900 +0200" stop="20260922090600 +0200" channel="starz-stz5">
+    <title lang="en">Don Verdean</title>
+    <desc lang="en">A self-proclaimed biblical archaeologist is hired to find sacred relics and scrambles to cover up his failure.</desc>
   </programme>
-  <programme start="20260921062000 +0200" stop="20260921081900 +0200" channel="starz-stz6">
-    <title lang="en">The Girl In The Spider's Web</title>
-    <desc lang="en">A skilled hacker and a journalist become entangled in a dangerous network involving spies, cybercriminals, and corrupt officials.</desc>
+  <programme start="20260922090600 +0200" stop="20260922103800 +0200" channel="starz-stz5">
+    <title lang="en">Wrecked</title>
+    <desc lang="en">Trapped in a crashed car with dead passengers, a gun, and cash, a man with no memory must survive the wilderness while uncovering his lost identity.</desc>
   </programme>
-  <programme start="20260921081900 +0200" stop="20260921092400 +0200" channel="starz-stz6">
-    <title lang="en">S2 E1 - Remembrance Day</title>
-    <desc lang="en">The fiery crosses have been lit across the Highlands. The call to arms brings friends and enemies home and the Jacobite Rebellion begins in earnest.</desc>
+  <programme start="20260922103800 +0200" stop="20260922120700 +0200" channel="starz-stz5">
+    <title lang="en">30 Beats</title>
+    <desc lang="en">A group of New Yorkers lives intertwine though a series of sexual encounters during a summer heat wave.</desc>
   </programme>
-  <programme start="20260921092400 +0200" stop="20260921105300 +0200" channel="starz-stz6">
-    <title lang="en">Clawfoot</title>
-    <desc lang="en">A manipulative contractor terrorizes a housewife. A twisted battle of wits with deliciously unexpected results.</desc>
+  <programme start="20260922120700 +0200" stop="20260922135300 +0200" channel="starz-stz5">
+    <title lang="en">Wingman Inc.</title>
+    <desc lang="en">A wingman‑for‑hire and a woman who defends against bad advances fall for each other, unaware they’re working for the competition.</desc>
   </programme>
-  <programme start="20260921105300 +0200" stop="20260921122500 +0200" channel="starz-stz6">
-    <title lang="en">Paul Blart: Mall Cop</title>
-    <desc lang="en">When crooks shut down a suburban New Jersey shopping mall, a security officer must find his inner policeman to save the day.</desc>
+  <programme start="20260922135300 +0200" stop="20260922152400 +0200" channel="starz-stz5">
+    <title lang="en">McVeigh</title>
+    <desc lang="en">A haunting psychological thriller based on the chilling real-life events of the deadliest act of domestic terrorism in American history.</desc>
   </programme>
-  <programme start="20260921122500 +0200" stop="20260921140300 +0200" channel="starz-stz6">
-    <title lang="en">Paul Blart: Mall Cop 2</title>
-    <desc lang="en">Security guard Paul Blart takes his daughter to Las Vegas and stumbles upon a heist.</desc>
+  <programme start="20260922152400 +0200" stop="20260922165400 +0200" channel="starz-stz5">
+    <title lang="en">Ingenious</title>
+    <desc lang="en">Matt and Sam chase a life-changing idea, lose everything, and discover that rock bottom sparks their most brilliant plan yet.</desc>
   </programme>
-  <programme start="20260921140300 +0200" stop="20260921160300 +0200" channel="starz-stz6">
-    <title lang="en">John Q</title>
-    <desc lang="en">After his son collapses, John’s insurance won’t cover a needed heart transplant, pushing him to take a hospital hostage to save his son.</desc>
+  <programme start="20260922165400 +0200" stop="20260922183100 +0200" channel="starz-stz5">
+    <title lang="en">Don Verdean</title>
+    <desc lang="en">A self-proclaimed biblical archaeologist is hired to find sacred relics and scrambles to cover up his failure.</desc>
   </programme>
-  <programme start="20260921160300 +0200" stop="20260921180100 +0200" channel="starz-stz6">
-    <title lang="en">Beast</title>
-    <desc lang="en">When his brother is at risk, a former MMA champ steps back into the ring for a final battle against a fierce reigning champion.</desc>
+  <programme start="20260922183100 +0200" stop="20260922202200 +0200" channel="starz-stz5">
+    <title lang="en">Tucker: The Man And His Dream</title>
+    <desc lang="en">The story of auto maker Preston Tucker's fight to bring a better car to the market and the Detroit corporate powers who were out to stop him.</desc>
   </programme>
-  <programme start="20260921180100 +0200" stop="20260921190600 +0200" channel="starz-stz6">
-    <title lang="en">S2 E1 - Remembrance Day</title>
-    <desc lang="en">The fiery crosses have been lit across the Highlands. The call to arms brings friends and enemies home and the Jacobite Rebellion begins in earnest.</desc>
+  <programme start="20260922202200 +0200" stop="20260922215100 +0200" channel="starz-stz5">
+    <title lang="en">30 Beats</title>
+    <desc lang="en">A group of New Yorkers lives intertwine though a series of sexual encounters during a summer heat wave.</desc>
   </programme>
-  <programme start="20260921190600 +0200" stop="20260921204200 +0200" channel="starz-stz6">
-    <title lang="en">The Stepford Wives</title>
-    <desc lang="en">After moving to Stepford, Connecticut, Joanna Eberhart senses the town is too perfect - the wives polished and the husbands unnervingly happy.</desc>
+  <programme start="20260922215100 +0200" stop="20260922230800 +0200" channel="starz-stz5">
+    <title lang="en">Anita: Speaking Truth To Power</title>
+    <desc lang="en">Anita Hill, the African-American lawyer who challenged Clarence Thomas' nomination, helped ignite a movement still resonating decades later.</desc>
   </programme>
-  <programme start="20260921204200 +0200" stop="20260921214700 +0200" channel="starz-stz6">
-    <title lang="en">S2 E1 - Remembrance Day</title>
-    <desc lang="en">The fiery crosses have been lit across the Highlands. The call to arms brings friends and enemies home and the Jacobite Rebellion begins in earnest.</desc>
+  <programme start="20260922230800 +0200" stop="20260923003800 +0200" channel="starz-stz5">
+    <title lang="en">Wrecked</title>
+    <desc lang="en">Trapped in a crashed car with dead passengers, a gun, and cash, a man with no memory must survive the wilderness while uncovering his lost identity.</desc>
   </programme>
-  <programme start="20260921214700 +0200" stop="20260921232200 +0200" channel="starz-stz6">
-    <title lang="en">Paul Blart: Mall Cop</title>
-    <desc lang="en">When crooks shut down a suburban New Jersey shopping mall, a security officer must find his inner policeman to save the day.</desc>
+  <programme start="20260923003800 +0200" stop="20260923020900 +0200" channel="starz-stz5">
+    <title lang="en">McVeigh</title>
+    <desc lang="en">A haunting psychological thriller based on the chilling real-life events of the deadliest act of domestic terrorism in American history.</desc>
   </programme>
-  <programme start="20260921232200 +0200" stop="20260922010000 +0200" channel="starz-stz6">
-    <title lang="en">Paul Blart: Mall Cop 2</title>
-    <desc lang="en">Security guard Paul Blart takes his daughter to Las Vegas and stumbles upon a heist.</desc>
+  <programme start="20260923020900 +0200" stop="20260923040000 +0200" channel="starz-stz5">
+    <title lang="en">Tucker: The Man And His Dream</title>
+    <desc lang="en">The story of auto maker Preston Tucker's fight to bring a better car to the market and the Detroit corporate powers who were out to stop him.</desc>
   </programme>
-  <programme start="20260922010000 +0200" stop="20260922030000 +0200" channel="starz-stz6">
-    <title lang="en">John Q</title>
-    <desc lang="en">After his son collapses, John’s insurance won’t cover a needed heart transplant, pushing him to take a hospital hostage to save his son.</desc>
-  </programme>
-  <programme start="20260922030000 +0200" stop="20260922040500 +0200" channel="starz-stz6">
-    <title lang="en">S2 E1 - Remembrance Day</title>
-    <desc lang="en">The fiery crosses have been lit across the Highlands. The call to arms brings friends and enemies home and the Jacobite Rebellion begins in earnest.</desc>
-  </programme>
-  <programme start="20260922040500 +0200" stop="20260922054500 +0200" channel="starz-stz6">
-    <title lang="en">Dreams</title>
-    <desc lang="en">A powerful American socialite and an undocumented Mexican ballet dancer begin a dangerous affair in this tense, erotic drama.</desc>
+  <programme start="20260923040000 +0200" stop="20260923061100 +0200" channel="starz-stz5">
+    <title lang="en">Miss Julie</title>
+    <desc lang="en">Set in 1890 Ireland, an unsettled aristocratic daughter entices her father's valet into a seductive encounter during a midsummer night.</desc>
   </programme>
   <programme start="20260922054500 +0200" stop="20260922072100 +0200" channel="starz-stz6">
     <title lang="en">The Take</title>
     <desc lang="en">A young pickpocket and an unruly CIA agent team up on an anti-terrorist mission in France.</desc>
+  </programme>
+  <programme start="20260922072100 +0200" stop="20260922091900 +0200" channel="starz-stz6">
+    <title lang="en">Beast</title>
+    <desc lang="en">When his brother is at risk, a former MMA champ steps back into the ring for a final battle against a fierce reigning champion.</desc>
+  </programme>
+  <programme start="20260922091900 +0200" stop="20260922110300 +0200" channel="starz-stz6">
+    <title lang="en">Hierarchy</title>
+    <desc lang="en">Brothers prepare for the biggest and most dangerous heist of their lives and find themselves caught in a high-stakes game of survival.</desc>
+  </programme>
+  <programme start="20260922110300 +0200" stop="20260922124300 +0200" channel="starz-stz6">
+    <title lang="en">Dreams</title>
+    <desc lang="en">A powerful American socialite and an undocumented Mexican ballet dancer begin a dangerous affair in this tense, erotic drama.</desc>
+  </programme>
+  <programme start="20260922124300 +0200" stop="20260922151200 +0200" channel="starz-stz6">
+    <title lang="en">Minority Report</title>
+    <desc lang="en">In 2054, Officer John Anderton is accused of a future murder. On the run from his own unit, he kidnaps a precog and races to uncover the truth.</desc>
+  </programme>
+  <programme start="20260922151200 +0200" stop="20260922171200 +0200" channel="starz-stz6">
+    <title lang="en">Hustle &amp; Flow</title>
+    <desc lang="en">DJay, a Memphis pimp, finds new purpose in rap. With a superstar in town, he hustles to turn street life into music, and a shot at something bigger.</desc>
+  </programme>
+  <programme start="20260922171200 +0200" stop="20260922190200 +0200" channel="starz-stz6">
+    <title lang="en">The Wood</title>
+    <desc lang="en">Hours before his wedding, Roland leans on his friends as they revisit growing up in Inglewood, where hard lessons and missteps shaped him.</desc>
+  </programme>
+  <programme start="20260922190200 +0200" stop="20260922210100 +0200" channel="starz-stz6">
+    <title lang="en">Black Snake Moan</title>
+    <desc lang="en">When ex-bluesman Lazarus finds the town nymphomaniac Rae on the side of the road, he vows to nurse her back to health… and cure her of her wickedness.</desc>
+  </programme>
+  <programme start="20260922210100 +0200" stop="20260922224100 +0200" channel="starz-stz6">
+    <title lang="en">Dreams</title>
+    <desc lang="en">A powerful American socialite and an undocumented Mexican ballet dancer begin a dangerous affair in this tense, erotic drama.</desc>
+  </programme>
+  <programme start="20260922224100 +0200" stop="20260923011000 +0200" channel="starz-stz6">
+    <title lang="en">Minority Report</title>
+    <desc lang="en">In 2054, Officer John Anderton is accused of a future murder. On the run from his own unit, he kidnaps a precog and races to uncover the truth.</desc>
+  </programme>
+  <programme start="20260923011000 +0200" stop="20260923030000 +0200" channel="starz-stz6">
+    <title lang="en">The Wood</title>
+    <desc lang="en">Hours before his wedding, Roland leans on his friends as they revisit growing up in Inglewood, where hard lessons and missteps shaped him.</desc>
+  </programme>
+  <programme start="20260923030000 +0200" stop="20260923050000 +0200" channel="starz-stz6">
+    <title lang="en">Hustle &amp; Flow</title>
+    <desc lang="en">DJay, a Memphis pimp, finds new purpose in rap. With a superstar in town, he hustles to turn street life into music, and a shot at something bigger.</desc>
+  </programme>
+  <programme start="20260923050000 +0200" stop="20260923065000 +0200" channel="starz-stz6">
+    <title lang="en">Behind Enemy Lines</title>
+    <desc lang="en">A pilot downed in war-torn Bosnia must evade the local military and an assassin as his commanding officer risks everything to rescue him.</desc>
   </programme>
   <programme start="20260921051700 +0200" stop="20260921064300 +0200" channel="starz-stz7">
     <title lang="en">Eulogy</title>
@@ -345,128 +317,116 @@
     <title lang="en">Wingman Inc.</title>
     <desc lang="en">A wingman‑for‑hire and a woman who defends against bad advances fall for each other, unaware they’re working for the competition.</desc>
   </programme>
-  <programme start="20260921050800 +0200" stop="20260921065400 +0200" channel="starz-stz8">
-    <title lang="en">Death Race</title>
-    <desc lang="en">Ex-con Jensen Ames is forced by the warden of a notorious prison to compete in a lethal car race.</desc>
-  </programme>
-  <programme start="20260921065400 +0200" stop="20260921092400 +0200" channel="starz-stz8">
-    <title lang="en">The Da Vinci Code</title>
-    <desc lang="en">A Harvard symbiology professor goes on the run with a cryptologist, tracking down clues to solve a murder while unravelling a centuries-old mystery.</desc>
-  </programme>
-  <programme start="20260921092400 +0200" stop="20260921111500 +0200" channel="starz-stz8">
-    <title lang="en">I Can Only Imagine 2</title>
-    <desc lang="en">Bart Millard, lead singer of MercyMe, has a personal crisis at the height of his career. He grapples with his faith, searching for a way to overcome.</desc>
-  </programme>
-  <programme start="20260921111500 +0200" stop="20260921131100 +0200" channel="starz-stz8">
-    <title lang="en">The Other Boleyn Girl</title>
-    <desc lang="en">Two sisters - one is an innocent and the other a schemer - both vie for the attentions of England's King Henry VIII.</desc>
-  </programme>
-  <programme start="20260921131100 +0200" stop="20260921144300 +0200" channel="starz-stz8">
-    <title lang="en">The Future</title>
-    <desc lang="en">After deciding to adopt a stray cat, a couple’s reality begins to shift, altering time, space, and their understanding of life together.</desc>
-  </programme>
-  <programme start="20260921144300 +0200" stop="20260921160800 +0200" channel="starz-stz8">
-    <title lang="en">American Dream</title>
-    <desc lang="en">Two entrepreneurs face a Russian mobster's vengeance after they cut him out of a business deal.</desc>
-  </programme>
-  <programme start="20260921160800 +0200" stop="20260921174600 +0200" channel="starz-stz8">
-    <title lang="en">In The Grey</title>
-    <desc lang="en">A covert team is sent to recover a billion-dollar fortune, but the mission spirals into a high-stakes battle of strategy, deception, and survival.</desc>
-  </programme>
-  <programme start="20260921174600 +0200" stop="20260921192300 +0200" channel="starz-stz8">
-    <title lang="en">Turbulence</title>
-    <desc lang="en">A hot air balloon ride takes an unexpected turn when a third passenger joins, sparking events they never imagined five thousand meters in the air.</desc>
-  </programme>
-  <programme start="20260921192300 +0200" stop="20260921212200 +0200" channel="starz-stz8">
-    <title lang="en">The Bourne Identity</title>
-    <desc lang="en">A man who cannot remember his past but is highly skilled in self-defense attempts to discover his identity while assailants try to kill him.</desc>
-  </programme>
-  <programme start="20260921212200 +0200" stop="20260921231100 +0200" channel="starz-stz8">
-    <title lang="en">The Bourne Supremacy</title>
-    <desc lang="en">Former assassin Jason Bourne is blamed for a murder committed in a failed CIA undercover operation and must go on the run to save his life.</desc>
-  </programme>
-  <programme start="20260921231100 +0200" stop="20260922010700 +0200" channel="starz-stz8">
-    <title lang="en">The Bourne Ultimatum</title>
-    <desc lang="en">Jason Bourne evades a relentless C.I.A. official from a new assassination program as he seeks to uncover the origins of his life as a trained killer.</desc>
-  </programme>
-  <programme start="20260922010700 +0200" stop="20260922032300 +0200" channel="starz-stz8">
-    <title lang="en">The Bourne Legacy</title>
-    <desc lang="en">As Jason Bourne exposes covert operations, a new agent becomes the target of a deadly cover-up protecting a secret government program.</desc>
-  </programme>
-  <programme start="20260922032300 +0200" stop="20260922050100 +0200" channel="starz-stz8">
-    <title lang="en">In The Grey</title>
-    <desc lang="en">A covert team is sent to recover a billion-dollar fortune, but the mission spirals into a high-stakes battle of strategy, deception, and survival.</desc>
-  </programme>
   <programme start="20260922050100 +0200" stop="20260922060500 +0200" channel="starz-stz8">
     <title lang="en">S2 E1 - Remembrance Day</title>
     <desc lang="en">The fiery crosses have been lit across the Highlands. The call to arms brings friends and enemies home and the Jacobite Rebellion begins in earnest.</desc>
   </programme>
-  <programme start="20260921051500 +0200" stop="20260921062000 +0200" channel="starz-stz9">
-    <title lang="en">S2 E1 - Remembrance Day</title>
-    <desc lang="en">The fiery crosses have been lit across the Highlands. The call to arms brings friends and enemies home and the Jacobite Rebellion begins in earnest.</desc>
+  <programme start="20260922060500 +0200" stop="20260922082400 +0200" channel="starz-stz8">
+    <title lang="en">Angels &amp; Demons</title>
+    <desc lang="en">The pope is dead and the candidates to replace him have been kidnapped - a secret group vows to kill the cardinals and destroy Vatican City.</desc>
   </programme>
-  <programme start="20260921062000 +0200" stop="20260921081900 +0200" channel="starz-stz9">
-    <title lang="en">The Girl In The Spider's Web</title>
-    <desc lang="en">A skilled hacker and a journalist become entangled in a dangerous network involving spies, cybercriminals, and corrupt officials.</desc>
+  <programme start="20260922082400 +0200" stop="20260922100500 +0200" channel="starz-stz8">
+    <title lang="en">Man Of The House</title>
+    <desc lang="en">A by-the-book Texas Ranger finds himself going undercover as a live-in coach to protect a group of college cheerleaders who witnessed a murder.</desc>
   </programme>
-  <programme start="20260921081900 +0200" stop="20260921092400 +0200" channel="starz-stz9">
-    <title lang="en">S2 E1 - Remembrance Day</title>
-    <desc lang="en">The fiery crosses have been lit across the Highlands. The call to arms brings friends and enemies home and the Jacobite Rebellion begins in earnest.</desc>
+  <programme start="20260922100500 +0200" stop="20260922121000 +0200" channel="starz-stz8">
+    <title lang="en">Southpaw</title>
+    <desc lang="en">After losing everything to a senseless tragedy, a boxer turns to a retired fighter for guidance as he struggles toward redemption.</desc>
   </programme>
-  <programme start="20260921092400 +0200" stop="20260921105300 +0200" channel="starz-stz9">
-    <title lang="en">Clawfoot</title>
-    <desc lang="en">A manipulative contractor terrorizes a housewife. A twisted battle of wits with deliciously unexpected results.</desc>
-  </programme>
-  <programme start="20260921105300 +0200" stop="20260921122500 +0200" channel="starz-stz9">
-    <title lang="en">Paul Blart: Mall Cop</title>
-    <desc lang="en">When crooks shut down a suburban New Jersey shopping mall, a security officer must find his inner policeman to save the day.</desc>
-  </programme>
-  <programme start="20260921122500 +0200" stop="20260921140300 +0200" channel="starz-stz9">
-    <title lang="en">Paul Blart: Mall Cop 2</title>
-    <desc lang="en">Security guard Paul Blart takes his daughter to Las Vegas and stumbles upon a heist.</desc>
-  </programme>
-  <programme start="20260921140300 +0200" stop="20260921160300 +0200" channel="starz-stz9">
-    <title lang="en">John Q</title>
-    <desc lang="en">After his son collapses, John’s insurance won’t cover a needed heart transplant, pushing him to take a hospital hostage to save his son.</desc>
-  </programme>
-  <programme start="20260921160300 +0200" stop="20260921180100 +0200" channel="starz-stz9">
+  <programme start="20260922121000 +0200" stop="20260922140500 +0200" channel="starz-stz8">
     <title lang="en">Beast</title>
     <desc lang="en">When his brother is at risk, a former MMA champ steps back into the ring for a final battle against a fierce reigning champion.</desc>
   </programme>
-  <programme start="20260921180100 +0200" stop="20260921190600 +0200" channel="starz-stz9">
+  <programme start="20260922140500 +0200" stop="20260922155000 +0200" channel="starz-stz8">
+    <title lang="en">Pound Of Flesh</title>
+    <desc lang="en">After helping a woman seemingly in need, a man awakens the next day with his kidney missing and his heart set on revenge.</desc>
+  </programme>
+  <programme start="20260922155000 +0200" stop="20260922173700 +0200" channel="starz-stz8">
+    <title lang="en">Behind Enemy Lines</title>
+    <desc lang="en">A pilot downed in war-torn Bosnia must evade the local military and an assassin as his commanding officer risks everything to rescue him.</desc>
+  </programme>
+  <programme start="20260922173700 +0200" stop="20260922195600 +0200" channel="starz-stz8">
+    <title lang="en">Angels &amp; Demons</title>
+    <desc lang="en">The pope is dead and the candidates to replace him have been kidnapped - a secret group vows to kill the cardinals and destroy Vatican City.</desc>
+  </programme>
+  <programme start="20260922195600 +0200" stop="20260922210000 +0200" channel="starz-stz8">
     <title lang="en">S2 E1 - Remembrance Day</title>
     <desc lang="en">The fiery crosses have been lit across the Highlands. The call to arms brings friends and enemies home and the Jacobite Rebellion begins in earnest.</desc>
   </programme>
-  <programme start="20260921190600 +0200" stop="20260921204200 +0200" channel="starz-stz9">
-    <title lang="en">The Stepford Wives</title>
-    <desc lang="en">After moving to Stepford, Connecticut, Joanna Eberhart senses the town is too perfect - the wives polished and the husbands unnervingly happy.</desc>
+  <programme start="20260922210000 +0200" stop="20260922222200 +0200" channel="starz-stz8">
+    <title lang="en">Casual Encounters</title>
+    <desc lang="en">After a humiliating public breakup, Justin's friends push him into the unfamiliar realm of online dating, hoping to mend his broken heart.</desc>
   </programme>
-  <programme start="20260921204200 +0200" stop="20260921214700 +0200" channel="starz-stz9">
+  <programme start="20260922222200 +0200" stop="20260923000300 +0200" channel="starz-stz8">
+    <title lang="en">Man Of The House</title>
+    <desc lang="en">A by-the-book Texas Ranger finds himself going undercover as a live-in coach to protect a group of college cheerleaders who witnessed a murder.</desc>
+  </programme>
+  <programme start="20260923000300 +0200" stop="20260923015800 +0200" channel="starz-stz8">
+    <title lang="en">Beast</title>
+    <desc lang="en">When his brother is at risk, a former MMA champ steps back into the ring for a final battle against a fierce reigning champion.</desc>
+  </programme>
+  <programme start="20260923015800 +0200" stop="20260923030200 +0200" channel="starz-stz8">
     <title lang="en">S2 E1 - Remembrance Day</title>
     <desc lang="en">The fiery crosses have been lit across the Highlands. The call to arms brings friends and enemies home and the Jacobite Rebellion begins in earnest.</desc>
   </programme>
-  <programme start="20260921214700 +0200" stop="20260921232200 +0200" channel="starz-stz9">
-    <title lang="en">Paul Blart: Mall Cop</title>
-    <desc lang="en">When crooks shut down a suburban New Jersey shopping mall, a security officer must find his inner policeman to save the day.</desc>
+  <programme start="20260923030200 +0200" stop="20260923050700 +0200" channel="starz-stz8">
+    <title lang="en">Southpaw</title>
+    <desc lang="en">After losing everything to a senseless tragedy, a boxer turns to a retired fighter for guidance as he struggles toward redemption.</desc>
   </programme>
-  <programme start="20260921232200 +0200" stop="20260922010000 +0200" channel="starz-stz9">
-    <title lang="en">Paul Blart: Mall Cop 2</title>
-    <desc lang="en">Security guard Paul Blart takes his daughter to Las Vegas and stumbles upon a heist.</desc>
-  </programme>
-  <programme start="20260922010000 +0200" stop="20260922030000 +0200" channel="starz-stz9">
-    <title lang="en">John Q</title>
-    <desc lang="en">After his son collapses, John’s insurance won’t cover a needed heart transplant, pushing him to take a hospital hostage to save his son.</desc>
-  </programme>
-  <programme start="20260922030000 +0200" stop="20260922040500 +0200" channel="starz-stz9">
-    <title lang="en">S2 E1 - Remembrance Day</title>
-    <desc lang="en">The fiery crosses have been lit across the Highlands. The call to arms brings friends and enemies home and the Jacobite Rebellion begins in earnest.</desc>
-  </programme>
-  <programme start="20260922040500 +0200" stop="20260922054500 +0200" channel="starz-stz9">
-    <title lang="en">Dreams</title>
-    <desc lang="en">A powerful American socialite and an undocumented Mexican ballet dancer begin a dangerous affair in this tense, erotic drama.</desc>
+  <programme start="20260923050700 +0200" stop="20260923065800 +0200" channel="starz-stz8">
+    <title lang="en">The Kingdom</title>
+    <desc lang="en">Sent to Saudi Arabia to investigate a bombing, FBI agents team up with local officers. Their search for answers leads them to a deadly confrontation.</desc>
   </programme>
   <programme start="20260922054500 +0200" stop="20260922072100 +0200" channel="starz-stz9">
     <title lang="en">The Take</title>
     <desc lang="en">A young pickpocket and an unruly CIA agent team up on an anti-terrorist mission in France.</desc>
+  </programme>
+  <programme start="20260922072100 +0200" stop="20260922091900 +0200" channel="starz-stz9">
+    <title lang="en">Beast</title>
+    <desc lang="en">When his brother is at risk, a former MMA champ steps back into the ring for a final battle against a fierce reigning champion.</desc>
+  </programme>
+  <programme start="20260922091900 +0200" stop="20260922110300 +0200" channel="starz-stz9">
+    <title lang="en">Hierarchy</title>
+    <desc lang="en">Brothers prepare for the biggest and most dangerous heist of their lives and find themselves caught in a high-stakes game of survival.</desc>
+  </programme>
+  <programme start="20260922110300 +0200" stop="20260922124300 +0200" channel="starz-stz9">
+    <title lang="en">Dreams</title>
+    <desc lang="en">A powerful American socialite and an undocumented Mexican ballet dancer begin a dangerous affair in this tense, erotic drama.</desc>
+  </programme>
+  <programme start="20260922124300 +0200" stop="20260922151200 +0200" channel="starz-stz9">
+    <title lang="en">Minority Report</title>
+    <desc lang="en">In 2054, Officer John Anderton is accused of a future murder. On the run from his own unit, he kidnaps a precog and races to uncover the truth.</desc>
+  </programme>
+  <programme start="20260922151200 +0200" stop="20260922171200 +0200" channel="starz-stz9">
+    <title lang="en">Hustle &amp; Flow</title>
+    <desc lang="en">DJay, a Memphis pimp, finds new purpose in rap. With a superstar in town, he hustles to turn street life into music, and a shot at something bigger.</desc>
+  </programme>
+  <programme start="20260922171200 +0200" stop="20260922190200 +0200" channel="starz-stz9">
+    <title lang="en">The Wood</title>
+    <desc lang="en">Hours before his wedding, Roland leans on his friends as they revisit growing up in Inglewood, where hard lessons and missteps shaped him.</desc>
+  </programme>
+  <programme start="20260922190200 +0200" stop="20260922210100 +0200" channel="starz-stz9">
+    <title lang="en">Black Snake Moan</title>
+    <desc lang="en">When ex-bluesman Lazarus finds the town nymphomaniac Rae on the side of the road, he vows to nurse her back to health… and cure her of her wickedness.</desc>
+  </programme>
+  <programme start="20260922210100 +0200" stop="20260922224100 +0200" channel="starz-stz9">
+    <title lang="en">Dreams</title>
+    <desc lang="en">A powerful American socialite and an undocumented Mexican ballet dancer begin a dangerous affair in this tense, erotic drama.</desc>
+  </programme>
+  <programme start="20260922224100 +0200" stop="20260923011000 +0200" channel="starz-stz9">
+    <title lang="en">Minority Report</title>
+    <desc lang="en">In 2054, Officer John Anderton is accused of a future murder. On the run from his own unit, he kidnaps a precog and races to uncover the truth.</desc>
+  </programme>
+  <programme start="20260923011000 +0200" stop="20260923030000 +0200" channel="starz-stz9">
+    <title lang="en">The Wood</title>
+    <desc lang="en">Hours before his wedding, Roland leans on his friends as they revisit growing up in Inglewood, where hard lessons and missteps shaped him.</desc>
+  </programme>
+  <programme start="20260923030000 +0200" stop="20260923050000 +0200" channel="starz-stz9">
+    <title lang="en">Hustle &amp; Flow</title>
+    <desc lang="en">DJay, a Memphis pimp, finds new purpose in rap. With a superstar in town, he hustles to turn street life into music, and a shot at something bigger.</desc>
+  </programme>
+  <programme start="20260923050000 +0200" stop="20260923065000 +0200" channel="starz-stz9">
+    <title lang="en">Behind Enemy Lines</title>
+    <desc lang="en">A pilot downed in war-torn Bosnia must evade the local military and an assassin as his commanding officer risks everything to rescue him.</desc>
   </programme>
 </tv>
