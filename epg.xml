@@ -21,412 +21,430 @@
   <channel id="starz-stz9">
     <display-name>STARZ Encore (STZ9)</display-name>
   </channel>
-  <programme start="20260929044600 +0200" stop="20260929062700 +0200" channel="starz-stz1">
-    <title lang="en">All About the Benjamins</title>
-    <desc lang="en">A bounty hunter chasing a fast-talking con man uncovers a criminal plot tied to a fortune worth millions, forcing the pair to work together.</desc>
-  </programme>
-  <programme start="20260929062700 +0200" stop="20260929080300 +0200" channel="starz-stz1">
-    <title lang="en">Trouble Man</title>
-    <desc lang="en">A PI gets hired to find a missing R&amp;B star and accidentally uncovers a larger conspiracy, forcing him to question those around him and his own past.</desc>
-  </programme>
-  <programme start="20260929080300 +0200" stop="20260929103500 +0200" channel="starz-stz1">
-    <title lang="en">The Da Vinci Code</title>
-    <desc lang="en">A Harvard symbiology professor goes on the run with a cryptologist, tracking down clues to solve a murder while unravelling a centuries-old mystery.</desc>
-  </programme>
-  <programme start="20260929103500 +0200" stop="20260929121100 +0200" channel="starz-stz1">
-    <title lang="en">Blood And Bone</title>
-    <desc lang="en">An ex-convict shakes up Los Angeles' underground fighting scene as he pursues a promise made to a friend.</desc>
-  </programme>
-  <programme start="20260929121100 +0200" stop="20260929140900 +0200" channel="starz-stz1">
-    <title lang="en">Beast</title>
-    <desc lang="en">When his brother is at risk, a former MMA champ steps back into the ring for a final battle against a fierce reigning champion.</desc>
-  </programme>
-  <programme start="20260929140900 +0200" stop="20260929155900 +0200" channel="starz-stz1">
-    <title lang="en">Underworld: Evolution</title>
-    <desc lang="en">The war between the Death Dealers and Lycans continues as Selene and her werewolf lover go searching for their future by seeking their past.</desc>
-  </programme>
-  <programme start="20260929155900 +0200" stop="20260929175900 +0200" channel="starz-stz1">
-    <title lang="en">Ant-Man</title>
-    <desc lang="en">From Marvel: Looking for a new start, master thief Scott Lang is approached by Dr. Pym, creator of a technology that can shrink a man to insect size.</desc>
-  </programme>
-  <programme start="20260929175900 +0200" stop="20260929194100 +0200" channel="starz-stz1">
-    <title lang="en">Power Ballad</title>
-    <desc lang="en">A past-his-prime wedding singer bonds with a fading boy-band star, but when his song reignites the star's career, he risks everything for recognition.</desc>
-  </programme>
-  <programme start="20260929194100 +0200" stop="20260929213900 +0200" channel="starz-stz1">
-    <title lang="en">Beast</title>
-    <desc lang="en">When his brother is at risk, a former MMA champ steps back into the ring for a final battle against a fierce reigning champion.</desc>
-  </programme>
-  <programme start="20260929213900 +0200" stop="20260929232500 +0200" channel="starz-stz1">
-    <title lang="en">Norbit</title>
-    <desc lang="en">Norbit gets a second chance at love with Kate, but his jealous wife Rasputia stands in the way, determined to keep him all to herself.</desc>
-  </programme>
-  <programme start="20260929232500 +0200" stop="20260930010000 +0200" channel="starz-stz1">
-    <title lang="en">Happy Gilmore</title>
-    <desc lang="en">A hot-headed failed hockey player enters a professional golf tournament, using his massive drive to win prize money and save his grandma's home.</desc>
-  </programme>
-  <programme start="20260930010000 +0200" stop="20260930030000 +0200" channel="starz-stz1">
-    <title lang="en">Ant-Man</title>
-    <desc lang="en">From Marvel: Looking for a new start, master thief Scott Lang is approached by Dr. Pym, creator of a technology that can shrink a man to insect size.</desc>
-  </programme>
-  <programme start="20260930030000 +0200" stop="20260930044200 +0200" channel="starz-stz1">
-    <title lang="en">Power Ballad</title>
-    <desc lang="en">A past-his-prime wedding singer bonds with a fading boy-band star, but when his song reignites the star's career, he risks everything for recognition.</desc>
-  </programme>
   <programme start="20260930044200 +0200" stop="20260930064700 +0200" channel="starz-stz1">
     <title lang="en">Underworld</title>
     <desc lang="en">Selene, a vampire warrior, is in a war between vampires and werewolves - then she falls in love with Michael, a werewolf who longs for the war to end.</desc>
   </programme>
-  <programme start="20260929055900 +0200" stop="20260929075600 +0200" channel="starz-stz3">
-    <title lang="en">Harlem Nights</title>
-    <desc lang="en">In 1930s New York, a gambling house owner and his crew battle rivals, gangsters, and corrupt police.</desc>
+  <programme start="20260930064700 +0200" stop="20260930093700 +0200" channel="starz-stz1">
+    <title lang="en">Gangs of New York</title>
+    <desc lang="en">A young man seeks revenge against the larger-than-life strongman who killed his father in the brutal, gang-dominated New York City of the 1840s.</desc>
   </programme>
-  <programme start="20260929075600 +0200" stop="20260929101800 +0200" channel="starz-stz3">
-    <title lang="en">Dreams</title>
-    <desc lang="en">Mia, Quentin, Paalo, and Alonzo aspire to improve their lives, but their troubled pasts make achieving their dreams a challenging journey.</desc>
+  <programme start="20260930093700 +0200" stop="20260930110400 +0200" channel="starz-stz1">
+    <title lang="en">Curve</title>
+    <desc lang="en">A bride-to-be takes an unexpected detour. When her car breaks down, a hitchhiker offers assistance, hinting at a twist of fate.</desc>
   </programme>
-  <programme start="20260929101800 +0200" stop="20260929122700 +0200" channel="starz-stz3">
-    <title lang="en">Michael</title>
-    <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
+  <programme start="20260930110400 +0200" stop="20260930124900 +0200" channel="starz-stz1">
+    <title lang="en">Volcano</title>
+    <desc lang="en">LA is heating up - and it's not global warming! A massive volcano erupts in the heart of the city in this high-intensity disaster tale.</desc>
   </programme>
-  <programme start="20260929122700 +0200" stop="20260929143500 +0200" channel="starz-stz3">
-    <title lang="en">Why Men Are Clueless</title>
-    <desc lang="en">In order to land his dream job and win back the love of his life, a young man must figure out what women truly want with the help of his friends.</desc>
+  <programme start="20260930124900 +0200" stop="20260930142000 +0200" channel="starz-stz1">
+    <title lang="en">Priest</title>
+    <desc lang="en">In a world ravaged by war between humans and vampires, a renegade priest sets out to rescue his niece, kidnapped by bloodthirsty creatures.</desc>
   </programme>
-  <programme start="20260929143500 +0200" stop="20260929165700 +0200" channel="starz-stz3">
-    <title lang="en">Dreams</title>
-    <desc lang="en">Mia, Quentin, Paalo, and Alonzo aspire to improve their lives, but their troubled pasts make achieving their dreams a challenging journey.</desc>
+  <programme start="20260930142000 +0200" stop="20260930160200 +0200" channel="starz-stz1">
+    <title lang="en">Power Ballad</title>
+    <desc lang="en">A past-his-prime wedding singer bonds with a fading boy-band star, but when his song reignites the star's career, he risks everything for recognition.</desc>
   </programme>
-  <programme start="20260929165700 +0200" stop="20260929174900 +0200" channel="starz-stz3">
-    <title lang="en">S1 E8 - You Won't See Me Coming</title>
-    <desc lang="en">An explosive showdown leads Duke to a surprising truth, rocking him to the core, as an audacious move captures the world's attention.</desc>
+  <programme start="20260930160200 +0200" stop="20260930172900 +0200" channel="starz-stz1">
+    <title lang="en">Scary Movie 3</title>
+    <desc lang="en">Cindy must stop a deadly videotape curse while dealing with crop circles, an awkward farmer and a ghost girl determined to ruin everyone's week.</desc>
   </programme>
-  <programme start="20260929174900 +0200" stop="20260929195800 +0200" channel="starz-stz3">
-    <title lang="en">Michael</title>
-    <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
+  <programme start="20260930172900 +0200" stop="20260930192600 +0200" channel="starz-stz1">
+    <title lang="en">The Furious</title>
+    <desc lang="en">When his daughter is kidnapped and police fail him, Wang Wei joins forces with a journalist, launching a ruthless fight against a criminal network.
+</desc>
   </programme>
-  <programme start="20260929195800 +0200" stop="20260929211800 +0200" channel="starz-stz3">
-    <title lang="en">When A Woman's Fed Up</title>
-    <desc lang="en">When Taryln learns her husband has been unfaithful, she hatches a devious plan to teach him a lesson he won’t forget.</desc>
+  <programme start="20260930192600 +0200" stop="20260930212300 +0200" channel="starz-stz1">
+    <title lang="en">The Eagle</title>
+    <desc lang="en">In Roman-ruled Britain, a young Roman soldier endeavors to honor his father's memory by finding his lost legion's golden emblem.</desc>
   </programme>
-  <programme start="20260929211800 +0200" stop="20260929223400 +0200" channel="starz-stz3">
-    <title lang="en">Nas: Time Is Illmatic</title>
-    <desc lang="en">A portrait of Nas and the making of &quot;Illmatic,&quot; showing how life in Queensbridge shaped one of hip‑hop’s most influential albums.</desc>
+  <programme start="20260930212300 +0200" stop="20260930230500 +0200" channel="starz-stz1">
+    <title lang="en">Power Ballad</title>
+    <desc lang="en">A past-his-prime wedding singer bonds with a fading boy-band star, but when his song reignites the star's career, he risks everything for recognition.</desc>
   </programme>
-  <programme start="20260929223400 +0200" stop="20260929232500 +0200" channel="starz-stz3">
-    <title lang="en">S1 E8 - You Won't See Me Coming</title>
-    <desc lang="en">An explosive showdown leads Duke to a surprising truth, rocking him to the core, as an audacious move captures the world's attention.</desc>
+  <programme start="20260930230500 +0200" stop="20261001005300 +0200" channel="starz-stz1">
+    <title lang="en">Doom</title>
+    <desc lang="en">Space Marines are dispatched to a Mars research facility to investigate unusual occurrences, only to confront deadly genetically modified creatures.</desc>
   </programme>
-  <programme start="20260929232500 +0200" stop="20260930014700 +0200" channel="starz-stz3">
-    <title lang="en">Dreams</title>
-    <desc lang="en">Mia, Quentin, Paalo, and Alonzo aspire to improve their lives, but their troubled pasts make achieving their dreams a challenging journey.</desc>
+  <programme start="20261001005300 +0200" stop="20261001030000 +0200" channel="starz-stz1">
+    <title lang="en">Warcraft</title>
+    <desc lang="en">A king, a mighty warrior, and a powerful wizard unite to defend the human realm of Azeroth from a tyrannical shaman and his invading army of orcs.</desc>
   </programme>
-  <programme start="20260930014700 +0200" stop="20260930035600 +0200" channel="starz-stz3">
-    <title lang="en">Michael</title>
-    <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
+  <programme start="20261001030000 +0200" stop="20261001045700 +0200" channel="starz-stz1">
+    <title lang="en">The Furious</title>
+    <desc lang="en">When his daughter is kidnapped and police fail him, Wang Wei joins forces with a journalist, launching a ruthless fight against a criminal network.
+</desc>
   </programme>
-  <programme start="20260930035600 +0200" stop="20260930044700 +0200" channel="starz-stz3">
-    <title lang="en">S1 E8 - You Won't See Me Coming</title>
-    <desc lang="en">An explosive showdown leads Duke to a surprising truth, rocking him to the core, as an audacious move captures the world's attention.</desc>
+  <programme start="20261001045700 +0200" stop="20261001062800 +0200" channel="starz-stz1">
+    <title lang="en">Priest</title>
+    <desc lang="en">In a world ravaged by war between humans and vampires, a renegade priest sets out to rescue his niece, kidnapped by bloodthirsty creatures.</desc>
   </programme>
   <programme start="20260930044700 +0200" stop="20260930060300 +0200" channel="starz-stz3">
     <title lang="en">Nas: Time Is Illmatic</title>
     <desc lang="en">A portrait of Nas and the making of &quot;Illmatic,&quot; showing how life in Queensbridge shaped one of hip‑hop’s most influential albums.</desc>
   </programme>
-  <programme start="20260929054600 +0200" stop="20260929072700 +0200" channel="starz-stz5">
-    <title lang="en">Youth In Oregon</title>
-    <desc lang="en">On a cross-country trip to Oregon, a man tries to reconnect with his aging father-in-law and help him rediscover a reason to keep living.</desc>
+  <programme start="20260930060300 +0200" stop="20260930080100 +0200" channel="starz-stz3">
+    <title lang="en">Boomerang</title>
+    <desc lang="en">A successful executive and notorious womanizer gets a taste of his own medicine as his new female boss proves to be even more of a deviant than he is.</desc>
   </programme>
-  <programme start="20260929072700 +0200" stop="20260929090900 +0200" channel="starz-stz5">
-    <title lang="en">Before I Fall</title>
-    <desc lang="en">A teenage girl wakes up to relive the same day over and over again after dying in a car crash.</desc>
+  <programme start="20260930080100 +0200" stop="20260930093400 +0200" channel="starz-stz3">
+    <title lang="en">Blowback</title>
+    <desc lang="en">After witnessing a killer's execution, Detective Morell is shocked when former jurors are murdered with the executed killer's signature messages.</desc>
   </programme>
-  <programme start="20260929090900 +0200" stop="20260929105500 +0200" channel="starz-stz5">
-    <title lang="en">Coffee Wars</title>
-    <desc lang="en">A vegan barista competes on a global stage at the World Barista Championship.</desc>
+  <programme start="20260930093400 +0200" stop="20260930113600 +0200" channel="starz-stz3">
+    <title lang="en">Idlewild</title>
+    <desc lang="en">A musical set in the Prohibition-era American South, where a performer and his piano player contend with gangsters who have their eyes on the club.</desc>
   </programme>
-  <programme start="20260929105500 +0200" stop="20260929122800 +0200" channel="starz-stz5">
-    <title lang="en">Singing In My Sleep</title>
-    <desc lang="en">A talented teen songwriter grapples with her late father's musical legacy, confronting his absence as the 20th anniversary of his debut album looms.</desc>
+  <programme start="20260930113600 +0200" stop="20260930132700 +0200" channel="starz-stz3">
+    <title lang="en">What's Cooking?</title>
+    <desc lang="en">Tensions between family members arise and hilarity ensues when four ethnically diverse Los Angeles families set about preparing a Thanksgiving meal.</desc>
   </programme>
-  <programme start="20260929122800 +0200" stop="20260929140300 +0200" channel="starz-stz5">
-    <title lang="en">Plan C</title>
-    <desc lang="en">A secret grassroots organization fights to expand access to abortion pills across the United States.</desc>
+  <programme start="20260930132700 +0200" stop="20260930151100 +0200" channel="starz-stz3">
+    <title lang="en">Dope</title>
+    <desc lang="en">Set in Inglewood, California, a high school geek fights to fit in while keeping his eye on an Ivy League prize.</desc>
   </programme>
-  <programme start="20260929140300 +0200" stop="20260929153700 +0200" channel="starz-stz5">
-    <title lang="en">The Benefactor</title>
-    <desc lang="en">Consumed by guilt over the accidental death of a couple, an eccentric Philadelphia philanthropist provides financial assistance to their daughter.</desc>
+  <programme start="20260930151100 +0200" stop="20260930170900 +0200" channel="starz-stz3">
+    <title lang="en">Once Upon A Time In Brooklyn</title>
+    <desc lang="en">Fresh out of prison, Bobby returns to mob life only to face a tough choice that reveals a truth he never saw coming.</desc>
   </programme>
-  <programme start="20260929153700 +0200" stop="20260929171600 +0200" channel="starz-stz5">
-    <title lang="en">Before I Fall</title>
-    <desc lang="en">A teenage girl wakes up to relive the same day over and over again after dying in a car crash.</desc>
+  <programme start="20260930170900 +0200" stop="20260930191100 +0200" channel="starz-stz3">
+    <title lang="en">Idlewild</title>
+    <desc lang="en">A musical set in the Prohibition-era American South, where a performer and his piano player contend with gangsters who have their eyes on the club.</desc>
   </programme>
-  <programme start="20260929171600 +0200" stop="20260929193000 +0200" channel="starz-stz5">
-    <title lang="en">The Promise</title>
-    <desc lang="en">In 1914, two men compete for Ana’s love as the Ottoman Empire falls. Their shared Armenian roots force them to unite to survive the chaos.</desc>
+  <programme start="20260930191100 +0200" stop="20260930200400 +0200" channel="starz-stz3">
+    <title lang="en">S1 E8 - You Won't See Me Coming</title>
+    <desc lang="en">An explosive showdown leads Duke to a surprising truth, rocking him to the core, as an audacious move captures the world's attention.</desc>
   </programme>
-  <programme start="20260929193000 +0200" stop="20260929210900 +0200" channel="starz-stz5">
-    <title lang="en">Quartet</title>
-    <desc lang="en">A famed singer rejoins her old quartet, stirring up past grudges. Can they mend fences and perform together again?</desc>
+  <programme start="20260930200400 +0200" stop="20260930220200 +0200" channel="starz-stz3">
+    <title lang="en">Boomerang</title>
+    <desc lang="en">A successful executive and notorious womanizer gets a taste of his own medicine as his new female boss proves to be even more of a deviant than he is.</desc>
   </programme>
-  <programme start="20260929210900 +0200" stop="20260929224200 +0200" channel="starz-stz5">
-    <title lang="en">Singing In My Sleep</title>
-    <desc lang="en">A talented teen songwriter grapples with her late father's musical legacy, confronting his absence as the 20th anniversary of his debut album looms.</desc>
+  <programme start="20260930220200 +0200" stop="20260930230900 +0200" channel="starz-stz3">
+    <title lang="en">Caught On Tape</title>
+    <desc lang="en">A boy’s video frames a failed heist, but as detectives question the lone survivor, a deeper conspiracy comes to light.</desc>
   </programme>
-  <programme start="20260929224200 +0200" stop="20260930003500 +0200" channel="starz-stz5">
-    <title lang="en">Fierce People</title>
-    <desc lang="en">A drug addicted mother and her son are invited to spend the summer at the estate of an old friend and his eccentric family members.</desc>
+  <programme start="20260930230900 +0200" stop="20261001010000 +0200" channel="starz-stz3">
+    <title lang="en">What's Cooking?</title>
+    <desc lang="en">Tensions between family members arise and hilarity ensues when four ethnically diverse Los Angeles families set about preparing a Thanksgiving meal.</desc>
   </programme>
-  <programme start="20260930003500 +0200" stop="20260930022100 +0200" channel="starz-stz5">
-    <title lang="en">Coffee Wars</title>
-    <desc lang="en">A vegan barista competes on a global stage at the World Barista Championship.</desc>
+  <programme start="20261001010000 +0200" stop="20261001025800 +0200" channel="starz-stz3">
+    <title lang="en">Boomerang</title>
+    <desc lang="en">A successful executive and notorious womanizer gets a taste of his own medicine as his new female boss proves to be even more of a deviant than he is.</desc>
   </programme>
-  <programme start="20260930022100 +0200" stop="20260930040000 +0200" channel="starz-stz5">
-    <title lang="en">Quartet</title>
-    <desc lang="en">A famed singer rejoins her old quartet, stirring up past grudges. Can they mend fences and perform together again?</desc>
+  <programme start="20261001025800 +0200" stop="20261001034900 +0200" channel="starz-stz3">
+    <title lang="en">S1 E8 - You Won't See Me Coming</title>
+    <desc lang="en">An explosive showdown leads Duke to a surprising truth, rocking him to the core, as an audacious move captures the world's attention.</desc>
   </programme>
-  <programme start="20260930040000 +0200" stop="20260930053400 +0200" channel="starz-stz5">
-    <title lang="en">The Benefactor</title>
-    <desc lang="en">Consumed by guilt over the accidental death of a couple, an eccentric Philadelphia philanthropist provides financial assistance to their daughter.</desc>
+  <programme start="20261001034900 +0200" stop="20261001051300 +0200" channel="starz-stz3">
+    <title lang="en">Saturday Church</title>
+    <desc lang="en">A 14 year-old struggling with gender identity and religion begins to use fantasy to escape life in the inner city and find passion in the process.</desc>
+  </programme>
+  <programme start="20261001051300 +0200" stop="20261001071500 +0200" channel="starz-stz3">
+    <title lang="en">Idlewild</title>
+    <desc lang="en">A musical set in the Prohibition-era American South, where a performer and his piano player contend with gangsters who have their eyes on the club.</desc>
   </programme>
   <programme start="20260930053400 +0200" stop="20260930072700 +0200" channel="starz-stz5">
     <title lang="en">Fierce People</title>
     <desc lang="en">A drug addicted mother and her son are invited to spend the summer at the estate of an old friend and his eccentric family members.</desc>
   </programme>
-  <programme start="20260929044600 +0200" stop="20260929062700 +0200" channel="starz-stz6">
-    <title lang="en">All About the Benjamins</title>
-    <desc lang="en">A bounty hunter chasing a fast-talking con man uncovers a criminal plot tied to a fortune worth millions, forcing the pair to work together.</desc>
+  <programme start="20260930072700 +0200" stop="20260930090100 +0200" channel="starz-stz5">
+    <title lang="en">Krystal</title>
+    <desc lang="en">Taylor falls for Krystal, an ex-addict. Pretending to be in AA, he faces secrets and family drama as love teaches him to live without fear.</desc>
   </programme>
-  <programme start="20260929062700 +0200" stop="20260929080300 +0200" channel="starz-stz6">
-    <title lang="en">Trouble Man</title>
-    <desc lang="en">A PI gets hired to find a missing R&amp;B star and accidentally uncovers a larger conspiracy, forcing him to question those around him and his own past.</desc>
+  <programme start="20260930090100 +0200" stop="20260930111100 +0200" channel="starz-stz5">
+    <title lang="en">Twice Born</title>
+    <desc lang="en">Sixteen years after leaving war-torn Bosnia, a woman returns with her son - but the visit sparks memories that force her to confront painful truths.</desc>
   </programme>
-  <programme start="20260929080300 +0200" stop="20260929103500 +0200" channel="starz-stz6">
+  <programme start="20260930111100 +0200" stop="20260930124400 +0200" channel="starz-stz5">
+    <title lang="en">Friend Request</title>
+    <desc lang="en">Unfriending a fellow classmate online results in deadly consequences for a young collegiate.</desc>
+  </programme>
+  <programme start="20260930124400 +0200" stop="20260930141500 +0200" channel="starz-stz5">
+    <title lang="en">McVeigh</title>
+    <desc lang="en">A haunting psychological thriller based on the chilling real-life events of the deadliest act of domestic terrorism in American history.</desc>
+  </programme>
+  <programme start="20260930141500 +0200" stop="20260930153800 +0200" channel="starz-stz5">
+    <title lang="en">Saturday Church</title>
+    <desc lang="en">A 14 year-old struggling with gender identity and religion begins to use fantasy to escape life in the inner city and find passion in the process.</desc>
+  </programme>
+  <programme start="20260930153800 +0200" stop="20260930180800 +0200" channel="starz-stz5">
     <title lang="en">The Da Vinci Code</title>
     <desc lang="en">A Harvard symbiology professor goes on the run with a cryptologist, tracking down clues to solve a murder while unravelling a centuries-old mystery.</desc>
   </programme>
-  <programme start="20260929103500 +0200" stop="20260929121100 +0200" channel="starz-stz6">
-    <title lang="en">Blood And Bone</title>
-    <desc lang="en">An ex-convict shakes up Los Angeles' underground fighting scene as he pursues a promise made to a friend.</desc>
+  <programme start="20260930180800 +0200" stop="20260930201800 +0200" channel="starz-stz5">
+    <title lang="en">Twice Born</title>
+    <desc lang="en">Sixteen years after leaving war-torn Bosnia, a woman returns with her son - but the visit sparks memories that force her to confront painful truths.</desc>
   </programme>
-  <programme start="20260929121100 +0200" stop="20260929140900 +0200" channel="starz-stz6">
-    <title lang="en">Beast</title>
-    <desc lang="en">When his brother is at risk, a former MMA champ steps back into the ring for a final battle against a fierce reigning champion.</desc>
+  <programme start="20260930201800 +0200" stop="20260930221400 +0200" channel="starz-stz5">
+    <title lang="en">American Heart</title>
+    <desc lang="en">A tough ex-convict is reunited with his homeless, street-wise teenage son, and they must struggle to rebuild their lives together.</desc>
   </programme>
-  <programme start="20260929140900 +0200" stop="20260929155900 +0200" channel="starz-stz6">
-    <title lang="en">Underworld: Evolution</title>
-    <desc lang="en">The war between the Death Dealers and Lycans continues as Selene and her werewolf lover go searching for their future by seeking their past.</desc>
+  <programme start="20260930221400 +0200" stop="20260930234700 +0200" channel="starz-stz5">
+    <title lang="en">Friend Request</title>
+    <desc lang="en">Unfriending a fellow classmate online results in deadly consequences for a young collegiate.</desc>
   </programme>
-  <programme start="20260929155900 +0200" stop="20260929175900 +0200" channel="starz-stz6">
-    <title lang="en">Ant-Man</title>
-    <desc lang="en">From Marvel: Looking for a new start, master thief Scott Lang is approached by Dr. Pym, creator of a technology that can shrink a man to insect size.</desc>
+  <programme start="20260930234700 +0200" stop="20261001013100 +0200" channel="starz-stz5">
+    <title lang="en">Love, Rosie</title>
+    <desc lang="en">Rosie and Alex have been best friends since they were 5, so they couldn't possibly be right for one another... or could they?</desc>
   </programme>
-  <programme start="20260929175900 +0200" stop="20260929194100 +0200" channel="starz-stz6">
-    <title lang="en">Power Ballad</title>
-    <desc lang="en">A past-his-prime wedding singer bonds with a fading boy-band star, but when his song reignites the star's career, he risks everything for recognition.</desc>
+  <programme start="20261001013100 +0200" stop="20261001040100 +0200" channel="starz-stz5">
+    <title lang="en">The Da Vinci Code</title>
+    <desc lang="en">A Harvard symbiology professor goes on the run with a cryptologist, tracking down clues to solve a murder while unravelling a centuries-old mystery.</desc>
   </programme>
-  <programme start="20260929194100 +0200" stop="20260929213900 +0200" channel="starz-stz6">
-    <title lang="en">Beast</title>
-    <desc lang="en">When his brother is at risk, a former MMA champ steps back into the ring for a final battle against a fierce reigning champion.</desc>
+  <programme start="20261001040100 +0200" stop="20261001055700 +0200" channel="starz-stz5">
+    <title lang="en">American Heart</title>
+    <desc lang="en">A tough ex-convict is reunited with his homeless, street-wise teenage son, and they must struggle to rebuild their lives together.</desc>
   </programme>
-  <programme start="20260929213900 +0200" stop="20260929232500 +0200" channel="starz-stz6">
-    <title lang="en">Norbit</title>
-    <desc lang="en">Norbit gets a second chance at love with Kate, but his jealous wife Rasputia stands in the way, determined to keep him all to herself.</desc>
-  </programme>
-  <programme start="20260929232500 +0200" stop="20260930010000 +0200" channel="starz-stz6">
-    <title lang="en">Happy Gilmore</title>
-    <desc lang="en">A hot-headed failed hockey player enters a professional golf tournament, using his massive drive to win prize money and save his grandma's home.</desc>
-  </programme>
-  <programme start="20260930010000 +0200" stop="20260930030000 +0200" channel="starz-stz6">
-    <title lang="en">Ant-Man</title>
-    <desc lang="en">From Marvel: Looking for a new start, master thief Scott Lang is approached by Dr. Pym, creator of a technology that can shrink a man to insect size.</desc>
-  </programme>
-  <programme start="20260930030000 +0200" stop="20260930044200 +0200" channel="starz-stz6">
-    <title lang="en">Power Ballad</title>
-    <desc lang="en">A past-his-prime wedding singer bonds with a fading boy-band star, but when his song reignites the star's career, he risks everything for recognition.</desc>
+  <programme start="20261001055700 +0200" stop="20261001072000 +0200" channel="starz-stz5">
+    <title lang="en">Beatriz At Dinner</title>
+    <desc lang="en">After her car breaks down, a holistic healer stays for dinner at the home of her wealthy, self-absorbed clients.</desc>
   </programme>
   <programme start="20260930044200 +0200" stop="20260930064700 +0200" channel="starz-stz6">
     <title lang="en">Underworld</title>
     <desc lang="en">Selene, a vampire warrior, is in a war between vampires and werewolves - then she falls in love with Michael, a werewolf who longs for the war to end.</desc>
   </programme>
-  <programme start="20260929045200 +0200" stop="20260929061700 +0200" channel="starz-stz7">
+  <programme start="20260930064700 +0200" stop="20260930093700 +0200" channel="starz-stz6">
+    <title lang="en">Gangs of New York</title>
+    <desc lang="en">A young man seeks revenge against the larger-than-life strongman who killed his father in the brutal, gang-dominated New York City of the 1840s.</desc>
+  </programme>
+  <programme start="20260930093700 +0200" stop="20260930110400 +0200" channel="starz-stz6">
+    <title lang="en">Curve</title>
+    <desc lang="en">A bride-to-be takes an unexpected detour. When her car breaks down, a hitchhiker offers assistance, hinting at a twist of fate.</desc>
+  </programme>
+  <programme start="20260930110400 +0200" stop="20260930124900 +0200" channel="starz-stz6">
+    <title lang="en">Volcano</title>
+    <desc lang="en">LA is heating up - and it's not global warming! A massive volcano erupts in the heart of the city in this high-intensity disaster tale.</desc>
+  </programme>
+  <programme start="20260930124900 +0200" stop="20260930142000 +0200" channel="starz-stz6">
+    <title lang="en">Priest</title>
+    <desc lang="en">In a world ravaged by war between humans and vampires, a renegade priest sets out to rescue his niece, kidnapped by bloodthirsty creatures.</desc>
+  </programme>
+  <programme start="20260930142000 +0200" stop="20260930160200 +0200" channel="starz-stz6">
+    <title lang="en">Power Ballad</title>
+    <desc lang="en">A past-his-prime wedding singer bonds with a fading boy-band star, but when his song reignites the star's career, he risks everything for recognition.</desc>
+  </programme>
+  <programme start="20260930160200 +0200" stop="20260930172900 +0200" channel="starz-stz6">
     <title lang="en">Scary Movie 3</title>
     <desc lang="en">Cindy must stop a deadly videotape curse while dealing with crop circles, an awkward farmer and a ghost girl determined to ruin everyone's week.</desc>
   </programme>
-  <programme start="20260929061700 +0200" stop="20260929080400 +0200" channel="starz-stz7">
-    <title lang="en">Wingman Inc.</title>
-    <desc lang="en">A wingman‑for‑hire and a woman who defends against bad advances fall for each other, unaware they’re working for the competition.</desc>
+  <programme start="20260930172900 +0200" stop="20260930192600 +0200" channel="starz-stz6">
+    <title lang="en">The Furious</title>
+    <desc lang="en">When his daughter is kidnapped and police fail him, Wang Wei joins forces with a journalist, launching a ruthless fight against a criminal network.
+</desc>
   </programme>
-  <programme start="20260929080400 +0200" stop="20260929093800 +0200" channel="starz-stz7">
-    <title lang="en">Table For Three</title>
-    <desc lang="en">After his girlfriend dumps him, Scott invites a seemingly ideal couple to share his apartment... only for them get involved in every part of his life.</desc>
+  <programme start="20260930192600 +0200" stop="20260930212300 +0200" channel="starz-stz6">
+    <title lang="en">The Eagle</title>
+    <desc lang="en">In Roman-ruled Britain, a young Roman soldier endeavors to honor his father's memory by finding his lost legion's golden emblem.</desc>
   </programme>
-  <programme start="20260929093800 +0200" stop="20260929112000 +0200" channel="starz-stz7">
-    <title lang="en">Finn On The Fly</title>
-    <desc lang="en">When a science mishap turns his dog human, a shy teen is swept into chaos, confusion, and first love.</desc>
+  <programme start="20260930212300 +0200" stop="20260930230500 +0200" channel="starz-stz6">
+    <title lang="en">Power Ballad</title>
+    <desc lang="en">A past-his-prime wedding singer bonds with a fading boy-band star, but when his song reignites the star's career, he risks everything for recognition.</desc>
   </programme>
-  <programme start="20260929112000 +0200" stop="20260929125300 +0200" channel="starz-stz7">
-    <title lang="en">Twice Upon A Yesterday</title>
-    <desc lang="en">An out-of-work actor, eager to rekindle his romance with his ex-girlfriend, unexpectedly discovers a way to reverse time.</desc>
+  <programme start="20260930230500 +0200" stop="20261001005300 +0200" channel="starz-stz6">
+    <title lang="en">Doom</title>
+    <desc lang="en">Space Marines are dispatched to a Mars research facility to investigate unusual occurrences, only to confront deadly genetically modified creatures.</desc>
   </programme>
-  <programme start="20260929125300 +0200" stop="20260929145100 +0200" channel="starz-stz7">
-    <title lang="en">Boomerang</title>
-    <desc lang="en">A successful executive and notorious womanizer gets a taste of his own medicine as his new female boss proves to be even more of a deviant than he is.</desc>
+  <programme start="20261001005300 +0200" stop="20261001030000 +0200" channel="starz-stz6">
+    <title lang="en">Warcraft</title>
+    <desc lang="en">A king, a mighty warrior, and a powerful wizard unite to defend the human realm of Azeroth from a tyrannical shaman and his invading army of orcs.</desc>
   </programme>
-  <programme start="20260929145100 +0200" stop="20260929162300 +0200" channel="starz-stz7">
-    <title lang="en">Code Name: The Cleaner</title>
-    <desc lang="en">Entangled in a government conspiracy and a love triangle, Jake's only hope of survival is to become one thing - Code Name: The Cleaner!</desc>
+  <programme start="20261001030000 +0200" stop="20261001045700 +0200" channel="starz-stz6">
+    <title lang="en">The Furious</title>
+    <desc lang="en">When his daughter is kidnapped and police fail him, Wang Wei joins forces with a journalist, launching a ruthless fight against a criminal network.
+</desc>
   </programme>
-  <programme start="20260929162300 +0200" stop="20260929180400 +0200" channel="starz-stz7">
-    <title lang="en">Man Of The House</title>
-    <desc lang="en">A by-the-book Texas Ranger finds himself going undercover as a live-in coach to protect a group of college cheerleaders who witnessed a murder.</desc>
-  </programme>
-  <programme start="20260929180400 +0200" stop="20260929193600 +0200" channel="starz-stz7">
-    <title lang="en">Paul Blart: Mall Cop</title>
-    <desc lang="en">When crooks shut down a suburban New Jersey shopping mall, a security officer must find his inner policeman to save the day.</desc>
-  </programme>
-  <programme start="20260929193600 +0200" stop="20260929211100 +0200" channel="starz-stz7">
-    <title lang="en">Paul Blart: Mall Cop 2</title>
-    <desc lang="en">Security guard Paul Blart takes his daughter to Las Vegas and stumbles upon a heist.</desc>
-  </programme>
-  <programme start="20260929211100 +0200" stop="20260929223900 +0200" channel="starz-stz7">
-    <title lang="en">Black Sheep</title>
-    <desc lang="en">An experiment in genetic engineering turns harmless sheep into bloodthirsty killers that terrorize a sprawling New Zealand farm.</desc>
-  </programme>
-  <programme start="20260929223900 +0200" stop="20260930002300 +0200" channel="starz-stz7">
-    <title lang="en">The Winning Season</title>
-    <desc lang="en">A washed-up coach gets a chance to redeem himself when tasked with leading a high school girls' varsity basketball team.</desc>
-  </programme>
-  <programme start="20260930002300 +0200" stop="20260930015500 +0200" channel="starz-stz7">
-    <title lang="en">Code Name: The Cleaner</title>
-    <desc lang="en">Entangled in a government conspiracy and a love triangle, Jake's only hope of survival is to become one thing - Code Name: The Cleaner!</desc>
-  </programme>
-  <programme start="20260930015500 +0200" stop="20260930032700 +0200" channel="starz-stz7">
-    <title lang="en">Paul Blart: Mall Cop</title>
-    <desc lang="en">When crooks shut down a suburban New Jersey shopping mall, a security officer must find his inner policeman to save the day.</desc>
-  </programme>
-  <programme start="20260930032700 +0200" stop="20260930050200 +0200" channel="starz-stz7">
-    <title lang="en">Paul Blart: Mall Cop 2</title>
-    <desc lang="en">Security guard Paul Blart takes his daughter to Las Vegas and stumbles upon a heist.</desc>
+  <programme start="20261001045700 +0200" stop="20261001062800 +0200" channel="starz-stz6">
+    <title lang="en">Priest</title>
+    <desc lang="en">In a world ravaged by war between humans and vampires, a renegade priest sets out to rescue his niece, kidnapped by bloodthirsty creatures.</desc>
   </programme>
   <programme start="20260930050200 +0200" stop="20260930064300 +0200" channel="starz-stz7">
     <title lang="en">Man Of The House</title>
     <desc lang="en">A by-the-book Texas Ranger finds himself going undercover as a live-in coach to protect a group of college cheerleaders who witnessed a murder.</desc>
   </programme>
-  <programme start="20260929054800 +0200" stop="20260929064000 +0200" channel="starz-stz8">
-    <title lang="en">S1 E8 - You Won't See Me Coming</title>
-    <desc lang="en">An explosive showdown leads Duke to a surprising truth, rocking him to the core, as an audacious move captures the world's attention.</desc>
+  <programme start="20260930064300 +0200" stop="20260930083100 +0200" channel="starz-stz7">
+    <title lang="en">The Wood</title>
+    <desc lang="en">Hours before his wedding, Roland leans on his friends as they revisit growing up in Inglewood, where hard lessons and missteps shaped him.</desc>
   </programme>
-  <programme start="20260929064000 +0200" stop="20260929085900 +0200" channel="starz-stz8">
-    <title lang="en">Shutter Island</title>
-    <desc lang="en">When U.S. Marshal Teddy Daniels arrives at the asylum for the criminally insane on Shutter Island, he uncovers terrifying truths about the island.</desc>
+  <programme start="20260930083100 +0200" stop="20260930100700 +0200" channel="starz-stz7">
+    <title lang="en">Coming Soon</title>
+    <desc lang="en">Wealthy young Manhattanites navigate the challenges of sexual coming of age in a romantic comedy set at an Upper East Side prep school.</desc>
   </programme>
-  <programme start="20260929085900 +0200" stop="20260929104700 +0200" channel="starz-stz8">
-    <title lang="en">Death Race: Beyond Anarchy</title>
-    <desc lang="en">A black ops specialist infiltrates a maximum security prison to take down legendary driver, Frankenstein, in a violent and brutal car race.</desc>
+  <programme start="20260930100700 +0200" stop="20260930113900 +0200" channel="starz-stz7">
+    <title lang="en">Paul Blart: Mall Cop</title>
+    <desc lang="en">When crooks shut down a suburban New Jersey shopping mall, a security officer must find his inner policeman to save the day.</desc>
   </programme>
-  <programme start="20260929104700 +0200" stop="20260929122400 +0200" channel="starz-stz8">
-    <title lang="en">Turbulence</title>
-    <desc lang="en">A hot air balloon ride takes an unexpected turn when a third passenger joins, sparking events they never imagined five thousand meters in the air.</desc>
+  <programme start="20260930113900 +0200" stop="20260930131400 +0200" channel="starz-stz7">
+    <title lang="en">Paul Blart: Mall Cop 2</title>
+    <desc lang="en">Security guard Paul Blart takes his daughter to Las Vegas and stumbles upon a heist.</desc>
   </programme>
-  <programme start="20260929122400 +0200" stop="20260929142000 +0200" channel="starz-stz8">
-    <title lang="en">Jungle</title>
-    <desc lang="en">An adventurous journey into the Amazon turns deadly when a guide’s dark past and the dangers of the wilderness push a group into a fight for survival.</desc>
+  <programme start="20260930131400 +0200" stop="20260930144900 +0200" channel="starz-stz7">
+    <title lang="en">Lay The Favorite</title>
+    <desc lang="en">Beth goes from stripper to sports gambling assistant for Dink in Vegas - only to face the wrath of his jealous wife.</desc>
   </programme>
-  <programme start="20260929142000 +0200" stop="20260929163900 +0200" channel="starz-stz8">
-    <title lang="en">Shutter Island</title>
-    <desc lang="en">When U.S. Marshal Teddy Daniels arrives at the asylum for the criminally insane on Shutter Island, he uncovers terrifying truths about the island.</desc>
+  <programme start="20260930144900 +0200" stop="20260930162800 +0200" channel="starz-stz7">
+    <title lang="en">Ask Me Anything</title>
+    <desc lang="en">A confused teenager writes a blog revealing her daily activities and secrets, advised by her guidance counselor in lieu of her first year in college.</desc>
   </programme>
-  <programme start="20260929163900 +0200" stop="20260929180500 +0200" channel="starz-stz8">
-    <title lang="en">Curve</title>
-    <desc lang="en">A bride-to-be takes an unexpected detour. When her car breaks down, a hitchhiker offers assistance, hinting at a twist of fate.</desc>
+  <programme start="20260930162800 +0200" stop="20260930182500 +0200" channel="starz-stz7">
+    <title lang="en">Harlem Nights</title>
+    <desc lang="en">In 1930s New York, a gambling house owner and his crew battle rivals, gangsters, and corrupt police.</desc>
   </programme>
-  <programme start="20260929180500 +0200" stop="20260929201900 +0200" channel="starz-stz8">
-    <title lang="en">The Hate U Give</title>
-    <desc lang="en">After seeing her friend fatally shot by a police officer, a teen must find the courage to speak out and fight for justice for her community.</desc>
+  <programme start="20260930182500 +0200" stop="20260930195900 +0200" channel="starz-stz7">
+    <title lang="en">The Stepford Wives</title>
+    <desc lang="en">After moving to Stepford, Connecticut, Joanna Eberhart senses the town is too perfect - the wives polished and the husbands unnervingly happy.</desc>
   </programme>
-  <programme start="20260929201900 +0200" stop="20260929211700 +0200" channel="starz-stz8">
-    <title lang="en">S2 E2 - The Veil of Time</title>
-    <desc lang="en">Brian and Ellen help their clans prepare for the rebellion. Julia and Henry learn more about the stones at Craigh na Dun from unexpected sources.</desc>
+  <programme start="20260930195900 +0200" stop="20260930213800 +0200" channel="starz-stz7">
+    <title lang="en">Falling Up</title>
+    <desc lang="en">After losing his father, Hank becomes a doorman at a prestigious NYC apartment building, where he develops a connection with one of the residents.</desc>
   </programme>
-  <programme start="20260929211700 +0200" stop="20260929220900 +0200" channel="starz-stz8">
-    <title lang="en">S1 E8 - You Won't See Me Coming</title>
-    <desc lang="en">An explosive showdown leads Duke to a surprising truth, rocking him to the core, as an audacious move captures the world's attention.</desc>
+  <programme start="20260930213800 +0200" stop="20260930230700 +0200" channel="starz-stz7">
+    <title lang="en">Permanent Midnight</title>
+    <desc lang="en">The true story of a successful television writer who keeps making hits during a haunting, darkly comic descent into a $6000 per week heroin addiction.</desc>
   </programme>
-  <programme start="20260929220900 +0200" stop="20260929234600 +0200" channel="starz-stz8">
-    <title lang="en">Turbulence</title>
-    <desc lang="en">A hot air balloon ride takes an unexpected turn when a third passenger joins, sparking events they never imagined five thousand meters in the air.</desc>
+  <programme start="20260930230700 +0200" stop="20261001003300 +0200" channel="starz-stz7">
+    <title lang="en">Hi-Life</title>
+    <desc lang="en">Jimmy is in a bind, needing $900 to settle a gambling debt. His web of lies results in Ray attempting to gather the money from friends who owe him.</desc>
   </programme>
-  <programme start="20260929234600 +0200" stop="20260930020500 +0200" channel="starz-stz8">
-    <title lang="en">Shutter Island</title>
-    <desc lang="en">When U.S. Marshal Teddy Daniels arrives at the asylum for the criminally insane on Shutter Island, he uncovers terrifying truths about the island.</desc>
+  <programme start="20261001003300 +0200" stop="20261001020700 +0200" channel="starz-stz7">
+    <title lang="en">The Stepford Wives</title>
+    <desc lang="en">After moving to Stepford, Connecticut, Joanna Eberhart senses the town is too perfect - the wives polished and the husbands unnervingly happy.</desc>
   </programme>
-  <programme start="20260930020500 +0200" stop="20260930030300 +0200" channel="starz-stz8">
-    <title lang="en">S2 E2 - The Veil of Time</title>
-    <desc lang="en">Brian and Ellen help their clans prepare for the rebellion. Julia and Henry learn more about the stones at Craigh na Dun from unexpected sources.</desc>
+  <programme start="20261001020700 +0200" stop="20261001040400 +0200" channel="starz-stz7">
+    <title lang="en">Harlem Nights</title>
+    <desc lang="en">In 1930s New York, a gambling house owner and his crew battle rivals, gangsters, and corrupt police.</desc>
   </programme>
-  <programme start="20260930030300 +0200" stop="20260930035500 +0200" channel="starz-stz8">
-    <title lang="en">S1 E8 - You Won't See Me Coming</title>
-    <desc lang="en">An explosive showdown leads Duke to a surprising truth, rocking him to the core, as an audacious move captures the world's attention.</desc>
+  <programme start="20261001040400 +0200" stop="20261001054300 +0200" channel="starz-stz7">
+    <title lang="en">Ask Me Anything</title>
+    <desc lang="en">A confused teenager writes a blog revealing her daily activities and secrets, advised by her guidance counselor in lieu of her first year in college.</desc>
+  </programme>
+  <programme start="20261001054300 +0200" stop="20261001071800 +0200" channel="starz-stz7">
+    <title lang="en">Lay The Favorite</title>
+    <desc lang="en">Beth goes from stripper to sports gambling assistant for Dink in Vegas - only to face the wrath of his jealous wife.</desc>
   </programme>
   <programme start="20260930035500 +0200" stop="20260930060900 +0200" channel="starz-stz8">
     <title lang="en">The Hate U Give</title>
     <desc lang="en">After seeing her friend fatally shot by a police officer, a teen must find the courage to speak out and fight for justice for her community.</desc>
   </programme>
-  <programme start="20260929044600 +0200" stop="20260929062700 +0200" channel="starz-stz9">
-    <title lang="en">All About the Benjamins</title>
-    <desc lang="en">A bounty hunter chasing a fast-talking con man uncovers a criminal plot tied to a fortune worth millions, forcing the pair to work together.</desc>
+  <programme start="20260930060900 +0200" stop="20260930070700 +0200" channel="starz-stz8">
+    <title lang="en">S2 E2 - The Veil of Time</title>
+    <desc lang="en">Brian and Ellen help their clans prepare for the rebellion. Julia and Henry learn more about the stones at Craigh na Dun from unexpected sources.</desc>
   </programme>
-  <programme start="20260929062700 +0200" stop="20260929080300 +0200" channel="starz-stz9">
-    <title lang="en">Trouble Man</title>
-    <desc lang="en">A PI gets hired to find a missing R&amp;B star and accidentally uncovers a larger conspiracy, forcing him to question those around him and his own past.</desc>
+  <programme start="20260930070700 +0200" stop="20260930090300 +0200" channel="starz-stz8">
+    <title lang="en">Black Snake Moan</title>
+    <desc lang="en">When ex-bluesman Lazarus finds the town nymphomaniac Rae on the side of the road, he vows to nurse her back to health… and cure her of her wickedness.</desc>
   </programme>
-  <programme start="20260929080300 +0200" stop="20260929103500 +0200" channel="starz-stz9">
-    <title lang="en">The Da Vinci Code</title>
-    <desc lang="en">A Harvard symbiology professor goes on the run with a cryptologist, tracking down clues to solve a murder while unravelling a centuries-old mystery.</desc>
+  <programme start="20260930090300 +0200" stop="20260930103800 +0200" channel="starz-stz8">
+    <title lang="en">The Big Empty</title>
+    <desc lang="en">John is an actor with little work and no money who finds himself with an opportunity to make some quick cash by delivering a mysterious suitcase.</desc>
   </programme>
-  <programme start="20260929103500 +0200" stop="20260929121100 +0200" channel="starz-stz9">
-    <title lang="en">Blood And Bone</title>
-    <desc lang="en">An ex-convict shakes up Los Angeles' underground fighting scene as he pursues a promise made to a friend.</desc>
+  <programme start="20260930103800 +0200" stop="20260930120100 +0200" channel="starz-stz8">
+    <title lang="en">Phobic</title>
+    <desc lang="en">A fragile homicide detective sees similarities between herself and the victims of a killer who is murdering phobics by exposing them to their fears.</desc>
   </programme>
-  <programme start="20260929121100 +0200" stop="20260929140900 +0200" channel="starz-stz9">
+  <programme start="20260930120100 +0200" stop="20260930132100 +0200" channel="starz-stz8">
+    <title lang="en">When A Woman's Fed Up</title>
+    <desc lang="en">When Taryln learns her husband has been unfaithful, she hatches a devious plan to teach him a lesson he won’t forget.</desc>
+  </programme>
+  <programme start="20260930132100 +0200" stop="20260930144800 +0200" channel="starz-stz8">
+    <title lang="en">Freight: The Five Incarnations of Abel Green</title>
+    <desc lang="en">Abel lives five lives across time, guided and hindered by recurring characters who shape his destiny.</desc>
+  </programme>
+  <programme start="20260930144800 +0200" stop="20260930162600 +0200" channel="starz-stz8">
+    <title lang="en">In The Grey</title>
+    <desc lang="en">A covert team is sent to recover a billion-dollar fortune, but the mission spirals into a high-stakes battle of strategy, deception, and survival.</desc>
+  </programme>
+  <programme start="20260930162600 +0200" stop="20260930181200 +0200" channel="starz-stz8">
+    <title lang="en">Death Race</title>
+    <desc lang="en">Ex-con Jensen Ames is forced by the warden of a notorious prison to compete in a lethal car race.</desc>
+  </programme>
+  <programme start="20260930181200 +0200" stop="20260930201000 +0200" channel="starz-stz8">
+    <title lang="en">3 Days To Kill</title>
+    <desc lang="en">A CIA agent trying to reconnect with his daughter is offered an experimental drug that could save his life in exchange for one last assignment.</desc>
+  </programme>
+  <programme start="20260930201000 +0200" stop="20260930220600 +0200" channel="starz-stz8">
+    <title lang="en">Black Snake Moan</title>
+    <desc lang="en">When ex-bluesman Lazarus finds the town nymphomaniac Rae on the side of the road, he vows to nurse her back to health… and cure her of her wickedness.</desc>
+  </programme>
+  <programme start="20260930220600 +0200" stop="20260930234400 +0200" channel="starz-stz8">
+    <title lang="en">In The Grey</title>
+    <desc lang="en">A covert team is sent to recover a billion-dollar fortune, but the mission spirals into a high-stakes battle of strategy, deception, and survival.</desc>
+  </programme>
+  <programme start="20260930234400 +0200" stop="20261001013000 +0200" channel="starz-stz8">
+    <title lang="en">Jack Ryan: Shadow Recruit</title>
+    <desc lang="en">Caught between espionage and betrayal, CIA recruit Jack Ryan uncovers a dangerous conspiracy and must act fast to stop a devastating terrorist attack.</desc>
+  </programme>
+  <programme start="20261001013000 +0200" stop="20261001031600 +0200" channel="starz-stz8">
+    <title lang="en">Death Race</title>
+    <desc lang="en">Ex-con Jensen Ames is forced by the warden of a notorious prison to compete in a lethal car race.</desc>
+  </programme>
+  <programme start="20261001031600 +0200" stop="20261001041400 +0200" channel="starz-stz8">
+    <title lang="en">S2 E2 - The Veil of Time</title>
+    <desc lang="en">Brian and Ellen help their clans prepare for the rebellion. Julia and Henry learn more about the stones at Craigh na Dun from unexpected sources.</desc>
+  </programme>
+  <programme start="20261001041400 +0200" stop="20261001050700 +0200" channel="starz-stz8">
+    <title lang="en">S1 E8 - You Won't See Me Coming</title>
+    <desc lang="en">An explosive showdown leads Duke to a surprising truth, rocking him to the core, as an audacious move captures the world's attention.</desc>
+  </programme>
+  <programme start="20261001050700 +0200" stop="20261001070200 +0200" channel="starz-stz8">
     <title lang="en">Beast</title>
     <desc lang="en">When his brother is at risk, a former MMA champ steps back into the ring for a final battle against a fierce reigning champion.</desc>
-  </programme>
-  <programme start="20260929140900 +0200" stop="20260929155900 +0200" channel="starz-stz9">
-    <title lang="en">Underworld: Evolution</title>
-    <desc lang="en">The war between the Death Dealers and Lycans continues as Selene and her werewolf lover go searching for their future by seeking their past.</desc>
-  </programme>
-  <programme start="20260929155900 +0200" stop="20260929175900 +0200" channel="starz-stz9">
-    <title lang="en">Ant-Man</title>
-    <desc lang="en">From Marvel: Looking for a new start, master thief Scott Lang is approached by Dr. Pym, creator of a technology that can shrink a man to insect size.</desc>
-  </programme>
-  <programme start="20260929175900 +0200" stop="20260929194100 +0200" channel="starz-stz9">
-    <title lang="en">Power Ballad</title>
-    <desc lang="en">A past-his-prime wedding singer bonds with a fading boy-band star, but when his song reignites the star's career, he risks everything for recognition.</desc>
-  </programme>
-  <programme start="20260929194100 +0200" stop="20260929213900 +0200" channel="starz-stz9">
-    <title lang="en">Beast</title>
-    <desc lang="en">When his brother is at risk, a former MMA champ steps back into the ring for a final battle against a fierce reigning champion.</desc>
-  </programme>
-  <programme start="20260929213900 +0200" stop="20260929232500 +0200" channel="starz-stz9">
-    <title lang="en">Norbit</title>
-    <desc lang="en">Norbit gets a second chance at love with Kate, but his jealous wife Rasputia stands in the way, determined to keep him all to herself.</desc>
-  </programme>
-  <programme start="20260929232500 +0200" stop="20260930010000 +0200" channel="starz-stz9">
-    <title lang="en">Happy Gilmore</title>
-    <desc lang="en">A hot-headed failed hockey player enters a professional golf tournament, using his massive drive to win prize money and save his grandma's home.</desc>
-  </programme>
-  <programme start="20260930010000 +0200" stop="20260930030000 +0200" channel="starz-stz9">
-    <title lang="en">Ant-Man</title>
-    <desc lang="en">From Marvel: Looking for a new start, master thief Scott Lang is approached by Dr. Pym, creator of a technology that can shrink a man to insect size.</desc>
-  </programme>
-  <programme start="20260930030000 +0200" stop="20260930044200 +0200" channel="starz-stz9">
-    <title lang="en">Power Ballad</title>
-    <desc lang="en">A past-his-prime wedding singer bonds with a fading boy-band star, but when his song reignites the star's career, he risks everything for recognition.</desc>
   </programme>
   <programme start="20260930044200 +0200" stop="20260930064700 +0200" channel="starz-stz9">
     <title lang="en">Underworld</title>
     <desc lang="en">Selene, a vampire warrior, is in a war between vampires and werewolves - then she falls in love with Michael, a werewolf who longs for the war to end.</desc>
+  </programme>
+  <programme start="20260930064700 +0200" stop="20260930093700 +0200" channel="starz-stz9">
+    <title lang="en">Gangs of New York</title>
+    <desc lang="en">A young man seeks revenge against the larger-than-life strongman who killed his father in the brutal, gang-dominated New York City of the 1840s.</desc>
+  </programme>
+  <programme start="20260930093700 +0200" stop="20260930110400 +0200" channel="starz-stz9">
+    <title lang="en">Curve</title>
+    <desc lang="en">A bride-to-be takes an unexpected detour. When her car breaks down, a hitchhiker offers assistance, hinting at a twist of fate.</desc>
+  </programme>
+  <programme start="20260930110400 +0200" stop="20260930124900 +0200" channel="starz-stz9">
+    <title lang="en">Volcano</title>
+    <desc lang="en">LA is heating up - and it's not global warming! A massive volcano erupts in the heart of the city in this high-intensity disaster tale.</desc>
+  </programme>
+  <programme start="20260930124900 +0200" stop="20260930142000 +0200" channel="starz-stz9">
+    <title lang="en">Priest</title>
+    <desc lang="en">In a world ravaged by war between humans and vampires, a renegade priest sets out to rescue his niece, kidnapped by bloodthirsty creatures.</desc>
+  </programme>
+  <programme start="20260930142000 +0200" stop="20260930160200 +0200" channel="starz-stz9">
+    <title lang="en">Power Ballad</title>
+    <desc lang="en">A past-his-prime wedding singer bonds with a fading boy-band star, but when his song reignites the star's career, he risks everything for recognition.</desc>
+  </programme>
+  <programme start="20260930160200 +0200" stop="20260930172900 +0200" channel="starz-stz9">
+    <title lang="en">Scary Movie 3</title>
+    <desc lang="en">Cindy must stop a deadly videotape curse while dealing with crop circles, an awkward farmer and a ghost girl determined to ruin everyone's week.</desc>
+  </programme>
+  <programme start="20260930172900 +0200" stop="20260930192600 +0200" channel="starz-stz9">
+    <title lang="en">The Furious</title>
+    <desc lang="en">When his daughter is kidnapped and police fail him, Wang Wei joins forces with a journalist, launching a ruthless fight against a criminal network.
+</desc>
+  </programme>
+  <programme start="20260930192600 +0200" stop="20260930212300 +0200" channel="starz-stz9">
+    <title lang="en">The Eagle</title>
+    <desc lang="en">In Roman-ruled Britain, a young Roman soldier endeavors to honor his father's memory by finding his lost legion's golden emblem.</desc>
+  </programme>
+  <programme start="20260930212300 +0200" stop="20260930230500 +0200" channel="starz-stz9">
+    <title lang="en">Power Ballad</title>
+    <desc lang="en">A past-his-prime wedding singer bonds with a fading boy-band star, but when his song reignites the star's career, he risks everything for recognition.</desc>
+  </programme>
+  <programme start="20260930230500 +0200" stop="20261001005300 +0200" channel="starz-stz9">
+    <title lang="en">Doom</title>
+    <desc lang="en">Space Marines are dispatched to a Mars research facility to investigate unusual occurrences, only to confront deadly genetically modified creatures.</desc>
+  </programme>
+  <programme start="20261001005300 +0200" stop="20261001030000 +0200" channel="starz-stz9">
+    <title lang="en">Warcraft</title>
+    <desc lang="en">A king, a mighty warrior, and a powerful wizard unite to defend the human realm of Azeroth from a tyrannical shaman and his invading army of orcs.</desc>
+  </programme>
+  <programme start="20261001030000 +0200" stop="20261001045700 +0200" channel="starz-stz9">
+    <title lang="en">The Furious</title>
+    <desc lang="en">When his daughter is kidnapped and police fail him, Wang Wei joins forces with a journalist, launching a ruthless fight against a criminal network.
+</desc>
+  </programme>
+  <programme start="20261001045700 +0200" stop="20261001062800 +0200" channel="starz-stz9">
+    <title lang="en">Priest</title>
+    <desc lang="en">In a world ravaged by war between humans and vampires, a renegade priest sets out to rescue his niece, kidnapped by bloodthirsty creatures.</desc>
   </programme>
 </tv>
