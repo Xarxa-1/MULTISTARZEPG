@@ -153,57 +153,73 @@
     <title lang="en">John Henry</title>
     <desc lang="en">An ex-gang member seeks peace, but when two immigrant kids flee his old crew, he must face his past or stay in the shadows.</desc>
   </programme>
-  <programme start="20261005053200 +0200" stop="20261005071700 +0200" channel="starz-stz5">
-    <title lang="en">Wonderland</title>
-    <desc lang="en">On July 1, 1981, LAPD found a grisly quadruple murder on Wonderland Avenue. Two stories surfaced, both involving legendary porn actor John Holmes.</desc>
-  </programme>
-  <programme start="20261005071700 +0200" stop="20261005085900 +0200" channel="starz-stz5">
-    <title lang="en">Sleepwalking</title>
-    <desc lang="en">Abandoned by her mother, a young girl and her uncle drive cross-country, where family dysfunctions and tensions rise to the surface.</desc>
-  </programme>
-  <programme start="20261005085900 +0200" stop="20261005104800 +0200" channel="starz-stz5">
-    <title lang="en">Afterwards</title>
-    <desc lang="en">Newly divorced lawyer Nathan Del Amico is shaken up after he meets a doctor who claims that he can sense when select people are about to die.</desc>
-  </programme>
-  <programme start="20261005104800 +0200" stop="20261005130200 +0200" channel="starz-stz5">
-    <title lang="en">The Promise</title>
-    <desc lang="en">In 1914, two men compete for Ana’s love as the Ottoman Empire falls. Their shared Armenian roots force them to unite to survive the chaos.</desc>
-  </programme>
-  <programme start="20261005130200 +0200" stop="20261005145800 +0200" channel="starz-stz5">
-    <title lang="en">Jungle</title>
-    <desc lang="en">An adventurous journey into the Amazon turns deadly when a guide’s dark past and the dangers of the wilderness push a group into a fight for survival.</desc>
-  </programme>
-  <programme start="20261005145800 +0200" stop="20261005163600 +0200" channel="starz-stz5">
-    <title lang="en">Atlas Shrugged: Part I</title>
-    <desc lang="en">Dagny Taggart, a powerful railroad executive, tries to keep her business afloat while society crumbles around her.</desc>
-  </programme>
-  <programme start="20261005163600 +0200" stop="20261005182800 +0200" channel="starz-stz5">
-    <title lang="en">Atlas Shrugged: Part II</title>
-    <desc lang="en">Amid an economic collapse, Dagny Taggart hunts for a revolutionary motor as government control tightens, hoping to avert a global energy crisis.</desc>
-  </programme>
-  <programme start="20261005182800 +0200" stop="20261005200800 +0200" channel="starz-stz5">
-    <title lang="en">Atlas Shrugged: Part III</title>
-    <desc lang="en">In the ruins of a once-productive factory, Dagny Taggart finds a revolutionary motor that could be the answer to the world's growing energy crisis.</desc>
-  </programme>
-  <programme start="20261005200800 +0200" stop="20261005222800 +0200" channel="starz-stz5">
-    <title lang="en">The Talented Mr. Ripley</title>
-    <desc lang="en">Tom Ripley travels to Italy to bring home a wealthy heir, but his fascination with Dickie Greenleaf's life soon grows into a dangerous obsession.</desc>
-  </programme>
-  <programme start="20261005222800 +0200" stop="20261006001000 +0200" channel="starz-stz5">
-    <title lang="en">Sleepwalking</title>
-    <desc lang="en">Abandoned by her mother, a young girl and her uncle drive cross-country, where family dysfunctions and tensions rise to the surface.</desc>
-  </programme>
-  <programme start="20261006001000 +0200" stop="20261006020600 +0200" channel="starz-stz5">
-    <title lang="en">Jungle</title>
-    <desc lang="en">An adventurous journey into the Amazon turns deadly when a guide’s dark past and the dangers of the wilderness push a group into a fight for survival.</desc>
-  </programme>
-  <programme start="20261006020600 +0200" stop="20261006034700 +0200" channel="starz-stz5">
-    <title lang="en">At Middleton</title>
-    <desc lang="en">A strict surgeon and a free-spirited woman bond on a college tour, but the real lessons in love and life begin once they break from the group.</desc>
-  </programme>
   <programme start="20261006034700 +0200" stop="20261006060700 +0200" channel="starz-stz5">
     <title lang="en">The Talented Mr. Ripley</title>
     <desc lang="en">Tom Ripley travels to Italy to bring home a wealthy heir, but his fascination with Dickie Greenleaf's life soon grows into a dangerous obsession.</desc>
+  </programme>
+  <programme start="20261006060700 +0200" stop="20261006075400 +0200" channel="starz-stz5">
+    <title lang="en">The Family Fang</title>
+    <desc lang="en">After a lifetime of pranks by their parents, two siblings have reservations when told their parents are missing and presumed dead by foul play.
+</desc>
+  </programme>
+  <programme start="20261006075400 +0200" stop="20261006092900 +0200" channel="starz-stz5">
+    <title lang="en">Niagara, Niagara</title>
+    <desc lang="en">An outsider and a young woman with Tourette's syndrome embark on a journey to Canada together.
+</desc>
+  </programme>
+  <programme start="20261006092900 +0200" stop="20261006105500 +0200" channel="starz-stz5">
+    <title lang="en">Night Wolf</title>
+    <desc lang="en">Returning for a family visit, a young woman soon enters a nightmarish welcome home when family and friends start turning up brutally murdered.</desc>
+  </programme>
+  <programme start="20261006105500 +0200" stop="20261006124000 +0200" channel="starz-stz5">
+    <title lang="en">Lulu On The Bridge</title>
+    <desc lang="en">A jazz saxophonist's life is transformed when he is accidentally shot.</desc>
+  </programme>
+  <programme start="20261006124000 +0200" stop="20261006142100 +0200" channel="starz-stz5">
+    <title lang="en">At Middleton</title>
+    <desc lang="en">A strict surgeon and a free-spirited woman bond on a college tour, but the real lessons in love and life begin once they break from the group.</desc>
+  </programme>
+  <programme start="20261006142100 +0200" stop="20261006160800 +0200" channel="starz-stz5">
+    <title lang="en">The Family Fang</title>
+    <desc lang="en">After a lifetime of pranks by their parents, two siblings have reservations when told their parents are missing and presumed dead by foul play.
+</desc>
+  </programme>
+  <programme start="20261006160800 +0200" stop="20261006172900 +0200" channel="starz-stz5">
+    <title lang="en">Boy Eats Girl</title>
+    <desc lang="en">After a teen is brought back to life by his mother, he's given a second chance with his crush...until his craving for human flesh grows too strong.</desc>
+  </programme>
+  <programme start="20261006172900 +0200" stop="20261006190400 +0200" channel="starz-stz5">
+    <title lang="en">Niagara, Niagara</title>
+    <desc lang="en">An outsider and a young woman with Tourette's syndrome embark on a journey to Canada together.
+</desc>
+  </programme>
+  <programme start="20261006190400 +0200" stop="20261006205200 +0200" channel="starz-stz5">
+    <title lang="en">Morning Glory</title>
+    <desc lang="en">Becky’s dream job of running a TV show unravels when her co‑anchors feud on air. She scrambles to save the show and shine under pressure.</desc>
+  </programme>
+  <programme start="20261006205200 +0200" stop="20261006225100 +0200" channel="starz-stz5">
+    <title lang="en">Marshall</title>
+    <desc lang="en">Thurgood Marshall, a pioneering lawyer destined to become the first African-American Supreme Court Justice, faces a case that defines his career.</desc>
+  </programme>
+  <programme start="20261006225100 +0200" stop="20261007002700 +0200" channel="starz-stz5">
+    <title lang="en">The Big Empty</title>
+    <desc lang="en">John is an actor with little work and no money who finds himself with an opportunity to make some quick cash by delivering a mysterious suitcase.</desc>
+  </programme>
+  <programme start="20261007002700 +0200" stop="20261007021200 +0200" channel="starz-stz5">
+    <title lang="en">Lulu On The Bridge</title>
+    <desc lang="en">A jazz saxophonist's life is transformed when he is accidentally shot.</desc>
+  </programme>
+  <programme start="20261007021200 +0200" stop="20261007040000 +0200" channel="starz-stz5">
+    <title lang="en">Morning Glory</title>
+    <desc lang="en">Becky’s dream job of running a TV show unravels when her co‑anchors feud on air. She scrambles to save the show and shine under pressure.</desc>
+  </programme>
+  <programme start="20261007040000 +0200" stop="20261007055500 +0200" channel="starz-stz5">
+    <title lang="en">The Brothers Bloom</title>
+    <desc lang="en">Two con‑artist brothers launch one last scheme, giving a quirky heiress a globe‑trotting adventure - until real feelings complicate their perfect con.</desc>
+  </programme>
+  <programme start="20261007055500 +0200" stop="20261007073100 +0200" channel="starz-stz5">
+    <title lang="en">The Big Empty</title>
+    <desc lang="en">John is an actor with little work and no money who finds himself with an opportunity to make some quick cash by delivering a mysterious suitcase.</desc>
   </programme>
   <programme start="20261006043800 +0200" stop="20261006063200 +0200" channel="starz-stz6">
     <title lang="en">Speak No Evil</title>
@@ -273,65 +289,65 @@
     <title lang="en">The Strangers: Chapter 3</title>
     <desc lang="en">As the killers’ mythology grows darker, Maya is dragged deeper into their cycle of terror and forced toward a final confrontation she can’t outrun.</desc>
   </programme>
-  <programme start="20261005045500 +0200" stop="20261005062900 +0200" channel="starz-stz7">
-    <title lang="en">Stuber</title>
-    <desc lang="en">Stu’s routine ride becomes a nightmare when his passenger is a cop hunting a killer, dragging him into a dangerous chase.</desc>
-  </programme>
-  <programme start="20261005062900 +0200" stop="20261005081600 +0200" channel="starz-stz7">
-    <title lang="en">Wingman Inc.</title>
-    <desc lang="en">A wingman‑for‑hire and a woman who defends against bad advances fall for each other, unaware they’re working for the competition.</desc>
-  </programme>
-  <programme start="20261005081600 +0200" stop="20261005100400 +0200" channel="starz-stz7">
-    <title lang="en">The Wood</title>
-    <desc lang="en">Hours before his wedding, Roland leans on his friends as they revisit growing up in Inglewood, where hard lessons and missteps shaped him.</desc>
-  </programme>
-  <programme start="20261005100400 +0200" stop="20261005113400 +0200" channel="starz-stz7">
-    <title lang="en">Ingenious</title>
-    <desc lang="en">Matt and Sam chase a life-changing idea, lose everything, and discover that rock bottom sparks their most brilliant plan yet.</desc>
-  </programme>
-  <programme start="20261005113400 +0200" stop="20261005133000 +0200" channel="starz-stz7">
-    <title lang="en">How to Lose a Guy in 10 Days</title>
-    <desc lang="en">Andie must write about losing a guy in 10 days.  Benjamin bets he can make her fall in love. Their clash sparks hilarious chaos - and true love.</desc>
-  </programme>
-  <programme start="20261005133000 +0200" stop="20261005151100 +0200" channel="starz-stz7">
-    <title lang="en">Measure Of A Man</title>
-    <desc lang="en">Teenage Bobby endures a tough summer of family strife, a grueling job, and a best friend leaving town, learning hard truths about growing up.</desc>
-  </programme>
-  <programme start="20261005151100 +0200" stop="20261005163900 +0200" channel="starz-stz7">
-    <title lang="en">Detention Of The Dead</title>
-    <desc lang="en">A quirky group of high school students finds themselves stuck in detention as their classmates transform into a zombie horde.</desc>
-  </programme>
-  <programme start="20261005163900 +0200" stop="20261005180700 +0200" channel="starz-stz7">
-    <title lang="en">Dinocroc Vs. Supergator</title>
-    <desc lang="en">An evil investor's experiment goes awry, creating Dinocroc, and the only way to destroy the creature is to release its mortal enemy, Supergator.</desc>
-  </programme>
-  <programme start="20261005180700 +0200" stop="20261005201200 +0200" channel="starz-stz7">
-    <title lang="en">Sahara</title>
-    <desc lang="en">Two thrill-seeking adventurers cross paths with a beautiful doctor and they find themselves on the hunt for a treasure that claims all who seek it.</desc>
-  </programme>
-  <programme start="20261005201200 +0200" stop="20261005220800 +0200" channel="starz-stz7">
-    <title lang="en">How to Lose a Guy in 10 Days</title>
-    <desc lang="en">Andie must write about losing a guy in 10 days.  Benjamin bets he can make her fall in love. Their clash sparks hilarious chaos - and true love.</desc>
-  </programme>
-  <programme start="20261005220800 +0200" stop="20261005233700 +0200" channel="starz-stz7">
-    <title lang="en">Blood Surf</title>
-    <desc lang="en">An MTV-style crew filming Bloodsurfing faces a giant saltwater crocodile. Survival becomes the ultimate extreme sport.</desc>
-  </programme>
-  <programme start="20261005233700 +0200" stop="20261006012100 +0200" channel="starz-stz7">
-    <title lang="en">Keeping Mum</title>
-    <desc lang="en">Gloria's life is unraveling. When the family hires housekeeper Grace Hawkins, she seems like salvation - until her unsettling secrets emerge.</desc>
-  </programme>
-  <programme start="20261006012100 +0200" stop="20261006030200 +0200" channel="starz-stz7">
-    <title lang="en">Measure Of A Man</title>
-    <desc lang="en">Teenage Bobby endures a tough summer of family strife, a grueling job, and a best friend leaving town, learning hard truths about growing up.</desc>
-  </programme>
-  <programme start="20261006030200 +0200" stop="20261006045800 +0200" channel="starz-stz7">
-    <title lang="en">How to Lose a Guy in 10 Days</title>
-    <desc lang="en">Andie must write about losing a guy in 10 days.  Benjamin bets he can make her fall in love. Their clash sparks hilarious chaos - and true love.</desc>
-  </programme>
   <programme start="20261006045800 +0200" stop="20261006070400 +0200" channel="starz-stz7">
     <title lang="en">Sahara</title>
     <desc lang="en">Two thrill-seeking adventurers cross paths with a beautiful doctor and they find themselves on the hunt for a treasure that claims all who seek it.</desc>
+  </programme>
+  <programme start="20261006070400 +0200" stop="20261006085200 +0200" channel="starz-stz7">
+    <title lang="en">A Lot Like Love</title>
+    <desc lang="en">A young couple spark on their first meeting, but decide to pass - except they keep running into one another before fanning the flames of love.</desc>
+  </programme>
+  <programme start="20261006085200 +0200" stop="20261006102500 +0200" channel="starz-stz7">
+    <title lang="en">Joyride</title>
+    <desc lang="en">Three teens steal a car, find a corpse, and land in a mess with a killer and a detective. It's a joyride gone hilariously wrong.</desc>
+  </programme>
+  <programme start="20261006102500 +0200" stop="20261006121200 +0200" channel="starz-stz7">
+    <title lang="en">Children On Their Birthdays</title>
+    <desc lang="en">Two best friends compete for the attention of a mysterious girl while joining forces to stop a con man and save their small town.</desc>
+  </programme>
+  <programme start="20261006121200 +0200" stop="20261006135000 +0200" channel="starz-stz7">
+    <title lang="en">One More Time</title>
+    <desc lang="en">A struggling singer moves back home, only to find her father plotting a comeback. Their clashing ambitions set them on a collision course.</desc>
+  </programme>
+  <programme start="20261006135000 +0200" stop="20261006152000 +0200" channel="starz-stz7">
+    <title lang="en">Double Take</title>
+    <desc lang="en">An investment banker is on the run to Mexico. But he gets mistaken for a fast-talking con man - who may be a crook, an FBI agent, or an assassin!</desc>
+  </programme>
+  <programme start="20261006152000 +0200" stop="20261006171500 +0200" channel="starz-stz7">
+    <title lang="en">Damsel</title>
+    <desc lang="en">It's the Wild West, circa 1870. Samuel Alabaster, an affluent pioneer, ventures across the American frontier to marry the love of his life, Penelope.</desc>
+  </programme>
+  <programme start="20261006171500 +0200" stop="20261006185400 +0200" channel="starz-stz7">
+    <title lang="en">Ask Me Anything</title>
+    <desc lang="en">A confused teenager writes a blog revealing her daily activities and secrets, advised by her guidance counselor in lieu of her first year in college.</desc>
+  </programme>
+  <programme start="20261006185400 +0200" stop="20261006203200 +0200" channel="starz-stz7">
+    <title lang="en">One More Time</title>
+    <desc lang="en">A struggling singer moves back home, only to find her father plotting a comeback. Their clashing ambitions set them on a collision course.</desc>
+  </programme>
+  <programme start="20261006203200 +0200" stop="20261006221400 +0200" channel="starz-stz7">
+    <title lang="en">Finn On The Fly</title>
+    <desc lang="en">When a science mishap turns his dog human, a shy teen is swept into chaos, confusion, and first love.</desc>
+  </programme>
+  <programme start="20261006221400 +0200" stop="20261007000600 +0200" channel="starz-stz7">
+    <title lang="en">Bandslam</title>
+    <desc lang="en">Three musical students form an unlikely friendship after forming a band together in order to compete in a competition at their high school.</desc>
+  </programme>
+  <programme start="20261007000600 +0200" stop="20261007020000 +0200" channel="starz-stz7">
+    <title lang="en">Damsel</title>
+    <desc lang="en">It's the Wild West, circa 1870. Samuel Alabaster, an affluent pioneer, ventures across the American frontier to marry the love of his life, Penelope.</desc>
+  </programme>
+  <programme start="20261007020000 +0200" stop="20261007032900 +0200" channel="starz-stz7">
+    <title lang="en">Double Take</title>
+    <desc lang="en">An investment banker is on the run to Mexico. But he gets mistaken for a fast-talking con man - who may be a crook, an FBI agent, or an assassin!</desc>
+  </programme>
+  <programme start="20261007032900 +0200" stop="20261007050700 +0200" channel="starz-stz7">
+    <title lang="en">One More Time</title>
+    <desc lang="en">A struggling singer moves back home, only to find her father plotting a comeback. Their clashing ambitions set them on a collision course.</desc>
+  </programme>
+  <programme start="20261007050700 +0200" stop="20261007064600 +0200" channel="starz-stz7">
+    <title lang="en">Ask Me Anything</title>
+    <desc lang="en">A confused teenager writes a blog revealing her daily activities and secrets, advised by her guidance counselor in lieu of her first year in college.</desc>
   </programme>
   <programme start="20261006054400 +0200" stop="20261006063300 +0200" channel="starz-stz8">
     <title lang="en">S1 E1 - Episode 1</title>
