@@ -21,121 +21,139 @@
   <channel id="starz-stz9">
     <display-name>STARZ Encore (STZ9)</display-name>
   </channel>
-  <programme start="20261008045100 +0200" stop="20261008070400 +0200" channel="starz-stz1">
-    <title lang="en">Pain &amp; Gain</title>
-    <desc lang="en">When an ambitious group of personal trainers go after the American Dream, they get caught up in a criminal enterprise that goes horribly wrong.</desc>
+  <programme start="20261009060000 +0200" stop="20261009064900 +0200" channel="starz-stz1">
+    <title lang="en">S1 E3 - Burn Zone</title>
+    <desc lang="en">When a decision Hondo made comes back to bite him, he realizes someone close to him may already know more than they're letting on.</desc>
   </programme>
-  <programme start="20261008070400 +0200" stop="20261008092700 +0200" channel="starz-stz1">
-    <title lang="en">Star Wars: The Force Awakens</title>
-    <desc lang="en">As a new threat emerges, Rey, a scavenger from the desert, and Finn, a former stormtrooper, team up with Han Solo to find the key to restoring peace.</desc>
+  <programme start="20261009064900 +0200" stop="20261009083700 +0200" channel="starz-stz1">
+    <title lang="en">The Bounce Back</title>
+    <desc lang="en">A relationship guru finds himself falling for an attractive licensed therapist who questions his methods and disagrees with his theories on love.</desc>
   </programme>
-  <programme start="20261008092700 +0200" stop="20261008104900 +0200" channel="starz-stz1">
-    <title lang="en">Resurrection Road</title>
-    <desc lang="en">Six soldiers infiltrate a Confederate fort in Arkansas, but their mission takes a chilling turn when they uncover a dark, sinister secret.</desc>
+  <programme start="20261009083700 +0200" stop="20261009101000 +0200" channel="starz-stz1">
+    <title lang="en">Underworld: Awakening</title>
+    <desc lang="en">When humans uncover the existence of Vampire and Lycan clans, a war erupts. Vampire warrior Selene takes charge in the fight against humanity.</desc>
   </programme>
-  <programme start="20261008104900 +0200" stop="20261008121500 +0200" channel="starz-stz1">
-    <title lang="en">Like A Boss</title>
-    <desc lang="en">Mia and Mel face a tough choice: accept a buyout or risk losing their friendship. In the beauty biz, things get messy fast - and not just the mascara.</desc>
+  <programme start="20261009101000 +0200" stop="20261009114700 +0200" channel="starz-stz1">
+    <title lang="en">Thoroughbreds</title>
+    <desc lang="en">Two teenage girls rekindle their unlikely friendship after years of growing apart and find that murder may be what brings them together.</desc>
   </programme>
-  <programme start="20261008121500 +0200" stop="20261008141200 +0200" channel="starz-stz1">
-    <title lang="en">The Longest Yard</title>
-    <desc lang="en">After landing in prison, Paul &quot;Wrecking&quot; Crewe must form an inmate football team to face the guards - only the &quot;Mean Machine&quot; decides to fight back.</desc>
+  <programme start="20261009114700 +0200" stop="20261009132000 +0200" channel="starz-stz1">
+    <title lang="en">The Night Clerk</title>
+    <desc lang="en">Bart, a hotel clerk, is suspected of murder. He connects with a guest, Andrea, and must stop the real killer before she’s the next victim.</desc>
   </programme>
-  <programme start="20261008141200 +0200" stop="20261008153800 +0200" channel="starz-stz1">
-    <title lang="en">Scary Movie 2</title>
-    <desc lang="en">Cindy and her friends sign up for a sleep study at a haunted mansion and stumble into a barrage of ghosts, bad decisions and ridiculous scares.</desc>
+  <programme start="20261009132000 +0200" stop="20261009145500 +0200" channel="starz-stz1">
+    <title lang="en">John Henry</title>
+    <desc lang="en">An ex-gang member seeks peace, but when two immigrant kids flee his old crew, he must face his past or stay in the shadows.</desc>
   </programme>
-  <programme start="20261008153800 +0200" stop="20261008180000 +0200" channel="starz-stz1">
-    <title lang="en">Star Wars: The Force Awakens</title>
-    <desc lang="en">As a new threat emerges, Rey, a scavenger from the desert, and Finn, a former stormtrooper, team up with Han Solo to find the key to restoring peace.</desc>
+  <programme start="20261009145500 +0200" stop="20261009165200 +0200" channel="starz-stz1">
+    <title lang="en">The Furious</title>
+    <desc lang="en">When his daughter is kidnapped and police fail him, Wang Wei joins forces with a journalist, launching a ruthless fight against a criminal network.
+</desc>
   </programme>
-  <programme start="20261008180000 +0200" stop="20261008200000 +0200" channel="starz-stz1">
-    <title lang="en">The 40-Year-Old Virgin</title>
-    <desc lang="en">Andy’s 40 and has never had sex. Add in a hot single mom with a &quot;no-touch&quot; policy and you’ve got one frustrated late bloomer.</desc>
-  </programme>
-  <programme start="20261008200000 +0200" stop="20261008220000 +0200" channel="starz-stz1">
-    <title lang="en">Ant-Man</title>
-    <desc lang="en">From Marvel: Looking for a new start, master thief Scott Lang is approached by Dr. Pym, creator of a technology that can shrink a man to insect size.</desc>
-  </programme>
-  <programme start="20261008220000 +0200" stop="20261008235600 +0200" channel="starz-stz1">
-    <title lang="en">The Longest Yard</title>
-    <desc lang="en">After landing in prison, Paul &quot;Wrecking&quot; Crewe must form an inmate football team to face the guards - only the &quot;Mean Machine&quot; decides to fight back.</desc>
-  </programme>
-  <programme start="20261008235600 +0200" stop="20261009012200 +0200" channel="starz-stz1">
-    <title lang="en">Scary Movie 2</title>
-    <desc lang="en">Cindy and her friends sign up for a sleep study at a haunted mansion and stumble into a barrage of ghosts, bad decisions and ridiculous scares.</desc>
-  </programme>
-  <programme start="20261009012200 +0200" stop="20261009032200 +0200" channel="starz-stz1">
-    <title lang="en">The 40-Year-Old Virgin</title>
-    <desc lang="en">Andy’s 40 and has never had sex. Add in a hot single mom with a &quot;no-touch&quot; policy and you’ve got one frustrated late bloomer.</desc>
-  </programme>
-  <programme start="20261009032200 +0200" stop="20261009042000 +0200" channel="starz-stz1">
-    <title lang="en">S2 E3 - Rabbits Don't Swim</title>
-    <desc lang="en">Julia welcomes a new member of staff to Leathers. Brian and Dougal train their men for battle. Ellen uses her wit to defend her family and her clan.</desc>
-  </programme>
-  <programme start="20261009042000 +0200" stop="20261009051100 +0200" channel="starz-stz1">
+  <programme start="20261009165200 +0200" stop="20261009174300 +0200" channel="starz-stz1">
     <title lang="en">S1 E1 - Episode 1</title>
     <desc lang="en">Leo and Clive have been next-door neighbors for 14 years, but when a one-night stand goes wrong, a feud begins which quickly escalates into danger…</desc>
   </programme>
-  <programme start="20261009051100 +0200" stop="20261009060000 +0200" channel="starz-stz1">
-    <title lang="en">S1 E2 - Take the Shot</title>
-    <desc lang="en">Taking point as Scout for the first time, Malik faces an impossible call; one that will haunt him, and the squad, long after the smoke clears.</desc>
+  <programme start="20261009174300 +0200" stop="20261009194000 +0200" channel="starz-stz1">
+    <title lang="en">Couples Retreat</title>
+    <desc lang="en">Four couples find that paradise comes at a price when they must participate in therapy sessions at a tropical resort.</desc>
   </programme>
-  <programme start="20261008060000 +0200" stop="20261008072300 +0200" channel="starz-stz3">
-    <title lang="en">A Happening Of Monumental Proportions</title>
-    <desc lang="en">Students at a Los Angeles school find themselves entangled in a chaotic day filled with sex, lies, and dead bodies.</desc>
+  <programme start="20261009194000 +0200" stop="20261009211500 +0200" channel="starz-stz1">
+    <title lang="en">John Henry</title>
+    <desc lang="en">An ex-gang member seeks peace, but when two immigrant kids flee his old crew, he must face his past or stay in the shadows.</desc>
   </programme>
-  <programme start="20261008072300 +0200" stop="20261008085200 +0200" channel="starz-stz3">
-    <title lang="en">30 Beats</title>
-    <desc lang="en">A group of New Yorkers lives intertwine though a series of sexual encounters during a summer heat wave.</desc>
+  <programme start="20261009211500 +0200" stop="20261009230500 +0200" channel="starz-stz1">
+    <title lang="en">Assault On Precinct 13</title>
+    <desc lang="en">A police sergeant rallies cops and prisoners to protect them in a police station on New Year's Eve as corrupt policemen plan to kill everyone inside.</desc>
   </programme>
-  <programme start="20261008085200 +0200" stop="20261008103100 +0200" channel="starz-stz3">
-    <title lang="en">New Jersey Drive</title>
-    <desc lang="en">On the streets of Newark, NJ, two teenagers decide to start carjacking for fun and profit - but soon find themselves the target of every cop in town.</desc>
+  <programme start="20261009230500 +0200" stop="20261010010200 +0200" channel="starz-stz1">
+    <title lang="en">The Furious</title>
+    <desc lang="en">When his daughter is kidnapped and police fail him, Wang Wei joins forces with a journalist, launching a ruthless fight against a criminal network.
+</desc>
   </programme>
-  <programme start="20261008103100 +0200" stop="20261008123900 +0200" channel="starz-stz3">
-    <title lang="en">Michael</title>
-    <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
+  <programme start="20261010010200 +0200" stop="20261010020000 +0200" channel="starz-stz1">
+    <title lang="en">S2 E3 - Rabbits Don't Swim</title>
+    <desc lang="en">Julia welcomes a new member of staff to Leathers. Brian and Dougal train their men for battle. Ellen uses her wit to defend her family and her clan.</desc>
   </programme>
-  <programme start="20261008123900 +0200" stop="20261008141100 +0200" channel="starz-stz3">
-    <title lang="en">The Strangers: Chapter 3</title>
-    <desc lang="en">As the killers’ mythology grows darker, Maya is dragged deeper into their cycle of terror and forced toward a final confrontation she can’t outrun.</desc>
+  <programme start="20261010020000 +0200" stop="20261010030500 +0200" channel="starz-stz1">
+    <title lang="en">S2 E4 - A Portion of my Soul</title>
+    <desc lang="en">Ellen and Grace ride across the Highlands in search of Brian and Dougal's forces.</desc>
   </programme>
-  <programme start="20261008141100 +0200" stop="20261008160800 +0200" channel="starz-stz3">
-    <title lang="en">Harlem Nights</title>
-    <desc lang="en">In 1930s New York, a gambling house owner and his crew battle rivals, gangsters, and corrupt police.</desc>
+  <programme start="20261010030500 +0200" stop="20261010040000 +0200" channel="starz-stz1">
+    <title lang="en">S1 E2 - Episode 2</title>
+    <desc lang="en">Leo suspects someone’s been inside his house. And when Clive brings his son Saul to work in Leo’s bar, events soon reach a shocking conclusion.</desc>
   </programme>
-  <programme start="20261008160800 +0200" stop="20261008174400 +0200" channel="starz-stz3">
-    <title lang="en">Alarum</title>
-    <desc lang="en">A retired assassin couple’s quiet life is upended after a plane crash puts them in possession of a secret file sought by government operatives.</desc>
+  <programme start="20261010040000 +0200" stop="20261010044900 +0200" channel="starz-stz1">
+    <title lang="en">S1 E3 - Burn Zone</title>
+    <desc lang="en">When a decision Hondo made comes back to bite him, he realizes someone close to him may already know more than they're letting on.</desc>
   </programme>
-  <programme start="20261008174400 +0200" stop="20261008195200 +0200" channel="starz-stz3">
-    <title lang="en">Michael</title>
-    <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
+  <programme start="20261010044900 +0200" stop="20261010055500 +0200" channel="starz-stz1">
+    <title lang="en">S2 E4 - A Portion of my Soul</title>
+    <desc lang="en">Ellen and Grace ride across the Highlands in search of Brian and Dougal's forces.</desc>
   </programme>
-  <programme start="20261008195200 +0200" stop="20261008213100 +0200" channel="starz-stz3">
-    <title lang="en">New Jersey Drive</title>
-    <desc lang="en">On the streets of Newark, NJ, two teenagers decide to start carjacking for fun and profit - but soon find themselves the target of every cop in town.</desc>
-  </programme>
-  <programme start="20261008213100 +0200" stop="20261008232800 +0200" channel="starz-stz3">
-    <title lang="en">Harlem Nights</title>
-    <desc lang="en">In 1930s New York, a gambling house owner and his crew battle rivals, gangsters, and corrupt police.</desc>
-  </programme>
-  <programme start="20261008232800 +0200" stop="20261009010000 +0200" channel="starz-stz3">
-    <title lang="en">The Strangers: Chapter 3</title>
-    <desc lang="en">As the killers’ mythology grows darker, Maya is dragged deeper into their cycle of terror and forced toward a final confrontation she can’t outrun.</desc>
-  </programme>
-  <programme start="20261009010000 +0200" stop="20261009030800 +0200" channel="starz-stz3">
-    <title lang="en">Michael</title>
-    <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
-  </programme>
-  <programme start="20261009030800 +0200" stop="20261009044400 +0200" channel="starz-stz3">
-    <title lang="en">Alarum</title>
-    <desc lang="en">A retired assassin couple’s quiet life is upended after a plane crash puts them in possession of a secret file sought by government operatives.</desc>
+  <programme start="20261010055500 +0200" stop="20261010064800 +0200" channel="starz-stz1">
+    <title lang="en">S1 E2 - Episode 2</title>
+    <desc lang="en">Leo suspects someone’s been inside his house. And when Clive brings his son Saul to work in Leo’s bar, events soon reach a shocking conclusion.</desc>
   </programme>
   <programme start="20261009044400 +0200" stop="20261009064100 +0200" channel="starz-stz3">
     <title lang="en">Harlem Nights</title>
     <desc lang="en">In 1930s New York, a gambling house owner and his crew battle rivals, gangsters, and corrupt police.</desc>
+  </programme>
+  <programme start="20261009064100 +0200" stop="20261009081200 +0200" channel="starz-stz3">
+    <title lang="en">Sweet Potato Pie</title>
+    <desc lang="en">Three friends on a wild quest for love face Enchilada, Anaconda, and sweet potato pie.</desc>
+  </programme>
+  <programme start="20261009081200 +0200" stop="20261009094800 +0200" channel="starz-stz3">
+    <title lang="en">Iron Eagle On The Attack</title>
+    <desc lang="en">A fighter pilot runs a flight school for troubled teens. During an emergency landing on an abandoned base, the group stumbles upon a sinister plan.</desc>
+  </programme>
+  <programme start="20261009094800 +0200" stop="20261009113600 +0200" channel="starz-stz3">
+    <title lang="en">ATL</title>
+    <desc lang="en">In Atlanta's skating world, Rashad struggles to guide his younger brother but finds hope in New‑New, unaware she’s keeping a major secret.</desc>
+  </programme>
+  <programme start="20261009113600 +0200" stop="20261009132000 +0200" channel="starz-stz3">
+    <title lang="en">Dope</title>
+    <desc lang="en">Set in Inglewood, California, a high school geek fights to fit in while keeping his eye on an Ivy League prize.</desc>
+  </programme>
+  <programme start="20261009132000 +0200" stop="20261009151000 +0200" channel="starz-stz3">
+    <title lang="en">What's Cooking?</title>
+    <desc lang="en">Tensions between family members arise and hilarity ensues when four ethnically diverse Los Angeles families set about preparing a Thanksgiving meal.</desc>
+  </programme>
+  <programme start="20261009151000 +0200" stop="20261009165800 +0200" channel="starz-stz3">
+    <title lang="en">ATL</title>
+    <desc lang="en">In Atlanta's skating world, Rashad struggles to guide his younger brother but finds hope in New‑New, unaware she’s keeping a major secret.</desc>
+  </programme>
+  <programme start="20261009165800 +0200" stop="20261009184500 +0200" channel="starz-stz3">
+    <title lang="en">Mindhunters</title>
+    <desc lang="en">Young FBI profilers train on a remote island, but when deaths occur, they realize one of them has become a killer - and escape may be impossible.</desc>
+  </programme>
+  <programme start="20261009184500 +0200" stop="20261009202600 +0200" channel="starz-stz3">
+    <title lang="en">A Low Down Dirty Shame</title>
+    <desc lang="en">A former Los Angeles policeman helps a DEA agent on a case similar to the one that ended his career.</desc>
+  </programme>
+  <programme start="20261009202600 +0200" stop="20261009214600 +0200" channel="starz-stz3">
+    <title lang="en">When A Woman's Fed Up</title>
+    <desc lang="en">When Taryln learns her husband has been unfaithful, she hatches a devious plan to teach him a lesson he won’t forget.</desc>
+  </programme>
+  <programme start="20261009214600 +0200" stop="20261009233600 +0200" channel="starz-stz3">
+    <title lang="en">What's Cooking?</title>
+    <desc lang="en">Tensions between family members arise and hilarity ensues when four ethnically diverse Los Angeles families set about preparing a Thanksgiving meal.</desc>
+  </programme>
+  <programme start="20261009233600 +0200" stop="20261010012300 +0200" channel="starz-stz3">
+    <title lang="en">Mindhunters</title>
+    <desc lang="en">Young FBI profilers train on a remote island, but when deaths occur, they realize one of them has become a killer - and escape may be impossible.</desc>
+  </programme>
+  <programme start="20261010012300 +0200" stop="20261010031100 +0200" channel="starz-stz3">
+    <title lang="en">ATL</title>
+    <desc lang="en">In Atlanta's skating world, Rashad struggles to guide his younger brother but finds hope in New‑New, unaware she’s keeping a major secret.</desc>
+  </programme>
+  <programme start="20261010031100 +0200" stop="20261010045200 +0200" channel="starz-stz3">
+    <title lang="en">A Low Down Dirty Shame</title>
+    <desc lang="en">A former Los Angeles policeman helps a DEA agent on a case similar to the one that ended his career.</desc>
+  </programme>
+  <programme start="20261010045200 +0200" stop="20261010064200 +0200" channel="starz-stz3">
+    <title lang="en">What's Cooking?</title>
+    <desc lang="en">Tensions between family members arise and hilarity ensues when four ethnically diverse Los Angeles families set about preparing a Thanksgiving meal.</desc>
   </programme>
   <programme start="20261008053200 +0200" stop="20261008074600 +0200" channel="starz-stz5">
     <title lang="en">Happy Endings</title>
@@ -197,264 +215,284 @@
     <title lang="en">American Dream</title>
     <desc lang="en">Two entrepreneurs face a Russian mobster's vengeance after they cut him out of a business deal.</desc>
   </programme>
-  <programme start="20261008045100 +0200" stop="20261008070400 +0200" channel="starz-stz6">
-    <title lang="en">Pain &amp; Gain</title>
-    <desc lang="en">When an ambitious group of personal trainers go after the American Dream, they get caught up in a criminal enterprise that goes horribly wrong.</desc>
+  <programme start="20261009060000 +0200" stop="20261009064900 +0200" channel="starz-stz6">
+    <title lang="en">S1 E3 - Burn Zone</title>
+    <desc lang="en">When a decision Hondo made comes back to bite him, he realizes someone close to him may already know more than they're letting on.</desc>
   </programme>
-  <programme start="20261008070400 +0200" stop="20261008092700 +0200" channel="starz-stz6">
-    <title lang="en">Star Wars: The Force Awakens</title>
-    <desc lang="en">As a new threat emerges, Rey, a scavenger from the desert, and Finn, a former stormtrooper, team up with Han Solo to find the key to restoring peace.</desc>
+  <programme start="20261009064900 +0200" stop="20261009083700 +0200" channel="starz-stz6">
+    <title lang="en">The Bounce Back</title>
+    <desc lang="en">A relationship guru finds himself falling for an attractive licensed therapist who questions his methods and disagrees with his theories on love.</desc>
   </programme>
-  <programme start="20261008092700 +0200" stop="20261008104900 +0200" channel="starz-stz6">
-    <title lang="en">Resurrection Road</title>
-    <desc lang="en">Six soldiers infiltrate a Confederate fort in Arkansas, but their mission takes a chilling turn when they uncover a dark, sinister secret.</desc>
+  <programme start="20261009083700 +0200" stop="20261009101000 +0200" channel="starz-stz6">
+    <title lang="en">Underworld: Awakening</title>
+    <desc lang="en">When humans uncover the existence of Vampire and Lycan clans, a war erupts. Vampire warrior Selene takes charge in the fight against humanity.</desc>
   </programme>
-  <programme start="20261008104900 +0200" stop="20261008121500 +0200" channel="starz-stz6">
-    <title lang="en">Like A Boss</title>
-    <desc lang="en">Mia and Mel face a tough choice: accept a buyout or risk losing their friendship. In the beauty biz, things get messy fast - and not just the mascara.</desc>
+  <programme start="20261009101000 +0200" stop="20261009114700 +0200" channel="starz-stz6">
+    <title lang="en">Thoroughbreds</title>
+    <desc lang="en">Two teenage girls rekindle their unlikely friendship after years of growing apart and find that murder may be what brings them together.</desc>
   </programme>
-  <programme start="20261008121500 +0200" stop="20261008141200 +0200" channel="starz-stz6">
-    <title lang="en">The Longest Yard</title>
-    <desc lang="en">After landing in prison, Paul &quot;Wrecking&quot; Crewe must form an inmate football team to face the guards - only the &quot;Mean Machine&quot; decides to fight back.</desc>
+  <programme start="20261009114700 +0200" stop="20261009132000 +0200" channel="starz-stz6">
+    <title lang="en">The Night Clerk</title>
+    <desc lang="en">Bart, a hotel clerk, is suspected of murder. He connects with a guest, Andrea, and must stop the real killer before she’s the next victim.</desc>
   </programme>
-  <programme start="20261008141200 +0200" stop="20261008153800 +0200" channel="starz-stz6">
-    <title lang="en">Scary Movie 2</title>
-    <desc lang="en">Cindy and her friends sign up for a sleep study at a haunted mansion and stumble into a barrage of ghosts, bad decisions and ridiculous scares.</desc>
+  <programme start="20261009132000 +0200" stop="20261009145500 +0200" channel="starz-stz6">
+    <title lang="en">John Henry</title>
+    <desc lang="en">An ex-gang member seeks peace, but when two immigrant kids flee his old crew, he must face his past or stay in the shadows.</desc>
   </programme>
-  <programme start="20261008153800 +0200" stop="20261008180000 +0200" channel="starz-stz6">
-    <title lang="en">Star Wars: The Force Awakens</title>
-    <desc lang="en">As a new threat emerges, Rey, a scavenger from the desert, and Finn, a former stormtrooper, team up with Han Solo to find the key to restoring peace.</desc>
+  <programme start="20261009145500 +0200" stop="20261009165200 +0200" channel="starz-stz6">
+    <title lang="en">The Furious</title>
+    <desc lang="en">When his daughter is kidnapped and police fail him, Wang Wei joins forces with a journalist, launching a ruthless fight against a criminal network.
+</desc>
   </programme>
-  <programme start="20261008180000 +0200" stop="20261008200000 +0200" channel="starz-stz6">
-    <title lang="en">The 40-Year-Old Virgin</title>
-    <desc lang="en">Andy’s 40 and has never had sex. Add in a hot single mom with a &quot;no-touch&quot; policy and you’ve got one frustrated late bloomer.</desc>
-  </programme>
-  <programme start="20261008200000 +0200" stop="20261008220000 +0200" channel="starz-stz6">
-    <title lang="en">Ant-Man</title>
-    <desc lang="en">From Marvel: Looking for a new start, master thief Scott Lang is approached by Dr. Pym, creator of a technology that can shrink a man to insect size.</desc>
-  </programme>
-  <programme start="20261008220000 +0200" stop="20261008235600 +0200" channel="starz-stz6">
-    <title lang="en">The Longest Yard</title>
-    <desc lang="en">After landing in prison, Paul &quot;Wrecking&quot; Crewe must form an inmate football team to face the guards - only the &quot;Mean Machine&quot; decides to fight back.</desc>
-  </programme>
-  <programme start="20261008235600 +0200" stop="20261009012200 +0200" channel="starz-stz6">
-    <title lang="en">Scary Movie 2</title>
-    <desc lang="en">Cindy and her friends sign up for a sleep study at a haunted mansion and stumble into a barrage of ghosts, bad decisions and ridiculous scares.</desc>
-  </programme>
-  <programme start="20261009012200 +0200" stop="20261009032200 +0200" channel="starz-stz6">
-    <title lang="en">The 40-Year-Old Virgin</title>
-    <desc lang="en">Andy’s 40 and has never had sex. Add in a hot single mom with a &quot;no-touch&quot; policy and you’ve got one frustrated late bloomer.</desc>
-  </programme>
-  <programme start="20261009032200 +0200" stop="20261009042000 +0200" channel="starz-stz6">
-    <title lang="en">S2 E3 - Rabbits Don't Swim</title>
-    <desc lang="en">Julia welcomes a new member of staff to Leathers. Brian and Dougal train their men for battle. Ellen uses her wit to defend her family and her clan.</desc>
-  </programme>
-  <programme start="20261009042000 +0200" stop="20261009051100 +0200" channel="starz-stz6">
+  <programme start="20261009165200 +0200" stop="20261009174300 +0200" channel="starz-stz6">
     <title lang="en">S1 E1 - Episode 1</title>
     <desc lang="en">Leo and Clive have been next-door neighbors for 14 years, but when a one-night stand goes wrong, a feud begins which quickly escalates into danger…</desc>
   </programme>
-  <programme start="20261009051100 +0200" stop="20261009060000 +0200" channel="starz-stz6">
-    <title lang="en">S1 E2 - Take the Shot</title>
-    <desc lang="en">Taking point as Scout for the first time, Malik faces an impossible call; one that will haunt him, and the squad, long after the smoke clears.</desc>
+  <programme start="20261009174300 +0200" stop="20261009194000 +0200" channel="starz-stz6">
+    <title lang="en">Couples Retreat</title>
+    <desc lang="en">Four couples find that paradise comes at a price when they must participate in therapy sessions at a tropical resort.</desc>
   </programme>
-  <programme start="20261008053400 +0200" stop="20261008071600 +0200" channel="starz-stz7">
-    <title lang="en">Goon: Last Of The Enforcers</title>
-    <desc lang="en">An injured hockey enforcer faces retirement when a fierce newcomer threatens his spot as the league's toughest player.</desc>
+  <programme start="20261009194000 +0200" stop="20261009211500 +0200" channel="starz-stz6">
+    <title lang="en">John Henry</title>
+    <desc lang="en">An ex-gang member seeks peace, but when two immigrant kids flee his old crew, he must face his past or stay in the shadows.</desc>
   </programme>
-  <programme start="20261008071600 +0200" stop="20261008084500 +0200" channel="starz-stz7">
-    <title lang="en">Permanent Midnight</title>
-    <desc lang="en">The true story of a successful television writer who keeps making hits during a haunting, darkly comic descent into a $6000 per week heroin addiction.</desc>
+  <programme start="20261009211500 +0200" stop="20261009230500 +0200" channel="starz-stz6">
+    <title lang="en">Assault On Precinct 13</title>
+    <desc lang="en">A police sergeant rallies cops and prisoners to protect them in a police station on New Year's Eve as corrupt policemen plan to kill everyone inside.</desc>
   </programme>
-  <programme start="20261008084500 +0200" stop="20261008101800 +0200" channel="starz-stz7">
-    <title lang="en">Twice Upon A Yesterday</title>
-    <desc lang="en">An out-of-work actor, eager to rekindle his romance with his ex-girlfriend, unexpectedly discovers a way to reverse time.</desc>
-  </programme>
-  <programme start="20261008101800 +0200" stop="20261008114300 +0200" channel="starz-stz7">
-    <title lang="en">Struck By Lightning</title>
-    <desc lang="en">A high school student recounts his scheme to coerce classmates into contributing to his literary magazine through blackmail.</desc>
-  </programme>
-  <programme start="20261008114300 +0200" stop="20261008133800 +0200" channel="starz-stz7">
-    <title lang="en">The Brothers Bloom</title>
-    <desc lang="en">Two con‑artist brothers launch one last scheme, giving a quirky heiress a globe‑trotting adventure - until real feelings complicate their perfect con.</desc>
-  </programme>
-  <programme start="20261008133800 +0200" stop="20261008151700 +0200" channel="starz-stz7">
-    <title lang="en">Power Ballad</title>
-    <desc lang="en">A past-his-prime wedding singer bonds with a fading boy-band star, but when his song reignites the star's career, he risks everything for recognition.</desc>
-  </programme>
-  <programme start="20261008151700 +0200" stop="20261008171100 +0200" channel="starz-stz7">
-    <title lang="en">The Longest Yard</title>
-    <desc lang="en">After landing in prison, Paul &quot;Wrecking&quot; Crewe must form an inmate football team to face the guards - only the &quot;Mean Machine&quot; decides to fight back.</desc>
-  </programme>
-  <programme start="20261008171100 +0200" stop="20261008190200 +0200" channel="starz-stz7">
-    <title lang="en">The Rules Of Attraction</title>
-    <desc lang="en">A surreal love triangle forms amongst three students – Sean, a drug-dealer; serially seductive Paul; and Paul's chic and virginal friend Lauren.</desc>
-  </programme>
-  <programme start="20261008190200 +0200" stop="20261008204200 +0200" channel="starz-stz7">
-    <title lang="en">Man About Town</title>
-    <desc lang="en">Jack, a powerful Hollywood agent, joins a self-help class to fix his life—sparking gossip and laughs when word gets out.</desc>
-  </programme>
-  <programme start="20261008204200 +0200" stop="20261008221800 +0200" channel="starz-stz7">
-    <title lang="en">The Big Empty</title>
-    <desc lang="en">John is an actor with little work and no money who finds himself with an opportunity to make some quick cash by delivering a mysterious suitcase.</desc>
-  </programme>
-  <programme start="20261008221800 +0200" stop="20261009000500 +0200" channel="starz-stz7">
-    <title lang="en">The Family Fang</title>
-    <desc lang="en">After a lifetime of pranks by their parents, two siblings have reservations when told their parents are missing and presumed dead by foul play.
+  <programme start="20261009230500 +0200" stop="20261010010200 +0200" channel="starz-stz6">
+    <title lang="en">The Furious</title>
+    <desc lang="en">When his daughter is kidnapped and police fail him, Wang Wei joins forces with a journalist, launching a ruthless fight against a criminal network.
 </desc>
   </programme>
-  <programme start="20261009000500 +0200" stop="20261009020000 +0200" channel="starz-stz7">
-    <title lang="en">The Brothers Bloom</title>
-    <desc lang="en">Two con‑artist brothers launch one last scheme, giving a quirky heiress a globe‑trotting adventure - until real feelings complicate their perfect con.</desc>
+  <programme start="20261010010200 +0200" stop="20261010020000 +0200" channel="starz-stz6">
+    <title lang="en">S2 E3 - Rabbits Don't Swim</title>
+    <desc lang="en">Julia welcomes a new member of staff to Leathers. Brian and Dougal train their men for battle. Ellen uses her wit to defend her family and her clan.</desc>
   </programme>
-  <programme start="20261009020000 +0200" stop="20261009035400 +0200" channel="starz-stz7">
-    <title lang="en">The Longest Yard</title>
-    <desc lang="en">After landing in prison, Paul &quot;Wrecking&quot; Crewe must form an inmate football team to face the guards - only the &quot;Mean Machine&quot; decides to fight back.</desc>
+  <programme start="20261010020000 +0200" stop="20261010030500 +0200" channel="starz-stz6">
+    <title lang="en">S2 E4 - A Portion of my Soul</title>
+    <desc lang="en">Ellen and Grace ride across the Highlands in search of Brian and Dougal's forces.</desc>
   </programme>
-  <programme start="20261009035400 +0200" stop="20261009053300 +0200" channel="starz-stz7">
-    <title lang="en">Power Ballad</title>
-    <desc lang="en">A past-his-prime wedding singer bonds with a fading boy-band star, but when his song reignites the star's career, he risks everything for recognition.</desc>
+  <programme start="20261010030500 +0200" stop="20261010040000 +0200" channel="starz-stz6">
+    <title lang="en">S1 E2 - Episode 2</title>
+    <desc lang="en">Leo suspects someone’s been inside his house. And when Clive brings his son Saul to work in Leo’s bar, events soon reach a shocking conclusion.</desc>
+  </programme>
+  <programme start="20261010040000 +0200" stop="20261010044900 +0200" channel="starz-stz6">
+    <title lang="en">S1 E3 - Burn Zone</title>
+    <desc lang="en">When a decision Hondo made comes back to bite him, he realizes someone close to him may already know more than they're letting on.</desc>
+  </programme>
+  <programme start="20261010044900 +0200" stop="20261010055500 +0200" channel="starz-stz6">
+    <title lang="en">S2 E4 - A Portion of my Soul</title>
+    <desc lang="en">Ellen and Grace ride across the Highlands in search of Brian and Dougal's forces.</desc>
+  </programme>
+  <programme start="20261010055500 +0200" stop="20261010064800 +0200" channel="starz-stz6">
+    <title lang="en">S1 E2 - Episode 2</title>
+    <desc lang="en">Leo suspects someone’s been inside his house. And when Clive brings his son Saul to work in Leo’s bar, events soon reach a shocking conclusion.</desc>
   </programme>
   <programme start="20261009053300 +0200" stop="20261009072100 +0200" channel="starz-stz7">
     <title lang="en">The Family Fang</title>
     <desc lang="en">After a lifetime of pranks by their parents, two siblings have reservations when told their parents are missing and presumed dead by foul play.
 </desc>
   </programme>
-  <programme start="20261008054500 +0200" stop="20261008073900 +0200" channel="starz-stz8">
-    <title lang="en">The Furious</title>
-    <desc lang="en">When his daughter is kidnapped and police fail him, Wang Wei joins forces with a journalist, launching a ruthless fight against a criminal network.
+  <programme start="20261009072100 +0200" stop="20261009085500 +0200" channel="starz-stz7">
+    <title lang="en">Vamps</title>
+    <desc lang="en">A pair of sexy young vampires - who are trying to swear off human blood - hit the dating scene in NYC, where they meet a cute guy named Van Helsing!</desc>
+  </programme>
+  <programme start="20261009085500 +0200" stop="20261009104900 +0200" channel="starz-stz7">
+    <title lang="en">Pawn Shop Chronicles</title>
+    <desc lang="en">A missing wedding ring sets off a wild chase with meth heads, a vengeful husband, and an Elvis impersonator, all converging at a small-town pawn shop.</desc>
+  </programme>
+  <programme start="20261009104900 +0200" stop="20261009124600 +0200" channel="starz-stz7">
+    <title lang="en">Words And Pictures</title>
+    <desc lang="en">Two teachers form a rivalry that ends up with a competition at their school in which students decide whether words or pictures are more important.</desc>
+  </programme>
+  <programme start="20261009124600 +0200" stop="20261009143400 +0200" channel="starz-stz7">
+    <title lang="en">The Family Fang</title>
+    <desc lang="en">After a lifetime of pranks by their parents, two siblings have reservations when told their parents are missing and presumed dead by foul play.
 </desc>
   </programme>
-  <programme start="20261008073900 +0200" stop="20261008090400 +0200" channel="starz-stz8">
-    <title lang="en">Paranormal Activity: The Marked Ones</title>
-    <desc lang="en">When Jesse investigates disturbing sounds from a neighbor’s apartment, he encounters a sinister force that refuses to let him walk away.</desc>
+  <programme start="20261009143400 +0200" stop="20261009160300 +0200" channel="starz-stz7">
+    <title lang="en">30 Beats</title>
+    <desc lang="en">A group of New Yorkers lives intertwine though a series of sexual encounters during a summer heat wave.</desc>
   </programme>
-  <programme start="20261008090400 +0200" stop="20261008103100 +0200" channel="starz-stz8">
-    <title lang="en">Mariah Carey: Merry Christmas to All!</title>
-    <desc lang="en">Pop icon Mariah Carey ushers in the holidays with a festive extravaganza featuring classic hits, seasonal staples and a lineup of very special guests.</desc>
+  <programme start="20261009160300 +0200" stop="20261009173300 +0200" channel="starz-stz7">
+    <title lang="en">Phat Beach</title>
+    <desc lang="en">Benny's dull summer job takes a turn when Durrell arrives. They go to the beach to sell sunglasses, but fun and bikinis quickly become the real focus.</desc>
   </programme>
-  <programme start="20261008103100 +0200" stop="20261008122600 +0200" channel="starz-stz8">
-    <title lang="en">The Furious</title>
-    <desc lang="en">When his daughter is kidnapped and police fail him, Wang Wei joins forces with a journalist, launching a ruthless fight against a criminal network.
-</desc>
+  <programme start="20261009173300 +0200" stop="20261009191200 +0200" channel="starz-stz7">
+    <title lang="en">Little Man</title>
+    <desc lang="en">A pint-sized thief hides a diamond in a woman's bag, then pretends to be her baby. Chaos, diapers, and laughs follow as he tries to grab it back!</desc>
   </programme>
-  <programme start="20261008122600 +0200" stop="20261008141100 +0200" channel="starz-stz8">
-    <title lang="en">Invincible</title>
-    <desc lang="en">After losing his job and his wife, a Philadelphia bartender defies the odds when he earns a chance to play for the NFL's Philadelphia Eagles.</desc>
+  <programme start="20261009191200 +0200" stop="20261009210900 +0200" channel="starz-stz7">
+    <title lang="en">Words And Pictures</title>
+    <desc lang="en">Two teachers form a rivalry that ends up with a competition at their school in which students decide whether words or pictures are more important.</desc>
   </programme>
-  <programme start="20261008141100 +0200" stop="20261008160200 +0200" channel="starz-stz8">
-    <title lang="en">The Italian Job</title>
-    <desc lang="en">Betrayed after a perfect heist, Charlie Croker teams with a safecracker to steal the loot back, sparking a high‑speed chase through Los Angeles.</desc>
+  <programme start="20261009210900 +0200" stop="20261009224100 +0200" channel="starz-stz7">
+    <title lang="en">Lovely &amp; Amazing</title>
+    <desc lang="en">Jane and her daughters face identity struggles and family chaos. When Jane's health declines, they must come together for comfort and strength.</desc>
   </programme>
-  <programme start="20261008160200 +0200" stop="20261008165100 +0200" channel="starz-stz8">
-    <title lang="en">S1 E1 - Episode 1</title>
-    <desc lang="en">Leo and Clive have been next-door neighbors for 14 years, but when a one-night stand goes wrong, a feud begins which quickly escalates into danger…</desc>
+  <programme start="20261009224100 +0200" stop="20261010002600 +0200" channel="starz-stz7">
+    <title lang="en">Let's Be Cops</title>
+    <desc lang="en">Two slackers impersonate cops and enjoy the perks - drugs, women, and a squad car - until their scam entangles them with real mobsters.</desc>
   </programme>
-  <programme start="20261008165100 +0200" stop="20261008174600 +0200" channel="starz-stz8">
-    <title lang="en">S2 E3 - Rabbits Don't Swim</title>
-    <desc lang="en">Julia welcomes a new member of staff to Leathers. Brian and Dougal train their men for battle. Ellen uses her wit to defend her family and her clan.</desc>
+  <programme start="20261010002600 +0200" stop="20261010015000 +0200" channel="starz-stz7">
+    <title lang="en">Like A Boss</title>
+    <desc lang="en">Mia and Mel face a tough choice: accept a buyout or risk losing their friendship. In the beauty biz, things get messy fast - and not just the mascara.</desc>
   </programme>
-  <programme start="20261008174600 +0200" stop="20261008190700 +0200" channel="starz-stz8">
-    <title lang="en">Welcome to Sudden Death</title>
-    <desc lang="en">A security guard battles a group of tech-savvy terrorists after they take hostages inside a basketball arena.</desc>
+  <programme start="20261010015000 +0200" stop="20261010034700 +0200" channel="starz-stz7">
+    <title lang="en">Words And Pictures</title>
+    <desc lang="en">Two teachers form a rivalry that ends up with a competition at their school in which students decide whether words or pictures are more important.</desc>
   </programme>
-  <programme start="20261008190700 +0200" stop="20261008203400 +0200" channel="starz-stz8">
-    <title lang="en">American Exit</title>
-    <desc lang="en">A terminally ill man kidnaps his estranged son to spend his final months with him on the coast of Mexico, seeking a last chance at connection.</desc>
+  <programme start="20261010034700 +0200" stop="20261010052600 +0200" channel="starz-stz7">
+    <title lang="en">Little Man</title>
+    <desc lang="en">A pint-sized thief hides a diamond in a woman's bag, then pretends to be her baby. Chaos, diapers, and laughs follow as he tries to grab it back!</desc>
   </programme>
-  <programme start="20261008203400 +0200" stop="20261008220300 +0200" channel="starz-stz8">
-    <title lang="en">House Of The Rising Sun</title>
-    <desc lang="en">An ex-cop is hunted by the mob and police after a robbery turns deadly. To survive, Ray must find the killer and clear his name before it's too late.</desc>
-  </programme>
-  <programme start="20261008220300 +0200" stop="20261008234300 +0200" channel="starz-stz8">
-    <title lang="en">Baby Mama</title>
-    <desc lang="en">A successful, single businesswoman who dreams of having a baby discovers she's infertile and hires a working class woman to be her unlikely surrogate.</desc>
-  </programme>
-  <programme start="20261008234300 +0200" stop="20261009003200 +0200" channel="starz-stz8">
-    <title lang="en">S1 E1 - Episode 1</title>
-    <desc lang="en">Leo and Clive have been next-door neighbors for 14 years, but when a one-night stand goes wrong, a feud begins which quickly escalates into danger…</desc>
-  </programme>
-  <programme start="20261009003200 +0200" stop="20261009012700 +0200" channel="starz-stz8">
-    <title lang="en">S2 E3 - Rabbits Don't Swim</title>
-    <desc lang="en">Julia welcomes a new member of staff to Leathers. Brian and Dougal train their men for battle. Ellen uses her wit to defend her family and her clan.</desc>
-  </programme>
-  <programme start="20261009012700 +0200" stop="20261009030500 +0200" channel="starz-stz8">
-    <title lang="en">In The Grey</title>
-    <desc lang="en">A covert team is sent to recover a billion-dollar fortune, but the mission spirals into a high-stakes battle of strategy, deception, and survival.</desc>
-  </programme>
-  <programme start="20261009030500 +0200" stop="20261009040000 +0200" channel="starz-stz8">
-    <title lang="en">S2 E3 - Rabbits Don't Swim</title>
-    <desc lang="en">Julia welcomes a new member of staff to Leathers. Brian and Dougal train their men for battle. Ellen uses her wit to defend her family and her clan.</desc>
-  </programme>
-  <programme start="20261009040000 +0200" stop="20261009044900 +0200" channel="starz-stz8">
-    <title lang="en">S1 E1 - Episode 1</title>
-    <desc lang="en">Leo and Clive have been next-door neighbors for 14 years, but when a one-night stand goes wrong, a feud begins which quickly escalates into danger…</desc>
-  </programme>
-  <programme start="20261009044900 +0200" stop="20261009054400 +0200" channel="starz-stz8">
-    <title lang="en">S2 E3 - Rabbits Don't Swim</title>
-    <desc lang="en">Julia welcomes a new member of staff to Leathers. Brian and Dougal train their men for battle. Ellen uses her wit to defend her family and her clan.</desc>
+  <programme start="20261010052600 +0200" stop="20261010071100 +0200" channel="starz-stz7">
+    <title lang="en">Let's Be Cops</title>
+    <desc lang="en">Two slackers impersonate cops and enjoy the perks - drugs, women, and a squad car - until their scam entangles them with real mobsters.</desc>
   </programme>
   <programme start="20261009054400 +0200" stop="20261009073500 +0200" channel="starz-stz8">
     <title lang="en">The Italian Job</title>
     <desc lang="en">Betrayed after a perfect heist, Charlie Croker teams with a safecracker to steal the loot back, sparking a high‑speed chase through Los Angeles.</desc>
   </programme>
-  <programme start="20261008045100 +0200" stop="20261008070400 +0200" channel="starz-stz9">
-    <title lang="en">Pain &amp; Gain</title>
-    <desc lang="en">When an ambitious group of personal trainers go after the American Dream, they get caught up in a criminal enterprise that goes horribly wrong.</desc>
+  <programme start="20261009073500 +0200" stop="20261009092100 +0200" channel="starz-stz8">
+    <title lang="en">Stone</title>
+    <desc lang="en">A psychological duel develops between a convict itching for release and his about-to-retire parole officer.</desc>
   </programme>
-  <programme start="20261008070400 +0200" stop="20261008092700 +0200" channel="starz-stz9">
-    <title lang="en">Star Wars: The Force Awakens</title>
-    <desc lang="en">As a new threat emerges, Rey, a scavenger from the desert, and Finn, a former stormtrooper, team up with Han Solo to find the key to restoring peace.</desc>
+  <programme start="20261009092100 +0200" stop="20261009103800 +0200" channel="starz-stz8">
+    <title lang="en">The Hard Hit</title>
+    <desc lang="en">When a criminal organization kills an Interpol agent's wife and daughter, he gets revenge.</desc>
   </programme>
-  <programme start="20261008092700 +0200" stop="20261008104900 +0200" channel="starz-stz9">
-    <title lang="en">Resurrection Road</title>
-    <desc lang="en">Six soldiers infiltrate a Confederate fort in Arkansas, but their mission takes a chilling turn when they uncover a dark, sinister secret.</desc>
+  <programme start="20261009103800 +0200" stop="20261009121000 +0200" channel="starz-stz8">
+    <title lang="en">The Strangers: Chapter 3</title>
+    <desc lang="en">As the killers’ mythology grows darker, Maya is dragged deeper into their cycle of terror and forced toward a final confrontation she can’t outrun.</desc>
   </programme>
-  <programme start="20261008104900 +0200" stop="20261008121500 +0200" channel="starz-stz9">
-    <title lang="en">Like A Boss</title>
-    <desc lang="en">Mia and Mel face a tough choice: accept a buyout or risk losing their friendship. In the beauty biz, things get messy fast - and not just the mascara.</desc>
+  <programme start="20261009121000 +0200" stop="20261009133600 +0200" channel="starz-stz8">
+    <title lang="en">Paranormal Activity</title>
+    <desc lang="en">A couple's peace is shattered when they encounter a disturbing demonic presence in their suburban home each night.
+</desc>
   </programme>
-  <programme start="20261008121500 +0200" stop="20261008141200 +0200" channel="starz-stz9">
-    <title lang="en">The Longest Yard</title>
-    <desc lang="en">After landing in prison, Paul &quot;Wrecking&quot; Crewe must form an inmate football team to face the guards - only the &quot;Mean Machine&quot; decides to fight back.</desc>
+  <programme start="20261009133600 +0200" stop="20261009152400 +0200" channel="starz-stz8">
+    <title lang="en">Shelter</title>
+    <desc lang="en">A man living on a secluded Scottish island saves a girl from the sea, triggering a chain of events that forces him to confront his troubled past.</desc>
   </programme>
-  <programme start="20261008141200 +0200" stop="20261008153800 +0200" channel="starz-stz9">
-    <title lang="en">Scary Movie 2</title>
-    <desc lang="en">Cindy and her friends sign up for a sleep study at a haunted mansion and stumble into a barrage of ghosts, bad decisions and ridiculous scares.</desc>
+  <programme start="20261009152400 +0200" stop="20261009165100 +0200" channel="starz-stz8">
+    <title lang="en">American Exit</title>
+    <desc lang="en">A terminally ill man kidnaps his estranged son to spend his final months with him on the coast of Mexico, seeking a last chance at connection.</desc>
   </programme>
-  <programme start="20261008153800 +0200" stop="20261008180000 +0200" channel="starz-stz9">
-    <title lang="en">Star Wars: The Force Awakens</title>
-    <desc lang="en">As a new threat emerges, Rey, a scavenger from the desert, and Finn, a former stormtrooper, team up with Han Solo to find the key to restoring peace.</desc>
+  <programme start="20261009165100 +0200" stop="20261009183100 +0200" channel="starz-stz8">
+    <title lang="en">Baby Mama</title>
+    <desc lang="en">A successful, single businesswoman who dreams of having a baby discovers she's infertile and hires a working class woman to be her unlikely surrogate.</desc>
   </programme>
-  <programme start="20261008180000 +0200" stop="20261008200000 +0200" channel="starz-stz9">
-    <title lang="en">The 40-Year-Old Virgin</title>
-    <desc lang="en">Andy’s 40 and has never had sex. Add in a hot single mom with a &quot;no-touch&quot; policy and you’ve got one frustrated late bloomer.</desc>
-  </programme>
-  <programme start="20261008200000 +0200" stop="20261008220000 +0200" channel="starz-stz9">
-    <title lang="en">Ant-Man</title>
-    <desc lang="en">From Marvel: Looking for a new start, master thief Scott Lang is approached by Dr. Pym, creator of a technology that can shrink a man to insect size.</desc>
-  </programme>
-  <programme start="20261008220000 +0200" stop="20261008235600 +0200" channel="starz-stz9">
-    <title lang="en">The Longest Yard</title>
-    <desc lang="en">After landing in prison, Paul &quot;Wrecking&quot; Crewe must form an inmate football team to face the guards - only the &quot;Mean Machine&quot; decides to fight back.</desc>
-  </programme>
-  <programme start="20261008235600 +0200" stop="20261009012200 +0200" channel="starz-stz9">
-    <title lang="en">Scary Movie 2</title>
-    <desc lang="en">Cindy and her friends sign up for a sleep study at a haunted mansion and stumble into a barrage of ghosts, bad decisions and ridiculous scares.</desc>
-  </programme>
-  <programme start="20261009012200 +0200" stop="20261009032200 +0200" channel="starz-stz9">
-    <title lang="en">The 40-Year-Old Virgin</title>
-    <desc lang="en">Andy’s 40 and has never had sex. Add in a hot single mom with a &quot;no-touch&quot; policy and you’ve got one frustrated late bloomer.</desc>
-  </programme>
-  <programme start="20261009032200 +0200" stop="20261009042000 +0200" channel="starz-stz9">
-    <title lang="en">S2 E3 - Rabbits Don't Swim</title>
-    <desc lang="en">Julia welcomes a new member of staff to Leathers. Brian and Dougal train their men for battle. Ellen uses her wit to defend her family and her clan.</desc>
-  </programme>
-  <programme start="20261009042000 +0200" stop="20261009051100 +0200" channel="starz-stz9">
+  <programme start="20261009183100 +0200" stop="20261009192000 +0200" channel="starz-stz8">
     <title lang="en">S1 E1 - Episode 1</title>
     <desc lang="en">Leo and Clive have been next-door neighbors for 14 years, but when a one-night stand goes wrong, a feud begins which quickly escalates into danger…</desc>
   </programme>
-  <programme start="20261009051100 +0200" stop="20261009060000 +0200" channel="starz-stz9">
-    <title lang="en">S1 E2 - Take the Shot</title>
-    <desc lang="en">Taking point as Scout for the first time, Malik faces an impossible call; one that will haunt him, and the squad, long after the smoke clears.</desc>
+  <programme start="20261009192000 +0200" stop="20261009201500 +0200" channel="starz-stz8">
+    <title lang="en">S2 E3 - Rabbits Don't Swim</title>
+    <desc lang="en">Julia welcomes a new member of staff to Leathers. Brian and Dougal train their men for battle. Ellen uses her wit to defend her family and her clan.</desc>
+  </programme>
+  <programme start="20261009201500 +0200" stop="20261009220100 +0200" channel="starz-stz8">
+    <title lang="en">Stone</title>
+    <desc lang="en">A psychological duel develops between a convict itching for release and his about-to-retire parole officer.</desc>
+  </programme>
+  <programme start="20261009220100 +0200" stop="20261009232700 +0200" channel="starz-stz8">
+    <title lang="en">Paranormal Activity</title>
+    <desc lang="en">A couple's peace is shattered when they encounter a disturbing demonic presence in their suburban home each night.
+</desc>
+  </programme>
+  <programme start="20261009232700 +0200" stop="20261010002200 +0200" channel="starz-stz8">
+    <title lang="en">S2 E3 - Rabbits Don't Swim</title>
+    <desc lang="en">Julia welcomes a new member of staff to Leathers. Brian and Dougal train their men for battle. Ellen uses her wit to defend her family and her clan.</desc>
+  </programme>
+  <programme start="20261010002200 +0200" stop="20261010011100 +0200" channel="starz-stz8">
+    <title lang="en">S1 E1 - Episode 1</title>
+    <desc lang="en">Leo and Clive have been next-door neighbors for 14 years, but when a one-night stand goes wrong, a feud begins which quickly escalates into danger…</desc>
+  </programme>
+  <programme start="20261010011100 +0200" stop="20261010025900 +0200" channel="starz-stz8">
+    <title lang="en">Shelter</title>
+    <desc lang="en">A man living on a secluded Scottish island saves a girl from the sea, triggering a chain of events that forces him to confront his troubled past.</desc>
+  </programme>
+  <programme start="20261010025900 +0200" stop="20261010050700 +0200" channel="starz-stz8">
+    <title lang="en">Michael</title>
+    <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
+  </programme>
+  <programme start="20261010050700 +0200" stop="20261010065500 +0200" channel="starz-stz8">
+    <title lang="en">ATL</title>
+    <desc lang="en">In Atlanta's skating world, Rashad struggles to guide his younger brother but finds hope in New‑New, unaware she’s keeping a major secret.</desc>
+  </programme>
+  <programme start="20261009060000 +0200" stop="20261009064900 +0200" channel="starz-stz9">
+    <title lang="en">S1 E3 - Burn Zone</title>
+    <desc lang="en">When a decision Hondo made comes back to bite him, he realizes someone close to him may already know more than they're letting on.</desc>
+  </programme>
+  <programme start="20261009064900 +0200" stop="20261009083700 +0200" channel="starz-stz9">
+    <title lang="en">The Bounce Back</title>
+    <desc lang="en">A relationship guru finds himself falling for an attractive licensed therapist who questions his methods and disagrees with his theories on love.</desc>
+  </programme>
+  <programme start="20261009083700 +0200" stop="20261009101000 +0200" channel="starz-stz9">
+    <title lang="en">Underworld: Awakening</title>
+    <desc lang="en">When humans uncover the existence of Vampire and Lycan clans, a war erupts. Vampire warrior Selene takes charge in the fight against humanity.</desc>
+  </programme>
+  <programme start="20261009101000 +0200" stop="20261009114700 +0200" channel="starz-stz9">
+    <title lang="en">Thoroughbreds</title>
+    <desc lang="en">Two teenage girls rekindle their unlikely friendship after years of growing apart and find that murder may be what brings them together.</desc>
+  </programme>
+  <programme start="20261009114700 +0200" stop="20261009132000 +0200" channel="starz-stz9">
+    <title lang="en">The Night Clerk</title>
+    <desc lang="en">Bart, a hotel clerk, is suspected of murder. He connects with a guest, Andrea, and must stop the real killer before she’s the next victim.</desc>
+  </programme>
+  <programme start="20261009132000 +0200" stop="20261009145500 +0200" channel="starz-stz9">
+    <title lang="en">John Henry</title>
+    <desc lang="en">An ex-gang member seeks peace, but when two immigrant kids flee his old crew, he must face his past or stay in the shadows.</desc>
+  </programme>
+  <programme start="20261009145500 +0200" stop="20261009165200 +0200" channel="starz-stz9">
+    <title lang="en">The Furious</title>
+    <desc lang="en">When his daughter is kidnapped and police fail him, Wang Wei joins forces with a journalist, launching a ruthless fight against a criminal network.
+</desc>
+  </programme>
+  <programme start="20261009165200 +0200" stop="20261009174300 +0200" channel="starz-stz9">
+    <title lang="en">S1 E1 - Episode 1</title>
+    <desc lang="en">Leo and Clive have been next-door neighbors for 14 years, but when a one-night stand goes wrong, a feud begins which quickly escalates into danger…</desc>
+  </programme>
+  <programme start="20261009174300 +0200" stop="20261009194000 +0200" channel="starz-stz9">
+    <title lang="en">Couples Retreat</title>
+    <desc lang="en">Four couples find that paradise comes at a price when they must participate in therapy sessions at a tropical resort.</desc>
+  </programme>
+  <programme start="20261009194000 +0200" stop="20261009211500 +0200" channel="starz-stz9">
+    <title lang="en">John Henry</title>
+    <desc lang="en">An ex-gang member seeks peace, but when two immigrant kids flee his old crew, he must face his past or stay in the shadows.</desc>
+  </programme>
+  <programme start="20261009211500 +0200" stop="20261009230500 +0200" channel="starz-stz9">
+    <title lang="en">Assault On Precinct 13</title>
+    <desc lang="en">A police sergeant rallies cops and prisoners to protect them in a police station on New Year's Eve as corrupt policemen plan to kill everyone inside.</desc>
+  </programme>
+  <programme start="20261009230500 +0200" stop="20261010010200 +0200" channel="starz-stz9">
+    <title lang="en">The Furious</title>
+    <desc lang="en">When his daughter is kidnapped and police fail him, Wang Wei joins forces with a journalist, launching a ruthless fight against a criminal network.
+</desc>
+  </programme>
+  <programme start="20261010010200 +0200" stop="20261010020000 +0200" channel="starz-stz9">
+    <title lang="en">S2 E3 - Rabbits Don't Swim</title>
+    <desc lang="en">Julia welcomes a new member of staff to Leathers. Brian and Dougal train their men for battle. Ellen uses her wit to defend her family and her clan.</desc>
+  </programme>
+  <programme start="20261010020000 +0200" stop="20261010030500 +0200" channel="starz-stz9">
+    <title lang="en">S2 E4 - A Portion of my Soul</title>
+    <desc lang="en">Ellen and Grace ride across the Highlands in search of Brian and Dougal's forces.</desc>
+  </programme>
+  <programme start="20261010030500 +0200" stop="20261010040000 +0200" channel="starz-stz9">
+    <title lang="en">S1 E2 - Episode 2</title>
+    <desc lang="en">Leo suspects someone’s been inside his house. And when Clive brings his son Saul to work in Leo’s bar, events soon reach a shocking conclusion.</desc>
+  </programme>
+  <programme start="20261010040000 +0200" stop="20261010044900 +0200" channel="starz-stz9">
+    <title lang="en">S1 E3 - Burn Zone</title>
+    <desc lang="en">When a decision Hondo made comes back to bite him, he realizes someone close to him may already know more than they're letting on.</desc>
+  </programme>
+  <programme start="20261010044900 +0200" stop="20261010055500 +0200" channel="starz-stz9">
+    <title lang="en">S2 E4 - A Portion of my Soul</title>
+    <desc lang="en">Ellen and Grace ride across the Highlands in search of Brian and Dougal's forces.</desc>
+  </programme>
+  <programme start="20261010055500 +0200" stop="20261010064800 +0200" channel="starz-stz9">
+    <title lang="en">S1 E2 - Episode 2</title>
+    <desc lang="en">Leo suspects someone’s been inside his house. And when Clive brings his son Saul to work in Leo’s bar, events soon reach a shocking conclusion.</desc>
   </programme>
 </tv>
