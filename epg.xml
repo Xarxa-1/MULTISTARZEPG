@@ -161,69 +161,57 @@
     <title lang="en">Fresh</title>
     <desc lang="en">Street-smart Fresh uses his wits to stay ahead of local criminals and fight for a better life.</desc>
   </programme>
-  <programme start="20261009053500 +0200" stop="20261009070000 +0200" channel="starz-stz5">
-    <title lang="en">American Dream</title>
-    <desc lang="en">Two entrepreneurs face a Russian mobster's vengeance after they cut him out of a business deal.</desc>
-  </programme>
-  <programme start="20261009070000 +0200" stop="20261009083400 +0200" channel="starz-stz5">
-    <title lang="en">Krystal</title>
-    <desc lang="en">Taylor falls for Krystal, an ex-addict. Pretending to be in AA, he faces secrets and family drama as love teaches him to live without fear.</desc>
-  </programme>
-  <programme start="20261009083400 +0200" stop="20261009100100 +0200" channel="starz-stz5">
-    <title lang="en">Interrogation</title>
-    <desc lang="en">An FBI agent injures a gunman during a confrontation. The subsequent interrogation uncovers elements of a plot that poses a threat to the city.</desc>
-  </programme>
-  <programme start="20261009100100 +0200" stop="20261009112100 +0200" channel="starz-stz5">
-    <title lang="en">Dashcam</title>
-    <desc lang="en">Annie and Stretch livestream a chaotic road trip that turns into a supernatural nightmare when a strange job puts their lives at risk.</desc>
-  </programme>
-  <programme start="20261009112100 +0200" stop="20261009125000 +0200" channel="starz-stz5">
-    <title lang="en">Paranormal Activity: The Ghost Dimension</title>
-    <desc lang="en">After moving into Katie and Kristi's former house, a family discovers a mysterious camera and uncovers an ancient evil threatening their daughter.</desc>
-  </programme>
-  <programme start="20261009125000 +0200" stop="20261009141900 +0200" channel="starz-stz5">
-    <title lang="en">Bloodthirst</title>
-    <desc lang="en">In a world dominated by vampires, a skilled vampire hunter races to destroy the master vampire before he becomes the next victim.</desc>
-  </programme>
-  <programme start="20261009141900 +0200" stop="20261009155300 +0200" channel="starz-stz5">
-    <title lang="en">You, Me, &amp; Her</title>
-    <desc lang="en">Mags and Ash meet a flirty nomad on a tense trip. A wild idea, a threesome, might be the spark they need to reignite their rocky marriage.</desc>
-  </programme>
-  <programme start="20261009155300 +0200" stop="20261009172000 +0200" channel="starz-stz5">
-    <title lang="en">Interrogation</title>
-    <desc lang="en">An FBI agent injures a gunman during a confrontation. The subsequent interrogation uncovers elements of a plot that poses a threat to the city.</desc>
-  </programme>
-  <programme start="20261009172000 +0200" stop="20261009191600 +0200" channel="starz-stz5">
-    <title lang="en">How to Lose a Guy in 10 Days</title>
-    <desc lang="en">Andie must write about losing a guy in 10 days.  Benjamin bets he can make her fall in love. Their clash sparks hilarious chaos - and true love.</desc>
-  </programme>
-  <programme start="20261009191600 +0200" stop="20261009210700 +0200" channel="starz-stz5">
-    <title lang="en">The Raven</title>
-    <desc lang="en">A young detective in Baltimore teams up with Edgar Allan Poe to stop a killer who is enacting gruesome murders inspired by Poe's own stories.</desc>
-  </programme>
-  <programme start="20261009210700 +0200" stop="20261009223600 +0200" channel="starz-stz5">
-    <title lang="en">Paranormal Activity: The Ghost Dimension</title>
-    <desc lang="en">After moving into Katie and Kristi's former house, a family discovers a mysterious camera and uncovers an ancient evil threatening their daughter.</desc>
-  </programme>
-  <programme start="20261009223600 +0200" stop="20261010001500 +0200" channel="starz-stz5">
-    <title lang="en">Ask Me Anything</title>
-    <desc lang="en">A confused teenager writes a blog revealing her daily activities and secrets, advised by her guidance counselor in lieu of her first year in college.</desc>
-  </programme>
-  <programme start="20261010001500 +0200" stop="20261010014900 +0200" channel="starz-stz5">
-    <title lang="en">You, Me, &amp; Her</title>
-    <desc lang="en">Mags and Ash meet a flirty nomad on a tense trip. A wild idea, a threesome, might be the spark they need to reignite their rocky marriage.</desc>
-  </programme>
-  <programme start="20261010014900 +0200" stop="20261010040000 +0200" channel="starz-stz5">
-    <title lang="en">Miss Julie</title>
-    <desc lang="en">Set in 1890 Ireland, an unsettled aristocratic daughter entices her father's valet into a seductive encounter during a midsummer night.</desc>
-  </programme>
-  <programme start="20261010040000 +0200" stop="20261010055600 +0200" channel="starz-stz5">
-    <title lang="en">How to Lose a Guy in 10 Days</title>
-    <desc lang="en">Andie must write about losing a guy in 10 days.  Benjamin bets he can make her fall in love. Their clash sparks hilarious chaos - and true love.</desc>
-  </programme>
   <programme start="20261010055600 +0200" stop="20261010073500 +0200" channel="starz-stz5">
     <title lang="en">Ask Me Anything</title>
     <desc lang="en">A confused teenager writes a blog revealing her daily activities and secrets, advised by her guidance counselor in lieu of her first year in college.</desc>
+  </programme>
+  <programme start="20261010073500 +0200" stop="20261010090700 +0200" channel="starz-stz5">
+    <title lang="en">Careful What You Wish For</title>
+    <desc lang="en">A young man is in over his head after starting an affair with a banker's wife, leading to a suspicious death and a hefty life insurance policy.</desc>
+  </programme>
+  <programme start="20261010090700 +0200" stop="20261010105100 +0200" channel="starz-stz5">
+    <title lang="en">The Hard Word</title>
+    <desc lang="en">In order to get out prison, the Twenyman brothers have to pull off the heist of the century for a corrupt lawyer.</desc>
+  </programme>
+  <programme start="20261010105100 +0200" stop="20261010130200 +0200" channel="starz-stz5">
+    <title lang="en">Miss Julie</title>
+    <desc lang="en">Set in 1890 Ireland, an unsettled aristocratic daughter entices her father's valet into a seductive encounter during a midsummer night.</desc>
+  </programme>
+  <programme start="20261010130200 +0200" stop="20261010152200 +0200" channel="starz-stz5">
+    <title lang="en">The Talented Mr. Ripley</title>
+    <desc lang="en">Tom Ripley travels to Italy to bring home a wealthy heir, but his fascination with Dickie Greenleaf's life soon grows into a dangerous obsession.</desc>
+  </programme>
+  <programme start="20261010152200 +0200" stop="20261010165500 +0200" channel="starz-stz5">
+    <title lang="en">Singing In My Sleep</title>
+    <desc lang="en">A talented teen songwriter grapples with her late father's musical legacy, confronting his absence as the 20th anniversary of his debut album looms.</desc>
+  </programme>
+  <programme start="20261010165500 +0200" stop="20261010185400 +0200" channel="starz-stz5">
+    <title lang="en">Marshall</title>
+    <desc lang="en">Thurgood Marshall, a pioneering lawyer destined to become the first African-American Supreme Court Justice, faces a case that defines his career.</desc>
+  </programme>
+  <programme start="20261010185400 +0200" stop="20261010202600 +0200" channel="starz-stz5">
+    <title lang="en">Careful What You Wish For</title>
+    <desc lang="en">A young man is in over his head after starting an affair with a banker's wife, leading to a suspicious death and a hefty life insurance policy.</desc>
+  </programme>
+  <programme start="20261010202600 +0200" stop="20261010224600 +0200" channel="starz-stz5">
+    <title lang="en">The Talented Mr. Ripley</title>
+    <desc lang="en">Tom Ripley travels to Italy to bring home a wealthy heir, but his fascination with Dickie Greenleaf's life soon grows into a dangerous obsession.</desc>
+  </programme>
+  <programme start="20261010224600 +0200" stop="20261011001900 +0200" channel="starz-stz5">
+    <title lang="en">Singing In My Sleep</title>
+    <desc lang="en">A talented teen songwriter grapples with her late father's musical legacy, confronting his absence as the 20th anniversary of his debut album looms.</desc>
+  </programme>
+  <programme start="20261011001900 +0200" stop="20261011021800 +0200" channel="starz-stz5">
+    <title lang="en">Marshall</title>
+    <desc lang="en">Thurgood Marshall, a pioneering lawyer destined to become the first African-American Supreme Court Justice, faces a case that defines his career.</desc>
+  </programme>
+  <programme start="20261011021800 +0200" stop="20261011035700 +0200" channel="starz-stz5">
+    <title lang="en">Quartet</title>
+    <desc lang="en">A famed singer rejoins her old quartet, stirring up past grudges. Can they mend fences and perform together again?</desc>
+  </programme>
+  <programme start="20261011035700 +0200" stop="20261011061700 +0200" channel="starz-stz5">
+    <title lang="en">The Talented Mr. Ripley</title>
+    <desc lang="en">Tom Ripley travels to Italy to bring home a wealthy heir, but his fascination with Dickie Greenleaf's life soon grows into a dangerous obsession.</desc>
   </programme>
   <programme start="20261010055500 +0200" stop="20261010064800 +0200" channel="starz-stz6">
     <title lang="en">S1 E2 - Episode 2</title>
