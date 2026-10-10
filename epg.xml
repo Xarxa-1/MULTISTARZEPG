@@ -21,139 +21,145 @@
   <channel id="starz-stz9">
     <display-name>STARZ Encore (STZ9)</display-name>
   </channel>
-  <programme start="20261009060000 +0200" stop="20261009064900 +0200" channel="starz-stz1">
-    <title lang="en">S1 E3 - Burn Zone</title>
-    <desc lang="en">When a decision Hondo made comes back to bite him, he realizes someone close to him may already know more than they're letting on.</desc>
-  </programme>
-  <programme start="20261009064900 +0200" stop="20261009083700 +0200" channel="starz-stz1">
-    <title lang="en">The Bounce Back</title>
-    <desc lang="en">A relationship guru finds himself falling for an attractive licensed therapist who questions his methods and disagrees with his theories on love.</desc>
-  </programme>
-  <programme start="20261009083700 +0200" stop="20261009101000 +0200" channel="starz-stz1">
-    <title lang="en">Underworld: Awakening</title>
-    <desc lang="en">When humans uncover the existence of Vampire and Lycan clans, a war erupts. Vampire warrior Selene takes charge in the fight against humanity.</desc>
-  </programme>
-  <programme start="20261009101000 +0200" stop="20261009114700 +0200" channel="starz-stz1">
-    <title lang="en">Thoroughbreds</title>
-    <desc lang="en">Two teenage girls rekindle their unlikely friendship after years of growing apart and find that murder may be what brings them together.</desc>
-  </programme>
-  <programme start="20261009114700 +0200" stop="20261009132000 +0200" channel="starz-stz1">
-    <title lang="en">The Night Clerk</title>
-    <desc lang="en">Bart, a hotel clerk, is suspected of murder. He connects with a guest, Andrea, and must stop the real killer before she’s the next victim.</desc>
-  </programme>
-  <programme start="20261009132000 +0200" stop="20261009145500 +0200" channel="starz-stz1">
-    <title lang="en">John Henry</title>
-    <desc lang="en">An ex-gang member seeks peace, but when two immigrant kids flee his old crew, he must face his past or stay in the shadows.</desc>
-  </programme>
-  <programme start="20261009145500 +0200" stop="20261009165200 +0200" channel="starz-stz1">
-    <title lang="en">The Furious</title>
-    <desc lang="en">When his daughter is kidnapped and police fail him, Wang Wei joins forces with a journalist, launching a ruthless fight against a criminal network.
-</desc>
-  </programme>
-  <programme start="20261009165200 +0200" stop="20261009174300 +0200" channel="starz-stz1">
-    <title lang="en">S1 E1 - Episode 1</title>
-    <desc lang="en">Leo and Clive have been next-door neighbors for 14 years, but when a one-night stand goes wrong, a feud begins which quickly escalates into danger…</desc>
-  </programme>
-  <programme start="20261009174300 +0200" stop="20261009194000 +0200" channel="starz-stz1">
-    <title lang="en">Couples Retreat</title>
-    <desc lang="en">Four couples find that paradise comes at a price when they must participate in therapy sessions at a tropical resort.</desc>
-  </programme>
-  <programme start="20261009194000 +0200" stop="20261009211500 +0200" channel="starz-stz1">
-    <title lang="en">John Henry</title>
-    <desc lang="en">An ex-gang member seeks peace, but when two immigrant kids flee his old crew, he must face his past or stay in the shadows.</desc>
-  </programme>
-  <programme start="20261009211500 +0200" stop="20261009230500 +0200" channel="starz-stz1">
-    <title lang="en">Assault On Precinct 13</title>
-    <desc lang="en">A police sergeant rallies cops and prisoners to protect them in a police station on New Year's Eve as corrupt policemen plan to kill everyone inside.</desc>
-  </programme>
-  <programme start="20261009230500 +0200" stop="20261010010200 +0200" channel="starz-stz1">
-    <title lang="en">The Furious</title>
-    <desc lang="en">When his daughter is kidnapped and police fail him, Wang Wei joins forces with a journalist, launching a ruthless fight against a criminal network.
-</desc>
-  </programme>
-  <programme start="20261010010200 +0200" stop="20261010020000 +0200" channel="starz-stz1">
-    <title lang="en">S2 E3 - Rabbits Don't Swim</title>
-    <desc lang="en">Julia welcomes a new member of staff to Leathers. Brian and Dougal train their men for battle. Ellen uses her wit to defend her family and her clan.</desc>
-  </programme>
-  <programme start="20261010020000 +0200" stop="20261010030500 +0200" channel="starz-stz1">
-    <title lang="en">S2 E4 - A Portion of my Soul</title>
-    <desc lang="en">Ellen and Grace ride across the Highlands in search of Brian and Dougal's forces.</desc>
-  </programme>
-  <programme start="20261010030500 +0200" stop="20261010040000 +0200" channel="starz-stz1">
-    <title lang="en">S1 E2 - Episode 2</title>
-    <desc lang="en">Leo suspects someone’s been inside his house. And when Clive brings his son Saul to work in Leo’s bar, events soon reach a shocking conclusion.</desc>
-  </programme>
-  <programme start="20261010040000 +0200" stop="20261010044900 +0200" channel="starz-stz1">
-    <title lang="en">S1 E3 - Burn Zone</title>
-    <desc lang="en">When a decision Hondo made comes back to bite him, he realizes someone close to him may already know more than they're letting on.</desc>
-  </programme>
-  <programme start="20261010044900 +0200" stop="20261010055500 +0200" channel="starz-stz1">
-    <title lang="en">S2 E4 - A Portion of my Soul</title>
-    <desc lang="en">Ellen and Grace ride across the Highlands in search of Brian and Dougal's forces.</desc>
-  </programme>
   <programme start="20261010055500 +0200" stop="20261010064800 +0200" channel="starz-stz1">
     <title lang="en">S1 E2 - Episode 2</title>
     <desc lang="en">Leo suspects someone’s been inside his house. And when Clive brings his son Saul to work in Leo’s bar, events soon reach a shocking conclusion.</desc>
   </programme>
-  <programme start="20261009044400 +0200" stop="20261009064100 +0200" channel="starz-stz3">
-    <title lang="en">Harlem Nights</title>
-    <desc lang="en">In 1930s New York, a gambling house owner and his crew battle rivals, gangsters, and corrupt police.</desc>
+  <programme start="20261010064800 +0200" stop="20261010073700 +0200" channel="starz-stz1">
+    <title lang="en">S1 E3 - Burn Zone</title>
+    <desc lang="en">When a decision Hondo made comes back to bite him, he realizes someone close to him may already know more than they're letting on.</desc>
   </programme>
-  <programme start="20261009064100 +0200" stop="20261009081200 +0200" channel="starz-stz3">
-    <title lang="en">Sweet Potato Pie</title>
-    <desc lang="en">Three friends on a wild quest for love face Enchilada, Anaconda, and sweet potato pie.</desc>
+  <programme start="20261010073700 +0200" stop="20261010084300 +0200" channel="starz-stz1">
+    <title lang="en">S2 E4 - A Portion of my Soul</title>
+    <desc lang="en">Ellen and Grace ride across the Highlands in search of Brian and Dougal's forces.</desc>
   </programme>
-  <programme start="20261009081200 +0200" stop="20261009094800 +0200" channel="starz-stz3">
-    <title lang="en">Iron Eagle On The Attack</title>
-    <desc lang="en">A fighter pilot runs a flight school for troubled teens. During an emergency landing on an abandoned base, the group stumbles upon a sinister plan.</desc>
+  <programme start="20261010084300 +0200" stop="20261010100900 +0200" channel="starz-stz1">
+    <title lang="en">Scary Movie 2</title>
+    <desc lang="en">Cindy and her friends sign up for a sleep study at a haunted mansion and stumble into a barrage of ghosts, bad decisions and ridiculous scares.</desc>
   </programme>
-  <programme start="20261009094800 +0200" stop="20261009113600 +0200" channel="starz-stz3">
-    <title lang="en">ATL</title>
-    <desc lang="en">In Atlanta's skating world, Rashad struggles to guide his younger brother but finds hope in New‑New, unaware she’s keeping a major secret.</desc>
+  <programme start="20261010100900 +0200" stop="20261010110100 +0200" channel="starz-stz1">
+    <title lang="en">S1 E2 - Episode 2</title>
+    <desc lang="en">Leo suspects someone’s been inside his house. And when Clive brings his son Saul to work in Leo’s bar, events soon reach a shocking conclusion.</desc>
   </programme>
-  <programme start="20261009113600 +0200" stop="20261009132000 +0200" channel="starz-stz3">
-    <title lang="en">Dope</title>
-    <desc lang="en">Set in Inglewood, California, a high school geek fights to fit in while keeping his eye on an Ivy League prize.</desc>
+  <programme start="20261010110100 +0200" stop="20261010124200 +0200" channel="starz-stz1">
+    <title lang="en">Ride Along</title>
+    <desc lang="en">To prove he's worthy of marrying a cop's sister, school guard Ben joins detective James on a wild ride through Atlanta's toughest streets.</desc>
   </programme>
-  <programme start="20261009132000 +0200" stop="20261009151000 +0200" channel="starz-stz3">
-    <title lang="en">What's Cooking?</title>
-    <desc lang="en">Tensions between family members arise and hilarity ensues when four ethnically diverse Los Angeles families set about preparing a Thanksgiving meal.</desc>
+  <programme start="20261010124200 +0200" stop="20261010142500 +0200" channel="starz-stz1">
+    <title lang="en">Ride Along 2</title>
+    <desc lang="en">The brothers-in-law are back! Ben and James get into a compromising situation that threatens to derail a major case… and Ben's upcoming wedding day.</desc>
   </programme>
-  <programme start="20261009151000 +0200" stop="20261009165800 +0200" channel="starz-stz3">
-    <title lang="en">ATL</title>
-    <desc lang="en">In Atlanta's skating world, Rashad struggles to guide his younger brother but finds hope in New‑New, unaware she’s keeping a major secret.</desc>
+  <programme start="20261010142500 +0200" stop="20261010160000 +0200" channel="starz-stz1">
+    <title lang="en">Stuber</title>
+    <desc lang="en">Stu’s routine ride becomes a nightmare when his passenger is a cop hunting a killer, dragging him into a dangerous chase.</desc>
   </programme>
-  <programme start="20261009165800 +0200" stop="20261009184500 +0200" channel="starz-stz3">
-    <title lang="en">Mindhunters</title>
-    <desc lang="en">Young FBI profilers train on a remote island, but when deaths occur, they realize one of them has become a killer - and escape may be impossible.</desc>
+  <programme start="20261010160000 +0200" stop="20261010164700 +0200" channel="starz-stz1">
+    <title lang="en">S1 E3 - Burn Zone</title>
+    <desc lang="en">When a decision Hondo made comes back to bite him, he realizes someone close to him may already know more than they're letting on.</desc>
   </programme>
-  <programme start="20261009184500 +0200" stop="20261009202600 +0200" channel="starz-stz3">
-    <title lang="en">A Low Down Dirty Shame</title>
-    <desc lang="en">A former Los Angeles policeman helps a DEA agent on a case similar to the one that ended his career.</desc>
+  <programme start="20261010164700 +0200" stop="20261010175300 +0200" channel="starz-stz1">
+    <title lang="en">S2 E4 - A Portion of my Soul</title>
+    <desc lang="en">Ellen and Grace ride across the Highlands in search of Brian and Dougal's forces.</desc>
   </programme>
-  <programme start="20261009202600 +0200" stop="20261009214600 +0200" channel="starz-stz3">
-    <title lang="en">When A Woman's Fed Up</title>
-    <desc lang="en">When Taryln learns her husband has been unfaithful, she hatches a devious plan to teach him a lesson he won’t forget.</desc>
+  <programme start="20261010175300 +0200" stop="20261010184200 +0200" channel="starz-stz1">
+    <title lang="en">S1 E3 - Burn Zone</title>
+    <desc lang="en">When a decision Hondo made comes back to bite him, he realizes someone close to him may already know more than they're letting on.</desc>
   </programme>
-  <programme start="20261009214600 +0200" stop="20261009233600 +0200" channel="starz-stz3">
-    <title lang="en">What's Cooking?</title>
-    <desc lang="en">Tensions between family members arise and hilarity ensues when four ethnically diverse Los Angeles families set about preparing a Thanksgiving meal.</desc>
+  <programme start="20261010184200 +0200" stop="20261010193500 +0200" channel="starz-stz1">
+    <title lang="en">S1 E2 - Episode 2</title>
+    <desc lang="en">Leo suspects someone’s been inside his house. And when Clive brings his son Saul to work in Leo’s bar, events soon reach a shocking conclusion.</desc>
   </programme>
-  <programme start="20261009233600 +0200" stop="20261010012300 +0200" channel="starz-stz3">
-    <title lang="en">Mindhunters</title>
-    <desc lang="en">Young FBI profilers train on a remote island, but when deaths occur, they realize one of them has become a killer - and escape may be impossible.</desc>
+  <programme start="20261010193500 +0200" stop="20261010204100 +0200" channel="starz-stz1">
+    <title lang="en">S2 E4 - A Portion of my Soul</title>
+    <desc lang="en">Ellen and Grace ride across the Highlands in search of Brian and Dougal's forces.</desc>
   </programme>
-  <programme start="20261010012300 +0200" stop="20261010031100 +0200" channel="starz-stz3">
-    <title lang="en">ATL</title>
-    <desc lang="en">In Atlanta's skating world, Rashad struggles to guide his younger brother but finds hope in New‑New, unaware she’s keeping a major secret.</desc>
+  <programme start="20261010204100 +0200" stop="20261010232100 +0200" channel="starz-stz1">
+    <title lang="en">2012</title>
+    <desc lang="en">Solar flares creating instability at the Earth's core lead to a series of mega-earthquakes, toppling skyscrapers, and massive tidal waves!</desc>
   </programme>
-  <programme start="20261010031100 +0200" stop="20261010045200 +0200" channel="starz-stz3">
-    <title lang="en">A Low Down Dirty Shame</title>
-    <desc lang="en">A former Los Angeles policeman helps a DEA agent on a case similar to the one that ended his career.</desc>
+  <programme start="20261010232100 +0200" stop="20261011010100 +0200" channel="starz-stz1">
+    <title lang="en">In The Grey</title>
+    <desc lang="en">A covert team is sent to recover a billion-dollar fortune, but the mission spirals into a high-stakes battle of strategy, deception, and survival.</desc>
+  </programme>
+  <programme start="20261011010100 +0200" stop="20261011020600 +0200" channel="starz-stz1">
+    <title lang="en">S2 E4 - A Portion of my Soul</title>
+    <desc lang="en">Ellen and Grace ride across the Highlands in search of Brian and Dougal's forces.</desc>
+  </programme>
+  <programme start="20261011020600 +0200" stop="20261011030000 +0200" channel="starz-stz1">
+    <title lang="en">S1 E2 - Episode 2</title>
+    <desc lang="en">Leo suspects someone’s been inside his house. And when Clive brings his son Saul to work in Leo’s bar, events soon reach a shocking conclusion.</desc>
+  </programme>
+  <programme start="20261011030000 +0200" stop="20261011035000 +0200" channel="starz-stz1">
+    <title lang="en">S1 E3 - Burn Zone</title>
+    <desc lang="en">When a decision Hondo made comes back to bite him, he realizes someone close to him may already know more than they're letting on.</desc>
+  </programme>
+  <programme start="20261011035000 +0200" stop="20261011045500 +0200" channel="starz-stz1">
+    <title lang="en">S2 E4 - A Portion of my Soul</title>
+    <desc lang="en">Ellen and Grace ride across the Highlands in search of Brian and Dougal's forces.</desc>
+  </programme>
+  <programme start="20261011045500 +0200" stop="20261011054700 +0200" channel="starz-stz1">
+    <title lang="en">S1 E2 - Episode 2</title>
+    <desc lang="en">Leo suspects someone’s been inside his house. And when Clive brings his son Saul to work in Leo’s bar, events soon reach a shocking conclusion.</desc>
+  </programme>
+  <programme start="20261011054700 +0200" stop="20261011065300 +0200" channel="starz-stz1">
+    <title lang="en">S2 E4 - A Portion of my Soul</title>
+    <desc lang="en">Ellen and Grace ride across the Highlands in search of Brian and Dougal's forces.</desc>
   </programme>
   <programme start="20261010045200 +0200" stop="20261010064200 +0200" channel="starz-stz3">
     <title lang="en">What's Cooking?</title>
     <desc lang="en">Tensions between family members arise and hilarity ensues when four ethnically diverse Los Angeles families set about preparing a Thanksgiving meal.</desc>
+  </programme>
+  <programme start="20261010064200 +0200" stop="20261010082600 +0200" channel="starz-stz3">
+    <title lang="en">Black Ops</title>
+    <desc lang="en">Trapped on a never-ending stairwell, members of a black ops team confront a mysterious and terrifying evil while trying to climb to the top.</desc>
+  </programme>
+  <programme start="20261010082600 +0200" stop="20261010103800 +0200" channel="starz-stz3">
+    <title lang="en">The Last Face</title>
+    <desc lang="en">A charming Spanish doctor and a compassionate relief worker must balance their new love for each other with their passion for the work they are doing.</desc>
+  </programme>
+  <programme start="20261010103800 +0200" stop="20261010121900 +0200" channel="starz-stz3">
+    <title lang="en">Dawn Of The Dead</title>
+    <desc lang="en">A gripping, gory remake of the cult film: the undead walk the earth as flesh-eating zombies, trapping a group of desperate people in a shopping mall.</desc>
+  </programme>
+  <programme start="20261010121900 +0200" stop="20261010141400 +0200" channel="starz-stz3">
+    <title lang="en">Fresh</title>
+    <desc lang="en">Street-smart Fresh uses his wits to stay ahead of local criminals and fight for a better life.</desc>
+  </programme>
+  <programme start="20261010141400 +0200" stop="20261010155000 +0200" channel="starz-stz3">
+    <title lang="en">Alarum</title>
+    <desc lang="en">A retired assassin couple’s quiet life is upended after a plane crash puts them in possession of a secret file sought by government operatives.</desc>
+  </programme>
+  <programme start="20261010155000 +0200" stop="20261010180200 +0200" channel="starz-stz3">
+    <title lang="en">The Last Face</title>
+    <desc lang="en">A charming Spanish doctor and a compassionate relief worker must balance their new love for each other with their passion for the work they are doing.</desc>
+  </programme>
+  <programme start="20261010180200 +0200" stop="20261010194300 +0200" channel="starz-stz3">
+    <title lang="en">Dawn Of The Dead</title>
+    <desc lang="en">A gripping, gory remake of the cult film: the undead walk the earth as flesh-eating zombies, trapping a group of desperate people in a shopping mall.</desc>
+  </programme>
+  <programme start="20261010194300 +0200" stop="20261010211900 +0200" channel="starz-stz3">
+    <title lang="en">Trois 3: The Escort</title>
+    <desc lang="en">A high-priced escort upsets a powerful businesswoman when he falls for a call girl who works for the same madam.</desc>
+  </programme>
+  <programme start="20261010211900 +0200" stop="20261010231400 +0200" channel="starz-stz3">
+    <title lang="en">Fresh</title>
+    <desc lang="en">Street-smart Fresh uses his wits to stay ahead of local criminals and fight for a better life.</desc>
+  </programme>
+  <programme start="20261010231400 +0200" stop="20261011012600 +0200" channel="starz-stz3">
+    <title lang="en">The Last Face</title>
+    <desc lang="en">A charming Spanish doctor and a compassionate relief worker must balance their new love for each other with their passion for the work they are doing.</desc>
+  </programme>
+  <programme start="20261011012600 +0200" stop="20261011030200 +0200" channel="starz-stz3">
+    <title lang="en">Alarum</title>
+    <desc lang="en">A retired assassin couple’s quiet life is upended after a plane crash puts them in possession of a secret file sought by government operatives.</desc>
+  </programme>
+  <programme start="20261011030200 +0200" stop="20261011044300 +0200" channel="starz-stz3">
+    <title lang="en">Dawn Of The Dead</title>
+    <desc lang="en">A gripping, gory remake of the cult film: the undead walk the earth as flesh-eating zombies, trapping a group of desperate people in a shopping mall.</desc>
+  </programme>
+  <programme start="20261011044300 +0200" stop="20261011063800 +0200" channel="starz-stz3">
+    <title lang="en">Fresh</title>
+    <desc lang="en">Street-smart Fresh uses his wits to stay ahead of local criminals and fight for a better life.</desc>
   </programme>
   <programme start="20261009053500 +0200" stop="20261009070000 +0200" channel="starz-stz5">
     <title lang="en">American Dream</title>
@@ -219,284 +225,292 @@
     <title lang="en">Ask Me Anything</title>
     <desc lang="en">A confused teenager writes a blog revealing her daily activities and secrets, advised by her guidance counselor in lieu of her first year in college.</desc>
   </programme>
-  <programme start="20261009060000 +0200" stop="20261009064900 +0200" channel="starz-stz6">
-    <title lang="en">S1 E3 - Burn Zone</title>
-    <desc lang="en">When a decision Hondo made comes back to bite him, he realizes someone close to him may already know more than they're letting on.</desc>
-  </programme>
-  <programme start="20261009064900 +0200" stop="20261009083700 +0200" channel="starz-stz6">
-    <title lang="en">The Bounce Back</title>
-    <desc lang="en">A relationship guru finds himself falling for an attractive licensed therapist who questions his methods and disagrees with his theories on love.</desc>
-  </programme>
-  <programme start="20261009083700 +0200" stop="20261009101000 +0200" channel="starz-stz6">
-    <title lang="en">Underworld: Awakening</title>
-    <desc lang="en">When humans uncover the existence of Vampire and Lycan clans, a war erupts. Vampire warrior Selene takes charge in the fight against humanity.</desc>
-  </programme>
-  <programme start="20261009101000 +0200" stop="20261009114700 +0200" channel="starz-stz6">
-    <title lang="en">Thoroughbreds</title>
-    <desc lang="en">Two teenage girls rekindle their unlikely friendship after years of growing apart and find that murder may be what brings them together.</desc>
-  </programme>
-  <programme start="20261009114700 +0200" stop="20261009132000 +0200" channel="starz-stz6">
-    <title lang="en">The Night Clerk</title>
-    <desc lang="en">Bart, a hotel clerk, is suspected of murder. He connects with a guest, Andrea, and must stop the real killer before she’s the next victim.</desc>
-  </programme>
-  <programme start="20261009132000 +0200" stop="20261009145500 +0200" channel="starz-stz6">
-    <title lang="en">John Henry</title>
-    <desc lang="en">An ex-gang member seeks peace, but when two immigrant kids flee his old crew, he must face his past or stay in the shadows.</desc>
-  </programme>
-  <programme start="20261009145500 +0200" stop="20261009165200 +0200" channel="starz-stz6">
-    <title lang="en">The Furious</title>
-    <desc lang="en">When his daughter is kidnapped and police fail him, Wang Wei joins forces with a journalist, launching a ruthless fight against a criminal network.
-</desc>
-  </programme>
-  <programme start="20261009165200 +0200" stop="20261009174300 +0200" channel="starz-stz6">
-    <title lang="en">S1 E1 - Episode 1</title>
-    <desc lang="en">Leo and Clive have been next-door neighbors for 14 years, but when a one-night stand goes wrong, a feud begins which quickly escalates into danger…</desc>
-  </programme>
-  <programme start="20261009174300 +0200" stop="20261009194000 +0200" channel="starz-stz6">
-    <title lang="en">Couples Retreat</title>
-    <desc lang="en">Four couples find that paradise comes at a price when they must participate in therapy sessions at a tropical resort.</desc>
-  </programme>
-  <programme start="20261009194000 +0200" stop="20261009211500 +0200" channel="starz-stz6">
-    <title lang="en">John Henry</title>
-    <desc lang="en">An ex-gang member seeks peace, but when two immigrant kids flee his old crew, he must face his past or stay in the shadows.</desc>
-  </programme>
-  <programme start="20261009211500 +0200" stop="20261009230500 +0200" channel="starz-stz6">
-    <title lang="en">Assault On Precinct 13</title>
-    <desc lang="en">A police sergeant rallies cops and prisoners to protect them in a police station on New Year's Eve as corrupt policemen plan to kill everyone inside.</desc>
-  </programme>
-  <programme start="20261009230500 +0200" stop="20261010010200 +0200" channel="starz-stz6">
-    <title lang="en">The Furious</title>
-    <desc lang="en">When his daughter is kidnapped and police fail him, Wang Wei joins forces with a journalist, launching a ruthless fight against a criminal network.
-</desc>
-  </programme>
-  <programme start="20261010010200 +0200" stop="20261010020000 +0200" channel="starz-stz6">
-    <title lang="en">S2 E3 - Rabbits Don't Swim</title>
-    <desc lang="en">Julia welcomes a new member of staff to Leathers. Brian and Dougal train their men for battle. Ellen uses her wit to defend her family and her clan.</desc>
-  </programme>
-  <programme start="20261010020000 +0200" stop="20261010030500 +0200" channel="starz-stz6">
-    <title lang="en">S2 E4 - A Portion of my Soul</title>
-    <desc lang="en">Ellen and Grace ride across the Highlands in search of Brian and Dougal's forces.</desc>
-  </programme>
-  <programme start="20261010030500 +0200" stop="20261010040000 +0200" channel="starz-stz6">
-    <title lang="en">S1 E2 - Episode 2</title>
-    <desc lang="en">Leo suspects someone’s been inside his house. And when Clive brings his son Saul to work in Leo’s bar, events soon reach a shocking conclusion.</desc>
-  </programme>
-  <programme start="20261010040000 +0200" stop="20261010044900 +0200" channel="starz-stz6">
-    <title lang="en">S1 E3 - Burn Zone</title>
-    <desc lang="en">When a decision Hondo made comes back to bite him, he realizes someone close to him may already know more than they're letting on.</desc>
-  </programme>
-  <programme start="20261010044900 +0200" stop="20261010055500 +0200" channel="starz-stz6">
-    <title lang="en">S2 E4 - A Portion of my Soul</title>
-    <desc lang="en">Ellen and Grace ride across the Highlands in search of Brian and Dougal's forces.</desc>
-  </programme>
   <programme start="20261010055500 +0200" stop="20261010064800 +0200" channel="starz-stz6">
     <title lang="en">S1 E2 - Episode 2</title>
     <desc lang="en">Leo suspects someone’s been inside his house. And when Clive brings his son Saul to work in Leo’s bar, events soon reach a shocking conclusion.</desc>
   </programme>
-  <programme start="20261009053300 +0200" stop="20261009072100 +0200" channel="starz-stz7">
-    <title lang="en">The Family Fang</title>
-    <desc lang="en">After a lifetime of pranks by their parents, two siblings have reservations when told their parents are missing and presumed dead by foul play.
-</desc>
+  <programme start="20261010064800 +0200" stop="20261010073700 +0200" channel="starz-stz6">
+    <title lang="en">S1 E3 - Burn Zone</title>
+    <desc lang="en">When a decision Hondo made comes back to bite him, he realizes someone close to him may already know more than they're letting on.</desc>
   </programme>
-  <programme start="20261009072100 +0200" stop="20261009085500 +0200" channel="starz-stz7">
-    <title lang="en">Vamps</title>
-    <desc lang="en">A pair of sexy young vampires - who are trying to swear off human blood - hit the dating scene in NYC, where they meet a cute guy named Van Helsing!</desc>
+  <programme start="20261010073700 +0200" stop="20261010084300 +0200" channel="starz-stz6">
+    <title lang="en">S2 E4 - A Portion of my Soul</title>
+    <desc lang="en">Ellen and Grace ride across the Highlands in search of Brian and Dougal's forces.</desc>
   </programme>
-  <programme start="20261009085500 +0200" stop="20261009104900 +0200" channel="starz-stz7">
-    <title lang="en">Pawn Shop Chronicles</title>
-    <desc lang="en">A missing wedding ring sets off a wild chase with meth heads, a vengeful husband, and an Elvis impersonator, all converging at a small-town pawn shop.</desc>
+  <programme start="20261010084300 +0200" stop="20261010100900 +0200" channel="starz-stz6">
+    <title lang="en">Scary Movie 2</title>
+    <desc lang="en">Cindy and her friends sign up for a sleep study at a haunted mansion and stumble into a barrage of ghosts, bad decisions and ridiculous scares.</desc>
   </programme>
-  <programme start="20261009104900 +0200" stop="20261009124600 +0200" channel="starz-stz7">
-    <title lang="en">Words And Pictures</title>
-    <desc lang="en">Two teachers form a rivalry that ends up with a competition at their school in which students decide whether words or pictures are more important.</desc>
+  <programme start="20261010100900 +0200" stop="20261010110100 +0200" channel="starz-stz6">
+    <title lang="en">S1 E2 - Episode 2</title>
+    <desc lang="en">Leo suspects someone’s been inside his house. And when Clive brings his son Saul to work in Leo’s bar, events soon reach a shocking conclusion.</desc>
   </programme>
-  <programme start="20261009124600 +0200" stop="20261009143400 +0200" channel="starz-stz7">
-    <title lang="en">The Family Fang</title>
-    <desc lang="en">After a lifetime of pranks by their parents, two siblings have reservations when told their parents are missing and presumed dead by foul play.
-</desc>
+  <programme start="20261010110100 +0200" stop="20261010124200 +0200" channel="starz-stz6">
+    <title lang="en">Ride Along</title>
+    <desc lang="en">To prove he's worthy of marrying a cop's sister, school guard Ben joins detective James on a wild ride through Atlanta's toughest streets.</desc>
   </programme>
-  <programme start="20261009143400 +0200" stop="20261009160300 +0200" channel="starz-stz7">
-    <title lang="en">30 Beats</title>
-    <desc lang="en">A group of New Yorkers lives intertwine though a series of sexual encounters during a summer heat wave.</desc>
+  <programme start="20261010124200 +0200" stop="20261010142500 +0200" channel="starz-stz6">
+    <title lang="en">Ride Along 2</title>
+    <desc lang="en">The brothers-in-law are back! Ben and James get into a compromising situation that threatens to derail a major case… and Ben's upcoming wedding day.</desc>
   </programme>
-  <programme start="20261009160300 +0200" stop="20261009173300 +0200" channel="starz-stz7">
-    <title lang="en">Phat Beach</title>
-    <desc lang="en">Benny's dull summer job takes a turn when Durrell arrives. They go to the beach to sell sunglasses, but fun and bikinis quickly become the real focus.</desc>
+  <programme start="20261010142500 +0200" stop="20261010160000 +0200" channel="starz-stz6">
+    <title lang="en">Stuber</title>
+    <desc lang="en">Stu’s routine ride becomes a nightmare when his passenger is a cop hunting a killer, dragging him into a dangerous chase.</desc>
   </programme>
-  <programme start="20261009173300 +0200" stop="20261009191200 +0200" channel="starz-stz7">
-    <title lang="en">Little Man</title>
-    <desc lang="en">A pint-sized thief hides a diamond in a woman's bag, then pretends to be her baby. Chaos, diapers, and laughs follow as he tries to grab it back!</desc>
+  <programme start="20261010160000 +0200" stop="20261010164700 +0200" channel="starz-stz6">
+    <title lang="en">S1 E3 - Burn Zone</title>
+    <desc lang="en">When a decision Hondo made comes back to bite him, he realizes someone close to him may already know more than they're letting on.</desc>
   </programme>
-  <programme start="20261009191200 +0200" stop="20261009210900 +0200" channel="starz-stz7">
-    <title lang="en">Words And Pictures</title>
-    <desc lang="en">Two teachers form a rivalry that ends up with a competition at their school in which students decide whether words or pictures are more important.</desc>
+  <programme start="20261010164700 +0200" stop="20261010175300 +0200" channel="starz-stz6">
+    <title lang="en">S2 E4 - A Portion of my Soul</title>
+    <desc lang="en">Ellen and Grace ride across the Highlands in search of Brian and Dougal's forces.</desc>
   </programme>
-  <programme start="20261009210900 +0200" stop="20261009224100 +0200" channel="starz-stz7">
-    <title lang="en">Lovely &amp; Amazing</title>
-    <desc lang="en">Jane and her daughters face identity struggles and family chaos. When Jane's health declines, they must come together for comfort and strength.</desc>
+  <programme start="20261010175300 +0200" stop="20261010184200 +0200" channel="starz-stz6">
+    <title lang="en">S1 E3 - Burn Zone</title>
+    <desc lang="en">When a decision Hondo made comes back to bite him, he realizes someone close to him may already know more than they're letting on.</desc>
   </programme>
-  <programme start="20261009224100 +0200" stop="20261010002600 +0200" channel="starz-stz7">
-    <title lang="en">Let's Be Cops</title>
-    <desc lang="en">Two slackers impersonate cops and enjoy the perks - drugs, women, and a squad car - until their scam entangles them with real mobsters.</desc>
+  <programme start="20261010184200 +0200" stop="20261010193500 +0200" channel="starz-stz6">
+    <title lang="en">S1 E2 - Episode 2</title>
+    <desc lang="en">Leo suspects someone’s been inside his house. And when Clive brings his son Saul to work in Leo’s bar, events soon reach a shocking conclusion.</desc>
   </programme>
-  <programme start="20261010002600 +0200" stop="20261010015000 +0200" channel="starz-stz7">
-    <title lang="en">Like A Boss</title>
-    <desc lang="en">Mia and Mel face a tough choice: accept a buyout or risk losing their friendship. In the beauty biz, things get messy fast - and not just the mascara.</desc>
+  <programme start="20261010193500 +0200" stop="20261010204100 +0200" channel="starz-stz6">
+    <title lang="en">S2 E4 - A Portion of my Soul</title>
+    <desc lang="en">Ellen and Grace ride across the Highlands in search of Brian and Dougal's forces.</desc>
   </programme>
-  <programme start="20261010015000 +0200" stop="20261010034700 +0200" channel="starz-stz7">
-    <title lang="en">Words And Pictures</title>
-    <desc lang="en">Two teachers form a rivalry that ends up with a competition at their school in which students decide whether words or pictures are more important.</desc>
+  <programme start="20261010204100 +0200" stop="20261010232100 +0200" channel="starz-stz6">
+    <title lang="en">2012</title>
+    <desc lang="en">Solar flares creating instability at the Earth's core lead to a series of mega-earthquakes, toppling skyscrapers, and massive tidal waves!</desc>
   </programme>
-  <programme start="20261010034700 +0200" stop="20261010052600 +0200" channel="starz-stz7">
-    <title lang="en">Little Man</title>
-    <desc lang="en">A pint-sized thief hides a diamond in a woman's bag, then pretends to be her baby. Chaos, diapers, and laughs follow as he tries to grab it back!</desc>
+  <programme start="20261010232100 +0200" stop="20261011010100 +0200" channel="starz-stz6">
+    <title lang="en">In The Grey</title>
+    <desc lang="en">A covert team is sent to recover a billion-dollar fortune, but the mission spirals into a high-stakes battle of strategy, deception, and survival.</desc>
+  </programme>
+  <programme start="20261011010100 +0200" stop="20261011020600 +0200" channel="starz-stz6">
+    <title lang="en">S2 E4 - A Portion of my Soul</title>
+    <desc lang="en">Ellen and Grace ride across the Highlands in search of Brian and Dougal's forces.</desc>
+  </programme>
+  <programme start="20261011020600 +0200" stop="20261011030000 +0200" channel="starz-stz6">
+    <title lang="en">S1 E2 - Episode 2</title>
+    <desc lang="en">Leo suspects someone’s been inside his house. And when Clive brings his son Saul to work in Leo’s bar, events soon reach a shocking conclusion.</desc>
+  </programme>
+  <programme start="20261011030000 +0200" stop="20261011035000 +0200" channel="starz-stz6">
+    <title lang="en">S1 E3 - Burn Zone</title>
+    <desc lang="en">When a decision Hondo made comes back to bite him, he realizes someone close to him may already know more than they're letting on.</desc>
+  </programme>
+  <programme start="20261011035000 +0200" stop="20261011045500 +0200" channel="starz-stz6">
+    <title lang="en">S2 E4 - A Portion of my Soul</title>
+    <desc lang="en">Ellen and Grace ride across the Highlands in search of Brian and Dougal's forces.</desc>
+  </programme>
+  <programme start="20261011045500 +0200" stop="20261011054700 +0200" channel="starz-stz6">
+    <title lang="en">S1 E2 - Episode 2</title>
+    <desc lang="en">Leo suspects someone’s been inside his house. And when Clive brings his son Saul to work in Leo’s bar, events soon reach a shocking conclusion.</desc>
+  </programme>
+  <programme start="20261011054700 +0200" stop="20261011065300 +0200" channel="starz-stz6">
+    <title lang="en">S2 E4 - A Portion of my Soul</title>
+    <desc lang="en">Ellen and Grace ride across the Highlands in search of Brian and Dougal's forces.</desc>
   </programme>
   <programme start="20261010052600 +0200" stop="20261010071100 +0200" channel="starz-stz7">
     <title lang="en">Let's Be Cops</title>
     <desc lang="en">Two slackers impersonate cops and enjoy the perks - drugs, women, and a squad car - until their scam entangles them with real mobsters.</desc>
   </programme>
-  <programme start="20261009054400 +0200" stop="20261009073500 +0200" channel="starz-stz8">
-    <title lang="en">The Italian Job</title>
-    <desc lang="en">Betrayed after a perfect heist, Charlie Croker teams with a safecracker to steal the loot back, sparking a high‑speed chase through Los Angeles.</desc>
+  <programme start="20261010071100 +0200" stop="20261010090400 +0200" channel="starz-stz7">
+    <title lang="en">Fisherman's Friends: One and All</title>
+    <desc lang="en">After their debut album’s success, the Fisherman’s Friends face the pressures and temptations that come with sudden fame.</desc>
   </programme>
-  <programme start="20261009073500 +0200" stop="20261009092100 +0200" channel="starz-stz8">
-    <title lang="en">Stone</title>
-    <desc lang="en">A psychological duel develops between a convict itching for release and his about-to-retire parole officer.</desc>
+  <programme start="20261010090400 +0200" stop="20261010102700 +0200" channel="starz-stz7">
+    <title lang="en">Beatriz At Dinner</title>
+    <desc lang="en">After her car breaks down, a holistic healer stays for dinner at the home of her wealthy, self-absorbed clients.</desc>
   </programme>
-  <programme start="20261009092100 +0200" stop="20261009103800 +0200" channel="starz-stz8">
-    <title lang="en">The Hard Hit</title>
-    <desc lang="en">When a criminal organization kills an Interpol agent's wife and daughter, he gets revenge.</desc>
+  <programme start="20261010102700 +0200" stop="20261010115900 +0200" channel="starz-stz7">
+    <title lang="en">Just Before I Go</title>
+    <desc lang="en">With nothing left to live for, a hopeless man returns to his hometown to confront past bullies and make amends before he gives up on life.</desc>
   </programme>
-  <programme start="20261009103800 +0200" stop="20261009121000 +0200" channel="starz-stz8">
-    <title lang="en">The Strangers: Chapter 3</title>
-    <desc lang="en">As the killers’ mythology grows darker, Maya is dragged deeper into their cycle of terror and forced toward a final confrontation she can’t outrun.</desc>
+  <programme start="20261010115900 +0200" stop="20261010134000 +0200" channel="starz-stz7">
+    <title lang="en">Man Of The House</title>
+    <desc lang="en">A by-the-book Texas Ranger finds himself going undercover as a live-in coach to protect a group of college cheerleaders who witnessed a murder.</desc>
   </programme>
-  <programme start="20261009121000 +0200" stop="20261009133600 +0200" channel="starz-stz8">
-    <title lang="en">Paranormal Activity</title>
-    <desc lang="en">A couple's peace is shattered when they encounter a disturbing demonic presence in their suburban home each night.
-</desc>
+  <programme start="20261010134000 +0200" stop="20261010151100 +0200" channel="starz-stz7">
+    <title lang="en">The Art of the Steal</title>
+    <desc lang="en">Crunch Calhoun, a third rate motorcycle daredevil and semi-reformed art thief, agrees to pull off one last heist with his conniving brother, Nicky.</desc>
   </programme>
-  <programme start="20261009133600 +0200" stop="20261009152400 +0200" channel="starz-stz8">
-    <title lang="en">Shelter</title>
-    <desc lang="en">A man living on a secluded Scottish island saves a girl from the sea, triggering a chain of events that forces him to confront his troubled past.</desc>
+  <programme start="20261010151100 +0200" stop="20261010164200 +0200" channel="starz-stz7">
+    <title lang="en">The Great Buck Howard</title>
+    <desc lang="en">A washed-up mentalist hires a law school dropout as his assistant and fights for a comeback with help from a bold publicist.</desc>
   </programme>
-  <programme start="20261009152400 +0200" stop="20261009165100 +0200" channel="starz-stz8">
-    <title lang="en">American Exit</title>
-    <desc lang="en">A terminally ill man kidnaps his estranged son to spend his final months with him on the coast of Mexico, seeking a last chance at connection.</desc>
+  <programme start="20261010164200 +0200" stop="20261010181400 +0200" channel="starz-stz7">
+    <title lang="en">Just Before I Go</title>
+    <desc lang="en">With nothing left to live for, a hopeless man returns to his hometown to confront past bullies and make amends before he gives up on life.</desc>
   </programme>
-  <programme start="20261009165100 +0200" stop="20261009183100 +0200" channel="starz-stz8">
-    <title lang="en">Baby Mama</title>
-    <desc lang="en">A successful, single businesswoman who dreams of having a baby discovers she's infertile and hires a working class woman to be her unlikely surrogate.</desc>
+  <programme start="20261010181400 +0200" stop="20261010193700 +0200" channel="starz-stz7">
+    <title lang="en">Beatriz At Dinner</title>
+    <desc lang="en">After her car breaks down, a holistic healer stays for dinner at the home of her wealthy, self-absorbed clients.</desc>
   </programme>
-  <programme start="20261009183100 +0200" stop="20261009192000 +0200" channel="starz-stz8">
-    <title lang="en">S1 E1 - Episode 1</title>
-    <desc lang="en">Leo and Clive have been next-door neighbors for 14 years, but when a one-night stand goes wrong, a feud begins which quickly escalates into danger…</desc>
+  <programme start="20261010193700 +0200" stop="20261010211800 +0200" channel="starz-stz7">
+    <title lang="en">Man Of The House</title>
+    <desc lang="en">A by-the-book Texas Ranger finds himself going undercover as a live-in coach to protect a group of college cheerleaders who witnessed a murder.</desc>
   </programme>
-  <programme start="20261009192000 +0200" stop="20261009201500 +0200" channel="starz-stz8">
-    <title lang="en">S2 E3 - Rabbits Don't Swim</title>
-    <desc lang="en">Julia welcomes a new member of staff to Leathers. Brian and Dougal train their men for battle. Ellen uses her wit to defend her family and her clan.</desc>
+  <programme start="20261010211800 +0200" stop="20261010224900 +0200" channel="starz-stz7">
+    <title lang="en">The Great Buck Howard</title>
+    <desc lang="en">A washed-up mentalist hires a law school dropout as his assistant and fights for a comeback with help from a bold publicist.</desc>
   </programme>
-  <programme start="20261009201500 +0200" stop="20261009220100 +0200" channel="starz-stz8">
-    <title lang="en">Stone</title>
-    <desc lang="en">A psychological duel develops between a convict itching for release and his about-to-retire parole officer.</desc>
+  <programme start="20261010224900 +0200" stop="20261011002000 +0200" channel="starz-stz7">
+    <title lang="en">The Art of the Steal</title>
+    <desc lang="en">Crunch Calhoun, a third rate motorcycle daredevil and semi-reformed art thief, agrees to pull off one last heist with his conniving brother, Nicky.</desc>
   </programme>
-  <programme start="20261009220100 +0200" stop="20261009232700 +0200" channel="starz-stz8">
-    <title lang="en">Paranormal Activity</title>
-    <desc lang="en">A couple's peace is shattered when they encounter a disturbing demonic presence in their suburban home each night.
-</desc>
+  <programme start="20261011002000 +0200" stop="20261011015200 +0200" channel="starz-stz7">
+    <title lang="en">Just Before I Go</title>
+    <desc lang="en">With nothing left to live for, a hopeless man returns to his hometown to confront past bullies and make amends before he gives up on life.</desc>
   </programme>
-  <programme start="20261009232700 +0200" stop="20261010002200 +0200" channel="starz-stz8">
-    <title lang="en">S2 E3 - Rabbits Don't Swim</title>
-    <desc lang="en">Julia welcomes a new member of staff to Leathers. Brian and Dougal train their men for battle. Ellen uses her wit to defend her family and her clan.</desc>
+  <programme start="20261011015200 +0200" stop="20261011033300 +0200" channel="starz-stz7">
+    <title lang="en">Man Of The House</title>
+    <desc lang="en">A by-the-book Texas Ranger finds himself going undercover as a live-in coach to protect a group of college cheerleaders who witnessed a murder.</desc>
   </programme>
-  <programme start="20261010002200 +0200" stop="20261010011100 +0200" channel="starz-stz8">
-    <title lang="en">S1 E1 - Episode 1</title>
-    <desc lang="en">Leo and Clive have been next-door neighbors for 14 years, but when a one-night stand goes wrong, a feud begins which quickly escalates into danger…</desc>
+  <programme start="20261011033300 +0200" stop="20261011045600 +0200" channel="starz-stz7">
+    <title lang="en">Beatriz At Dinner</title>
+    <desc lang="en">After her car breaks down, a holistic healer stays for dinner at the home of her wealthy, self-absorbed clients.</desc>
   </programme>
-  <programme start="20261010011100 +0200" stop="20261010025900 +0200" channel="starz-stz8">
-    <title lang="en">Shelter</title>
-    <desc lang="en">A man living on a secluded Scottish island saves a girl from the sea, triggering a chain of events that forces him to confront his troubled past.</desc>
-  </programme>
-  <programme start="20261010025900 +0200" stop="20261010050700 +0200" channel="starz-stz8">
-    <title lang="en">Michael</title>
-    <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
+  <programme start="20261011045600 +0200" stop="20261011062700 +0200" channel="starz-stz7">
+    <title lang="en">The Art of the Steal</title>
+    <desc lang="en">Crunch Calhoun, a third rate motorcycle daredevil and semi-reformed art thief, agrees to pull off one last heist with his conniving brother, Nicky.</desc>
   </programme>
   <programme start="20261010050700 +0200" stop="20261010065500 +0200" channel="starz-stz8">
     <title lang="en">ATL</title>
     <desc lang="en">In Atlanta's skating world, Rashad struggles to guide his younger brother but finds hope in New‑New, unaware she’s keeping a major secret.</desc>
   </programme>
-  <programme start="20261009060000 +0200" stop="20261009064900 +0200" channel="starz-stz9">
-    <title lang="en">S1 E3 - Burn Zone</title>
-    <desc lang="en">When a decision Hondo made comes back to bite him, he realizes someone close to him may already know more than they're letting on.</desc>
+  <programme start="20261010065500 +0200" stop="20261010084300 +0200" channel="starz-stz8">
+    <title lang="en">All Is Bright</title>
+    <desc lang="en">Out on parole, a man discovers his family has left him for his former criminal partner. They grapple with the straight world and family obligations.</desc>
   </programme>
-  <programme start="20261009064900 +0200" stop="20261009083700 +0200" channel="starz-stz9">
-    <title lang="en">The Bounce Back</title>
-    <desc lang="en">A relationship guru finds himself falling for an attractive licensed therapist who questions his methods and disagrees with his theories on love.</desc>
+  <programme start="20261010084300 +0200" stop="20261010102100 +0200" channel="starz-stz8">
+    <title lang="en">The Covenant</title>
+    <desc lang="en">Four young warlocks, all descendants of Salem witches, make new discoveries about their powers when they must stop an evil force.</desc>
   </programme>
-  <programme start="20261009083700 +0200" stop="20261009101000 +0200" channel="starz-stz9">
-    <title lang="en">Underworld: Awakening</title>
-    <desc lang="en">When humans uncover the existence of Vampire and Lycan clans, a war erupts. Vampire warrior Selene takes charge in the fight against humanity.</desc>
+  <programme start="20261010102100 +0200" stop="20261010121000 +0200" channel="starz-stz8">
+    <title lang="en">Born Of War</title>
+    <desc lang="en">After her family is killed, Mina learns her father’s a terrorist. Joining British Intelligence, she sets out to bring him down and get revenge.</desc>
   </programme>
-  <programme start="20261009101000 +0200" stop="20261009114700 +0200" channel="starz-stz9">
-    <title lang="en">Thoroughbreds</title>
-    <desc lang="en">Two teenage girls rekindle their unlikely friendship after years of growing apart and find that murder may be what brings them together.</desc>
+  <programme start="20261010121000 +0200" stop="20261010140300 +0200" channel="starz-stz8">
+    <title lang="en">Fierce People</title>
+    <desc lang="en">A drug addicted mother and her son are invited to spend the summer at the estate of an old friend and his eccentric family members.</desc>
   </programme>
-  <programme start="20261009114700 +0200" stop="20261009132000 +0200" channel="starz-stz9">
-    <title lang="en">The Night Clerk</title>
-    <desc lang="en">Bart, a hotel clerk, is suspected of murder. He connects with a guest, Andrea, and must stop the real killer before she’s the next victim.</desc>
+  <programme start="20261010140300 +0200" stop="20261010155800 +0200" channel="starz-stz8">
+    <title lang="en">E.T. The Extra-Terrestrial</title>
+    <desc lang="en">A boy's close encounter with an alien stranded on Earth leads to a unique friendship.</desc>
   </programme>
-  <programme start="20261009132000 +0200" stop="20261009145500 +0200" channel="starz-stz9">
-    <title lang="en">John Henry</title>
-    <desc lang="en">An ex-gang member seeks peace, but when two immigrant kids flee his old crew, he must face his past or stay in the shadows.</desc>
+  <programme start="20261010155800 +0200" stop="20261010175300 +0200" channel="starz-stz8">
+    <title lang="en">The Brothers Bloom</title>
+    <desc lang="en">Two con‑artist brothers launch one last scheme, giving a quirky heiress a globe‑trotting adventure - until real feelings complicate their perfect con.</desc>
   </programme>
-  <programme start="20261009145500 +0200" stop="20261009165200 +0200" channel="starz-stz9">
-    <title lang="en">The Furious</title>
-    <desc lang="en">When his daughter is kidnapped and police fail him, Wang Wei joins forces with a journalist, launching a ruthless fight against a criminal network.
-</desc>
+  <programme start="20261010175300 +0200" stop="20261010193200 +0200" channel="starz-stz8">
+    <title lang="en">Power Ballad</title>
+    <desc lang="en">A past-his-prime wedding singer bonds with a fading boy-band star, but when his song reignites the star's career, he risks everything for recognition.</desc>
   </programme>
-  <programme start="20261009165200 +0200" stop="20261009174300 +0200" channel="starz-stz9">
-    <title lang="en">S1 E1 - Episode 1</title>
-    <desc lang="en">Leo and Clive have been next-door neighbors for 14 years, but when a one-night stand goes wrong, a feud begins which quickly escalates into danger…</desc>
+  <programme start="20261010193200 +0200" stop="20261010215100 +0200" channel="starz-stz8">
+    <title lang="en">Star Wars: The Force Awakens</title>
+    <desc lang="en">As a new threat emerges, Rey, a scavenger from the desert, and Finn, a former stormtrooper, team up with Han Solo to find the key to restoring peace.</desc>
   </programme>
-  <programme start="20261009174300 +0200" stop="20261009194000 +0200" channel="starz-stz9">
-    <title lang="en">Couples Retreat</title>
-    <desc lang="en">Four couples find that paradise comes at a price when they must participate in therapy sessions at a tropical resort.</desc>
+  <programme start="20261010215100 +0200" stop="20261010232900 +0200" channel="starz-stz8">
+    <title lang="en">The Covenant</title>
+    <desc lang="en">Four young warlocks, all descendants of Salem witches, make new discoveries about their powers when they must stop an evil force.</desc>
   </programme>
-  <programme start="20261009194000 +0200" stop="20261009211500 +0200" channel="starz-stz9">
-    <title lang="en">John Henry</title>
-    <desc lang="en">An ex-gang member seeks peace, but when two immigrant kids flee his old crew, he must face his past or stay in the shadows.</desc>
+  <programme start="20261010232900 +0200" stop="20261011012200 +0200" channel="starz-stz8">
+    <title lang="en">Fierce People</title>
+    <desc lang="en">A drug addicted mother and her son are invited to spend the summer at the estate of an old friend and his eccentric family members.</desc>
   </programme>
-  <programme start="20261009211500 +0200" stop="20261009230500 +0200" channel="starz-stz9">
-    <title lang="en">Assault On Precinct 13</title>
-    <desc lang="en">A police sergeant rallies cops and prisoners to protect them in a police station on New Year's Eve as corrupt policemen plan to kill everyone inside.</desc>
+  <programme start="20261011012200 +0200" stop="20261011030100 +0200" channel="starz-stz8">
+    <title lang="en">Power Ballad</title>
+    <desc lang="en">A past-his-prime wedding singer bonds with a fading boy-band star, but when his song reignites the star's career, he risks everything for recognition.</desc>
   </programme>
-  <programme start="20261009230500 +0200" stop="20261010010200 +0200" channel="starz-stz9">
-    <title lang="en">The Furious</title>
-    <desc lang="en">When his daughter is kidnapped and police fail him, Wang Wei joins forces with a journalist, launching a ruthless fight against a criminal network.
-</desc>
+  <programme start="20261011030100 +0200" stop="20261011045200 +0200" channel="starz-stz8">
+    <title lang="en">Speak No Evil</title>
+    <desc lang="en">A family accepts an invitation to spend a weekend at a secluded country home, only to discover unsettling truths about their hosts as the days unfold.</desc>
   </programme>
-  <programme start="20261010010200 +0200" stop="20261010020000 +0200" channel="starz-stz9">
-    <title lang="en">S2 E3 - Rabbits Don't Swim</title>
-    <desc lang="en">Julia welcomes a new member of staff to Leathers. Brian and Dougal train their men for battle. Ellen uses her wit to defend her family and her clan.</desc>
-  </programme>
-  <programme start="20261010020000 +0200" stop="20261010030500 +0200" channel="starz-stz9">
-    <title lang="en">S2 E4 - A Portion of my Soul</title>
-    <desc lang="en">Ellen and Grace ride across the Highlands in search of Brian and Dougal's forces.</desc>
-  </programme>
-  <programme start="20261010030500 +0200" stop="20261010040000 +0200" channel="starz-stz9">
-    <title lang="en">S1 E2 - Episode 2</title>
-    <desc lang="en">Leo suspects someone’s been inside his house. And when Clive brings his son Saul to work in Leo’s bar, events soon reach a shocking conclusion.</desc>
-  </programme>
-  <programme start="20261010040000 +0200" stop="20261010044900 +0200" channel="starz-stz9">
-    <title lang="en">S1 E3 - Burn Zone</title>
-    <desc lang="en">When a decision Hondo made comes back to bite him, he realizes someone close to him may already know more than they're letting on.</desc>
-  </programme>
-  <programme start="20261010044900 +0200" stop="20261010055500 +0200" channel="starz-stz9">
-    <title lang="en">S2 E4 - A Portion of my Soul</title>
-    <desc lang="en">Ellen and Grace ride across the Highlands in search of Brian and Dougal's forces.</desc>
+  <programme start="20261011045200 +0200" stop="20261011063900 +0200" channel="starz-stz8">
+    <title lang="en">Underworld: Evolution</title>
+    <desc lang="en">The war between the Death Dealers and Lycans continues as Selene and her werewolf lover go searching for their future by seeking their past.</desc>
   </programme>
   <programme start="20261010055500 +0200" stop="20261010064800 +0200" channel="starz-stz9">
     <title lang="en">S1 E2 - Episode 2</title>
     <desc lang="en">Leo suspects someone’s been inside his house. And when Clive brings his son Saul to work in Leo’s bar, events soon reach a shocking conclusion.</desc>
+  </programme>
+  <programme start="20261010064800 +0200" stop="20261010073700 +0200" channel="starz-stz9">
+    <title lang="en">S1 E3 - Burn Zone</title>
+    <desc lang="en">When a decision Hondo made comes back to bite him, he realizes someone close to him may already know more than they're letting on.</desc>
+  </programme>
+  <programme start="20261010073700 +0200" stop="20261010084300 +0200" channel="starz-stz9">
+    <title lang="en">S2 E4 - A Portion of my Soul</title>
+    <desc lang="en">Ellen and Grace ride across the Highlands in search of Brian and Dougal's forces.</desc>
+  </programme>
+  <programme start="20261010084300 +0200" stop="20261010100900 +0200" channel="starz-stz9">
+    <title lang="en">Scary Movie 2</title>
+    <desc lang="en">Cindy and her friends sign up for a sleep study at a haunted mansion and stumble into a barrage of ghosts, bad decisions and ridiculous scares.</desc>
+  </programme>
+  <programme start="20261010100900 +0200" stop="20261010110100 +0200" channel="starz-stz9">
+    <title lang="en">S1 E2 - Episode 2</title>
+    <desc lang="en">Leo suspects someone’s been inside his house. And when Clive brings his son Saul to work in Leo’s bar, events soon reach a shocking conclusion.</desc>
+  </programme>
+  <programme start="20261010110100 +0200" stop="20261010124200 +0200" channel="starz-stz9">
+    <title lang="en">Ride Along</title>
+    <desc lang="en">To prove he's worthy of marrying a cop's sister, school guard Ben joins detective James on a wild ride through Atlanta's toughest streets.</desc>
+  </programme>
+  <programme start="20261010124200 +0200" stop="20261010142500 +0200" channel="starz-stz9">
+    <title lang="en">Ride Along 2</title>
+    <desc lang="en">The brothers-in-law are back! Ben and James get into a compromising situation that threatens to derail a major case… and Ben's upcoming wedding day.</desc>
+  </programme>
+  <programme start="20261010142500 +0200" stop="20261010160000 +0200" channel="starz-stz9">
+    <title lang="en">Stuber</title>
+    <desc lang="en">Stu’s routine ride becomes a nightmare when his passenger is a cop hunting a killer, dragging him into a dangerous chase.</desc>
+  </programme>
+  <programme start="20261010160000 +0200" stop="20261010164700 +0200" channel="starz-stz9">
+    <title lang="en">S1 E3 - Burn Zone</title>
+    <desc lang="en">When a decision Hondo made comes back to bite him, he realizes someone close to him may already know more than they're letting on.</desc>
+  </programme>
+  <programme start="20261010164700 +0200" stop="20261010175300 +0200" channel="starz-stz9">
+    <title lang="en">S2 E4 - A Portion of my Soul</title>
+    <desc lang="en">Ellen and Grace ride across the Highlands in search of Brian and Dougal's forces.</desc>
+  </programme>
+  <programme start="20261010175300 +0200" stop="20261010184200 +0200" channel="starz-stz9">
+    <title lang="en">S1 E3 - Burn Zone</title>
+    <desc lang="en">When a decision Hondo made comes back to bite him, he realizes someone close to him may already know more than they're letting on.</desc>
+  </programme>
+  <programme start="20261010184200 +0200" stop="20261010193500 +0200" channel="starz-stz9">
+    <title lang="en">S1 E2 - Episode 2</title>
+    <desc lang="en">Leo suspects someone’s been inside his house. And when Clive brings his son Saul to work in Leo’s bar, events soon reach a shocking conclusion.</desc>
+  </programme>
+  <programme start="20261010193500 +0200" stop="20261010204100 +0200" channel="starz-stz9">
+    <title lang="en">S2 E4 - A Portion of my Soul</title>
+    <desc lang="en">Ellen and Grace ride across the Highlands in search of Brian and Dougal's forces.</desc>
+  </programme>
+  <programme start="20261010204100 +0200" stop="20261010232100 +0200" channel="starz-stz9">
+    <title lang="en">2012</title>
+    <desc lang="en">Solar flares creating instability at the Earth's core lead to a series of mega-earthquakes, toppling skyscrapers, and massive tidal waves!</desc>
+  </programme>
+  <programme start="20261010232100 +0200" stop="20261011010100 +0200" channel="starz-stz9">
+    <title lang="en">In The Grey</title>
+    <desc lang="en">A covert team is sent to recover a billion-dollar fortune, but the mission spirals into a high-stakes battle of strategy, deception, and survival.</desc>
+  </programme>
+  <programme start="20261011010100 +0200" stop="20261011020600 +0200" channel="starz-stz9">
+    <title lang="en">S2 E4 - A Portion of my Soul</title>
+    <desc lang="en">Ellen and Grace ride across the Highlands in search of Brian and Dougal's forces.</desc>
+  </programme>
+  <programme start="20261011020600 +0200" stop="20261011030000 +0200" channel="starz-stz9">
+    <title lang="en">S1 E2 - Episode 2</title>
+    <desc lang="en">Leo suspects someone’s been inside his house. And when Clive brings his son Saul to work in Leo’s bar, events soon reach a shocking conclusion.</desc>
+  </programme>
+  <programme start="20261011030000 +0200" stop="20261011035000 +0200" channel="starz-stz9">
+    <title lang="en">S1 E3 - Burn Zone</title>
+    <desc lang="en">When a decision Hondo made comes back to bite him, he realizes someone close to him may already know more than they're letting on.</desc>
+  </programme>
+  <programme start="20261011035000 +0200" stop="20261011045500 +0200" channel="starz-stz9">
+    <title lang="en">S2 E4 - A Portion of my Soul</title>
+    <desc lang="en">Ellen and Grace ride across the Highlands in search of Brian and Dougal's forces.</desc>
+  </programme>
+  <programme start="20261011045500 +0200" stop="20261011054700 +0200" channel="starz-stz9">
+    <title lang="en">S1 E2 - Episode 2</title>
+    <desc lang="en">Leo suspects someone’s been inside his house. And when Clive brings his son Saul to work in Leo’s bar, events soon reach a shocking conclusion.</desc>
+  </programme>
+  <programme start="20261011054700 +0200" stop="20261011065300 +0200" channel="starz-stz9">
+    <title lang="en">S2 E4 - A Portion of my Soul</title>
+    <desc lang="en">Ellen and Grace ride across the Highlands in search of Brian and Dougal's forces.</desc>
   </programme>
 </tv>
