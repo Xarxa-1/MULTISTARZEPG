@@ -161,57 +161,69 @@
     <title lang="en">Little Man</title>
     <desc lang="en">A pint-sized thief hides a diamond in a woman's bag, then pretends to be her baby. Chaos, diapers, and laughs follow as he tries to grab it back!</desc>
   </programme>
-  <programme start="20261010055600 +0200" stop="20261010073500 +0200" channel="starz-stz5">
-    <title lang="en">Ask Me Anything</title>
-    <desc lang="en">A confused teenager writes a blog revealing her daily activities and secrets, advised by her guidance counselor in lieu of her first year in college.</desc>
-  </programme>
-  <programme start="20261010073500 +0200" stop="20261010090700 +0200" channel="starz-stz5">
-    <title lang="en">Careful What You Wish For</title>
-    <desc lang="en">A young man is in over his head after starting an affair with a banker's wife, leading to a suspicious death and a hefty life insurance policy.</desc>
-  </programme>
-  <programme start="20261010090700 +0200" stop="20261010105100 +0200" channel="starz-stz5">
-    <title lang="en">The Hard Word</title>
-    <desc lang="en">In order to get out prison, the Twenyman brothers have to pull off the heist of the century for a corrupt lawyer.</desc>
-  </programme>
-  <programme start="20261010105100 +0200" stop="20261010130200 +0200" channel="starz-stz5">
-    <title lang="en">Miss Julie</title>
-    <desc lang="en">Set in 1890 Ireland, an unsettled aristocratic daughter entices her father's valet into a seductive encounter during a midsummer night.</desc>
-  </programme>
-  <programme start="20261010130200 +0200" stop="20261010152200 +0200" channel="starz-stz5">
-    <title lang="en">The Talented Mr. Ripley</title>
-    <desc lang="en">Tom Ripley travels to Italy to bring home a wealthy heir, but his fascination with Dickie Greenleaf's life soon grows into a dangerous obsession.</desc>
-  </programme>
-  <programme start="20261010152200 +0200" stop="20261010165500 +0200" channel="starz-stz5">
-    <title lang="en">Singing In My Sleep</title>
-    <desc lang="en">A talented teen songwriter grapples with her late father's musical legacy, confronting his absence as the 20th anniversary of his debut album looms.</desc>
-  </programme>
-  <programme start="20261010165500 +0200" stop="20261010185400 +0200" channel="starz-stz5">
-    <title lang="en">Marshall</title>
-    <desc lang="en">Thurgood Marshall, a pioneering lawyer destined to become the first African-American Supreme Court Justice, faces a case that defines his career.</desc>
-  </programme>
-  <programme start="20261010185400 +0200" stop="20261010202600 +0200" channel="starz-stz5">
-    <title lang="en">Careful What You Wish For</title>
-    <desc lang="en">A young man is in over his head after starting an affair with a banker's wife, leading to a suspicious death and a hefty life insurance policy.</desc>
-  </programme>
-  <programme start="20261010202600 +0200" stop="20261010224600 +0200" channel="starz-stz5">
-    <title lang="en">The Talented Mr. Ripley</title>
-    <desc lang="en">Tom Ripley travels to Italy to bring home a wealthy heir, but his fascination with Dickie Greenleaf's life soon grows into a dangerous obsession.</desc>
-  </programme>
-  <programme start="20261010224600 +0200" stop="20261011001900 +0200" channel="starz-stz5">
-    <title lang="en">Singing In My Sleep</title>
-    <desc lang="en">A talented teen songwriter grapples with her late father's musical legacy, confronting his absence as the 20th anniversary of his debut album looms.</desc>
-  </programme>
-  <programme start="20261011001900 +0200" stop="20261011021800 +0200" channel="starz-stz5">
-    <title lang="en">Marshall</title>
-    <desc lang="en">Thurgood Marshall, a pioneering lawyer destined to become the first African-American Supreme Court Justice, faces a case that defines his career.</desc>
-  </programme>
-  <programme start="20261011021800 +0200" stop="20261011035700 +0200" channel="starz-stz5">
-    <title lang="en">Quartet</title>
-    <desc lang="en">A famed singer rejoins her old quartet, stirring up past grudges. Can they mend fences and perform together again?</desc>
-  </programme>
   <programme start="20261011035700 +0200" stop="20261011061700 +0200" channel="starz-stz5">
     <title lang="en">The Talented Mr. Ripley</title>
     <desc lang="en">Tom Ripley travels to Italy to bring home a wealthy heir, but his fascination with Dickie Greenleaf's life soon grows into a dangerous obsession.</desc>
+  </programme>
+  <programme start="20261011061700 +0200" stop="20261011074700 +0200" channel="starz-stz5">
+    <title lang="en">The Limey</title>
+    <desc lang="en">After he is released from prison, an English ex-con travels to Los Angeles to find the man he considers responsible for his daughter's death.</desc>
+  </programme>
+  <programme start="20261011074700 +0200" stop="20261011092200 +0200" channel="starz-stz5">
+    <title lang="en">Neon Lights</title>
+    <desc lang="en">A tech tycoon reunites with his estranged foster family at a remote estate, where a series of disappearances turns deadly.</desc>
+  </programme>
+  <programme start="20261011092200 +0200" stop="20261011104700 +0200" channel="starz-stz5">
+    <title lang="en">Paranormal Activity 3</title>
+    <desc lang="en">In 1988, sisters Katie and Kristi are haunted by a sinister unseen presence, forcing their family to confront a growing supernatural terror.</desc>
+  </programme>
+  <programme start="20261011104700 +0200" stop="20261011121500 +0200" channel="starz-stz5">
+    <title lang="en">Paranormal Activity 4</title>
+    <desc lang="en">Five years after the disappearance of Katie and Hunter, a suburban family is drawn into unsettling events involving mysterious new neighbors.</desc>
+  </programme>
+  <programme start="20261011121500 +0200" stop="20261011135400 +0200" channel="starz-stz5">
+    <title lang="en">Quartet</title>
+    <desc lang="en">A famed singer rejoins her old quartet, stirring up past grudges. Can they mend fences and perform together again?</desc>
+  </programme>
+  <programme start="20261011135400 +0200" stop="20261011154200 +0200" channel="starz-stz5">
+    <title lang="en">Morning Glory</title>
+    <desc lang="en">Becky’s dream job of running a TV show unravels when her co‑anchors feud on air. She scrambles to save the show and shine under pressure.</desc>
+  </programme>
+  <programme start="20261011154200 +0200" stop="20261011172800 +0200" channel="starz-stz5">
+    <title lang="en">Coffee Wars</title>
+    <desc lang="en">A vegan barista competes on a global stage at the World Barista Championship.</desc>
+  </programme>
+  <programme start="20261011172800 +0200" stop="20261011191500 +0200" channel="starz-stz5">
+    <title lang="en">Chappaquiddick</title>
+    <desc lang="en">A thriller about Mary Jo Kopechne's 1969 death after Ted Kennedy's car plunged off a bridge, and the moral and legal fallout that followed.</desc>
+  </programme>
+  <programme start="20261011191500 +0200" stop="20261011211100 +0200" channel="starz-stz5">
+    <title lang="en">American Heart</title>
+    <desc lang="en">A tough ex-convict is reunited with his homeless, street-wise teenage son, and they must struggle to rebuild their lives together.</desc>
+  </programme>
+  <programme start="20261011211100 +0200" stop="20261011224500 +0200" channel="starz-stz5">
+    <title lang="en">Table For Three</title>
+    <desc lang="en">After his girlfriend dumps him, Scott invites a seemingly ideal couple to share his apartment... only for them get involved in every part of his life.</desc>
+  </programme>
+  <programme start="20261011224500 +0200" stop="20261012004400 +0200" channel="starz-stz5">
+    <title lang="en">Closing The Ring</title>
+    <desc lang="en">During the 1940s, a young man searches for the proper owner of a ring that belonged to a U.S. World War II bomber who crashed in Northern Ireland.</desc>
+  </programme>
+  <programme start="20261012004400 +0200" stop="20261012021000 +0200" channel="starz-stz5">
+    <title lang="en">Unknown</title>
+    <desc lang="en">Five men wake up in a locked-down warehouse with no memory of who they are. They are forced to figure out who is good and who is bad to stay alive.</desc>
+  </programme>
+  <programme start="20261012021000 +0200" stop="20261012035800 +0200" channel="starz-stz5">
+    <title lang="en">Morning Glory</title>
+    <desc lang="en">Becky’s dream job of running a TV show unravels when her co‑anchors feud on air. She scrambles to save the show and shine under pressure.</desc>
+  </programme>
+  <programme start="20261012035800 +0200" stop="20261012055400 +0200" channel="starz-stz5">
+    <title lang="en">American Heart</title>
+    <desc lang="en">A tough ex-convict is reunited with his homeless, street-wise teenage son, and they must struggle to rebuild their lives together.</desc>
+  </programme>
+  <programme start="20261012055400 +0200" stop="20261012073900 +0200" channel="starz-stz5">
+    <title lang="en">Jack Goes Home</title>
+    <desc lang="en">After his father dies in a car crash, a man learns hidden truths about his loved ones and his own identity while caring for his injured mother.</desc>
   </programme>
   <programme start="20261011054700 +0200" stop="20261011065300 +0200" channel="starz-stz6">
     <title lang="en">S2 E4 - A Portion of my Soul</title>
