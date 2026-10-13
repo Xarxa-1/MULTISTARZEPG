@@ -21,141 +21,139 @@
   <channel id="starz-stz9">
     <display-name>STARZ Encore (STZ9)</display-name>
   </channel>
-  <programme start="20261012055300 +0200" stop="20261012064600 +0200" channel="starz-stz1">
-    <title lang="en">S1 E2 - Episode 2</title>
-    <desc lang="en">Leo suspects someone’s been inside his house. And when Clive brings his son Saul to work in Leo’s bar, events soon reach a shocking conclusion.</desc>
-  </programme>
-  <programme start="20261012064600 +0200" stop="20261012075300 +0200" channel="starz-stz1">
-    <title lang="en">S2 E4 - A Portion of my Soul</title>
-    <desc lang="en">Ellen and Grace ride across the Highlands in search of Brian and Dougal's forces.</desc>
-  </programme>
-  <programme start="20261012075300 +0200" stop="20261012100500 +0200" channel="starz-stz1">
-    <title lang="en">Michael</title>
-    <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
-  </programme>
-  <programme start="20261012100500 +0200" stop="20261012115600 +0200" channel="starz-stz1">
-    <title lang="en">Non-Stop</title>
-    <desc lang="en">U.S. air marshal Bill Marks is thrust into a crisis when a passenger's life is threatened every 20 minutes unless $150 million is transferred.</desc>
-  </programme>
-  <programme start="20261012115600 +0200" stop="20261012133700 +0200" channel="starz-stz1">
-    <title lang="en">Love, Brooklyn</title>
-    <desc lang="en">Three Brooklynites navigate love, friendship, and careers against the rapidly changing landscape of their beloved city.</desc>
-  </programme>
-  <programme start="20261012133700 +0200" stop="20261012150900 +0200" channel="starz-stz1">
-    <title lang="en">The Wedding Date</title>
-    <desc lang="en">A young woman hires a male escort to pose as her boyfriend at her sister's wedding, but her plan to make her ex-fiancé jealous goes hilariously wrong.</desc>
-  </programme>
-  <programme start="20261012150900 +0200" stop="20261012172000 +0200" channel="starz-stz1">
-    <title lang="en">Michael</title>
-    <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
-  </programme>
-  <programme start="20261012172000 +0200" stop="20261012182600 +0200" channel="starz-stz1">
-    <title lang="en">S2 E4 - A Portion of my Soul</title>
-    <desc lang="en">Ellen and Grace ride across the Highlands in search of Brian and Dougal's forces.</desc>
-  </programme>
-  <programme start="20261012182600 +0200" stop="20261012191500 +0200" channel="starz-stz1">
-    <title lang="en">S1 E3 - Burn Zone</title>
-    <desc lang="en">When a decision Hondo made comes back to bite him, he realizes someone close to him may already know more than they're letting on.</desc>
-  </programme>
-  <programme start="20261012191500 +0200" stop="20261012200800 +0200" channel="starz-stz1">
-    <title lang="en">S1 E2 - Episode 2</title>
-    <desc lang="en">Leo suspects someone’s been inside his house. And when Clive brings his son Saul to work in Leo’s bar, events soon reach a shocking conclusion.</desc>
-  </programme>
-  <programme start="20261012200800 +0200" stop="20261012211400 +0200" channel="starz-stz1">
-    <title lang="en">S2 E4 - A Portion of my Soul</title>
-    <desc lang="en">Ellen and Grace ride across the Highlands in search of Brian and Dougal's forces.</desc>
-  </programme>
-  <programme start="20261012211400 +0200" stop="20261012220300 +0200" channel="starz-stz1">
-    <title lang="en">S1 E3 - Burn Zone</title>
-    <desc lang="en">When a decision Hondo made comes back to bite him, he realizes someone close to him may already know more than they're letting on.</desc>
-  </programme>
-  <programme start="20261012220300 +0200" stop="20261012235000 +0200" channel="starz-stz1">
-    <title lang="en">The Bounce Back</title>
-    <desc lang="en">A relationship guru finds himself falling for an attractive licensed therapist who questions his methods and disagrees with his theories on love.</desc>
-  </programme>
-  <programme start="20261012235000 +0200" stop="20261013020000 +0200" channel="starz-stz1">
-    <title lang="en">Michael</title>
-    <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
-  </programme>
-  <programme start="20261013020000 +0200" stop="20261013024900 +0200" channel="starz-stz1">
-    <title lang="en">S1 E3 - Burn Zone</title>
-    <desc lang="en">When a decision Hondo made comes back to bite him, he realizes someone close to him may already know more than they're letting on.</desc>
-  </programme>
-  <programme start="20261013024900 +0200" stop="20261013035500 +0200" channel="starz-stz1">
-    <title lang="en">S2 E4 - A Portion of my Soul</title>
-    <desc lang="en">Ellen and Grace ride across the Highlands in search of Brian and Dougal's forces.</desc>
-  </programme>
-  <programme start="20261013035500 +0200" stop="20261013044800 +0200" channel="starz-stz1">
-    <title lang="en">S1 E2 - Episode 2</title>
-    <desc lang="en">Leo suspects someone’s been inside his house. And when Clive brings his son Saul to work in Leo’s bar, events soon reach a shocking conclusion.</desc>
-  </programme>
   <programme start="20261013044800 +0200" stop="20261013063800 +0200" channel="starz-stz1">
     <title lang="en">Non-Stop</title>
     <desc lang="en">U.S. air marshal Bill Marks is thrust into a crisis when a passenger's life is threatened every 20 minutes unless $150 million is transferred.</desc>
   </programme>
-  <programme start="20261012043400 +0200" stop="20261012061300 +0200" channel="starz-stz3">
-    <title lang="en">Little Man</title>
-    <desc lang="en">A pint-sized thief hides a diamond in a woman's bag, then pretends to be her baby. Chaos, diapers, and laughs follow as he tries to grab it back!</desc>
+  <programme start="20261013063800 +0200" stop="20261013081000 +0200" channel="starz-stz1">
+    <title lang="en">The Wedding Date</title>
+    <desc lang="en">A young woman hires a male escort to pose as her boyfriend at her sister's wedding, but her plan to make her ex-fiancé jealous goes hilariously wrong.</desc>
   </programme>
-  <programme start="20261012061300 +0200" stop="20261012074600 +0200" channel="starz-stz3">
-    <title lang="en">The Strangers: Chapter 3</title>
-    <desc lang="en">As the killers’ mythology grows darker, Maya is dragged deeper into their cycle of terror and forced toward a final confrontation she can’t outrun.</desc>
+  <programme start="20261013081000 +0200" stop="20261013094000 +0200" channel="starz-stz1">
+    <title lang="en">Mariah Carey: Merry Christmas to All!</title>
+    <desc lang="en">Pop icon Mariah Carey ushers in the holidays with a festive extravaganza featuring classic hits, seasonal staples and a lineup of very special guests.</desc>
   </programme>
-  <programme start="20261012074600 +0200" stop="20261012092700 +0200" channel="starz-stz3">
-    <title lang="en">Out-Of-Sync</title>
-    <desc lang="en">After he is released from prison, a former DJ tries to go straight and put his various vices behind him.</desc>
+  <programme start="20261013094000 +0200" stop="20261013113100 +0200" channel="starz-stz1">
+    <title lang="en">Morning Glory</title>
+    <desc lang="en">Becky’s dream job of running a TV show unravels when her co‑anchors feud on air. She scrambles to save the show and shine under pressure.</desc>
   </programme>
-  <programme start="20261012092700 +0200" stop="20261012105400 +0200" channel="starz-stz3">
-    <title lang="en">Seized</title>
-    <desc lang="en">After his son is kidnapped, a former special forces agent takes on three dangerous crime syndicates while racing to uncover who is behind the plot.</desc>
+  <programme start="20261013113100 +0200" stop="20261013131200 +0200" channel="starz-stz1">
+    <title lang="en">The Covenant</title>
+    <desc lang="en">Four young warlocks, all descendants of Salem witches, make new discoveries about their powers when they must stop an evil force.</desc>
   </programme>
-  <programme start="20261012105400 +0200" stop="20261012122400 +0200" channel="starz-stz3">
-    <title lang="en">Oscar Shaw</title>
-    <desc lang="en">A retired cop embarks on a quest for vengeance after his best friend's death, determined to achieve justice on his own terms.</desc>
+  <programme start="20261013131200 +0200" stop="20261013150200 +0200" channel="starz-stz1">
+    <title lang="en">Underworld: Evolution</title>
+    <desc lang="en">The war between the Death Dealers and Lycans continues as Selene and her werewolf lover go searching for their future by seeking their past.</desc>
   </programme>
-  <programme start="20261012122400 +0200" stop="20261012134500 +0200" channel="starz-stz3">
-    <title lang="en">The Knife</title>
-    <desc lang="en">After a home invasion, a young family is pushed to their breaking point as a relentless detective unearths secrets they’ve fought to keep buried.</desc>
+  <programme start="20261013150200 +0200" stop="20261013162900 +0200" channel="starz-stz1">
+    <title lang="en">Mariah Carey: Merry Christmas to All!</title>
+    <desc lang="en">Pop icon Mariah Carey ushers in the holidays with a festive extravaganza featuring classic hits, seasonal staples and a lineup of very special guests.</desc>
   </programme>
-  <programme start="20261012134500 +0200" stop="20261012154700 +0200" channel="starz-stz3">
-    <title lang="en">Idlewild</title>
-    <desc lang="en">A musical set in the Prohibition-era American South, where a performer and his piano player contend with gangsters who have their eyes on the club.</desc>
+  <programme start="20261013162900 +0200" stop="20261013173200 +0200" channel="starz-stz1">
+    <title lang="en">S7 E9 - Unfinished Business</title>
+    <desc lang="en">Jamie, Claire, and Ian return to Lallybroch. Ian reconnects with his family in a time of need. Roger and Buck search for Jemmy in the past.</desc>
   </programme>
-  <programme start="20261012154700 +0200" stop="20261012171100 +0200" channel="starz-stz3">
-    <title lang="en">Like A Boss</title>
-    <desc lang="en">Mia and Mel face a tough choice: accept a buyout or risk losing their friendship. In the beauty biz, things get messy fast - and not just the mascara.</desc>
+  <programme start="20261013173200 +0200" stop="20261013183500 +0200" channel="starz-stz1">
+    <title lang="en">S7 E10 - Brotherly Love</title>
+    <desc lang="en">Claire and Ian arrive in Philadelphia to help the ailing Henry Grey. Roger and Buck receive an unexpected clue in their search for Jemmy.</desc>
   </programme>
-  <programme start="20261012171100 +0200" stop="20261012184100 +0200" channel="starz-stz3">
-    <title lang="en">Oscar Shaw</title>
-    <desc lang="en">A retired cop embarks on a quest for vengeance after his best friend's death, determined to achieve justice on his own terms.</desc>
+  <programme start="20261013183500 +0200" stop="20261013193800 +0200" channel="starz-stz1">
+    <title lang="en">S7 E11 - A Hundredweight of Stones</title>
+    <desc lang="en">Claire turns to John Grey for comfort as they process difficult news. Ian and Rachel discuss their love and their future.</desc>
   </programme>
-  <programme start="20261012184100 +0200" stop="20261012203800 +0200" channel="starz-stz3">
-    <title lang="en">Harlem Nights</title>
-    <desc lang="en">In 1930s New York, a gambling house owner and his crew battle rivals, gangsters, and corrupt police.</desc>
+  <programme start="20261013193800 +0200" stop="20261013213500 +0200" channel="starz-stz1">
+    <title lang="en">The Furious</title>
+    <desc lang="en">When his daughter is kidnapped and police fail him, Wang Wei joins forces with a journalist, launching a ruthless fight against a criminal network.
+</desc>
   </programme>
-  <programme start="20261012203800 +0200" stop="20261012215900 +0200" channel="starz-stz3">
-    <title lang="en">Welcome to Sudden Death</title>
-    <desc lang="en">A security guard battles a group of tech-savvy terrorists after they take hostages inside a basketball arena.</desc>
+  <programme start="20261013213500 +0200" stop="20261013231600 +0200" channel="starz-stz1">
+    <title lang="en">The Covenant</title>
+    <desc lang="en">Four young warlocks, all descendants of Salem witches, make new discoveries about their powers when they must stop an evil force.</desc>
   </programme>
-  <programme start="20261012215900 +0200" stop="20261012232700 +0200" channel="starz-stz3">
-    <title lang="en">Motives</title>
-    <desc lang="en">After Emery Simms betrays his wife for a one-night stand, he learns that in a world of high society and shady business, someone is always watching.</desc>
+  <programme start="20261013231600 +0200" stop="20261014010600 +0200" channel="starz-stz1">
+    <title lang="en">Underworld: Evolution</title>
+    <desc lang="en">The war between the Death Dealers and Lycans continues as Selene and her werewolf lover go searching for their future by seeking their past.</desc>
   </programme>
-  <programme start="20261012232700 +0200" stop="20261013010200 +0200" channel="starz-stz3">
-    <title lang="en">Motives 2: Retribution</title>
-    <desc lang="en">After a framed convict is killed in prison, his brother uncovers evidence implicating his best friend, pulling him into a deadly web of lies.</desc>
+  <programme start="20261014010600 +0200" stop="20261014030000 +0200" channel="starz-stz1">
+    <title lang="en">Speak No Evil</title>
+    <desc lang="en">A family accepts an invitation to spend a weekend at a secluded country home, only to discover unsettling truths about their hosts as the days unfold.</desc>
   </programme>
-  <programme start="20261013010200 +0200" stop="20261013030400 +0200" channel="starz-stz3">
-    <title lang="en">Idlewild</title>
-    <desc lang="en">A musical set in the Prohibition-era American South, where a performer and his piano player contend with gangsters who have their eyes on the club.</desc>
+  <programme start="20261014030000 +0200" stop="20261014045700 +0200" channel="starz-stz1">
+    <title lang="en">The Furious</title>
+    <desc lang="en">When his daughter is kidnapped and police fail him, Wang Wei joins forces with a journalist, launching a ruthless fight against a criminal network.
+</desc>
   </programme>
-  <programme start="20261013030400 +0200" stop="20261013050100 +0200" channel="starz-stz3">
-    <title lang="en">Harlem Nights</title>
-    <desc lang="en">In 1930s New York, a gambling house owner and his crew battle rivals, gangsters, and corrupt police.</desc>
+  <programme start="20261014045700 +0200" stop="20261014064800 +0200" channel="starz-stz1">
+    <title lang="en">ATL</title>
+    <desc lang="en">In Atlanta's skating world, Rashad struggles to guide his younger brother but finds hope in New‑New, unaware she’s keeping a major secret.</desc>
   </programme>
   <programme start="20261013050100 +0200" stop="20261013062600 +0200" channel="starz-stz3">
     <title lang="en">Like A Boss</title>
     <desc lang="en">Mia and Mel face a tough choice: accept a buyout or risk losing their friendship. In the beauty biz, things get messy fast - and not just the mascara.</desc>
+  </programme>
+  <programme start="20261013062600 +0200" stop="20261013082800 +0200" channel="starz-stz3">
+    <title lang="en">Idlewild</title>
+    <desc lang="en">A musical set in the Prohibition-era American South, where a performer and his piano player contend with gangsters who have their eyes on the club.</desc>
+  </programme>
+  <programme start="20261013082800 +0200" stop="20261013102500 +0200" channel="starz-stz3">
+    <title lang="en">Once Upon A Time In Brooklyn</title>
+    <desc lang="en">Fresh out of prison, Bobby returns to mob life only to face a tough choice that reveals a truth he never saw coming.</desc>
+  </programme>
+  <programme start="20261013102500 +0200" stop="20261013124300 +0200" channel="starz-stz3">
+    <title lang="en">Outlaw Johnny Black</title>
+    <desc lang="en">Cowboy Johnny Black becomes a wanted man while seeking revenge for the death of his father.</desc>
+  </programme>
+  <programme start="20261013124300 +0200" stop="20261013141000 +0200" channel="starz-stz3">
+    <title lang="en">Mariah Carey: Merry Christmas to All!</title>
+    <desc lang="en">Pop icon Mariah Carey ushers in the holidays with a festive extravaganza featuring classic hits, seasonal staples and a lineup of very special guests.</desc>
+  </programme>
+  <programme start="20261013141000 +0200" stop="20261013144700 +0200" channel="starz-stz3">
+    <title lang="en">Whitney Houston in Focus</title>
+    <desc lang="en">The story of photographer Bette Marshall and her one-time muse, an unknown eighteen-year-old singer the world would come to know as Whitney Houston.</desc>
+  </programme>
+  <programme start="20261013144700 +0200" stop="20261013163900 +0200" channel="starz-stz3">
+    <title lang="en">Almost Christmas</title>
+    <desc lang="en">A family comes together for their first Christmas after the loss of their mother, navigating their dysfunctions and emotions.</desc>
+  </programme>
+  <programme start="20261013163900 +0200" stop="20261013182000 +0200" channel="starz-stz3">
+    <title lang="en">Both Eyes Open</title>
+    <desc lang="en">Ally, a survivor, rebuilds her life while battling hallucinations and cryptic messages, blurring the lines between trust, betrayal, and reality.</desc>
+  </programme>
+  <programme start="20261013182000 +0200" stop="20261013195000 +0200" channel="starz-stz3">
+    <title lang="en">Apple Mortgage Cake</title>
+    <desc lang="en">To avoid losing her home to foreclosure, single mother Angela Logan tries to bake and sell 100 apple cakes in 10 days. Based on a true story.</desc>
+  </programme>
+  <programme start="20261013195000 +0200" stop="20261013211700 +0200" channel="starz-stz3">
+    <title lang="en">Mariah Carey: Merry Christmas to All!</title>
+    <desc lang="en">Pop icon Mariah Carey ushers in the holidays with a festive extravaganza featuring classic hits, seasonal staples and a lineup of very special guests.</desc>
+  </programme>
+  <programme start="20261013211700 +0200" stop="20261013215400 +0200" channel="starz-stz3">
+    <title lang="en">Whitney Houston in Focus</title>
+    <desc lang="en">The story of photographer Bette Marshall and her one-time muse, an unknown eighteen-year-old singer the world would come to know as Whitney Houston.</desc>
+  </programme>
+  <programme start="20261013215400 +0200" stop="20261013234600 +0200" channel="starz-stz3">
+    <title lang="en">Almost Christmas</title>
+    <desc lang="en">A family comes together for their first Christmas after the loss of their mother, navigating their dysfunctions and emotions.</desc>
+  </programme>
+  <programme start="20261013234600 +0200" stop="20261014012700 +0200" channel="starz-stz3">
+    <title lang="en">Both Eyes Open</title>
+    <desc lang="en">Ally, a survivor, rebuilds her life while battling hallucinations and cryptic messages, blurring the lines between trust, betrayal, and reality.</desc>
+  </programme>
+  <programme start="20261014012700 +0200" stop="20261014025700 +0200" channel="starz-stz3">
+    <title lang="en">Apple Mortgage Cake</title>
+    <desc lang="en">To avoid losing her home to foreclosure, single mother Angela Logan tries to bake and sell 100 apple cakes in 10 days. Based on a true story.</desc>
+  </programme>
+  <programme start="20261014025700 +0200" stop="20261014033400 +0200" channel="starz-stz3">
+    <title lang="en">Whitney Houston in Focus</title>
+    <desc lang="en">The story of photographer Bette Marshall and her one-time muse, an unknown eighteen-year-old singer the world would come to know as Whitney Houston.</desc>
+  </programme>
+  <programme start="20261014033400 +0200" stop="20261014050200 +0200" channel="starz-stz3">
+    <title lang="en">Mariah Carey: Merry Christmas to All!</title>
+    <desc lang="en">Pop icon Mariah Carey ushers in the holidays with a festive extravaganza featuring classic hits, seasonal staples and a lineup of very special guests.</desc>
+  </programme>
+  <programme start="20261014050200 +0200" stop="20261014065400 +0200" channel="starz-stz3">
+    <title lang="en">Almost Christmas</title>
+    <desc lang="en">A family comes together for their first Christmas after the loss of their mother, navigating their dysfunctions and emotions.</desc>
   </programme>
   <programme start="20261012055400 +0200" stop="20261012073900 +0200" channel="starz-stz5">
     <title lang="en">Jack Goes Home</title>
@@ -221,276 +219,268 @@
     <title lang="en">Stone</title>
     <desc lang="en">A psychological duel develops between a convict itching for release and his about-to-retire parole officer.</desc>
   </programme>
-  <programme start="20261012055300 +0200" stop="20261012064600 +0200" channel="starz-stz6">
-    <title lang="en">S1 E2 - Episode 2</title>
-    <desc lang="en">Leo suspects someone’s been inside his house. And when Clive brings his son Saul to work in Leo’s bar, events soon reach a shocking conclusion.</desc>
-  </programme>
-  <programme start="20261012064600 +0200" stop="20261012075300 +0200" channel="starz-stz6">
-    <title lang="en">S2 E4 - A Portion of my Soul</title>
-    <desc lang="en">Ellen and Grace ride across the Highlands in search of Brian and Dougal's forces.</desc>
-  </programme>
-  <programme start="20261012075300 +0200" stop="20261012100500 +0200" channel="starz-stz6">
-    <title lang="en">Michael</title>
-    <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
-  </programme>
-  <programme start="20261012100500 +0200" stop="20261012115600 +0200" channel="starz-stz6">
-    <title lang="en">Non-Stop</title>
-    <desc lang="en">U.S. air marshal Bill Marks is thrust into a crisis when a passenger's life is threatened every 20 minutes unless $150 million is transferred.</desc>
-  </programme>
-  <programme start="20261012115600 +0200" stop="20261012133700 +0200" channel="starz-stz6">
-    <title lang="en">Love, Brooklyn</title>
-    <desc lang="en">Three Brooklynites navigate love, friendship, and careers against the rapidly changing landscape of their beloved city.</desc>
-  </programme>
-  <programme start="20261012133700 +0200" stop="20261012150900 +0200" channel="starz-stz6">
-    <title lang="en">The Wedding Date</title>
-    <desc lang="en">A young woman hires a male escort to pose as her boyfriend at her sister's wedding, but her plan to make her ex-fiancé jealous goes hilariously wrong.</desc>
-  </programme>
-  <programme start="20261012150900 +0200" stop="20261012172000 +0200" channel="starz-stz6">
-    <title lang="en">Michael</title>
-    <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
-  </programme>
-  <programme start="20261012172000 +0200" stop="20261012182600 +0200" channel="starz-stz6">
-    <title lang="en">S2 E4 - A Portion of my Soul</title>
-    <desc lang="en">Ellen and Grace ride across the Highlands in search of Brian and Dougal's forces.</desc>
-  </programme>
-  <programme start="20261012182600 +0200" stop="20261012191500 +0200" channel="starz-stz6">
-    <title lang="en">S1 E3 - Burn Zone</title>
-    <desc lang="en">When a decision Hondo made comes back to bite him, he realizes someone close to him may already know more than they're letting on.</desc>
-  </programme>
-  <programme start="20261012191500 +0200" stop="20261012200800 +0200" channel="starz-stz6">
-    <title lang="en">S1 E2 - Episode 2</title>
-    <desc lang="en">Leo suspects someone’s been inside his house. And when Clive brings his son Saul to work in Leo’s bar, events soon reach a shocking conclusion.</desc>
-  </programme>
-  <programme start="20261012200800 +0200" stop="20261012211400 +0200" channel="starz-stz6">
-    <title lang="en">S2 E4 - A Portion of my Soul</title>
-    <desc lang="en">Ellen and Grace ride across the Highlands in search of Brian and Dougal's forces.</desc>
-  </programme>
-  <programme start="20261012211400 +0200" stop="20261012220300 +0200" channel="starz-stz6">
-    <title lang="en">S1 E3 - Burn Zone</title>
-    <desc lang="en">When a decision Hondo made comes back to bite him, he realizes someone close to him may already know more than they're letting on.</desc>
-  </programme>
-  <programme start="20261012220300 +0200" stop="20261012235000 +0200" channel="starz-stz6">
-    <title lang="en">The Bounce Back</title>
-    <desc lang="en">A relationship guru finds himself falling for an attractive licensed therapist who questions his methods and disagrees with his theories on love.</desc>
-  </programme>
-  <programme start="20261012235000 +0200" stop="20261013020000 +0200" channel="starz-stz6">
-    <title lang="en">Michael</title>
-    <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
-  </programme>
-  <programme start="20261013020000 +0200" stop="20261013024900 +0200" channel="starz-stz6">
-    <title lang="en">S1 E3 - Burn Zone</title>
-    <desc lang="en">When a decision Hondo made comes back to bite him, he realizes someone close to him may already know more than they're letting on.</desc>
-  </programme>
-  <programme start="20261013024900 +0200" stop="20261013035500 +0200" channel="starz-stz6">
-    <title lang="en">S2 E4 - A Portion of my Soul</title>
-    <desc lang="en">Ellen and Grace ride across the Highlands in search of Brian and Dougal's forces.</desc>
-  </programme>
-  <programme start="20261013035500 +0200" stop="20261013044800 +0200" channel="starz-stz6">
-    <title lang="en">S1 E2 - Episode 2</title>
-    <desc lang="en">Leo suspects someone’s been inside his house. And when Clive brings his son Saul to work in Leo’s bar, events soon reach a shocking conclusion.</desc>
-  </programme>
   <programme start="20261013044800 +0200" stop="20261013063800 +0200" channel="starz-stz6">
     <title lang="en">Non-Stop</title>
     <desc lang="en">U.S. air marshal Bill Marks is thrust into a crisis when a passenger's life is threatened every 20 minutes unless $150 million is transferred.</desc>
   </programme>
-  <programme start="20261012053900 +0200" stop="20261012071100 +0200" channel="starz-stz7">
-    <title lang="en">The Future</title>
-    <desc lang="en">After deciding to adopt a stray cat, a couple’s reality begins to shift, altering time, space, and their understanding of life together.</desc>
+  <programme start="20261013063800 +0200" stop="20261013081000 +0200" channel="starz-stz6">
+    <title lang="en">The Wedding Date</title>
+    <desc lang="en">A young woman hires a male escort to pose as her boyfriend at her sister's wedding, but her plan to make her ex-fiancé jealous goes hilariously wrong.</desc>
   </programme>
-  <programme start="20261012071100 +0200" stop="20261012085500 +0200" channel="starz-stz7">
-    <title lang="en">The Winning Season</title>
-    <desc lang="en">A washed-up coach gets a chance to redeem himself when tasked with leading a high school girls' varsity basketball team.</desc>
+  <programme start="20261013081000 +0200" stop="20261013094000 +0200" channel="starz-stz6">
+    <title lang="en">Mariah Carey: Merry Christmas to All!</title>
+    <desc lang="en">Pop icon Mariah Carey ushers in the holidays with a festive extravaganza featuring classic hits, seasonal staples and a lineup of very special guests.</desc>
   </programme>
-  <programme start="20261012085500 +0200" stop="20261012103400 +0200" channel="starz-stz7">
-    <title lang="en">Dead Heat</title>
-    <desc lang="en">A retired Boston cop and his half-brother invest in a racehorse, but when the mob steals it, they become entangled in a dangerous criminal underworld.</desc>
-  </programme>
-  <programme start="20261012103400 +0200" stop="20261012125200 +0200" channel="starz-stz7">
-    <title lang="en">Outlaw Johnny Black</title>
-    <desc lang="en">Cowboy Johnny Black becomes a wanted man while seeking revenge for the death of his father.</desc>
-  </programme>
-  <programme start="20261012125200 +0200" stop="20261012143100 +0200" channel="starz-stz7">
-    <title lang="en">Ask Me Anything</title>
-    <desc lang="en">A confused teenager writes a blog revealing her daily activities and secrets, advised by her guidance counselor in lieu of her first year in college.</desc>
-  </programme>
-  <programme start="20261012143100 +0200" stop="20261012161000 +0200" channel="starz-stz7">
-    <title lang="en">Power Ballad</title>
-    <desc lang="en">A past-his-prime wedding singer bonds with a fading boy-band star, but when his song reignites the star's career, he risks everything for recognition.</desc>
-  </programme>
-  <programme start="20261012161000 +0200" stop="20261012174700 +0200" channel="starz-stz7">
-    <title lang="en">Win A Date With Tad Hamilton!</title>
-    <desc lang="en">Rosalee wins a date with star Tad Hamilton, thrilling her but worrying Pete, her best friend who secretly loves her.</desc>
-  </programme>
-  <programme start="20261012174700 +0200" stop="20261012191500 +0200" channel="starz-stz7">
-    <title lang="en">Black Sheep</title>
-    <desc lang="en">An experiment in genetic engineering turns harmless sheep into bloodthirsty killers that terrorize a sprawling New Zealand farm.</desc>
-  </programme>
-  <programme start="20261012191500 +0200" stop="20261012204400 +0200" channel="starz-stz7">
-    <title lang="en">Permanent Midnight</title>
-    <desc lang="en">The true story of a successful television writer who keeps making hits during a haunting, darkly comic descent into a $6000 per week heroin addiction.</desc>
-  </programme>
-  <programme start="20261012204400 +0200" stop="20261012223200 +0200" channel="starz-stz7">
+  <programme start="20261013094000 +0200" stop="20261013113100 +0200" channel="starz-stz6">
     <title lang="en">Morning Glory</title>
     <desc lang="en">Becky’s dream job of running a TV show unravels when her co‑anchors feud on air. She scrambles to save the show and shine under pressure.</desc>
   </programme>
-  <programme start="20261012223200 +0200" stop="20261013000300 +0200" channel="starz-stz7">
-    <title lang="en">The Great Buck Howard</title>
-    <desc lang="en">A washed-up mentalist hires a law school dropout as his assistant and fights for a comeback with help from a bold publicist.</desc>
+  <programme start="20261013113100 +0200" stop="20261013131200 +0200" channel="starz-stz6">
+    <title lang="en">The Covenant</title>
+    <desc lang="en">Four young warlocks, all descendants of Salem witches, make new discoveries about their powers when they must stop an evil force.</desc>
   </programme>
-  <programme start="20261013000300 +0200" stop="20261013014200 +0200" channel="starz-stz7">
-    <title lang="en">Ask Me Anything</title>
-    <desc lang="en">A confused teenager writes a blog revealing her daily activities and secrets, advised by her guidance counselor in lieu of her first year in college.</desc>
+  <programme start="20261013131200 +0200" stop="20261013150200 +0200" channel="starz-stz6">
+    <title lang="en">Underworld: Evolution</title>
+    <desc lang="en">The war between the Death Dealers and Lycans continues as Selene and her werewolf lover go searching for their future by seeking their past.</desc>
   </programme>
-  <programme start="20261013014200 +0200" stop="20261013031900 +0200" channel="starz-stz7">
-    <title lang="en">Win A Date With Tad Hamilton!</title>
-    <desc lang="en">Rosalee wins a date with star Tad Hamilton, thrilling her but worrying Pete, her best friend who secretly loves her.</desc>
+  <programme start="20261013150200 +0200" stop="20261013162900 +0200" channel="starz-stz6">
+    <title lang="en">Mariah Carey: Merry Christmas to All!</title>
+    <desc lang="en">Pop icon Mariah Carey ushers in the holidays with a festive extravaganza featuring classic hits, seasonal staples and a lineup of very special guests.</desc>
   </programme>
-  <programme start="20261013031900 +0200" stop="20261013045800 +0200" channel="starz-stz7">
-    <title lang="en">Power Ballad</title>
-    <desc lang="en">A past-his-prime wedding singer bonds with a fading boy-band star, but when his song reignites the star's career, he risks everything for recognition.</desc>
+  <programme start="20261013162900 +0200" stop="20261013173200 +0200" channel="starz-stz6">
+    <title lang="en">S7 E9 - Unfinished Business</title>
+    <desc lang="en">Jamie, Claire, and Ian return to Lallybroch. Ian reconnects with his family in a time of need. Roger and Buck search for Jemmy in the past.</desc>
+  </programme>
+  <programme start="20261013173200 +0200" stop="20261013183500 +0200" channel="starz-stz6">
+    <title lang="en">S7 E10 - Brotherly Love</title>
+    <desc lang="en">Claire and Ian arrive in Philadelphia to help the ailing Henry Grey. Roger and Buck receive an unexpected clue in their search for Jemmy.</desc>
+  </programme>
+  <programme start="20261013183500 +0200" stop="20261013193800 +0200" channel="starz-stz6">
+    <title lang="en">S7 E11 - A Hundredweight of Stones</title>
+    <desc lang="en">Claire turns to John Grey for comfort as they process difficult news. Ian and Rachel discuss their love and their future.</desc>
+  </programme>
+  <programme start="20261013193800 +0200" stop="20261013213500 +0200" channel="starz-stz6">
+    <title lang="en">The Furious</title>
+    <desc lang="en">When his daughter is kidnapped and police fail him, Wang Wei joins forces with a journalist, launching a ruthless fight against a criminal network.
+</desc>
+  </programme>
+  <programme start="20261013213500 +0200" stop="20261013231600 +0200" channel="starz-stz6">
+    <title lang="en">The Covenant</title>
+    <desc lang="en">Four young warlocks, all descendants of Salem witches, make new discoveries about their powers when they must stop an evil force.</desc>
+  </programme>
+  <programme start="20261013231600 +0200" stop="20261014010600 +0200" channel="starz-stz6">
+    <title lang="en">Underworld: Evolution</title>
+    <desc lang="en">The war between the Death Dealers and Lycans continues as Selene and her werewolf lover go searching for their future by seeking their past.</desc>
+  </programme>
+  <programme start="20261014010600 +0200" stop="20261014030000 +0200" channel="starz-stz6">
+    <title lang="en">Speak No Evil</title>
+    <desc lang="en">A family accepts an invitation to spend a weekend at a secluded country home, only to discover unsettling truths about their hosts as the days unfold.</desc>
+  </programme>
+  <programme start="20261014030000 +0200" stop="20261014045700 +0200" channel="starz-stz6">
+    <title lang="en">The Furious</title>
+    <desc lang="en">When his daughter is kidnapped and police fail him, Wang Wei joins forces with a journalist, launching a ruthless fight against a criminal network.
+</desc>
+  </programme>
+  <programme start="20261014045700 +0200" stop="20261014064800 +0200" channel="starz-stz6">
+    <title lang="en">ATL</title>
+    <desc lang="en">In Atlanta's skating world, Rashad struggles to guide his younger brother but finds hope in New‑New, unaware she’s keeping a major secret.</desc>
   </programme>
   <programme start="20261013045800 +0200" stop="20261013064700 +0200" channel="starz-stz7">
     <title lang="en">Morning Glory</title>
     <desc lang="en">Becky’s dream job of running a TV show unravels when her co‑anchors feud on air. She scrambles to save the show and shine under pressure.</desc>
   </programme>
-  <programme start="20261012044400 +0200" stop="20261012064000 +0200" channel="starz-stz8">
-    <title lang="en">Jungle</title>
-    <desc lang="en">An adventurous journey into the Amazon turns deadly when a guide’s dark past and the dangers of the wilderness push a group into a fight for survival.</desc>
+  <programme start="20261013064700 +0200" stop="20261013080900 +0200" channel="starz-stz7">
+    <title lang="en">Casual Encounters</title>
+    <desc lang="en">After a humiliating public breakup, Justin's friends push him into the unfamiliar realm of online dating, hoping to mend his broken heart.</desc>
   </programme>
-  <programme start="20261012064000 +0200" stop="20261012080700 +0200" channel="starz-stz8">
-    <title lang="en">The Row</title>
-    <desc lang="en">A college freshman discovers a dark secret about the sorority house she's pledging for after a series of murders terrorize the campus.</desc>
+  <programme start="20261013080900 +0200" stop="20261013093900 +0200" channel="starz-stz7">
+    <title lang="en">Phat Beach</title>
+    <desc lang="en">Benny's dull summer job takes a turn when Durrell arrives. They go to the beach to sell sunglasses, but fun and bikinis quickly become the real focus.</desc>
   </programme>
-  <programme start="20261012080700 +0200" stop="20261012093600 +0200" channel="starz-stz8">
-    <title lang="en">Battle Of The Damned</title>
-    <desc lang="en">After a deadly viral outbreak, a private military soldier leads a handful of survivors and a ragtag band of robots against an army of the infected.</desc>
+  <programme start="20261013093900 +0200" stop="20261013111300 +0200" channel="starz-stz7">
+    <title lang="en">Double Whammy</title>
+    <desc lang="en">Ray Pluto, the &quot;loser cop,&quot; faces chaos: a flirty partner, nosy writers, a stabbing, and a bold chiropractor who could be his undoing.</desc>
   </programme>
-  <programme start="20261012093600 +0200" stop="20261012111700 +0200" channel="starz-stz8">
-    <title lang="en">Nothing Left To Fear</title>
-    <desc lang="en">Wendy and Dan move to Kansas to replace a pastor, unaware their home is a gateway to Hell. A charismatic, conflicted preacher derails their new life.</desc>
+  <programme start="20261013111300 +0200" stop="20261013123900 +0200" channel="starz-stz7">
+    <title lang="en">Sex-Positive</title>
+    <desc lang="en">Virginia dives into sexual freedom after moving in with a lively group of polyamorous party animals. The one rule: no falling in love.</desc>
   </programme>
-  <programme start="20261012111700 +0200" stop="20261012124600 +0200" channel="starz-stz8">
-    <title lang="en">Paranormal Activity: The Ghost Dimension</title>
-    <desc lang="en">After moving into Katie and Kristi's former house, a family discovers a mysterious camera and uncovers an ancient evil threatening their daughter.</desc>
+  <programme start="20261013123900 +0200" stop="20261013142100 +0200" channel="starz-stz7">
+    <title lang="en">Measure Of A Man</title>
+    <desc lang="en">Teenage Bobby endures a tough summer of family strife, a grueling job, and a best friend leaving town, learning hard truths about growing up.</desc>
   </programme>
-  <programme start="20261012124600 +0200" stop="20261012142700 +0200" channel="starz-stz8">
-    <title lang="en">The Disappearance Of Alice Creed</title>
-    <desc lang="en">Two kidnappers have the tables turned on them when their victim plants seeds of mistrust in their minds.</desc>
+  <programme start="20261013142100 +0200" stop="20261013161800 +0200" channel="starz-stz7">
+    <title lang="en">How to Lose a Guy in 10 Days</title>
+    <desc lang="en">Andie must write about losing a guy in 10 days.  Benjamin bets he can make her fall in love. Their clash sparks hilarious chaos - and true love.</desc>
   </programme>
-  <programme start="20261012142700 +0200" stop="20261012162900 +0200" channel="starz-stz8">
-    <title lang="en">Underworld</title>
-    <desc lang="en">Selene, a vampire warrior, is in a war between vampires and werewolves - then she falls in love with Michael, a werewolf who longs for the war to end.</desc>
+  <programme start="20261013161800 +0200" stop="20261013174200 +0200" channel="starz-stz7">
+    <title lang="en">Scary Movie 2</title>
+    <desc lang="en">Cindy and her friends sign up for a sleep study at a haunted mansion and stumble into a barrage of ghosts, bad decisions and ridiculous scares.</desc>
   </programme>
-  <programme start="20261012162900 +0200" stop="20261012175700 +0200" channel="starz-stz8">
-    <title lang="en">Ava's Possessions</title>
-    <desc lang="en">After an exorcism frees her soul, a young woman attends Spirit Possession Anonymous and meets a fellow victim who wants her demon back.</desc>
+  <programme start="20261013174200 +0200" stop="20261013190700 +0200" channel="starz-stz7">
+    <title lang="en">Scary Movie 3</title>
+    <desc lang="en">Cindy must stop a deadly videotape curse while dealing with crop circles, an awkward farmer and a ghost girl determined to ruin everyone's week.</desc>
   </programme>
-  <programme start="20261012175700 +0200" stop="20261012193300 +0200" channel="starz-stz8">
-    <title lang="en">Alarum</title>
-    <desc lang="en">A retired assassin couple’s quiet life is upended after a plane crash puts them in possession of a secret file sought by government operatives.</desc>
+  <programme start="20261013190700 +0200" stop="20261013205100 +0200" channel="starz-stz7">
+    <title lang="en">The Hard Word</title>
+    <desc lang="en">In order to get out prison, the Twenyman brothers have to pull off the heist of the century for a corrupt lawyer.</desc>
   </programme>
-  <programme start="20261012193300 +0200" stop="20261012210400 +0200" channel="starz-stz8">
-    <title lang="en">Altitude</title>
-    <desc lang="en">A rookie pilot and her four teenage friends fight to survive as they find themselves trapped in a deadly showdown with an unknown force.</desc>
+  <programme start="20261013205100 +0200" stop="20261013222300 +0200" channel="starz-stz7">
+    <title lang="en">Date And Switch</title>
+    <desc lang="en">Two high school seniors make a pact to lose their virginity before prom, but their plan takes an unexpected turn when one reveals he’s gay.</desc>
   </programme>
-  <programme start="20261012210400 +0200" stop="20261012223600 +0200" channel="starz-stz8">
-    <title lang="en">Peacock</title>
-    <desc lang="en">After a train accident exposes his secluded life, a quiet Nebraska bank clerk struggles to keep a deeply hidden secret from his small town.</desc>
+  <programme start="20261013222300 +0200" stop="20261014003700 +0200" channel="starz-stz7">
+    <title lang="en">Happy Endings</title>
+    <desc lang="en">A clever intertwining of various narratives offers a humorous exploration of love, family, and life's inherent unpredictability.</desc>
   </programme>
-  <programme start="20261012223600 +0200" stop="20261013002300 +0200" channel="starz-stz8">
-    <title lang="en">Underworld: Evolution</title>
-    <desc lang="en">The war between the Death Dealers and Lycans continues as Selene and her werewolf lover go searching for their future by seeking their past.</desc>
+  <programme start="20261014003700 +0200" stop="20261014020000 +0200" channel="starz-stz7">
+    <title lang="en">Scary Movie 2</title>
+    <desc lang="en">Cindy and her friends sign up for a sleep study at a haunted mansion and stumble into a barrage of ghosts, bad decisions and ridiculous scares.</desc>
   </programme>
-  <programme start="20261013002300 +0200" stop="20261013015900 +0200" channel="starz-stz8">
-    <title lang="en">Alarum</title>
-    <desc lang="en">A retired assassin couple’s quiet life is upended after a plane crash puts them in possession of a secret file sought by government operatives.</desc>
+  <programme start="20261014020000 +0200" stop="20261014032500 +0200" channel="starz-stz7">
+    <title lang="en">Scary Movie 3</title>
+    <desc lang="en">Cindy must stop a deadly videotape curse while dealing with crop circles, an awkward farmer and a ghost girl determined to ruin everyone's week.</desc>
   </programme>
-  <programme start="20261013015900 +0200" stop="20261013040100 +0200" channel="starz-stz8">
-    <title lang="en">Underworld</title>
-    <desc lang="en">Selene, a vampire warrior, is in a war between vampires and werewolves - then she falls in love with Michael, a werewolf who longs for the war to end.</desc>
+  <programme start="20261014032500 +0200" stop="20261014052100 +0200" channel="starz-stz7">
+    <title lang="en">How to Lose a Guy in 10 Days</title>
+    <desc lang="en">Andie must write about losing a guy in 10 days.  Benjamin bets he can make her fall in love. Their clash sparks hilarious chaos - and true love.</desc>
   </programme>
-  <programme start="20261013040100 +0200" stop="20261013045200 +0200" channel="starz-stz8">
-    <title lang="en">S1 E2 - Episode 2</title>
-    <desc lang="en">Leo suspects someone’s been inside his house. And when Clive brings his son Saul to work in Leo’s bar, events soon reach a shocking conclusion.</desc>
-  </programme>
-  <programme start="20261013045200 +0200" stop="20261013055500 +0200" channel="starz-stz8">
-    <title lang="en">S2 E4 - A Portion of my Soul</title>
-    <desc lang="en">Ellen and Grace ride across the Highlands in search of Brian and Dougal's forces.</desc>
+  <programme start="20261014052100 +0200" stop="20261014070200 +0200" channel="starz-stz7">
+    <title lang="en">Measure Of A Man</title>
+    <desc lang="en">Teenage Bobby endures a tough summer of family strife, a grueling job, and a best friend leaving town, learning hard truths about growing up.</desc>
   </programme>
   <programme start="20261013055500 +0200" stop="20261013064600 +0200" channel="starz-stz8">
     <title lang="en">S1 E2 - Episode 2</title>
     <desc lang="en">Leo suspects someone’s been inside his house. And when Clive brings his son Saul to work in Leo’s bar, events soon reach a shocking conclusion.</desc>
   </programme>
-  <programme start="20261012055300 +0200" stop="20261012064600 +0200" channel="starz-stz9">
+  <programme start="20261013064600 +0200" stop="20261013081700 +0200" channel="starz-stz8">
+    <title lang="en">The Art of the Steal</title>
+    <desc lang="en">Crunch Calhoun, a third rate motorcycle daredevil and semi-reformed art thief, agrees to pull off one last heist with his conniving brother, Nicky.</desc>
+  </programme>
+  <programme start="20261013081700 +0200" stop="20261013095100 +0200" channel="starz-stz8">
+    <title lang="en">Vamps</title>
+    <desc lang="en">A pair of sexy young vampires - who are trying to swear off human blood - hit the dating scene in NYC, where they meet a cute guy named Van Helsing!</desc>
+  </programme>
+  <programme start="20261013095100 +0200" stop="20261013111800 +0200" channel="starz-stz8">
+    <title lang="en">Paranormal Activity: The Marked Ones</title>
+    <desc lang="en">When Jesse investigates disturbing sounds from a neighbor’s apartment, he encounters a sinister force that refuses to let him walk away.</desc>
+  </programme>
+  <programme start="20261013111800 +0200" stop="20261013130600 +0200" channel="starz-stz8">
+    <title lang="en">Shelter</title>
+    <desc lang="en">A man living on a secluded Scottish island saves a girl from the sea, triggering a chain of events that forces him to confront his troubled past.</desc>
+  </programme>
+  <programme start="20261013130600 +0200" stop="20261013144500 +0200" channel="starz-stz8">
+    <title lang="en">New Jersey Drive</title>
+    <desc lang="en">On the streets of Newark, NJ, two teenagers decide to start carjacking for fun and profit - but soon find themselves the target of every cop in town.</desc>
+  </programme>
+  <programme start="20261013144500 +0200" stop="20261013162300 +0200" channel="starz-stz8">
+    <title lang="en">In The Grey</title>
+    <desc lang="en">A covert team is sent to recover a billion-dollar fortune, but the mission spirals into a high-stakes battle of strategy, deception, and survival.</desc>
+  </programme>
+  <programme start="20261013162300 +0200" stop="20261013182000 +0200" channel="starz-stz8">
+    <title lang="en">The 40-Year-Old Virgin</title>
+    <desc lang="en">Andy’s 40 and has never had sex. Add in a hot single mom with a &quot;no-touch&quot; policy and you’ve got one frustrated late bloomer.</desc>
+  </programme>
+  <programme start="20261013182000 +0200" stop="20261013202700 +0200" channel="starz-stz8">
+    <title lang="en">Why Men Are Clueless</title>
+    <desc lang="en">In order to land his dream job and win back the love of his life, a young man must figure out what women truly want with the help of his friends.</desc>
+  </programme>
+  <programme start="20261013202700 +0200" stop="20261013213000 +0200" channel="starz-stz8">
+    <title lang="en">S2 E4 - A Portion of my Soul</title>
+    <desc lang="en">Ellen and Grace ride across the Highlands in search of Brian and Dougal's forces.</desc>
+  </programme>
+  <programme start="20261013213000 +0200" stop="20261013222100 +0200" channel="starz-stz8">
     <title lang="en">S1 E2 - Episode 2</title>
     <desc lang="en">Leo suspects someone’s been inside his house. And when Clive brings his son Saul to work in Leo’s bar, events soon reach a shocking conclusion.</desc>
   </programme>
-  <programme start="20261012064600 +0200" stop="20261012075300 +0200" channel="starz-stz9">
+  <programme start="20261013222100 +0200" stop="20261014000900 +0200" channel="starz-stz8">
+    <title lang="en">Shelter</title>
+    <desc lang="en">A man living on a secluded Scottish island saves a girl from the sea, triggering a chain of events that forces him to confront his troubled past.</desc>
+  </programme>
+  <programme start="20261014000900 +0200" stop="20261014015700 +0200" channel="starz-stz8">
+    <title lang="en">A Lot Like Love</title>
+    <desc lang="en">A young couple spark on their first meeting, but decide to pass - except they keep running into one another before fanning the flames of love.</desc>
+  </programme>
+  <programme start="20261014015700 +0200" stop="20261014030000 +0200" channel="starz-stz8">
     <title lang="en">S2 E4 - A Portion of my Soul</title>
     <desc lang="en">Ellen and Grace ride across the Highlands in search of Brian and Dougal's forces.</desc>
   </programme>
-  <programme start="20261012075300 +0200" stop="20261012100500 +0200" channel="starz-stz9">
-    <title lang="en">Michael</title>
-    <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
-  </programme>
-  <programme start="20261012100500 +0200" stop="20261012115600 +0200" channel="starz-stz9">
-    <title lang="en">Non-Stop</title>
-    <desc lang="en">U.S. air marshal Bill Marks is thrust into a crisis when a passenger's life is threatened every 20 minutes unless $150 million is transferred.</desc>
-  </programme>
-  <programme start="20261012115600 +0200" stop="20261012133700 +0200" channel="starz-stz9">
-    <title lang="en">Love, Brooklyn</title>
-    <desc lang="en">Three Brooklynites navigate love, friendship, and careers against the rapidly changing landscape of their beloved city.</desc>
-  </programme>
-  <programme start="20261012133700 +0200" stop="20261012150900 +0200" channel="starz-stz9">
-    <title lang="en">The Wedding Date</title>
-    <desc lang="en">A young woman hires a male escort to pose as her boyfriend at her sister's wedding, but her plan to make her ex-fiancé jealous goes hilariously wrong.</desc>
-  </programme>
-  <programme start="20261012150900 +0200" stop="20261012172000 +0200" channel="starz-stz9">
-    <title lang="en">Michael</title>
-    <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
-  </programme>
-  <programme start="20261012172000 +0200" stop="20261012182600 +0200" channel="starz-stz9">
-    <title lang="en">S2 E4 - A Portion of my Soul</title>
-    <desc lang="en">Ellen and Grace ride across the Highlands in search of Brian and Dougal's forces.</desc>
-  </programme>
-  <programme start="20261012182600 +0200" stop="20261012191500 +0200" channel="starz-stz9">
-    <title lang="en">S1 E3 - Burn Zone</title>
-    <desc lang="en">When a decision Hondo made comes back to bite him, he realizes someone close to him may already know more than they're letting on.</desc>
-  </programme>
-  <programme start="20261012191500 +0200" stop="20261012200800 +0200" channel="starz-stz9">
+  <programme start="20261014030000 +0200" stop="20261014035100 +0200" channel="starz-stz8">
     <title lang="en">S1 E2 - Episode 2</title>
     <desc lang="en">Leo suspects someone’s been inside his house. And when Clive brings his son Saul to work in Leo’s bar, events soon reach a shocking conclusion.</desc>
   </programme>
-  <programme start="20261012200800 +0200" stop="20261012211400 +0200" channel="starz-stz9">
+  <programme start="20261014035100 +0200" stop="20261014054800 +0200" channel="starz-stz8">
+    <title lang="en">The 40-Year-Old Virgin</title>
+    <desc lang="en">Andy’s 40 and has never had sex. Add in a hot single mom with a &quot;no-touch&quot; policy and you’ve got one frustrated late bloomer.</desc>
+  </programme>
+  <programme start="20261014054800 +0200" stop="20261014065100 +0200" channel="starz-stz8">
     <title lang="en">S2 E4 - A Portion of my Soul</title>
     <desc lang="en">Ellen and Grace ride across the Highlands in search of Brian and Dougal's forces.</desc>
-  </programme>
-  <programme start="20261012211400 +0200" stop="20261012220300 +0200" channel="starz-stz9">
-    <title lang="en">S1 E3 - Burn Zone</title>
-    <desc lang="en">When a decision Hondo made comes back to bite him, he realizes someone close to him may already know more than they're letting on.</desc>
-  </programme>
-  <programme start="20261012220300 +0200" stop="20261012235000 +0200" channel="starz-stz9">
-    <title lang="en">The Bounce Back</title>
-    <desc lang="en">A relationship guru finds himself falling for an attractive licensed therapist who questions his methods and disagrees with his theories on love.</desc>
-  </programme>
-  <programme start="20261012235000 +0200" stop="20261013020000 +0200" channel="starz-stz9">
-    <title lang="en">Michael</title>
-    <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
-  </programme>
-  <programme start="20261013020000 +0200" stop="20261013024900 +0200" channel="starz-stz9">
-    <title lang="en">S1 E3 - Burn Zone</title>
-    <desc lang="en">When a decision Hondo made comes back to bite him, he realizes someone close to him may already know more than they're letting on.</desc>
-  </programme>
-  <programme start="20261013024900 +0200" stop="20261013035500 +0200" channel="starz-stz9">
-    <title lang="en">S2 E4 - A Portion of my Soul</title>
-    <desc lang="en">Ellen and Grace ride across the Highlands in search of Brian and Dougal's forces.</desc>
-  </programme>
-  <programme start="20261013035500 +0200" stop="20261013044800 +0200" channel="starz-stz9">
-    <title lang="en">S1 E2 - Episode 2</title>
-    <desc lang="en">Leo suspects someone’s been inside his house. And when Clive brings his son Saul to work in Leo’s bar, events soon reach a shocking conclusion.</desc>
   </programme>
   <programme start="20261013044800 +0200" stop="20261013063800 +0200" channel="starz-stz9">
     <title lang="en">Non-Stop</title>
     <desc lang="en">U.S. air marshal Bill Marks is thrust into a crisis when a passenger's life is threatened every 20 minutes unless $150 million is transferred.</desc>
+  </programme>
+  <programme start="20261013063800 +0200" stop="20261013081000 +0200" channel="starz-stz9">
+    <title lang="en">The Wedding Date</title>
+    <desc lang="en">A young woman hires a male escort to pose as her boyfriend at her sister's wedding, but her plan to make her ex-fiancé jealous goes hilariously wrong.</desc>
+  </programme>
+  <programme start="20261013081000 +0200" stop="20261013094000 +0200" channel="starz-stz9">
+    <title lang="en">Mariah Carey: Merry Christmas to All!</title>
+    <desc lang="en">Pop icon Mariah Carey ushers in the holidays with a festive extravaganza featuring classic hits, seasonal staples and a lineup of very special guests.</desc>
+  </programme>
+  <programme start="20261013094000 +0200" stop="20261013113100 +0200" channel="starz-stz9">
+    <title lang="en">Morning Glory</title>
+    <desc lang="en">Becky’s dream job of running a TV show unravels when her co‑anchors feud on air. She scrambles to save the show and shine under pressure.</desc>
+  </programme>
+  <programme start="20261013113100 +0200" stop="20261013131200 +0200" channel="starz-stz9">
+    <title lang="en">The Covenant</title>
+    <desc lang="en">Four young warlocks, all descendants of Salem witches, make new discoveries about their powers when they must stop an evil force.</desc>
+  </programme>
+  <programme start="20261013131200 +0200" stop="20261013150200 +0200" channel="starz-stz9">
+    <title lang="en">Underworld: Evolution</title>
+    <desc lang="en">The war between the Death Dealers and Lycans continues as Selene and her werewolf lover go searching for their future by seeking their past.</desc>
+  </programme>
+  <programme start="20261013150200 +0200" stop="20261013162900 +0200" channel="starz-stz9">
+    <title lang="en">Mariah Carey: Merry Christmas to All!</title>
+    <desc lang="en">Pop icon Mariah Carey ushers in the holidays with a festive extravaganza featuring classic hits, seasonal staples and a lineup of very special guests.</desc>
+  </programme>
+  <programme start="20261013162900 +0200" stop="20261013173200 +0200" channel="starz-stz9">
+    <title lang="en">S7 E9 - Unfinished Business</title>
+    <desc lang="en">Jamie, Claire, and Ian return to Lallybroch. Ian reconnects with his family in a time of need. Roger and Buck search for Jemmy in the past.</desc>
+  </programme>
+  <programme start="20261013173200 +0200" stop="20261013183500 +0200" channel="starz-stz9">
+    <title lang="en">S7 E10 - Brotherly Love</title>
+    <desc lang="en">Claire and Ian arrive in Philadelphia to help the ailing Henry Grey. Roger and Buck receive an unexpected clue in their search for Jemmy.</desc>
+  </programme>
+  <programme start="20261013183500 +0200" stop="20261013193800 +0200" channel="starz-stz9">
+    <title lang="en">S7 E11 - A Hundredweight of Stones</title>
+    <desc lang="en">Claire turns to John Grey for comfort as they process difficult news. Ian and Rachel discuss their love and their future.</desc>
+  </programme>
+  <programme start="20261013193800 +0200" stop="20261013213500 +0200" channel="starz-stz9">
+    <title lang="en">The Furious</title>
+    <desc lang="en">When his daughter is kidnapped and police fail him, Wang Wei joins forces with a journalist, launching a ruthless fight against a criminal network.
+</desc>
+  </programme>
+  <programme start="20261013213500 +0200" stop="20261013231600 +0200" channel="starz-stz9">
+    <title lang="en">The Covenant</title>
+    <desc lang="en">Four young warlocks, all descendants of Salem witches, make new discoveries about their powers when they must stop an evil force.</desc>
+  </programme>
+  <programme start="20261013231600 +0200" stop="20261014010600 +0200" channel="starz-stz9">
+    <title lang="en">Underworld: Evolution</title>
+    <desc lang="en">The war between the Death Dealers and Lycans continues as Selene and her werewolf lover go searching for their future by seeking their past.</desc>
+  </programme>
+  <programme start="20261014010600 +0200" stop="20261014030000 +0200" channel="starz-stz9">
+    <title lang="en">Speak No Evil</title>
+    <desc lang="en">A family accepts an invitation to spend a weekend at a secluded country home, only to discover unsettling truths about their hosts as the days unfold.</desc>
+  </programme>
+  <programme start="20261014030000 +0200" stop="20261014045700 +0200" channel="starz-stz9">
+    <title lang="en">The Furious</title>
+    <desc lang="en">When his daughter is kidnapped and police fail him, Wang Wei joins forces with a journalist, launching a ruthless fight against a criminal network.
+</desc>
+  </programme>
+  <programme start="20261014045700 +0200" stop="20261014064800 +0200" channel="starz-stz9">
+    <title lang="en">ATL</title>
+    <desc lang="en">In Atlanta's skating world, Rashad struggles to guide his younger brother but finds hope in New‑New, unaware she’s keeping a major secret.</desc>
   </programme>
 </tv>
