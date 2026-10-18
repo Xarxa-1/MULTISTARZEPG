@@ -21,109 +21,102 @@
   <channel id="starz-stz9">
     <display-name>STARZ Encore (STZ9)</display-name>
   </channel>
-  <programme start="20261017054600 +0200" stop="20261017063800 +0200" channel="starz-stz1">
-    <title lang="en">S1 E3 - Episode 3</title>
-    <desc lang="en">Clive's chance of romance makes him confess long-held secrets. But a discovery escalates tension with Leo, and both households hurtle toward danger.</desc>
-  </programme>
-  <programme start="20261017063800 +0200" stop="20261017064500 +0200" channel="starz-stz1">
-    <title lang="en">A STARZ Subscriber Exclusive Preview - Opening Scene of P-Valley Final Season</title>
-    <desc lang="en">Watch a STARZ subscriber exclusive preview of the opening scene (first 5 minutes) of the P-Valley final season.</desc>
-  </programme>
-  <programme start="20261017064500 +0200" stop="20261017073200 +0200" channel="starz-stz1">
-    <title lang="en">S1 E4 - Get Clear</title>
-    <desc lang="en">Called before a Force Review Board after a chaotic ICE raid, Hondo uncovers footage that changes everything he thought he knew about his squad.</desc>
-  </programme>
-  <programme start="20261017073200 +0200" stop="20261017082800 +0200" channel="starz-stz1">
-    <title lang="en">S2 E5 - Forgive Me, Father</title>
-    <desc lang="en">The Jacobite Army fights at the Battle of Sheriffmuir, while Ellen and Julia face their own dangers. Colum holds fast at Leoch but doubts his resolve.</desc>
-  </programme>
-  <programme start="20261017082800 +0200" stop="20261017101700 +0200" channel="starz-stz1">
-    <title lang="en">Mamma Mia!</title>
-    <desc lang="en">Hoping to meet her real father and have him walk her down the aisle, a bride secretly invites three men from her mother's past to come to the wedding.</desc>
-  </programme>
-  <programme start="20261017101700 +0200" stop="20261017110900 +0200" channel="starz-stz1">
-    <title lang="en">S1 E3 - Episode 3</title>
-    <desc lang="en">Clive's chance of romance makes him confess long-held secrets. But a discovery escalates tension with Leo, and both households hurtle toward danger.</desc>
-  </programme>
-  <programme start="20261017110900 +0200" stop="20261017130000 +0200" channel="starz-stz1">
-    <title lang="en">Mamma Mia!</title>
-    <desc lang="en">Hoping to meet her real father and have him walk her down the aisle, a bride secretly invites three men from her mother's past to come to the wedding.</desc>
-  </programme>
-  <programme start="20261017130000 +0200" stop="20261017150900 +0200" channel="starz-stz1">
-    <title lang="en">Michael</title>
-    <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
-  </programme>
-  <programme start="20261017150900 +0200" stop="20261017164000 +0200" channel="starz-stz1">
-    <title lang="en">Oscar Shaw</title>
-    <desc lang="en">A retired cop embarks on a quest for vengeance after his best friend's death, determined to achieve justice on his own terms.</desc>
-  </programme>
-  <programme start="20261017164000 +0200" stop="20261017172700 +0200" channel="starz-stz1">
-    <title lang="en">S1 E4 - Get Clear</title>
-    <desc lang="en">Called before a Force Review Board after a chaotic ICE raid, Hondo uncovers footage that changes everything he thought he knew about his squad.</desc>
-  </programme>
-  <programme start="20261017172700 +0200" stop="20261017182400 +0200" channel="starz-stz1">
-    <title lang="en">S2 E5 - Forgive Me, Father</title>
-    <desc lang="en">The Jacobite Army fights at the Battle of Sheriffmuir, while Ellen and Julia face their own dangers. Colum holds fast at Leoch but doubts his resolve.</desc>
-  </programme>
-  <programme start="20261017182400 +0200" stop="20261017191100 +0200" channel="starz-stz1">
-    <title lang="en">S1 E4 - Get Clear</title>
-    <desc lang="en">Called before a Force Review Board after a chaotic ICE raid, Hondo uncovers footage that changes everything he thought he knew about his squad.</desc>
-  </programme>
-  <programme start="20261017191100 +0200" stop="20261017200100 +0200" channel="starz-stz1">
-    <title lang="en">S1 E3 - Episode 3</title>
-    <desc lang="en">Clive's chance of romance makes him confess long-held secrets. But a discovery escalates tension with Leo, and both households hurtle toward danger.</desc>
-  </programme>
-  <programme start="20261017200100 +0200" stop="20261017205500 +0200" channel="starz-stz1">
-    <title lang="en">S2 E5 - Forgive Me, Father</title>
-    <desc lang="en">The Jacobite Army fights at the Battle of Sheriffmuir, while Ellen and Julia face their own dangers. Colum holds fast at Leoch but doubts his resolve.</desc>
-  </programme>
-  <programme start="20261017205500 +0200" stop="20261017215900 +0200" channel="starz-stz1">
-    <title lang="en">S2 E1 - Remembrance Day</title>
-    <desc lang="en">The fiery crosses have been lit across the Highlands. The call to arms brings friends and enemies home and the Jacobite Rebellion begins in earnest.</desc>
-  </programme>
-  <programme start="20261017215900 +0200" stop="20261017225700 +0200" channel="starz-stz1">
-    <title lang="en">S2 E2 - The Veil of Time</title>
-    <desc lang="en">Brian and Ellen help their clans prepare for the rebellion. Julia and Henry learn more about the stones at Craigh na Dun from unexpected sources.</desc>
-  </programme>
-  <programme start="20261017225700 +0200" stop="20261017235200 +0200" channel="starz-stz1">
-    <title lang="en">S2 E3 - Rabbits Don't Swim</title>
-    <desc lang="en">Julia welcomes a new member of staff to Leathers. Brian and Dougal train their men for battle. Ellen uses her wit to defend her family and her clan.</desc>
-  </programme>
-  <programme start="20261017235200 +0200" stop="20261018005500 +0200" channel="starz-stz1">
-    <title lang="en">S2 E4 - A Portion of my Soul</title>
-    <desc lang="en">Ellen and Grace ride across the Highlands in search of Brian and Dougal's forces.</desc>
-  </programme>
-  <programme start="20261018005500 +0200" stop="20261018015200 +0200" channel="starz-stz1">
-    <title lang="en">S2 E5 - Forgive Me, Father</title>
-    <desc lang="en">The Jacobite Army fights at the Battle of Sheriffmuir, while Ellen and Julia face their own dangers. Colum holds fast at Leoch but doubts his resolve.</desc>
-  </programme>
-  <programme start="20261018015200 +0200" stop="20261018024200 +0200" channel="starz-stz1">
-    <title lang="en">S1 E3 - Episode 3</title>
-    <desc lang="en">Clive's chance of romance makes him confess long-held secrets. But a discovery escalates tension with Leo, and both households hurtle toward danger.</desc>
-  </programme>
-  <programme start="20261018024200 +0200" stop="20261018025000 +0200" channel="starz-stz1">
-    <title lang="en">A STARZ Subscriber Exclusive Preview - Opening Scene of P-Valley Final Season</title>
-    <desc lang="en">Watch a STARZ subscriber exclusive preview of the opening scene (first 5 minutes) of the P-Valley final season.</desc>
-  </programme>
-  <programme start="20261018025000 +0200" stop="20261018033900 +0200" channel="starz-stz1">
-    <title lang="en">S1 E4 - Get Clear</title>
-    <desc lang="en">Called before a Force Review Board after a chaotic ICE raid, Hondo uncovers footage that changes everything he thought he knew about his squad.</desc>
-  </programme>
-  <programme start="20261018033900 +0200" stop="20261018043300 +0200" channel="starz-stz1">
-    <title lang="en">S2 E5 - Forgive Me, Father</title>
-    <desc lang="en">The Jacobite Army fights at the Battle of Sheriffmuir, while Ellen and Julia face their own dangers. Colum holds fast at Leoch but doubts his resolve.</desc>
-  </programme>
-  <programme start="20261018043300 +0200" stop="20261018052300 +0200" channel="starz-stz1">
-    <title lang="en">S1 E3 - Episode 3</title>
-    <desc lang="en">Clive's chance of romance makes him confess long-held secrets. But a discovery escalates tension with Leo, and both households hurtle toward danger.</desc>
-  </programme>
-  <programme start="20261018052300 +0200" stop="20261018052900 +0200" channel="starz-stz1">
-    <title lang="en">A STARZ Subscriber Exclusive Preview - Opening Scene of P-Valley Final Season</title>
-    <desc lang="en">Watch a STARZ subscriber exclusive preview of the opening scene (first 5 minutes) of the P-Valley final season.</desc>
-  </programme>
   <programme start="20261018052900 +0200" stop="20261018062600 +0200" channel="starz-stz1">
     <title lang="en">S2 E5 - Forgive Me, Father</title>
     <desc lang="en">The Jacobite Army fights at the Battle of Sheriffmuir, while Ellen and Julia face their own dangers. Colum holds fast at Leoch but doubts his resolve.</desc>
+  </programme>
+  <programme start="20261018062600 +0200" stop="20261018071900 +0200" channel="starz-stz1">
+    <title lang="en">S1 E3 - Episode 3</title>
+    <desc lang="en">Clive's chance of romance makes him confess long-held secrets. But a discovery escalates tension with Leo, and both households hurtle toward danger.</desc>
+  </programme>
+  <programme start="20261018071900 +0200" stop="20261018080800 +0200" channel="starz-stz1">
+    <title lang="en">S1 E4 - Get Clear</title>
+    <desc lang="en">Called before a Force Review Board after a chaotic ICE raid, Hondo uncovers footage that changes everything he thought he knew about his squad.</desc>
+  </programme>
+  <programme start="20261018080800 +0200" stop="20261018090500 +0200" channel="starz-stz1">
+    <title lang="en">S2 E5 - Forgive Me, Father</title>
+    <desc lang="en">The Jacobite Army fights at the Battle of Sheriffmuir, while Ellen and Julia face their own dangers. Colum holds fast at Leoch but doubts his resolve.</desc>
+  </programme>
+  <programme start="20261018090500 +0200" stop="20261018110100 +0200" channel="starz-stz1">
+    <title lang="en">The Furious</title>
+    <desc lang="en">When his daughter is kidnapped and police fail him, Wang Wei joins forces with a journalist, launching a ruthless fight against a criminal network.
+</desc>
+  </programme>
+  <programme start="20261018110100 +0200" stop="20261018131300 +0200" channel="starz-stz1">
+    <title lang="en">Pain &amp; Gain</title>
+    <desc lang="en">When an ambitious group of personal trainers go after the American Dream, they get caught up in a criminal enterprise that goes horribly wrong.</desc>
+  </programme>
+  <programme start="20261018131300 +0200" stop="20261018153300 +0200" channel="starz-stz1">
+    <title lang="en">Star Wars: The Force Awakens</title>
+    <desc lang="en">As a new threat emerges, Rey, a scavenger from the desert, and Finn, a former stormtrooper, team up with Han Solo to find the key to restoring peace.</desc>
+  </programme>
+  <programme start="20261018153300 +0200" stop="20261018171400 +0200" channel="starz-stz1">
+    <title lang="en">Ride Along</title>
+    <desc lang="en">To prove he's worthy of marrying a cop's sister, school guard Ben joins detective James on a wild ride through Atlanta's toughest streets.</desc>
+  </programme>
+  <programme start="20261018171400 +0200" stop="20261018180300 +0200" channel="starz-stz1">
+    <title lang="en">S1 E4 - Get Clear</title>
+    <desc lang="en">Called before a Force Review Board after a chaotic ICE raid, Hondo uncovers footage that changes everything he thought he knew about his squad.</desc>
+  </programme>
+  <programme start="20261018180300 +0200" stop="20261018181100 +0200" channel="starz-stz1">
+    <title lang="en">A STARZ Subscriber Exclusive Preview - Opening Scene of P-Valley Final Season</title>
+    <desc lang="en">Watch a STARZ subscriber exclusive preview of the opening scene (first 5 minutes) of the P-Valley final season.</desc>
+  </programme>
+  <programme start="20261018181100 +0200" stop="20261018190100 +0200" channel="starz-stz1">
+    <title lang="en">S1 E3 - Episode 3</title>
+    <desc lang="en">Clive's chance of romance makes him confess long-held secrets. But a discovery escalates tension with Leo, and both households hurtle toward danger.</desc>
+  </programme>
+  <programme start="20261018190100 +0200" stop="20261018195500 +0200" channel="starz-stz1">
+    <title lang="en">S2 E5 - Forgive Me, Father</title>
+    <desc lang="en">The Jacobite Army fights at the Battle of Sheriffmuir, while Ellen and Julia face their own dangers. Colum holds fast at Leoch but doubts his resolve.</desc>
+  </programme>
+  <programme start="20261018195500 +0200" stop="20261018204200 +0200" channel="starz-stz1">
+    <title lang="en">S1 E4 - Get Clear</title>
+    <desc lang="en">Called before a Force Review Board after a chaotic ICE raid, Hondo uncovers footage that changes everything he thought he knew about his squad.</desc>
+  </programme>
+  <programme start="20261018204200 +0200" stop="20261018221700 +0200" channel="starz-stz1">
+    <title lang="en">Alarum</title>
+    <desc lang="en">A retired assassin couple’s quiet life is upended after a plane crash puts them in possession of a secret file sought by government operatives.</desc>
+  </programme>
+  <programme start="20261018221700 +0200" stop="20261018222300 +0200" channel="starz-stz1">
+    <title lang="en">A STARZ Subscriber Exclusive Preview - Opening Scene of P-Valley Final Season</title>
+    <desc lang="en">Watch a STARZ subscriber exclusive preview of the opening scene (first 5 minutes) of the P-Valley final season.</desc>
+  </programme>
+  <programme start="20261018222300 +0200" stop="20261019000100 +0200" channel="starz-stz1">
+    <title lang="en">In The Grey</title>
+    <desc lang="en">A covert team is sent to recover a billion-dollar fortune, but the mission spirals into a high-stakes battle of strategy, deception, and survival.</desc>
+  </programme>
+  <programme start="20261019000100 +0200" stop="20261019005700 +0200" channel="starz-stz1">
+    <title lang="en">S2 E5 - Forgive Me, Father</title>
+    <desc lang="en">The Jacobite Army fights at the Battle of Sheriffmuir, while Ellen and Julia face their own dangers. Colum holds fast at Leoch but doubts his resolve.</desc>
+  </programme>
+  <programme start="20261019005700 +0200" stop="20261019015000 +0200" channel="starz-stz1">
+    <title lang="en">S1 E3 - Episode 3</title>
+    <desc lang="en">Clive's chance of romance makes him confess long-held secrets. But a discovery escalates tension with Leo, and both households hurtle toward danger.</desc>
+  </programme>
+  <programme start="20261019015000 +0200" stop="20261019024500 +0200" channel="starz-stz1">
+    <title lang="en">S2 E5 - Forgive Me, Father</title>
+    <desc lang="en">The Jacobite Army fights at the Battle of Sheriffmuir, while Ellen and Julia face their own dangers. Colum holds fast at Leoch but doubts his resolve.</desc>
+  </programme>
+  <programme start="20261019024500 +0200" stop="20261019033500 +0200" channel="starz-stz1">
+    <title lang="en">S1 E3 - Episode 3</title>
+    <desc lang="en">Clive's chance of romance makes him confess long-held secrets. But a discovery escalates tension with Leo, and both households hurtle toward danger.</desc>
+  </programme>
+  <programme start="20261019033500 +0200" stop="20261019042400 +0200" channel="starz-stz1">
+    <title lang="en">S1 E4 - Get Clear</title>
+    <desc lang="en">Called before a Force Review Board after a chaotic ICE raid, Hondo uncovers footage that changes everything he thought he knew about his squad.</desc>
+  </programme>
+  <programme start="20261019042400 +0200" stop="20261019043200 +0200" channel="starz-stz1">
+    <title lang="en">A STARZ Subscriber Exclusive Preview - Opening Scene of P-Valley Final Season</title>
+    <desc lang="en">Watch a STARZ subscriber exclusive preview of the opening scene (first 5 minutes) of the P-Valley final season.</desc>
+  </programme>
+  <programme start="20261019043200 +0200" stop="20261019052600 +0200" channel="starz-stz1">
+    <title lang="en">S2 E5 - Forgive Me, Father</title>
+    <desc lang="en">The Jacobite Army fights at the Battle of Sheriffmuir, while Ellen and Julia face their own dangers. Colum holds fast at Leoch but doubts his resolve.</desc>
+  </programme>
+  <programme start="20261019052600 +0200" stop="20261019061900 +0200" channel="starz-stz1">
+    <title lang="en">S1 E3 - Episode 3</title>
+    <desc lang="en">Clive's chance of romance makes him confess long-held secrets. But a discovery escalates tension with Leo, and both households hurtle toward danger.</desc>
   </programme>
   <programme start="20261017054900 +0200" stop="20261017073700 +0200" channel="starz-stz3">
     <title lang="en">ATL</title>
@@ -177,381 +170,394 @@
     <title lang="en">The Sixth Man</title>
     <desc lang="en">Antoine’s dead, but still ballin’! As a ghostly &quot;sixth man,&quot; he’s making the funniest comeback in NCAA history.</desc>
   </programme>
-  <programme start="20261017053800 +0200" stop="20261017072500 +0200" channel="starz-stz5">
-    <title lang="en">The Family Fang</title>
-    <desc lang="en">After a lifetime of pranks by their parents, two siblings have reservations when told their parents are missing and presumed dead by foul play.
-</desc>
-  </programme>
-  <programme start="20261017072500 +0200" stop="20261017090000 +0200" channel="starz-stz5">
-    <title lang="en">The Parts You Lose</title>
-    <desc lang="en">A fugitive forms an unlikely bond with a deaf child when he takes refuge in an abandoned barn on the boy's family's farm.</desc>
-  </programme>
-  <programme start="20261017090000 +0200" stop="20261017102500 +0200" channel="starz-stz5">
-    <title lang="en">Struck By Lightning</title>
-    <desc lang="en">A high school student recounts his scheme to coerce classmates into contributing to his literary magazine through blackmail.</desc>
-  </programme>
-  <programme start="20261017102500 +0200" stop="20261017123900 +0200" channel="starz-stz5">
-    <title lang="en">Happy Endings</title>
-    <desc lang="en">A clever intertwining of various narratives offers a humorous exploration of love, family, and life's inherent unpredictability.</desc>
-  </programme>
-  <programme start="20261017123900 +0200" stop="20261017142400 +0200" channel="starz-stz5">
-    <title lang="en">Invincible</title>
-    <desc lang="en">After losing his job and his wife, a Philadelphia bartender defies the odds when he earns a chance to play for the NFL's Philadelphia Eagles.</desc>
-  </programme>
-  <programme start="20261017142400 +0200" stop="20261017160500 +0200" channel="starz-stz5">
-    <title lang="en">Both Eyes Open</title>
-    <desc lang="en">Ally, a survivor, rebuilds her life while battling hallucinations and cryptic messages, blurring the lines between trust, betrayal, and reality.</desc>
-  </programme>
-  <programme start="20261017160500 +0200" stop="20261017174700 +0200" channel="starz-stz5">
-    <title lang="en">Feast Of Love</title>
-    <desc lang="en">Friends explore themes of love, pain and happiness through telling their own life stories.</desc>
-  </programme>
-  <programme start="20261017174700 +0200" stop="20261017191300 +0200" channel="starz-stz5">
-    <title lang="en">Surfer, Dude</title>
-    <desc lang="en">A champion surfer's carefree life is threatened by sleazy businessmen, forcing him to fight for his freedom.</desc>
-  </programme>
-  <programme start="20261017191300 +0200" stop="20261017205800 +0200" channel="starz-stz5">
-    <title lang="en">Invincible</title>
-    <desc lang="en">After losing his job and his wife, a Philadelphia bartender defies the odds when he earns a chance to play for the NFL's Philadelphia Eagles.</desc>
-  </programme>
-  <programme start="20261017205800 +0200" stop="20261017231200 +0200" channel="starz-stz5">
-    <title lang="en">Happy Endings</title>
-    <desc lang="en">A clever intertwining of various narratives offers a humorous exploration of love, family, and life's inherent unpredictability.</desc>
-  </programme>
-  <programme start="20261017231200 +0200" stop="20261018011100 +0200" channel="starz-stz5">
-    <title lang="en">Marshall</title>
-    <desc lang="en">Thurgood Marshall, a pioneering lawyer destined to become the first African-American Supreme Court Justice, faces a case that defines his career.</desc>
-  </programme>
-  <programme start="20261018011100 +0200" stop="20261018023600 +0200" channel="starz-stz5">
-    <title lang="en">Struck By Lightning</title>
-    <desc lang="en">A high school student recounts his scheme to coerce classmates into contributing to his literary magazine through blackmail.</desc>
-  </programme>
-  <programme start="20261018023600 +0200" stop="20261018040200 +0200" channel="starz-stz5">
-    <title lang="en">Surfer, Dude</title>
-    <desc lang="en">A champion surfer's carefree life is threatened by sleazy businessmen, forcing him to fight for his freedom.</desc>
-  </programme>
-  <programme start="20261018040200 +0200" stop="20261018053630 +0200" channel="starz-stz5">
-    <title lang="en">Dìdi</title>
-    <desc lang="en">In 2008, during the last summer before high school begins, a 13-year-old Taiwanese American boy learns to skate, flirt, and love his mom.</desc>
-  </programme>
   <programme start="20261018053630 +0200" stop="20261018070800 +0200" channel="starz-stz5">
     <title lang="en">The Future</title>
     <desc lang="en">After deciding to adopt a stray cat, a couple’s reality begins to shift, altering time, space, and their understanding of life together.</desc>
   </programme>
-  <programme start="20261017054600 +0200" stop="20261017063800 +0200" channel="starz-stz6">
-    <title lang="en">S1 E3 - Episode 3</title>
-    <desc lang="en">Clive's chance of romance makes him confess long-held secrets. But a discovery escalates tension with Leo, and both households hurtle toward danger.</desc>
+  <programme start="20261018070800 +0200" stop="20261018084000 +0200" channel="starz-stz5">
+    <title lang="en">Careful What You Wish For</title>
+    <desc lang="en">A young man is in over his head after starting an affair with a banker's wife, leading to a suspicious death and a hefty life insurance policy.</desc>
   </programme>
-  <programme start="20261017063800 +0200" stop="20261017064500 +0200" channel="starz-stz6">
-    <title lang="en">A STARZ Subscriber Exclusive Preview - Opening Scene of P-Valley Final Season</title>
-    <desc lang="en">Watch a STARZ subscriber exclusive preview of the opening scene (first 5 minutes) of the P-Valley final season.</desc>
+  <programme start="20261018084000 +0200" stop="20261018110000 +0200" channel="starz-stz5">
+    <title lang="en">The Talented Mr. Ripley</title>
+    <desc lang="en">Tom Ripley travels to Italy to bring home a wealthy heir, but his fascination with Dickie Greenleaf's life soon grows into a dangerous obsession.</desc>
   </programme>
-  <programme start="20261017064500 +0200" stop="20261017073200 +0200" channel="starz-stz6">
-    <title lang="en">S1 E4 - Get Clear</title>
-    <desc lang="en">Called before a Force Review Board after a chaotic ICE raid, Hondo uncovers footage that changes everything he thought he knew about his squad.</desc>
+  <programme start="20261018110000 +0200" stop="20261018123800 +0200" channel="starz-stz5">
+    <title lang="en">House Of D</title>
+    <desc lang="en">A man revisits his past and relationships, recalling the bond he shared with a mentally challenged janitor who shaped his childhood.</desc>
   </programme>
-  <programme start="20261017073200 +0200" stop="20261017082800 +0200" channel="starz-stz6">
-    <title lang="en">S2 E5 - Forgive Me, Father</title>
-    <desc lang="en">The Jacobite Army fights at the Battle of Sheriffmuir, while Ellen and Julia face their own dangers. Colum holds fast at Leoch but doubts his resolve.</desc>
+  <programme start="20261018123800 +0200" stop="20261018141900 +0200" channel="starz-stz5">
+    <title lang="en">Freedom Hair</title>
+    <desc lang="en">A woman decides to start a natural hair braiding business to achieve financial independence.</desc>
   </programme>
-  <programme start="20261017082800 +0200" stop="20261017101700 +0200" channel="starz-stz6">
-    <title lang="en">Mamma Mia!</title>
-    <desc lang="en">Hoping to meet her real father and have him walk her down the aisle, a bride secretly invites three men from her mother's past to come to the wedding.</desc>
+  <programme start="20261018141900 +0200" stop="20261018155400 +0200" channel="starz-stz5">
+    <title lang="en">Dìdi</title>
+    <desc lang="en">In 2008, during the last summer before high school begins, a 13-year-old Taiwanese American boy learns to skate, flirt, and love his mom.</desc>
   </programme>
-  <programme start="20261017101700 +0200" stop="20261017110900 +0200" channel="starz-stz6">
-    <title lang="en">S1 E3 - Episode 3</title>
-    <desc lang="en">Clive's chance of romance makes him confess long-held secrets. But a discovery escalates tension with Leo, and both households hurtle toward danger.</desc>
+  <programme start="20261018155400 +0200" stop="20261018181400 +0200" channel="starz-stz5">
+    <title lang="en">The Talented Mr. Ripley</title>
+    <desc lang="en">Tom Ripley travels to Italy to bring home a wealthy heir, but his fascination with Dickie Greenleaf's life soon grows into a dangerous obsession.</desc>
   </programme>
-  <programme start="20261017110900 +0200" stop="20261017130000 +0200" channel="starz-stz6">
-    <title lang="en">Mamma Mia!</title>
-    <desc lang="en">Hoping to meet her real father and have him walk her down the aisle, a bride secretly invites three men from her mother's past to come to the wedding.</desc>
+  <programme start="20261018181400 +0200" stop="20261018195800 +0200" channel="starz-stz5">
+    <title lang="en">The Hard Word</title>
+    <desc lang="en">In order to get out prison, the Twenyman brothers have to pull off the heist of the century for a corrupt lawyer.</desc>
   </programme>
-  <programme start="20261017130000 +0200" stop="20261017150900 +0200" channel="starz-stz6">
-    <title lang="en">Michael</title>
-    <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
+  <programme start="20261018195800 +0200" stop="20261018213800 +0200" channel="starz-stz5">
+    <title lang="en">Youth In Oregon</title>
+    <desc lang="en">On a cross-country trip to Oregon, a man tries to reconnect with his aging father-in-law and help him rediscover a reason to keep living.</desc>
   </programme>
-  <programme start="20261017150900 +0200" stop="20261017164000 +0200" channel="starz-stz6">
-    <title lang="en">Oscar Shaw</title>
-    <desc lang="en">A retired cop embarks on a quest for vengeance after his best friend's death, determined to achieve justice on his own terms.</desc>
+  <programme start="20261018213800 +0200" stop="20261018231600 +0200" channel="starz-stz5">
+    <title lang="en">House Of D</title>
+    <desc lang="en">A man revisits his past and relationships, recalling the bond he shared with a mentally challenged janitor who shaped his childhood.</desc>
   </programme>
-  <programme start="20261017164000 +0200" stop="20261017172700 +0200" channel="starz-stz6">
-    <title lang="en">S1 E4 - Get Clear</title>
-    <desc lang="en">Called before a Force Review Board after a chaotic ICE raid, Hondo uncovers footage that changes everything he thought he knew about his squad.</desc>
+  <programme start="20261018231600 +0200" stop="20261019004800 +0200" channel="starz-stz5">
+    <title lang="en">Careful What You Wish For</title>
+    <desc lang="en">A young man is in over his head after starting an affair with a banker's wife, leading to a suspicious death and a hefty life insurance policy.</desc>
   </programme>
-  <programme start="20261017172700 +0200" stop="20261017182400 +0200" channel="starz-stz6">
-    <title lang="en">S2 E5 - Forgive Me, Father</title>
-    <desc lang="en">The Jacobite Army fights at the Battle of Sheriffmuir, while Ellen and Julia face their own dangers. Colum holds fast at Leoch but doubts his resolve.</desc>
+  <programme start="20261019004800 +0200" stop="20261019022100 +0200" channel="starz-stz5">
+    <title lang="en">Singing In My Sleep</title>
+    <desc lang="en">A talented teen songwriter grapples with her late father's musical legacy, confronting his absence as the 20th anniversary of his debut album looms.</desc>
   </programme>
-  <programme start="20261017182400 +0200" stop="20261017191100 +0200" channel="starz-stz6">
-    <title lang="en">S1 E4 - Get Clear</title>
-    <desc lang="en">Called before a Force Review Board after a chaotic ICE raid, Hondo uncovers footage that changes everything he thought he knew about his squad.</desc>
+  <programme start="20261019022100 +0200" stop="20261019040100 +0200" channel="starz-stz5">
+    <title lang="en">Youth In Oregon</title>
+    <desc lang="en">On a cross-country trip to Oregon, a man tries to reconnect with his aging father-in-law and help him rediscover a reason to keep living.</desc>
   </programme>
-  <programme start="20261017191100 +0200" stop="20261017200100 +0200" channel="starz-stz6">
-    <title lang="en">S1 E3 - Episode 3</title>
-    <desc lang="en">Clive's chance of romance makes him confess long-held secrets. But a discovery escalates tension with Leo, and both households hurtle toward danger.</desc>
-  </programme>
-  <programme start="20261017200100 +0200" stop="20261017205500 +0200" channel="starz-stz6">
-    <title lang="en">S2 E5 - Forgive Me, Father</title>
-    <desc lang="en">The Jacobite Army fights at the Battle of Sheriffmuir, while Ellen and Julia face their own dangers. Colum holds fast at Leoch but doubts his resolve.</desc>
-  </programme>
-  <programme start="20261017205500 +0200" stop="20261017215900 +0200" channel="starz-stz6">
-    <title lang="en">S2 E1 - Remembrance Day</title>
-    <desc lang="en">The fiery crosses have been lit across the Highlands. The call to arms brings friends and enemies home and the Jacobite Rebellion begins in earnest.</desc>
-  </programme>
-  <programme start="20261017215900 +0200" stop="20261017225700 +0200" channel="starz-stz6">
-    <title lang="en">S2 E2 - The Veil of Time</title>
-    <desc lang="en">Brian and Ellen help their clans prepare for the rebellion. Julia and Henry learn more about the stones at Craigh na Dun from unexpected sources.</desc>
-  </programme>
-  <programme start="20261017225700 +0200" stop="20261017235200 +0200" channel="starz-stz6">
-    <title lang="en">S2 E3 - Rabbits Don't Swim</title>
-    <desc lang="en">Julia welcomes a new member of staff to Leathers. Brian and Dougal train their men for battle. Ellen uses her wit to defend her family and her clan.</desc>
-  </programme>
-  <programme start="20261017235200 +0200" stop="20261018005500 +0200" channel="starz-stz6">
-    <title lang="en">S2 E4 - A Portion of my Soul</title>
-    <desc lang="en">Ellen and Grace ride across the Highlands in search of Brian and Dougal's forces.</desc>
-  </programme>
-  <programme start="20261018005500 +0200" stop="20261018015200 +0200" channel="starz-stz6">
-    <title lang="en">S2 E5 - Forgive Me, Father</title>
-    <desc lang="en">The Jacobite Army fights at the Battle of Sheriffmuir, while Ellen and Julia face their own dangers. Colum holds fast at Leoch but doubts his resolve.</desc>
-  </programme>
-  <programme start="20261018015200 +0200" stop="20261018024200 +0200" channel="starz-stz6">
-    <title lang="en">S1 E3 - Episode 3</title>
-    <desc lang="en">Clive's chance of romance makes him confess long-held secrets. But a discovery escalates tension with Leo, and both households hurtle toward danger.</desc>
-  </programme>
-  <programme start="20261018024200 +0200" stop="20261018025000 +0200" channel="starz-stz6">
-    <title lang="en">A STARZ Subscriber Exclusive Preview - Opening Scene of P-Valley Final Season</title>
-    <desc lang="en">Watch a STARZ subscriber exclusive preview of the opening scene (first 5 minutes) of the P-Valley final season.</desc>
-  </programme>
-  <programme start="20261018025000 +0200" stop="20261018033900 +0200" channel="starz-stz6">
-    <title lang="en">S1 E4 - Get Clear</title>
-    <desc lang="en">Called before a Force Review Board after a chaotic ICE raid, Hondo uncovers footage that changes everything he thought he knew about his squad.</desc>
-  </programme>
-  <programme start="20261018033900 +0200" stop="20261018043300 +0200" channel="starz-stz6">
-    <title lang="en">S2 E5 - Forgive Me, Father</title>
-    <desc lang="en">The Jacobite Army fights at the Battle of Sheriffmuir, while Ellen and Julia face their own dangers. Colum holds fast at Leoch but doubts his resolve.</desc>
-  </programme>
-  <programme start="20261018043300 +0200" stop="20261018052300 +0200" channel="starz-stz6">
-    <title lang="en">S1 E3 - Episode 3</title>
-    <desc lang="en">Clive's chance of romance makes him confess long-held secrets. But a discovery escalates tension with Leo, and both households hurtle toward danger.</desc>
-  </programme>
-  <programme start="20261018052300 +0200" stop="20261018052900 +0200" channel="starz-stz6">
-    <title lang="en">A STARZ Subscriber Exclusive Preview - Opening Scene of P-Valley Final Season</title>
-    <desc lang="en">Watch a STARZ subscriber exclusive preview of the opening scene (first 5 minutes) of the P-Valley final season.</desc>
+  <programme start="20261019040100 +0200" stop="20261019062100 +0200" channel="starz-stz5">
+    <title lang="en">The Talented Mr. Ripley</title>
+    <desc lang="en">Tom Ripley travels to Italy to bring home a wealthy heir, but his fascination with Dickie Greenleaf's life soon grows into a dangerous obsession.</desc>
   </programme>
   <programme start="20261018052900 +0200" stop="20261018062600 +0200" channel="starz-stz6">
     <title lang="en">S2 E5 - Forgive Me, Father</title>
     <desc lang="en">The Jacobite Army fights at the Battle of Sheriffmuir, while Ellen and Julia face their own dangers. Colum holds fast at Leoch but doubts his resolve.</desc>
   </programme>
-  <programme start="20261017051500 +0200" stop="20261017064000 +0200" channel="starz-stz7">
-    <title lang="en">Scary Movie 3</title>
-    <desc lang="en">Cindy must stop a deadly videotape curse while dealing with crop circles, an awkward farmer and a ghost girl determined to ruin everyone's week.</desc>
+  <programme start="20261018062600 +0200" stop="20261018071900 +0200" channel="starz-stz6">
+    <title lang="en">S1 E3 - Episode 3</title>
+    <desc lang="en">Clive's chance of romance makes him confess long-held secrets. But a discovery escalates tension with Leo, and both households hurtle toward danger.</desc>
   </programme>
-  <programme start="20261017064000 +0200" stop="20261017080800 +0200" channel="starz-stz7">
-    <title lang="en">Lesbian Vampire Killers</title>
-    <desc lang="en">Two young lads head out to the country and find themselves stuck in a village where all the women have been enslaved by a legendary vampire curse.</desc>
+  <programme start="20261018071900 +0200" stop="20261018080800 +0200" channel="starz-stz6">
+    <title lang="en">S1 E4 - Get Clear</title>
+    <desc lang="en">Called before a Force Review Board after a chaotic ICE raid, Hondo uncovers footage that changes everything he thought he knew about his squad.</desc>
   </programme>
-  <programme start="20261017080800 +0200" stop="20261017100200 +0200" channel="starz-stz7">
-    <title lang="en">Couples Retreat</title>
-    <desc lang="en">Four couples find that paradise comes at a price when they must participate in therapy sessions at a tropical resort.</desc>
+  <programme start="20261018080800 +0200" stop="20261018090500 +0200" channel="starz-stz6">
+    <title lang="en">S2 E5 - Forgive Me, Father</title>
+    <desc lang="en">The Jacobite Army fights at the Battle of Sheriffmuir, while Ellen and Julia face their own dangers. Colum holds fast at Leoch but doubts his resolve.</desc>
   </programme>
-  <programme start="20261017100200 +0200" stop="20261017115900 +0200" channel="starz-stz7">
-    <title lang="en">Words And Pictures</title>
-    <desc lang="en">Two teachers form a rivalry that ends up with a competition at their school in which students decide whether words or pictures are more important.</desc>
+  <programme start="20261018090500 +0200" stop="20261018110100 +0200" channel="starz-stz6">
+    <title lang="en">The Furious</title>
+    <desc lang="en">When his daughter is kidnapped and police fail him, Wang Wei joins forces with a journalist, launching a ruthless fight against a criminal network.
+</desc>
   </programme>
-  <programme start="20261017115900 +0200" stop="20261017135400 +0200" channel="starz-stz7">
-    <title lang="en">The Brothers Bloom</title>
-    <desc lang="en">Two con‑artist brothers launch one last scheme, giving a quirky heiress a globe‑trotting adventure - until real feelings complicate their perfect con.</desc>
+  <programme start="20261018110100 +0200" stop="20261018131300 +0200" channel="starz-stz6">
+    <title lang="en">Pain &amp; Gain</title>
+    <desc lang="en">When an ambitious group of personal trainers go after the American Dream, they get caught up in a criminal enterprise that goes horribly wrong.</desc>
   </programme>
-  <programme start="20261017135400 +0200" stop="20261017153900 +0200" channel="starz-stz7">
-    <title lang="en">Let's Be Cops</title>
-    <desc lang="en">Two slackers impersonate cops and enjoy the perks - drugs, women, and a squad car - until their scam entangles them with real mobsters.</desc>
+  <programme start="20261018131300 +0200" stop="20261018153300 +0200" channel="starz-stz6">
+    <title lang="en">Star Wars: The Force Awakens</title>
+    <desc lang="en">As a new threat emerges, Rey, a scavenger from the desert, and Finn, a former stormtrooper, team up with Han Solo to find the key to restoring peace.</desc>
   </programme>
-  <programme start="20261017153900 +0200" stop="20261017170900 +0200" channel="starz-stz7">
-    <title lang="en">The Wedding Date</title>
-    <desc lang="en">A young woman hires a male escort to pose as her boyfriend at her sister's wedding, but her plan to make her ex-fiancé jealous goes hilariously wrong.</desc>
+  <programme start="20261018153300 +0200" stop="20261018171400 +0200" channel="starz-stz6">
+    <title lang="en">Ride Along</title>
+    <desc lang="en">To prove he's worthy of marrying a cop's sister, school guard Ben joins detective James on a wild ride through Atlanta's toughest streets.</desc>
   </programme>
-  <programme start="20261017170900 +0200" stop="20261017190600 +0200" channel="starz-stz7">
-    <title lang="en">Words And Pictures</title>
-    <desc lang="en">Two teachers form a rivalry that ends up with a competition at their school in which students decide whether words or pictures are more important.</desc>
+  <programme start="20261018171400 +0200" stop="20261018180300 +0200" channel="starz-stz6">
+    <title lang="en">S1 E4 - Get Clear</title>
+    <desc lang="en">Called before a Force Review Board after a chaotic ICE raid, Hondo uncovers footage that changes everything he thought he knew about his squad.</desc>
   </programme>
-  <programme start="20261017190600 +0200" stop="20261017210000 +0200" channel="starz-stz7">
-    <title lang="en">Couples Retreat</title>
-    <desc lang="en">Four couples find that paradise comes at a price when they must participate in therapy sessions at a tropical resort.</desc>
+  <programme start="20261018180300 +0200" stop="20261018181100 +0200" channel="starz-stz6">
+    <title lang="en">A STARZ Subscriber Exclusive Preview - Opening Scene of P-Valley Final Season</title>
+    <desc lang="en">Watch a STARZ subscriber exclusive preview of the opening scene (first 5 minutes) of the P-Valley final season.</desc>
   </programme>
-  <programme start="20261017210000 +0200" stop="20261017225500 +0200" channel="starz-stz7">
-    <title lang="en">The Brothers Bloom</title>
-    <desc lang="en">Two con‑artist brothers launch one last scheme, giving a quirky heiress a globe‑trotting adventure - until real feelings complicate their perfect con.</desc>
+  <programme start="20261018181100 +0200" stop="20261018190100 +0200" channel="starz-stz6">
+    <title lang="en">S1 E3 - Episode 3</title>
+    <desc lang="en">Clive's chance of romance makes him confess long-held secrets. But a discovery escalates tension with Leo, and both households hurtle toward danger.</desc>
   </programme>
-  <programme start="20261017225500 +0200" stop="20261018002500 +0200" channel="starz-stz7">
-    <title lang="en">The Wedding Date</title>
-    <desc lang="en">A young woman hires a male escort to pose as her boyfriend at her sister's wedding, but her plan to make her ex-fiancé jealous goes hilariously wrong.</desc>
+  <programme start="20261018190100 +0200" stop="20261018195500 +0200" channel="starz-stz6">
+    <title lang="en">S2 E5 - Forgive Me, Father</title>
+    <desc lang="en">The Jacobite Army fights at the Battle of Sheriffmuir, while Ellen and Julia face their own dangers. Colum holds fast at Leoch but doubts his resolve.</desc>
   </programme>
-  <programme start="20261018002500 +0200" stop="20261018021000 +0200" channel="starz-stz7">
-    <title lang="en">Let's Be Cops</title>
-    <desc lang="en">Two slackers impersonate cops and enjoy the perks - drugs, women, and a squad car - until their scam entangles them with real mobsters.</desc>
+  <programme start="20261018195500 +0200" stop="20261018204200 +0200" channel="starz-stz6">
+    <title lang="en">S1 E4 - Get Clear</title>
+    <desc lang="en">Called before a Force Review Board after a chaotic ICE raid, Hondo uncovers footage that changes everything he thought he knew about his squad.</desc>
   </programme>
-  <programme start="20261018021000 +0200" stop="20261018040500 +0200" channel="starz-stz7">
-    <title lang="en">Couples Retreat</title>
-    <desc lang="en">Four couples find that paradise comes at a price when they must participate in therapy sessions at a tropical resort.</desc>
+  <programme start="20261018204200 +0200" stop="20261018221700 +0200" channel="starz-stz6">
+    <title lang="en">Alarum</title>
+    <desc lang="en">A retired assassin couple’s quiet life is upended after a plane crash puts them in possession of a secret file sought by government operatives.</desc>
+  </programme>
+  <programme start="20261018221700 +0200" stop="20261018222300 +0200" channel="starz-stz6">
+    <title lang="en">A STARZ Subscriber Exclusive Preview - Opening Scene of P-Valley Final Season</title>
+    <desc lang="en">Watch a STARZ subscriber exclusive preview of the opening scene (first 5 minutes) of the P-Valley final season.</desc>
+  </programme>
+  <programme start="20261018222300 +0200" stop="20261019000100 +0200" channel="starz-stz6">
+    <title lang="en">In The Grey</title>
+    <desc lang="en">A covert team is sent to recover a billion-dollar fortune, but the mission spirals into a high-stakes battle of strategy, deception, and survival.</desc>
+  </programme>
+  <programme start="20261019000100 +0200" stop="20261019005700 +0200" channel="starz-stz6">
+    <title lang="en">S2 E5 - Forgive Me, Father</title>
+    <desc lang="en">The Jacobite Army fights at the Battle of Sheriffmuir, while Ellen and Julia face their own dangers. Colum holds fast at Leoch but doubts his resolve.</desc>
+  </programme>
+  <programme start="20261019005700 +0200" stop="20261019015000 +0200" channel="starz-stz6">
+    <title lang="en">S1 E3 - Episode 3</title>
+    <desc lang="en">Clive's chance of romance makes him confess long-held secrets. But a discovery escalates tension with Leo, and both households hurtle toward danger.</desc>
+  </programme>
+  <programme start="20261019015000 +0200" stop="20261019024500 +0200" channel="starz-stz6">
+    <title lang="en">S2 E5 - Forgive Me, Father</title>
+    <desc lang="en">The Jacobite Army fights at the Battle of Sheriffmuir, while Ellen and Julia face their own dangers. Colum holds fast at Leoch but doubts his resolve.</desc>
+  </programme>
+  <programme start="20261019024500 +0200" stop="20261019033500 +0200" channel="starz-stz6">
+    <title lang="en">S1 E3 - Episode 3</title>
+    <desc lang="en">Clive's chance of romance makes him confess long-held secrets. But a discovery escalates tension with Leo, and both households hurtle toward danger.</desc>
+  </programme>
+  <programme start="20261019033500 +0200" stop="20261019042400 +0200" channel="starz-stz6">
+    <title lang="en">S1 E4 - Get Clear</title>
+    <desc lang="en">Called before a Force Review Board after a chaotic ICE raid, Hondo uncovers footage that changes everything he thought he knew about his squad.</desc>
+  </programme>
+  <programme start="20261019042400 +0200" stop="20261019043200 +0200" channel="starz-stz6">
+    <title lang="en">A STARZ Subscriber Exclusive Preview - Opening Scene of P-Valley Final Season</title>
+    <desc lang="en">Watch a STARZ subscriber exclusive preview of the opening scene (first 5 minutes) of the P-Valley final season.</desc>
+  </programme>
+  <programme start="20261019043200 +0200" stop="20261019052600 +0200" channel="starz-stz6">
+    <title lang="en">S2 E5 - Forgive Me, Father</title>
+    <desc lang="en">The Jacobite Army fights at the Battle of Sheriffmuir, while Ellen and Julia face their own dangers. Colum holds fast at Leoch but doubts his resolve.</desc>
+  </programme>
+  <programme start="20261019052600 +0200" stop="20261019061900 +0200" channel="starz-stz6">
+    <title lang="en">S1 E3 - Episode 3</title>
+    <desc lang="en">Clive's chance of romance makes him confess long-held secrets. But a discovery escalates tension with Leo, and both households hurtle toward danger.</desc>
   </programme>
   <programme start="20261018040500 +0200" stop="20261018060200 +0200" channel="starz-stz7">
     <title lang="en">Words And Pictures</title>
     <desc lang="en">Two teachers form a rivalry that ends up with a competition at their school in which students decide whether words or pictures are more important.</desc>
   </programme>
-  <programme start="20261017043700 +0200" stop="20261017061000 +0200" channel="starz-stz8">
-    <title lang="en">John Henry</title>
-    <desc lang="en">An ex-gang member seeks peace, but when two immigrant kids flee his old crew, he must face his past or stay in the shadows.</desc>
+  <programme start="20261018060200 +0200" stop="20261018073200 +0200" channel="starz-stz7">
+    <title lang="en">The Wedding Date</title>
+    <desc lang="en">A young woman hires a male escort to pose as her boyfriend at her sister's wedding, but her plan to make her ex-fiancé jealous goes hilariously wrong.</desc>
   </programme>
-  <programme start="20261017061000 +0200" stop="20261017073500 +0200" channel="starz-stz8">
-    <title lang="en">Paranormal Activity 3</title>
-    <desc lang="en">In 1988, sisters Katie and Kristi are haunted by a sinister unseen presence, forcing their family to confront a growing supernatural terror.</desc>
+  <programme start="20261018073200 +0200" stop="20261018093100 +0200" channel="starz-stz7">
+    <title lang="en">Sisters</title>
+    <desc lang="en">Two sisters return to their family home and throw one final high-school-style party that turns into a cathartic rager that they really need.</desc>
   </programme>
-  <programme start="20261017073500 +0200" stop="20261017094800 +0200" channel="starz-stz8">
-    <title lang="en">Pain &amp; Gain</title>
-    <desc lang="en">When an ambitious group of personal trainers go after the American Dream, they get caught up in a criminal enterprise that goes horribly wrong.</desc>
+  <programme start="20261018093100 +0200" stop="20261018114900 +0200" channel="starz-stz7">
+    <title lang="en">Outlaw Johnny Black</title>
+    <desc lang="en">Cowboy Johnny Black becomes a wanted man while seeking revenge for the death of his father.</desc>
   </programme>
-  <programme start="20261017094800 +0200" stop="20261017112900 +0200" channel="starz-stz8">
-    <title lang="en">Man Of The House</title>
-    <desc lang="en">A by-the-book Texas Ranger finds himself going undercover as a live-in coach to protect a group of college cheerleaders who witnessed a murder.</desc>
+  <programme start="20261018114900 +0200" stop="20261018131200 +0200" channel="starz-stz7">
+    <title lang="en">Beatriz At Dinner</title>
+    <desc lang="en">After her car breaks down, a holistic healer stays for dinner at the home of her wealthy, self-absorbed clients.</desc>
   </programme>
-  <programme start="20261017112900 +0200" stop="20261017140800 +0200" channel="starz-stz8">
-    <title lang="en">2012</title>
-    <desc lang="en">Solar flares creating instability at the Earth's core lead to a series of mega-earthquakes, toppling skyscrapers, and massive tidal waves!</desc>
+  <programme start="20261018131200 +0200" stop="20261018144500 +0200" channel="starz-stz7">
+    <title lang="en">Thoroughbreds</title>
+    <desc lang="en">Two teenage girls rekindle their unlikely friendship after years of growing apart and find that murder may be what brings them together.</desc>
   </programme>
-  <programme start="20261017140800 +0200" stop="20261017160300 +0200" channel="starz-stz8">
-    <title lang="en">The Eagle</title>
-    <desc lang="en">In Roman-ruled Britain, a young Roman soldier endeavors to honor his father's memory by finding his lost legion's golden emblem.</desc>
+  <programme start="20261018144500 +0200" stop="20261018162300 +0200" channel="starz-stz7">
+    <title lang="en">Home Again</title>
+    <desc lang="en">A single mother in Los Angeles experiences an unexpected twist in her life when she invites three young men to live with her.</desc>
   </programme>
-  <programme start="20261017160300 +0200" stop="20261017181700 +0200" channel="starz-stz8">
-    <title lang="en">Happy Endings</title>
-    <desc lang="en">A clever intertwining of various narratives offers a humorous exploration of love, family, and life's inherent unpredictability.</desc>
+  <programme start="20261018162300 +0200" stop="20261018175500 +0200" channel="starz-stz7">
+    <title lang="en">Just Before I Go</title>
+    <desc lang="en">With nothing left to live for, a hopeless man returns to his hometown to confront past bullies and make amends before he gives up on life.</desc>
   </programme>
-  <programme start="20261017181700 +0200" stop="20261017200500 +0200" channel="starz-stz8">
-    <title lang="en">A Lot Like Love</title>
-    <desc lang="en">A young couple spark on their first meeting, but decide to pass - except they keep running into one another before fanning the flames of love.</desc>
+  <programme start="20261018175500 +0200" stop="20261018191800 +0200" channel="starz-stz7">
+    <title lang="en">Beatriz At Dinner</title>
+    <desc lang="en">After her car breaks down, a holistic healer stays for dinner at the home of her wealthy, self-absorbed clients.</desc>
   </programme>
-  <programme start="20261017200500 +0200" stop="20261017221600 +0200" channel="starz-stz8">
-    <title lang="en">Pain &amp; Gain</title>
-    <desc lang="en">When an ambitious group of personal trainers go after the American Dream, they get caught up in a criminal enterprise that goes horribly wrong.</desc>
+  <programme start="20261018191800 +0200" stop="20261018211700 +0200" channel="starz-stz7">
+    <title lang="en">Sisters</title>
+    <desc lang="en">Two sisters return to their family home and throw one final high-school-style party that turns into a cathartic rager that they really need.</desc>
   </programme>
-  <programme start="20261017221600 +0200" stop="20261018005500 +0200" channel="starz-stz8">
-    <title lang="en">2012</title>
-    <desc lang="en">Solar flares creating instability at the Earth's core lead to a series of mega-earthquakes, toppling skyscrapers, and massive tidal waves!</desc>
+  <programme start="20261018211700 +0200" stop="20261018225000 +0200" channel="starz-stz7">
+    <title lang="en">Thoroughbreds</title>
+    <desc lang="en">Two teenage girls rekindle their unlikely friendship after years of growing apart and find that murder may be what brings them together.</desc>
   </programme>
-  <programme start="20261018005500 +0200" stop="20261018030000 +0200" channel="starz-stz8">
-    <title lang="en">Sahara</title>
-    <desc lang="en">Two thrill-seeking adventurers cross paths with a beautiful doctor and they find themselves on the hunt for a treasure that claims all who seek it.</desc>
+  <programme start="20261018225000 +0200" stop="20261019002200 +0200" channel="starz-stz7">
+    <title lang="en">Just Before I Go</title>
+    <desc lang="en">With nothing left to live for, a hopeless man returns to his hometown to confront past bullies and make amends before he gives up on life.</desc>
   </programme>
-  <programme start="20261018030000 +0200" stop="20261018044800 +0200" channel="starz-stz8">
-    <title lang="en">Shelter</title>
-    <desc lang="en">A man living on a secluded Scottish island saves a girl from the sea, triggering a chain of events that forces him to confront his troubled past.</desc>
+  <programme start="20261019002200 +0200" stop="20261019020000 +0200" channel="starz-stz7">
+    <title lang="en">Home Again</title>
+    <desc lang="en">A single mother in Los Angeles experiences an unexpected twist in her life when she invites three young men to live with her.</desc>
+  </programme>
+  <programme start="20261019020000 +0200" stop="20261019035900 +0200" channel="starz-stz7">
+    <title lang="en">Sisters</title>
+    <desc lang="en">Two sisters return to their family home and throw one final high-school-style party that turns into a cathartic rager that they really need.</desc>
+  </programme>
+  <programme start="20261019035900 +0200" stop="20261019052200 +0200" channel="starz-stz7">
+    <title lang="en">Beatriz At Dinner</title>
+    <desc lang="en">After her car breaks down, a holistic healer stays for dinner at the home of her wealthy, self-absorbed clients.</desc>
+  </programme>
+  <programme start="20261019052200 +0200" stop="20261019065400 +0200" channel="starz-stz7">
+    <title lang="en">Just Before I Go</title>
+    <desc lang="en">With nothing left to live for, a hopeless man returns to his hometown to confront past bullies and make amends before he gives up on life.</desc>
   </programme>
   <programme start="20261018044800 +0200" stop="20261018062800 +0200" channel="starz-stz8">
     <title lang="en">Baby Mama</title>
     <desc lang="en">A successful, single businesswoman who dreams of having a baby discovers she's infertile and hires a working class woman to be her unlikely surrogate.</desc>
   </programme>
-  <programme start="20261017054600 +0200" stop="20261017063800 +0200" channel="starz-stz9">
-    <title lang="en">S1 E3 - Episode 3</title>
-    <desc lang="en">Clive's chance of romance makes him confess long-held secrets. But a discovery escalates tension with Leo, and both households hurtle toward danger.</desc>
+  <programme start="20261018062800 +0200" stop="20261018075600 +0200" channel="starz-stz8">
+    <title lang="en">Ava's Possessions</title>
+    <desc lang="en">After an exorcism frees her soul, a young woman attends Spirit Possession Anonymous and meets a fellow victim who wants her demon back.</desc>
   </programme>
-  <programme start="20261017063800 +0200" stop="20261017064500 +0200" channel="starz-stz9">
-    <title lang="en">A STARZ Subscriber Exclusive Preview - Opening Scene of P-Valley Final Season</title>
-    <desc lang="en">Watch a STARZ subscriber exclusive preview of the opening scene (first 5 minutes) of the P-Valley final season.</desc>
+  <programme start="20261018075600 +0200" stop="20261018092200 +0200" channel="starz-stz8">
+    <title lang="en">Soul Survivors</title>
+    <desc lang="en">After a deadly crash, Cassie drifts between life and death, uncovering who wants her alive, who wants her gone, and who will be the Soul Survivor.</desc>
   </programme>
-  <programme start="20261017064500 +0200" stop="20261017073200 +0200" channel="starz-stz9">
-    <title lang="en">S1 E4 - Get Clear</title>
-    <desc lang="en">Called before a Force Review Board after a chaotic ICE raid, Hondo uncovers footage that changes everything he thought he knew about his squad.</desc>
+  <programme start="20261018092200 +0200" stop="20261018113600 +0200" channel="starz-stz8">
+    <title lang="en">Happy Endings</title>
+    <desc lang="en">A clever intertwining of various narratives offers a humorous exploration of love, family, and life's inherent unpredictability.</desc>
   </programme>
-  <programme start="20261017073200 +0200" stop="20261017082800 +0200" channel="starz-stz9">
-    <title lang="en">S2 E5 - Forgive Me, Father</title>
-    <desc lang="en">The Jacobite Army fights at the Battle of Sheriffmuir, while Ellen and Julia face their own dangers. Colum holds fast at Leoch but doubts his resolve.</desc>
+  <programme start="20261018113600 +0200" stop="20261018132500 +0200" channel="starz-stz8">
+    <title lang="en">Morning Glory</title>
+    <desc lang="en">Becky’s dream job of running a TV show unravels when her co‑anchors feud on air. She scrambles to save the show and shine under pressure.</desc>
   </programme>
-  <programme start="20261017082800 +0200" stop="20261017101700 +0200" channel="starz-stz9">
-    <title lang="en">Mamma Mia!</title>
-    <desc lang="en">Hoping to meet her real father and have him walk her down the aisle, a bride secretly invites three men from her mother's past to come to the wedding.</desc>
+  <programme start="20261018132500 +0200" stop="20261018152100 +0200" channel="starz-stz8">
+    <title lang="en">How to Lose a Guy in 10 Days</title>
+    <desc lang="en">Andie must write about losing a guy in 10 days.  Benjamin bets he can make her fall in love. Their clash sparks hilarious chaos - and true love.</desc>
   </programme>
-  <programme start="20261017101700 +0200" stop="20261017110900 +0200" channel="starz-stz9">
-    <title lang="en">S1 E3 - Episode 3</title>
-    <desc lang="en">Clive's chance of romance makes him confess long-held secrets. But a discovery escalates tension with Leo, and both households hurtle toward danger.</desc>
+  <programme start="20261018152100 +0200" stop="20261018170000 +0200" channel="starz-stz8">
+    <title lang="en">Power Ballad</title>
+    <desc lang="en">A past-his-prime wedding singer bonds with a fading boy-band star, but when his song reignites the star's career, he risks everything for recognition.</desc>
   </programme>
-  <programme start="20261017110900 +0200" stop="20261017130000 +0200" channel="starz-stz9">
-    <title lang="en">Mamma Mia!</title>
-    <desc lang="en">Hoping to meet her real father and have him walk her down the aisle, a bride secretly invites three men from her mother's past to come to the wedding.</desc>
+  <programme start="20261018170000 +0200" stop="20261018175400 +0200" channel="starz-stz8">
+    <title lang="en">S3 E1 - DO OR DIE</title>
+    <desc lang="en">With some of his biggest obstacles off the map, Tommy faces new opportunities and challenges in his quest to take over the Chicago drug game.</desc>
   </programme>
-  <programme start="20261017130000 +0200" stop="20261017150900 +0200" channel="starz-stz9">
+  <programme start="20261018175400 +0200" stop="20261018185100 +0200" channel="starz-stz8">
+    <title lang="en">S3 E2 - A SEAT AT THE TABLE</title>
+    <desc lang="en">Tommy's ambition sets him on a dangerous path, testing his alliances and endangering those closest to him.</desc>
+  </programme>
+  <programme start="20261018185100 +0200" stop="20261018194900 +0200" channel="starz-stz8">
+    <title lang="en">S3 E3 - THERE'S ALWAYS A PRICE TO PAY</title>
+    <desc lang="en">As Tommy does damage control with allies, Diamond and Jenard devise a plan to deal with D-Mac, and Vic plots his next move.</desc>
+  </programme>
+  <programme start="20261018194900 +0200" stop="20261018204800 +0200" channel="starz-stz8">
+    <title lang="en">S3 E4 - TIME TO SEE THE KING</title>
+    <desc lang="en">Tommy finds a way to protect D-Mac, and Jenard mends fences to please Shanti.</desc>
+  </programme>
+  <programme start="20261018204800 +0200" stop="20261018214700 +0200" channel="starz-stz8">
+    <title lang="en">S3 E5 - THE LAST DANCE</title>
+    <desc lang="en">Diamond and Jenard strengthen their relationship over a common enemy, while Tommy ties up a loose end.</desc>
+  </programme>
+  <programme start="20261018214700 +0200" stop="20261018224400 +0200" channel="starz-stz8">
+    <title lang="en">S3 E6 - ASSET FORFEITURE</title>
+    <desc lang="en">Tommy and Diamond disagree on business, Stacy does damage control to salvage her campaign, and Mireya contemplates her future.</desc>
+  </programme>
+  <programme start="20261018224400 +0200" stop="20261018234200 +0200" channel="starz-stz8">
+    <title lang="en">S3 E7 - LINES IN THE SAND</title>
+    <desc lang="en">While some relationships are mended, other brewing tensions reach their boiling point, setting the stage for unlikely allies.</desc>
+  </programme>
+  <programme start="20261018234200 +0200" stop="20261019004000 +0200" channel="starz-stz8">
+    <title lang="en">S3 E8 - BUILD BACK BETTER</title>
+    <desc lang="en">After a major shakeup, Tommy moves fast to rebuild, and the stakes are higher than ever.</desc>
+  </programme>
+  <programme start="20261019004000 +0200" stop="20261019013800 +0200" channel="starz-stz8">
+    <title lang="en">S3 E9 - WAR REQUIEM</title>
+    <desc lang="en">Revenge, new alliances and dangerous secrets collide, leaving everyone to fight dirty in a game with deadly consequences.</desc>
+  </programme>
+  <programme start="20261019013800 +0200" stop="20261019024100 +0200" channel="starz-stz8">
+    <title lang="en">S3 E10 - BEGINNING OF THE END</title>
+    <desc lang="en">The mounting pressure for retaliation looms, as disastrous moves and shocking secrets shake the streets.</desc>
+  </programme>
+  <programme start="20261019024100 +0200" stop="20261019044900 +0200" channel="starz-stz8">
     <title lang="en">Michael</title>
     <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
   </programme>
-  <programme start="20261017150900 +0200" stop="20261017164000 +0200" channel="starz-stz9">
-    <title lang="en">Oscar Shaw</title>
-    <desc lang="en">A retired cop embarks on a quest for vengeance after his best friend's death, determined to achieve justice on his own terms.</desc>
-  </programme>
-  <programme start="20261017164000 +0200" stop="20261017172700 +0200" channel="starz-stz9">
-    <title lang="en">S1 E4 - Get Clear</title>
-    <desc lang="en">Called before a Force Review Board after a chaotic ICE raid, Hondo uncovers footage that changes everything he thought he knew about his squad.</desc>
-  </programme>
-  <programme start="20261017172700 +0200" stop="20261017182400 +0200" channel="starz-stz9">
-    <title lang="en">S2 E5 - Forgive Me, Father</title>
-    <desc lang="en">The Jacobite Army fights at the Battle of Sheriffmuir, while Ellen and Julia face their own dangers. Colum holds fast at Leoch but doubts his resolve.</desc>
-  </programme>
-  <programme start="20261017182400 +0200" stop="20261017191100 +0200" channel="starz-stz9">
-    <title lang="en">S1 E4 - Get Clear</title>
-    <desc lang="en">Called before a Force Review Board after a chaotic ICE raid, Hondo uncovers footage that changes everything he thought he knew about his squad.</desc>
-  </programme>
-  <programme start="20261017191100 +0200" stop="20261017200100 +0200" channel="starz-stz9">
-    <title lang="en">S1 E3 - Episode 3</title>
-    <desc lang="en">Clive's chance of romance makes him confess long-held secrets. But a discovery escalates tension with Leo, and both households hurtle toward danger.</desc>
-  </programme>
-  <programme start="20261017200100 +0200" stop="20261017205500 +0200" channel="starz-stz9">
-    <title lang="en">S2 E5 - Forgive Me, Father</title>
-    <desc lang="en">The Jacobite Army fights at the Battle of Sheriffmuir, while Ellen and Julia face their own dangers. Colum holds fast at Leoch but doubts his resolve.</desc>
-  </programme>
-  <programme start="20261017205500 +0200" stop="20261017215900 +0200" channel="starz-stz9">
-    <title lang="en">S2 E1 - Remembrance Day</title>
-    <desc lang="en">The fiery crosses have been lit across the Highlands. The call to arms brings friends and enemies home and the Jacobite Rebellion begins in earnest.</desc>
-  </programme>
-  <programme start="20261017215900 +0200" stop="20261017225700 +0200" channel="starz-stz9">
-    <title lang="en">S2 E2 - The Veil of Time</title>
-    <desc lang="en">Brian and Ellen help their clans prepare for the rebellion. Julia and Henry learn more about the stones at Craigh na Dun from unexpected sources.</desc>
-  </programme>
-  <programme start="20261017225700 +0200" stop="20261017235200 +0200" channel="starz-stz9">
-    <title lang="en">S2 E3 - Rabbits Don't Swim</title>
-    <desc lang="en">Julia welcomes a new member of staff to Leathers. Brian and Dougal train their men for battle. Ellen uses her wit to defend her family and her clan.</desc>
-  </programme>
-  <programme start="20261017235200 +0200" stop="20261018005500 +0200" channel="starz-stz9">
-    <title lang="en">S2 E4 - A Portion of my Soul</title>
-    <desc lang="en">Ellen and Grace ride across the Highlands in search of Brian and Dougal's forces.</desc>
-  </programme>
-  <programme start="20261018005500 +0200" stop="20261018015200 +0200" channel="starz-stz9">
-    <title lang="en">S2 E5 - Forgive Me, Father</title>
-    <desc lang="en">The Jacobite Army fights at the Battle of Sheriffmuir, while Ellen and Julia face their own dangers. Colum holds fast at Leoch but doubts his resolve.</desc>
-  </programme>
-  <programme start="20261018015200 +0200" stop="20261018024200 +0200" channel="starz-stz9">
-    <title lang="en">S1 E3 - Episode 3</title>
-    <desc lang="en">Clive's chance of romance makes him confess long-held secrets. But a discovery escalates tension with Leo, and both households hurtle toward danger.</desc>
-  </programme>
-  <programme start="20261018024200 +0200" stop="20261018025000 +0200" channel="starz-stz9">
-    <title lang="en">A STARZ Subscriber Exclusive Preview - Opening Scene of P-Valley Final Season</title>
-    <desc lang="en">Watch a STARZ subscriber exclusive preview of the opening scene (first 5 minutes) of the P-Valley final season.</desc>
-  </programme>
-  <programme start="20261018025000 +0200" stop="20261018033900 +0200" channel="starz-stz9">
-    <title lang="en">S1 E4 - Get Clear</title>
-    <desc lang="en">Called before a Force Review Board after a chaotic ICE raid, Hondo uncovers footage that changes everything he thought he knew about his squad.</desc>
-  </programme>
-  <programme start="20261018033900 +0200" stop="20261018043300 +0200" channel="starz-stz9">
-    <title lang="en">S2 E5 - Forgive Me, Father</title>
-    <desc lang="en">The Jacobite Army fights at the Battle of Sheriffmuir, while Ellen and Julia face their own dangers. Colum holds fast at Leoch but doubts his resolve.</desc>
-  </programme>
-  <programme start="20261018043300 +0200" stop="20261018052300 +0200" channel="starz-stz9">
-    <title lang="en">S1 E3 - Episode 3</title>
-    <desc lang="en">Clive's chance of romance makes him confess long-held secrets. But a discovery escalates tension with Leo, and both households hurtle toward danger.</desc>
-  </programme>
-  <programme start="20261018052300 +0200" stop="20261018052900 +0200" channel="starz-stz9">
-    <title lang="en">A STARZ Subscriber Exclusive Preview - Opening Scene of P-Valley Final Season</title>
-    <desc lang="en">Watch a STARZ subscriber exclusive preview of the opening scene (first 5 minutes) of the P-Valley final season.</desc>
+  <programme start="20261019044900 +0200" stop="20261019062800 +0200" channel="starz-stz8">
+    <title lang="en">Power Ballad</title>
+    <desc lang="en">A past-his-prime wedding singer bonds with a fading boy-band star, but when his song reignites the star's career, he risks everything for recognition.</desc>
   </programme>
   <programme start="20261018052900 +0200" stop="20261018062600 +0200" channel="starz-stz9">
     <title lang="en">S2 E5 - Forgive Me, Father</title>
     <desc lang="en">The Jacobite Army fights at the Battle of Sheriffmuir, while Ellen and Julia face their own dangers. Colum holds fast at Leoch but doubts his resolve.</desc>
+  </programme>
+  <programme start="20261018062600 +0200" stop="20261018071900 +0200" channel="starz-stz9">
+    <title lang="en">S1 E3 - Episode 3</title>
+    <desc lang="en">Clive's chance of romance makes him confess long-held secrets. But a discovery escalates tension with Leo, and both households hurtle toward danger.</desc>
+  </programme>
+  <programme start="20261018071900 +0200" stop="20261018080800 +0200" channel="starz-stz9">
+    <title lang="en">S1 E4 - Get Clear</title>
+    <desc lang="en">Called before a Force Review Board after a chaotic ICE raid, Hondo uncovers footage that changes everything he thought he knew about his squad.</desc>
+  </programme>
+  <programme start="20261018080800 +0200" stop="20261018090500 +0200" channel="starz-stz9">
+    <title lang="en">S2 E5 - Forgive Me, Father</title>
+    <desc lang="en">The Jacobite Army fights at the Battle of Sheriffmuir, while Ellen and Julia face their own dangers. Colum holds fast at Leoch but doubts his resolve.</desc>
+  </programme>
+  <programme start="20261018090500 +0200" stop="20261018110100 +0200" channel="starz-stz9">
+    <title lang="en">The Furious</title>
+    <desc lang="en">When his daughter is kidnapped and police fail him, Wang Wei joins forces with a journalist, launching a ruthless fight against a criminal network.
+</desc>
+  </programme>
+  <programme start="20261018110100 +0200" stop="20261018131300 +0200" channel="starz-stz9">
+    <title lang="en">Pain &amp; Gain</title>
+    <desc lang="en">When an ambitious group of personal trainers go after the American Dream, they get caught up in a criminal enterprise that goes horribly wrong.</desc>
+  </programme>
+  <programme start="20261018131300 +0200" stop="20261018153300 +0200" channel="starz-stz9">
+    <title lang="en">Star Wars: The Force Awakens</title>
+    <desc lang="en">As a new threat emerges, Rey, a scavenger from the desert, and Finn, a former stormtrooper, team up with Han Solo to find the key to restoring peace.</desc>
+  </programme>
+  <programme start="20261018153300 +0200" stop="20261018171400 +0200" channel="starz-stz9">
+    <title lang="en">Ride Along</title>
+    <desc lang="en">To prove he's worthy of marrying a cop's sister, school guard Ben joins detective James on a wild ride through Atlanta's toughest streets.</desc>
+  </programme>
+  <programme start="20261018171400 +0200" stop="20261018180300 +0200" channel="starz-stz9">
+    <title lang="en">S1 E4 - Get Clear</title>
+    <desc lang="en">Called before a Force Review Board after a chaotic ICE raid, Hondo uncovers footage that changes everything he thought he knew about his squad.</desc>
+  </programme>
+  <programme start="20261018180300 +0200" stop="20261018181100 +0200" channel="starz-stz9">
+    <title lang="en">A STARZ Subscriber Exclusive Preview - Opening Scene of P-Valley Final Season</title>
+    <desc lang="en">Watch a STARZ subscriber exclusive preview of the opening scene (first 5 minutes) of the P-Valley final season.</desc>
+  </programme>
+  <programme start="20261018181100 +0200" stop="20261018190100 +0200" channel="starz-stz9">
+    <title lang="en">S1 E3 - Episode 3</title>
+    <desc lang="en">Clive's chance of romance makes him confess long-held secrets. But a discovery escalates tension with Leo, and both households hurtle toward danger.</desc>
+  </programme>
+  <programme start="20261018190100 +0200" stop="20261018195500 +0200" channel="starz-stz9">
+    <title lang="en">S2 E5 - Forgive Me, Father</title>
+    <desc lang="en">The Jacobite Army fights at the Battle of Sheriffmuir, while Ellen and Julia face their own dangers. Colum holds fast at Leoch but doubts his resolve.</desc>
+  </programme>
+  <programme start="20261018195500 +0200" stop="20261018204200 +0200" channel="starz-stz9">
+    <title lang="en">S1 E4 - Get Clear</title>
+    <desc lang="en">Called before a Force Review Board after a chaotic ICE raid, Hondo uncovers footage that changes everything he thought he knew about his squad.</desc>
+  </programme>
+  <programme start="20261018204200 +0200" stop="20261018221700 +0200" channel="starz-stz9">
+    <title lang="en">Alarum</title>
+    <desc lang="en">A retired assassin couple’s quiet life is upended after a plane crash puts them in possession of a secret file sought by government operatives.</desc>
+  </programme>
+  <programme start="20261018221700 +0200" stop="20261018222300 +0200" channel="starz-stz9">
+    <title lang="en">A STARZ Subscriber Exclusive Preview - Opening Scene of P-Valley Final Season</title>
+    <desc lang="en">Watch a STARZ subscriber exclusive preview of the opening scene (first 5 minutes) of the P-Valley final season.</desc>
+  </programme>
+  <programme start="20261018222300 +0200" stop="20261019000100 +0200" channel="starz-stz9">
+    <title lang="en">In The Grey</title>
+    <desc lang="en">A covert team is sent to recover a billion-dollar fortune, but the mission spirals into a high-stakes battle of strategy, deception, and survival.</desc>
+  </programme>
+  <programme start="20261019000100 +0200" stop="20261019005700 +0200" channel="starz-stz9">
+    <title lang="en">S2 E5 - Forgive Me, Father</title>
+    <desc lang="en">The Jacobite Army fights at the Battle of Sheriffmuir, while Ellen and Julia face their own dangers. Colum holds fast at Leoch but doubts his resolve.</desc>
+  </programme>
+  <programme start="20261019005700 +0200" stop="20261019015000 +0200" channel="starz-stz9">
+    <title lang="en">S1 E3 - Episode 3</title>
+    <desc lang="en">Clive's chance of romance makes him confess long-held secrets. But a discovery escalates tension with Leo, and both households hurtle toward danger.</desc>
+  </programme>
+  <programme start="20261019015000 +0200" stop="20261019024500 +0200" channel="starz-stz9">
+    <title lang="en">S2 E5 - Forgive Me, Father</title>
+    <desc lang="en">The Jacobite Army fights at the Battle of Sheriffmuir, while Ellen and Julia face their own dangers. Colum holds fast at Leoch but doubts his resolve.</desc>
+  </programme>
+  <programme start="20261019024500 +0200" stop="20261019033500 +0200" channel="starz-stz9">
+    <title lang="en">S1 E3 - Episode 3</title>
+    <desc lang="en">Clive's chance of romance makes him confess long-held secrets. But a discovery escalates tension with Leo, and both households hurtle toward danger.</desc>
+  </programme>
+  <programme start="20261019033500 +0200" stop="20261019042400 +0200" channel="starz-stz9">
+    <title lang="en">S1 E4 - Get Clear</title>
+    <desc lang="en">Called before a Force Review Board after a chaotic ICE raid, Hondo uncovers footage that changes everything he thought he knew about his squad.</desc>
+  </programme>
+  <programme start="20261019042400 +0200" stop="20261019043200 +0200" channel="starz-stz9">
+    <title lang="en">A STARZ Subscriber Exclusive Preview - Opening Scene of P-Valley Final Season</title>
+    <desc lang="en">Watch a STARZ subscriber exclusive preview of the opening scene (first 5 minutes) of the P-Valley final season.</desc>
+  </programme>
+  <programme start="20261019043200 +0200" stop="20261019052600 +0200" channel="starz-stz9">
+    <title lang="en">S2 E5 - Forgive Me, Father</title>
+    <desc lang="en">The Jacobite Army fights at the Battle of Sheriffmuir, while Ellen and Julia face their own dangers. Colum holds fast at Leoch but doubts his resolve.</desc>
+  </programme>
+  <programme start="20261019052600 +0200" stop="20261019061900 +0200" channel="starz-stz9">
+    <title lang="en">S1 E3 - Episode 3</title>
+    <desc lang="en">Clive's chance of romance makes him confess long-held secrets. But a discovery escalates tension with Leo, and both households hurtle toward danger.</desc>
   </programme>
 </tv>
