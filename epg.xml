@@ -289,69 +289,71 @@
     <title lang="en">Underworld</title>
     <desc lang="en">Selene, a vampire warrior, is in a war between vampires and werewolves - then she falls in love with Michael, a werewolf who longs for the war to end.</desc>
   </programme>
-  <programme start="20261018040500 +0200" stop="20261018060200 +0200" channel="starz-stz7">
-    <title lang="en">Words And Pictures</title>
-    <desc lang="en">Two teachers form a rivalry that ends up with a competition at their school in which students decide whether words or pictures are more important.</desc>
-  </programme>
-  <programme start="20261018060200 +0200" stop="20261018073200 +0200" channel="starz-stz7">
-    <title lang="en">The Wedding Date</title>
-    <desc lang="en">A young woman hires a male escort to pose as her boyfriend at her sister's wedding, but her plan to make her ex-fiancé jealous goes hilariously wrong.</desc>
-  </programme>
-  <programme start="20261018073200 +0200" stop="20261018093100 +0200" channel="starz-stz7">
-    <title lang="en">Sisters</title>
-    <desc lang="en">Two sisters return to their family home and throw one final high-school-style party that turns into a cathartic rager that they really need.</desc>
-  </programme>
-  <programme start="20261018093100 +0200" stop="20261018114900 +0200" channel="starz-stz7">
-    <title lang="en">Outlaw Johnny Black</title>
-    <desc lang="en">Cowboy Johnny Black becomes a wanted man while seeking revenge for the death of his father.</desc>
-  </programme>
-  <programme start="20261018114900 +0200" stop="20261018131200 +0200" channel="starz-stz7">
-    <title lang="en">Beatriz At Dinner</title>
-    <desc lang="en">After her car breaks down, a holistic healer stays for dinner at the home of her wealthy, self-absorbed clients.</desc>
-  </programme>
-  <programme start="20261018131200 +0200" stop="20261018144500 +0200" channel="starz-stz7">
-    <title lang="en">Thoroughbreds</title>
-    <desc lang="en">Two teenage girls rekindle their unlikely friendship after years of growing apart and find that murder may be what brings them together.</desc>
-  </programme>
-  <programme start="20261018144500 +0200" stop="20261018162300 +0200" channel="starz-stz7">
-    <title lang="en">Home Again</title>
-    <desc lang="en">A single mother in Los Angeles experiences an unexpected twist in her life when she invites three young men to live with her.</desc>
-  </programme>
-  <programme start="20261018162300 +0200" stop="20261018175500 +0200" channel="starz-stz7">
-    <title lang="en">Just Before I Go</title>
-    <desc lang="en">With nothing left to live for, a hopeless man returns to his hometown to confront past bullies and make amends before he gives up on life.</desc>
-  </programme>
-  <programme start="20261018175500 +0200" stop="20261018191800 +0200" channel="starz-stz7">
-    <title lang="en">Beatriz At Dinner</title>
-    <desc lang="en">After her car breaks down, a holistic healer stays for dinner at the home of her wealthy, self-absorbed clients.</desc>
-  </programme>
-  <programme start="20261018191800 +0200" stop="20261018211700 +0200" channel="starz-stz7">
-    <title lang="en">Sisters</title>
-    <desc lang="en">Two sisters return to their family home and throw one final high-school-style party that turns into a cathartic rager that they really need.</desc>
-  </programme>
-  <programme start="20261018211700 +0200" stop="20261018225000 +0200" channel="starz-stz7">
-    <title lang="en">Thoroughbreds</title>
-    <desc lang="en">Two teenage girls rekindle their unlikely friendship after years of growing apart and find that murder may be what brings them together.</desc>
-  </programme>
-  <programme start="20261018225000 +0200" stop="20261019002200 +0200" channel="starz-stz7">
-    <title lang="en">Just Before I Go</title>
-    <desc lang="en">With nothing left to live for, a hopeless man returns to his hometown to confront past bullies and make amends before he gives up on life.</desc>
-  </programme>
-  <programme start="20261019002200 +0200" stop="20261019020000 +0200" channel="starz-stz7">
-    <title lang="en">Home Again</title>
-    <desc lang="en">A single mother in Los Angeles experiences an unexpected twist in her life when she invites three young men to live with her.</desc>
-  </programme>
-  <programme start="20261019020000 +0200" stop="20261019035900 +0200" channel="starz-stz7">
-    <title lang="en">Sisters</title>
-    <desc lang="en">Two sisters return to their family home and throw one final high-school-style party that turns into a cathartic rager that they really need.</desc>
-  </programme>
-  <programme start="20261019035900 +0200" stop="20261019052200 +0200" channel="starz-stz7">
-    <title lang="en">Beatriz At Dinner</title>
-    <desc lang="en">After her car breaks down, a holistic healer stays for dinner at the home of her wealthy, self-absorbed clients.</desc>
-  </programme>
   <programme start="20261019052200 +0200" stop="20261019065400 +0200" channel="starz-stz7">
     <title lang="en">Just Before I Go</title>
     <desc lang="en">With nothing left to live for, a hopeless man returns to his hometown to confront past bullies and make amends before he gives up on life.</desc>
+  </programme>
+  <programme start="20261019065400 +0200" stop="20261019081700 +0200" channel="starz-stz7">
+    <title lang="en">Operation: Endgame</title>
+    <desc lang="en">Two teams of government assassins try to eliminate each other after their boss is killed and their underground headquarters is locked down.</desc>
+  </programme>
+  <programme start="20261019081700 +0200" stop="20261019093900 +0200" channel="starz-stz7">
+    <title lang="en">Hittin' It!</title>
+    <desc lang="en">Two college roommates plan the ultimate beach getaway, but a wild party leaves their borrowed Miami house in ruins days before its owner returns.</desc>
+  </programme>
+  <programme start="20261019093900 +0200" stop="20261019110900 +0200" channel="starz-stz7">
+    <title lang="en">30 Beats</title>
+    <desc lang="en">A group of New Yorkers lives intertwine though a series of sexual encounters during a summer heat wave.</desc>
+  </programme>
+  <programme start="20261019110900 +0200" stop="20261019123500 +0200" channel="starz-stz7">
+    <title lang="en">Sex-Positive</title>
+    <desc lang="en">Virginia dives into sexual freedom after moving in with a lively group of polyamorous party animals. The one rule: no falling in love.</desc>
+  </programme>
+  <programme start="20261019123500 +0200" stop="20261019141000 +0200" channel="starz-stz7">
+    <title lang="en">Lay The Favorite</title>
+    <desc lang="en">Beth goes from stripper to sports gambling assistant for Dink in Vegas - only to face the wrath of his jealous wife.</desc>
+  </programme>
+  <programme start="20261019141000 +0200" stop="20261019155700 +0200" channel="starz-stz7">
+    <title lang="en">The Family Fang</title>
+    <desc lang="en">After a lifetime of pranks by their parents, two siblings have reservations when told their parents are missing and presumed dead by foul play.
+</desc>
+  </programme>
+  <programme start="20261019155700 +0200" stop="20261019174100 +0200" channel="starz-stz7">
+    <title lang="en">Keeping Mum</title>
+    <desc lang="en">Gloria's life is unraveling. When the family hires housekeeper Grace Hawkins, she seems like salvation - until her unsettling secrets emerge.</desc>
+  </programme>
+  <programme start="20261019174100 +0200" stop="20261019192200 +0200" channel="starz-stz7">
+    <title lang="en">A Low Down Dirty Shame</title>
+    <desc lang="en">A former Los Angeles policeman helps a DEA agent on a case similar to the one that ended his career.</desc>
+  </programme>
+  <programme start="20261019192200 +0200" stop="20261019210400 +0200" channel="starz-stz7">
+    <title lang="en">Bad Kids Of Crestview Academy</title>
+    <desc lang="en">Trapped in Saturday detention, Crestview Academy students face gruesome &quot;accidents&quot; and a deadly threat as they fight to make it out alive.</desc>
+  </programme>
+  <programme start="20261019210400 +0200" stop="20261019223800 +0200" channel="starz-stz7">
+    <title lang="en">Vamps</title>
+    <desc lang="en">A pair of sexy young vampires - who are trying to swear off human blood - hit the dating scene in NYC, where they meet a cute guy named Van Helsing!</desc>
+  </programme>
+  <programme start="20261019223800 +0200" stop="20261020001300 +0200" channel="starz-stz7">
+    <title lang="en">Lay The Favorite</title>
+    <desc lang="en">Beth goes from stripper to sports gambling assistant for Dink in Vegas - only to face the wrath of his jealous wife.</desc>
+  </programme>
+  <programme start="20261020001300 +0200" stop="20261020020000 +0200" channel="starz-stz7">
+    <title lang="en">The Family Fang</title>
+    <desc lang="en">After a lifetime of pranks by their parents, two siblings have reservations when told their parents are missing and presumed dead by foul play.
+</desc>
+  </programme>
+  <programme start="20261020020000 +0200" stop="20261020034100 +0200" channel="starz-stz7">
+    <title lang="en">A Low Down Dirty Shame</title>
+    <desc lang="en">A former Los Angeles policeman helps a DEA agent on a case similar to the one that ended his career.</desc>
+  </programme>
+  <programme start="20261020034100 +0200" stop="20261020052500 +0200" channel="starz-stz7">
+    <title lang="en">Keeping Mum</title>
+    <desc lang="en">Gloria's life is unraveling. When the family hires housekeeper Grace Hawkins, she seems like salvation - until her unsettling secrets emerge.</desc>
+  </programme>
+  <programme start="20261020052500 +0200" stop="20261020070000 +0200" channel="starz-stz7">
+    <title lang="en">Lay The Favorite</title>
+    <desc lang="en">Beth goes from stripper to sports gambling assistant for Dink in Vegas - only to face the wrath of his jealous wife.</desc>
   </programme>
   <programme start="20261019044900 +0200" stop="20261019062800 +0200" channel="starz-stz8">
     <title lang="en">Power Ballad</title>
