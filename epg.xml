@@ -105,61 +105,65 @@
     <title lang="en">S1 E4 - Episode 4</title>
     <desc lang="en">Leo and Clive go face to face for the ultimate confrontation, while George goes to the heart of Manchester to explore his secret life.</desc>
   </programme>
-  <programme start="20261024044300 +0200" stop="20261024063100 +0200" channel="starz-stz3">
-    <title lang="en">The Wood</title>
-    <desc lang="en">Hours before his wedding, Roland leans on his friends as they revisit growing up in Inglewood, where hard lessons and missteps shaped him.</desc>
-  </programme>
-  <programme start="20261024063100 +0200" stop="20261024084100 +0200" channel="starz-stz3">
-    <title lang="en">Pain &amp; Gain</title>
-    <desc lang="en">When an ambitious group of personal trainers go after the American Dream, they get caught up in a criminal enterprise that goes horribly wrong.</desc>
-  </programme>
-  <programme start="20261024084100 +0200" stop="20261024103600 +0200" channel="starz-stz3">
-    <title lang="en">Fresh</title>
-    <desc lang="en">Street-smart Fresh uses his wits to stay ahead of local criminals and fight for a better life.</desc>
-  </programme>
-  <programme start="20261024103600 +0200" stop="20261024120900 +0200" channel="starz-stz3">
-    <title lang="en">John Henry</title>
-    <desc lang="en">An ex-gang member seeks peace, but when two immigrant kids flee his old crew, he must face his past or stay in the shadows.</desc>
-  </programme>
-  <programme start="20261024120900 +0200" stop="20261024134300 +0200" channel="starz-stz3">
-    <title lang="en">Naked Singularity</title>
-    <desc lang="en">An idealistic NYC public defender burned out by the system takes matters into his own hands when he joins an old client on a high-stakes drug heist.</desc>
-  </programme>
-  <programme start="20261024134300 +0200" stop="20261024154500 +0200" channel="starz-stz3">
-    <title lang="en">Idlewild</title>
-    <desc lang="en">A musical set in the Prohibition-era American South, where a performer and his piano player contend with gangsters who have their eyes on the club.</desc>
-  </programme>
-  <programme start="20261024154500 +0200" stop="20261024175500 +0200" channel="starz-stz3">
-    <title lang="en">Pain &amp; Gain</title>
-    <desc lang="en">When an ambitious group of personal trainers go after the American Dream, they get caught up in a criminal enterprise that goes horribly wrong.</desc>
-  </programme>
-  <programme start="20261024175500 +0200" stop="20261024195000 +0200" channel="starz-stz3">
-    <title lang="en">Fresh</title>
-    <desc lang="en">Street-smart Fresh uses his wits to stay ahead of local criminals and fight for a better life.</desc>
-  </programme>
-  <programme start="20261024195000 +0200" stop="20261024212400 +0200" channel="starz-stz3">
-    <title lang="en">Naked Singularity</title>
-    <desc lang="en">An idealistic NYC public defender burned out by the system takes matters into his own hands when he joins an old client on a high-stakes drug heist.</desc>
-  </programme>
-  <programme start="20261024212400 +0200" stop="20261024225700 +0200" channel="starz-stz3">
-    <title lang="en">John Henry</title>
-    <desc lang="en">An ex-gang member seeks peace, but when two immigrant kids flee his old crew, he must face his past or stay in the shadows.</desc>
-  </programme>
-  <programme start="20261024225700 +0200" stop="20261025005900 +0200" channel="starz-stz3">
-    <title lang="en">Idlewild</title>
-    <desc lang="en">A musical set in the Prohibition-era American South, where a performer and his piano player contend with gangsters who have their eyes on the club.</desc>
-  </programme>
-  <programme start="20261025005900 +0200" stop="20261025025400 +0200" channel="starz-stz3">
-    <title lang="en">Fresh</title>
-    <desc lang="en">Street-smart Fresh uses his wits to stay ahead of local criminals and fight for a better life.</desc>
-  </programme>
-  <programme start="20261025025400 +0200" stop="20261025040500 +0100" channel="starz-stz3">
-    <title lang="en">Pain &amp; Gain</title>
-    <desc lang="en">When an ambitious group of personal trainers go after the American Dream, they get caught up in a criminal enterprise that goes horribly wrong.</desc>
-  </programme>
   <programme start="20261025040500 +0100" stop="20261025053800 +0100" channel="starz-stz3">
     <title lang="en">John Henry</title>
     <desc lang="en">An ex-gang member seeks peace, but when two immigrant kids flee his old crew, he must face his past or stay in the shadows.</desc>
+  </programme>
+  <programme start="20261025053800 +0100" stop="20261025072100 +0100" channel="starz-stz3">
+    <title lang="en">Miss Virginia</title>
+    <desc lang="en">A struggling inner-city mother sacrifices everything to give her son a good education and launches a movement that could save his future.</desc>
+  </programme>
+  <programme start="20261025072100 +0100" stop="20261025084200 +0100" channel="starz-stz3">
+    <title lang="en">The Knife</title>
+    <desc lang="en">After a home invasion, a young family is pushed to their breaking point as a relentless detective unearths secrets they’ve fought to keep buried.</desc>
+  </programme>
+  <programme start="20261025084200 +0100" stop="20261025101700 +0100" channel="starz-stz3">
+    <title lang="en">A Girl Like Grace</title>
+    <desc lang="en">A bullied 17-year-old seeks guidance from her best friend's older sister while dealing with loss and exploring her sexuality.</desc>
+  </programme>
+  <programme start="20261025101700 +0100" stop="20261025120700 +0100" channel="starz-stz3">
+    <title lang="en">Assault On Precinct 13</title>
+    <desc lang="en">A police sergeant rallies cops and prisoners to protect them in a police station on New Year's Eve as corrupt policemen plan to kill everyone inside.</desc>
+  </programme>
+  <programme start="20261025120700 +0100" stop="20261025134900 +0100" channel="starz-stz3">
+    <title lang="en">Cradle 2 The Grave</title>
+    <desc lang="en">After his daughter is kidnapped, Tony Fait joins forces with a relentless operative to recover stolen black diamonds and stop a dangerous conspiracy.</desc>
+  </programme>
+  <programme start="20261025134900 +0100" stop="20261025153700 +0100" channel="starz-stz3">
+    <title lang="en">ATL</title>
+    <desc lang="en">In Atlanta's skating world, Rashad struggles to guide his younger brother but finds hope in New‑New, unaware she’s keeping a major secret.</desc>
+  </programme>
+  <programme start="20261025153700 +0100" stop="20261025171800 +0100" channel="starz-stz3">
+    <title lang="en">A Low Down Dirty Shame</title>
+    <desc lang="en">A former Los Angeles policeman helps a DEA agent on a case similar to the one that ended his career.</desc>
+  </programme>
+  <programme start="20261025171800 +0100" stop="20261025190800 +0100" channel="starz-stz3">
+    <title lang="en">Assault On Precinct 13</title>
+    <desc lang="en">A police sergeant rallies cops and prisoners to protect them in a police station on New Year's Eve as corrupt policemen plan to kill everyone inside.</desc>
+  </programme>
+  <programme start="20261025190800 +0100" stop="20261025204300 +0100" channel="starz-stz3">
+    <title lang="en">A Girl Like Grace</title>
+    <desc lang="en">A bullied 17-year-old seeks guidance from her best friend's older sister while dealing with loss and exploring her sexuality.</desc>
+  </programme>
+  <programme start="20261025204300 +0100" stop="20261025223100 +0100" channel="starz-stz3">
+    <title lang="en">ATL</title>
+    <desc lang="en">In Atlanta's skating world, Rashad struggles to guide his younger brother but finds hope in New‑New, unaware she’s keeping a major secret.</desc>
+  </programme>
+  <programme start="20261025223100 +0100" stop="20261026001300 +0100" channel="starz-stz3">
+    <title lang="en">Cradle 2 The Grave</title>
+    <desc lang="en">After his daughter is kidnapped, Tony Fait joins forces with a relentless operative to recover stolen black diamonds and stop a dangerous conspiracy.</desc>
+  </programme>
+  <programme start="20261026001300 +0100" stop="20261026020300 +0100" channel="starz-stz3">
+    <title lang="en">Assault On Precinct 13</title>
+    <desc lang="en">A police sergeant rallies cops and prisoners to protect them in a police station on New Year's Eve as corrupt policemen plan to kill everyone inside.</desc>
+  </programme>
+  <programme start="20261026020300 +0100" stop="20261026034400 +0100" channel="starz-stz3">
+    <title lang="en">A Low Down Dirty Shame</title>
+    <desc lang="en">A former Los Angeles policeman helps a DEA agent on a case similar to the one that ended his career.</desc>
+  </programme>
+  <programme start="20261026034400 +0100" stop="20261026053300 +0100" channel="starz-stz3">
+    <title lang="en">ATL</title>
+    <desc lang="en">In Atlanta's skating world, Rashad struggles to guide his younger brother but finds hope in New‑New, unaware she’s keeping a major secret.</desc>
   </programme>
   <programme start="20261025045600 +0100" stop="20261025063700 +0100" channel="starz-stz5">
     <title lang="en">At Middleton</title>
