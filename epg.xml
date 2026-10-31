@@ -374,73 +374,66 @@
     <title lang="en">Black Sheep</title>
     <desc lang="en">An experiment in genetic engineering turns harmless sheep into bloodthirsty killers that terrorize a sprawling New Zealand farm.</desc>
   </programme>
-  <programme start="20261030044700 +0100" stop="20261030061500 +0100" channel="starz-stz8">
-    <title lang="en">Haunted Heist</title>
-    <desc lang="en">A robbery at a haunted house forces four estranged friends to battle ghosts, and each other, through one wild night.</desc>
-  </programme>
-  <programme start="20261030061500 +0100" stop="20261030074100 +0100" channel="starz-stz8">
-    <title lang="en">Night Wolf</title>
-    <desc lang="en">Returning for a family visit, a young woman soon enters a nightmarish welcome home when family and friends start turning up brutally murdered.</desc>
-  </programme>
-  <programme start="20261030074100 +0100" stop="20261030091500 +0100" channel="starz-stz8">
-    <title lang="en">Vamps</title>
-    <desc lang="en">A pair of sexy young vampires - who are trying to swear off human blood - hit the dating scene in NYC, where they meet a cute guy named Van Helsing!</desc>
-  </programme>
-  <programme start="20261030091500 +0100" stop="20261030105600 +0100" channel="starz-stz8">
-    <title lang="en">Ask Me Anything</title>
-    <desc lang="en">A confused teenager writes a blog revealing her daily activities and secrets, advised by her guidance counselor in lieu of her first year in college.</desc>
-  </programme>
-  <programme start="20261030105600 +0100" stop="20261030122400 +0100" channel="starz-stz8">
-    <title lang="en">Dinocroc Vs. Supergator</title>
-    <desc lang="en">An evil investor's experiment goes awry, creating Dinocroc, and the only way to destroy the creature is to release its mortal enemy, Supergator.</desc>
-  </programme>
-  <programme start="20261030122400 +0100" stop="20261030135800 +0100" channel="starz-stz8">
-    <title lang="en">The 2nd</title>
-    <desc lang="en">Picking up his son at college, a Secret Service agent enters a terrorist plot targeting a Justice's daughter, forcing him to fight to save them.</desc>
-  </programme>
-  <programme start="20261030135800 +0100" stop="20261030153700 +0100" channel="starz-stz8">
-    <title lang="en">Power Ballad</title>
-    <desc lang="en">A past-his-prime wedding singer bonds with a fading boy-band star, but when his song reignites the star's career, he risks everything for recognition.</desc>
-  </programme>
-  <programme start="20261030153700 +0100" stop="20261030171500 +0100" channel="starz-stz8">
-    <title lang="en">In The Grey</title>
-    <desc lang="en">A covert team is sent to recover a billion-dollar fortune, but the mission spirals into a high-stakes battle of strategy, deception, and survival.</desc>
-  </programme>
-  <programme start="20261030171500 +0100" stop="20261030183600 +0100" channel="starz-stz8">
-    <title lang="en">Welcome to Sudden Death</title>
-    <desc lang="en">When terrorists take a packed arena and kidnap his daughter, an ex-special forces security guard races against the clock to save everyone inside.</desc>
-  </programme>
-  <programme start="20261030183600 +0100" stop="20261030192700 +0100" channel="starz-stz8">
-    <title lang="en">S1 E4 - Episode 4</title>
-    <desc lang="en">Leo and Clive go face to face for the ultimate confrontation, while George goes to the heart of Manchester to explore his secret life.</desc>
-  </programme>
-  <programme start="20261030192700 +0100" stop="20261030202500 +0100" channel="starz-stz8">
-    <title lang="en">S2 E6 - Small Mercies</title>
-    <desc lang="en">Ellen finds herself a guest among unexpected company. Brian and Murtagh attempt a daring rescue. Henry makes an ally of a former enemy.</desc>
-  </programme>
-  <programme start="20261030202500 +0100" stop="20261030220400 +0100" channel="starz-stz8">
-    <title lang="en">Power Ballad</title>
-    <desc lang="en">A past-his-prime wedding singer bonds with a fading boy-band star, but when his song reignites the star's career, he risks everything for recognition.</desc>
-  </programme>
-  <programme start="20261030220400 +0100" stop="20261030230200 +0100" channel="starz-stz8">
-    <title lang="en">S2 E6 - Small Mercies</title>
-    <desc lang="en">Ellen finds herself a guest among unexpected company. Brian and Murtagh attempt a daring rescue. Henry makes an ally of a former enemy.</desc>
-  </programme>
-  <programme start="20261030230200 +0100" stop="20261030235300 +0100" channel="starz-stz8">
-    <title lang="en">S1 E4 - Episode 4</title>
-    <desc lang="en">Leo and Clive go face to face for the ultimate confrontation, while George goes to the heart of Manchester to explore his secret life.</desc>
-  </programme>
-  <programme start="20261030235300 +0100" stop="20261031020000 +0100" channel="starz-stz8">
-    <title lang="en">Why Men Are Clueless</title>
-    <desc lang="en">In order to land his dream job and win back the love of his life, a young man must figure out what women truly want with the help of his friends.</desc>
-  </programme>
-  <programme start="20261031020000 +0100" stop="20261031033800 +0100" channel="starz-stz8">
-    <title lang="en">In The Grey</title>
-    <desc lang="en">A covert team is sent to recover a billion-dollar fortune, but the mission spirals into a high-stakes battle of strategy, deception, and survival.</desc>
-  </programme>
   <programme start="20261031033800 +0100" stop="20261031052400 +0100" channel="starz-stz8">
     <title lang="en">Deliver Us from Eva</title>
     <desc lang="en">Three men pay Ray to romance Eva, their girlfriends' bossy older sister. But they get more than they bargained for when Ray begins to fall for Eva.</desc>
+  </programme>
+  <programme start="20261031052400 +0100" stop="20261031072300 +0100" channel="starz-stz8">
+    <title lang="en">Deliver Us From Evil</title>
+    <desc lang="en">A Bronx cop investigates a series of heinous events and meets a priest who tries to convince him that demonic possession is the root of the evil.</desc>
+  </programme>
+  <programme start="20261031072300 +0100" stop="20261031085500 +0100" channel="starz-stz8">
+    <title lang="en">The Strangers: Chapter 3</title>
+    <desc lang="en">As the killers’ mythology grows darker, Maya is dragged deeper into their cycle of terror and forced toward a final confrontation she can’t outrun.</desc>
+  </programme>
+  <programme start="20261031085500 +0100" stop="20261031102300 +0100" channel="starz-stz8">
+    <title lang="en">Lesbian Vampire Killers</title>
+    <desc lang="en">Two young lads head out to the country and find themselves stuck in a village where all the women have been enslaved by a legendary vampire curse.</desc>
+  </programme>
+  <programme start="20261031102300 +0100" stop="20261031120200 +0100" channel="starz-stz8">
+    <title lang="en">The Dead 2</title>
+    <desc lang="en">As a zombie plague spreads across India, an American turbine engineer battles his way back to Mumbai to rescue his pregnant lover.</desc>
+  </programme>
+  <programme start="20261031120200 +0100" stop="20261031135600 +0100" channel="starz-stz8">
+    <title lang="en">The Furious</title>
+    <desc lang="en">When his daughter is kidnapped and police fail him, Wang Wei joins forces with a journalist, launching a ruthless fight against a criminal network.
+</desc>
+  </programme>
+  <programme start="20261031135600 +0100" stop="20261031154400 +0100" channel="starz-stz8">
+    <title lang="en">Morning Glory</title>
+    <desc lang="en">Becky’s dream job of running a TV show unravels when her co‑anchors feud on air. She scrambles to save the show and shine under pressure.</desc>
+  </programme>
+  <programme start="20261031154400 +0100" stop="20261031172500 +0100" channel="starz-stz8">
+    <title lang="en">At Middleton</title>
+    <desc lang="en">A strict surgeon and a free-spirited woman bond on a college tour, but the real lessons in love and life begin once they break from the group.</desc>
+  </programme>
+  <programme start="20261031172500 +0100" stop="20261031185700 +0100" channel="starz-stz8">
+    <title lang="en">The Night Clerk</title>
+    <desc lang="en">Bart, a hotel clerk, is suspected of murder. He connects with a guest, Andrea, and must stop the real killer before she’s the next victim.</desc>
+  </programme>
+  <programme start="20261031185700 +0100" stop="20261031205600 +0100" channel="starz-stz8">
+    <title lang="en">Deliver Us From Evil</title>
+    <desc lang="en">A Bronx cop investigates a series of heinous events and meets a priest who tries to convince him that demonic possession is the root of the evil.</desc>
+  </programme>
+  <programme start="20261031205600 +0100" stop="20261031224400 +0100" channel="starz-stz8">
+    <title lang="en">The Wood</title>
+    <desc lang="en">Hours before his wedding, Roland leans on his friends as they revisit growing up in Inglewood, where hard lessons and missteps shaped him.</desc>
+  </programme>
+  <programme start="20261031224400 +0100" stop="20261101001700 +0100" channel="starz-stz8">
+    <title lang="en">The Howling: Reborn</title>
+    <desc lang="en">A teenage outsider learns he is a werewolf and must confront a vicious pack of these creatures when they pose a threat to him and his new girlfriend.</desc>
+  </programme>
+  <programme start="20261101001700 +0100" stop="20261101020000 +0100" channel="starz-stz8">
+    <title lang="en">Jennifer's Body</title>
+    <desc lang="en">Small‑town beauty Jennifer becomes demon‑possessed, and the guys who never had a chance with her now draw her deadly, supernatural attention.</desc>
+  </programme>
+  <programme start="20261101020000 +0100" stop="20261101035100 +0100" channel="starz-stz8">
+    <title lang="en">Speak No Evil</title>
+    <desc lang="en">A family accepts an invitation to spend a weekend at a secluded country home, only to discover unsettling truths about their hosts as the days unfold.</desc>
+  </programme>
+  <programme start="20261101035100 +0100" stop="20261101053200 +0100" channel="starz-stz8">
+    <title lang="en">Dawn Of The Dead</title>
+    <desc lang="en">A gripping, gory remake of the cult film: the undead walk the earth as flesh-eating zombies, trapping a group of desperate people in a shopping mall.</desc>
   </programme>
   <programme start="20261031045100 +0100" stop="20261031054000 +0100" channel="starz-stz9">
     <title lang="en">S1 E5 - Episode 5</title>
