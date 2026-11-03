@@ -21,489 +21,444 @@
   <channel id="starz-stz9">
     <display-name>STARZ Encore (STZ9)</display-name>
   </channel>
-  <programme start="20261102054700 +0100" stop="20261102063500 +0100" channel="starz-stz1">
-    <title lang="en">S1 E5 - Episode 5</title>
-    <desc lang="en">The war between Leo and Clive reaches a climax. George’s secrets spread and Leo makes a fateful decision that will change their lives forever.</desc>
-  </programme>
-  <programme start="20261102063500 +0100" stop="20261102083900 +0100" channel="starz-stz1">
-    <title lang="en">Hot Fuzz</title>
-    <desc lang="en">When elite cop Nicholas Angel is sent to a sleepy village, suspicious deaths force him and his bumbling partner into action.</desc>
-  </programme>
-  <programme start="20261102083900 +0100" stop="20261102095000 +0100" channel="starz-stz1">
-    <title lang="en">A Christmas Scam</title>
-    <desc lang="en">An R&amp;B singer’s Christmas concert is threatened by missing money, a trusted friend’s betrayal and a family secret that could change everything.</desc>
-  </programme>
-  <programme start="20261102095000 +0100" stop="20261102111700 +0100" channel="starz-stz1">
-    <title lang="en">Christmas Cover-Up</title>
-    <desc lang="en">Tori, Gwen and Sam have dreamed of killing their boss for years. This Christmas is no different—but some wishes are better left unspoken.</desc>
-  </programme>
-  <programme start="20261102111700 +0100" stop="20261102130200 +0100" channel="starz-stz1">
-    <title lang="en">Unexpected Christmas</title>
-    <desc lang="en">A family's perfect Christmas reunion is upended when old rivalries, secrets, and romantic mix-ups come to a head.</desc>
-  </programme>
-  <programme start="20261102130200 +0100" stop="20261102151200 +0100" channel="starz-stz1">
-    <title lang="en">The Lost World: Jurassic Park</title>
-    <desc lang="en">Four years after Jurassic Park, an expedition to a dinosaur-filled island turns deadly when rival groups seek to exploit its prehistoric inhabitants.</desc>
-  </programme>
-  <programme start="20261102151200 +0100" stop="20261102164500 +0100" channel="starz-stz1">
-    <title lang="en">Jurassic Park III</title>
-    <desc lang="en">Years after Jurassic Park, a paleontologist returns to an island overrun by dinosaurs, where a search for a missing boy becomes a fight to stay alive.</desc>
-  </programme>
-  <programme start="20261102164500 +0100" stop="20261102174500 +0100" channel="starz-stz1">
-    <title lang="en">S2 E7 - Heart of the Highlands</title>
-    <desc lang="en">Henry ventures off to procure gemstones. Julia finds a way to get back in Lovat's good graces. Brian returns to Leathers to settle a score.</desc>
-  </programme>
-  <programme start="20261102174500 +0100" stop="20261102183300 +0100" channel="starz-stz1">
-    <title lang="en">S1 E6 - Hate Crime</title>
-    <desc lang="en">Pulled back undercover by the FBI, Jude infiltrates a white supremacist crew, forcing the Exiles to question if they can still trust him.</desc>
-  </programme>
-  <programme start="20261102183300 +0100" stop="20261102192000 +0100" channel="starz-stz1">
-    <title lang="en">S1 E5 - Episode 5</title>
-    <desc lang="en">The war between Leo and Clive reaches a climax. George’s secrets spread and Leo makes a fateful decision that will change their lives forever.</desc>
-  </programme>
-  <programme start="20261102192000 +0100" stop="20261102202200 +0100" channel="starz-stz1">
-    <title lang="en">S2 E7 - Heart of the Highlands</title>
-    <desc lang="en">Henry ventures off to procure gemstones. Julia finds a way to get back in Lovat's good graces. Brian returns to Leathers to settle a score.</desc>
-  </programme>
-  <programme start="20261102202200 +0100" stop="20261102211100 +0100" channel="starz-stz1">
-    <title lang="en">S1 E6 - Hate Crime</title>
-    <desc lang="en">Pulled back undercover by the FBI, Jude infiltrates a white supremacist crew, forcing the Exiles to question if they can still trust him.</desc>
-  </programme>
-  <programme start="20261102211100 +0100" stop="20261102231100 +0100" channel="starz-stz1">
-    <title lang="en">The Devil You Know</title>
-    <desc lang="en">After a lifetime of trouble, a man has the chance to turn things around. He finds himself spiraling back into the dark place he overcame.</desc>
-  </programme>
-  <programme start="20261102231100 +0100" stop="20261103004000 +0100" channel="starz-stz1">
-    <title lang="en">Christmas Cover-Up</title>
-    <desc lang="en">Tori, Gwen and Sam have dreamed of killing their boss for years. This Christmas is no different—but some wishes are better left unspoken.</desc>
-  </programme>
-  <programme start="20261103004000 +0100" stop="20261103021100 +0100" channel="starz-stz1">
-    <title lang="en">Oscar Shaw</title>
-    <desc lang="en">A retired cop embarks on a quest for vengeance after his best friend's death, determined to achieve justice on his own terms.</desc>
-  </programme>
-  <programme start="20261103021100 +0100" stop="20261103030000 +0100" channel="starz-stz1">
-    <title lang="en">S1 E6 - Hate Crime</title>
-    <desc lang="en">Pulled back undercover by the FBI, Jude infiltrates a white supremacist crew, forcing the Exiles to question if they can still trust him.</desc>
-  </programme>
-  <programme start="20261103030000 +0100" stop="20261103040000 +0100" channel="starz-stz1">
-    <title lang="en">S2 E7 - Heart of the Highlands</title>
-    <desc lang="en">Henry ventures off to procure gemstones. Julia finds a way to get back in Lovat's good graces. Brian returns to Leathers to settle a score.</desc>
-  </programme>
-  <programme start="20261103040000 +0100" stop="20261103045000 +0100" channel="starz-stz1">
-    <title lang="en">S1 E5 - Episode 5</title>
-    <desc lang="en">The war between Leo and Clive reaches a climax. George’s secrets spread and Leo makes a fateful decision that will change their lives forever.</desc>
-  </programme>
   <programme start="20261103045000 +0100" stop="20261103064100 +0100" channel="starz-stz1">
     <title lang="en">Shelter</title>
     <desc lang="en">A man living on a secluded Scottish island saves a girl from the sea, triggering a chain of events that forces him to confront his troubled past.</desc>
   </programme>
-  <programme start="20261102045200 +0100" stop="20261102070100 +0100" channel="starz-stz3">
-    <title lang="en">Inside Man</title>
-    <desc lang="en">A police detective, a bank robber, and a broker enter high-stakes negotiations after the criminal's brilliant heist spirals into a hostage situation.</desc>
+  <programme start="20261103064100 +0100" stop="20261103085200 +0100" channel="starz-stz1">
+    <title lang="en">Michael</title>
+    <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
   </programme>
-  <programme start="20261102070100 +0100" stop="20261102081700 +0100" channel="starz-stz3">
-    <title lang="en">Nas: Time Is Illmatic</title>
-    <desc lang="en">A portrait of Nas and the making of &quot;Illmatic,&quot; showing how life in Queensbridge shaped one of hip‑hop’s most influential albums.</desc>
+  <programme start="20261103085200 +0100" stop="20261103110100 +0100" channel="starz-stz1">
+    <title lang="en">Why Men Are Clueless</title>
+    <desc lang="en">In order to land his dream job and win back the love of his life, a young man must figure out what women truly want with the help of his friends.</desc>
   </programme>
-  <programme start="20261102081700 +0100" stop="20261102093400 +0100" channel="starz-stz3">
-    <title lang="en">Anita: Speaking Truth To Power</title>
-    <desc lang="en">Anita Hill, the African-American lawyer who challenged Clarence Thomas' nomination, helped ignite a movement still resonating decades later.</desc>
+  <programme start="20261103110100 +0100" stop="20261103130000 +0100" channel="starz-stz1">
+    <title lang="en">The Devil You Know</title>
+    <desc lang="en">After a lifetime of trouble, a man has the chance to turn things around. He finds himself spiraling back into the dark place he overcame.</desc>
   </programme>
-  <programme start="20261102093400 +0100" stop="20261102111000 +0100" channel="starz-stz3">
-    <title lang="en">Alarum</title>
-    <desc lang="en">A retired assassin couple’s quiet life is upended after a plane crash puts them in possession of a secret file sought by government operatives.</desc>
+  <programme start="20261103130000 +0100" stop="20261103143200 +0100" channel="starz-stz1">
+    <title lang="en">Serendipity</title>
+    <desc lang="en">A chance meeting leads Jonathan and Sara to trust fate. Years later, they remain unable to forget each other despite new lives and commitments.</desc>
   </programme>
-  <programme start="20261102111000 +0100" stop="20261102123900 +0100" channel="starz-stz3">
-    <title lang="en">A Husband for Christmas</title>
-    <desc lang="en">Two co-workers agree to a loveless marriage of convenience, but as they become acquainted, an unrealized chemistry grows between them.</desc>
+  <programme start="20261103143200 +0100" stop="20261103162400 +0100" channel="starz-stz1">
+    <title lang="en">I Can Only Imagine 2</title>
+    <desc lang="en">Bart Millard, lead singer of MercyMe, has a personal crisis at the height of his career. He grapples with his faith, searching for a way to overcome.</desc>
   </programme>
-  <programme start="20261102123900 +0100" stop="20261102140700 +0100" channel="starz-stz3">
-    <title lang="en">Motives</title>
-    <desc lang="en">After Emery Simms betrays his wife for a one-night stand, he learns that in a world of high society and shady business, someone is always watching.</desc>
+  <programme start="20261103162400 +0100" stop="20261103180600 +0100" channel="starz-stz1">
+    <title lang="en">Leap Year</title>
+    <desc lang="en">A woman plans to propose to her boyfriend, but a series of comedic setbacks derails her trip and opens her eyes to the possibility of new love.</desc>
   </programme>
-  <programme start="20261102140700 +0100" stop="20261102154200 +0100" channel="starz-stz3">
-    <title lang="en">Motives 2: Retribution</title>
-    <desc lang="en">After a framed convict is killed in prison, his brother uncovers evidence implicating his best friend, pulling him into a deadly web of lies.</desc>
+  <programme start="20261103180600 +0100" stop="20261103201500 +0100" channel="starz-stz1">
+    <title lang="en">Michael</title>
+    <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
   </programme>
-  <programme start="20261102154200 +0100" stop="20261102174700 +0100" channel="starz-stz3">
-    <title lang="en">The Preacher's Wife</title>
-    <desc lang="en">When God overhears a church preacher despairing the potential loss of a youth center, he dispatches an angel to help him out.</desc>
+  <programme start="20261103201500 +0100" stop="20261103210600 +0100" channel="starz-stz1">
+    <title lang="en">S2 E1 - Grand Tour</title>
+    <desc lang="en">Catherine aims to unite France under King Charles IX, pushing her agenda of a secular state.</desc>
   </programme>
-  <programme start="20261102174700 +0100" stop="20261102192300 +0100" channel="starz-stz3">
-    <title lang="en">Alarum</title>
-    <desc lang="en">A retired assassin couple’s quiet life is upended after a plane crash puts them in possession of a secret file sought by government operatives.</desc>
+  <programme start="20261103210600 +0100" stop="20261103220000 +0100" channel="starz-stz1">
+    <title lang="en">S2 E2 - Second Coming</title>
+    <desc lang="en">With peace lying on a knife’s edge, Catherine attempts to calm tensions by allowing the Bourbons to pursue the trade deal with England.</desc>
   </programme>
-  <programme start="20261102192300 +0100" stop="20261102205100 +0100" channel="starz-stz3">
-    <title lang="en">I Really Hate My Ex!</title>
-    <desc lang="en">Three friends kidnap their exes to get closure, only to become internet sensations as their story captures the world's attention.</desc>
+  <programme start="20261103220000 +0100" stop="20261103235000 +0100" channel="starz-stz1">
+    <title lang="en">The Break-Up</title>
+    <desc lang="en">After breaking up, Gary and Brooke refuse to give up their condo. Living together as feuding roommates turns their breakup into an all-out battle.</desc>
   </programme>
-  <programme start="20261102205100 +0100" stop="20261102221900 +0100" channel="starz-stz3">
-    <title lang="en">Motives</title>
-    <desc lang="en">After Emery Simms betrays his wife for a one-night stand, he learns that in a world of high society and shady business, someone is always watching.</desc>
+  <programme start="20261103235000 +0100" stop="20261104012200 +0100" channel="starz-stz1">
+    <title lang="en">Serendipity</title>
+    <desc lang="en">A chance meeting leads Jonathan and Sara to trust fate. Years later, they remain unable to forget each other despite new lives and commitments.</desc>
   </programme>
-  <programme start="20261102221900 +0100" stop="20261102235400 +0100" channel="starz-stz3">
-    <title lang="en">Motives 2: Retribution</title>
-    <desc lang="en">After a framed convict is killed in prison, his brother uncovers evidence implicating his best friend, pulling him into a deadly web of lies.</desc>
+  <programme start="20261104012200 +0100" stop="20261104030000 +0100" channel="starz-stz1">
+    <title lang="en">A Richer Christmas</title>
+    <desc lang="en">When a wealthy family loses everything before the holidays, their world falls apart — but in the chaos, they discover the true meaning of Christmas.</desc>
   </programme>
-  <programme start="20261102235400 +0100" stop="20261103012300 +0100" channel="starz-stz3">
-    <title lang="en">Paper Soldiers</title>
-    <desc lang="en">Under the guidance from an experienced thief, a rookie burglar navigates the relationships in his life - all while committing robberies.</desc>
+  <programme start="20261104030000 +0100" stop="20261104051100 +0100" channel="starz-stz1">
+    <title lang="en">Michael</title>
+    <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
   </programme>
-  <programme start="20261103012300 +0100" stop="20261103025900 +0100" channel="starz-stz3">
-    <title lang="en">Alarum</title>
-    <desc lang="en">A retired assassin couple’s quiet life is upended after a plane crash puts them in possession of a secret file sought by government operatives.</desc>
-  </programme>
-  <programme start="20261103025900 +0100" stop="20261103050400 +0100" channel="starz-stz3">
-    <title lang="en">The Preacher's Wife</title>
-    <desc lang="en">When God overhears a church preacher despairing the potential loss of a youth center, he dispatches an angel to help him out.</desc>
+  <programme start="20261104051100 +0100" stop="20261104065000 +0100" channel="starz-stz1">
+    <title lang="en">All About the Benjamins</title>
+    <desc lang="en">A bounty hunter chasing a fast-talking con man uncovers a criminal plot tied to a fortune worth millions, forcing the pair to work together.</desc>
   </programme>
   <programme start="20261103050400 +0100" stop="20261103063300 +0100" channel="starz-stz3">
     <title lang="en">Apple Mortgage Cake</title>
     <desc lang="en">To avoid losing her home to foreclosure, single mother Angela Logan tries to bake and sell 100 apple cakes in 10 days. Based on a true story.</desc>
   </programme>
-  <programme start="20261102055500 +0100" stop="20261102072400 +0100" channel="starz-stz5">
-    <title lang="en">30 Beats</title>
-    <desc lang="en">A group of New Yorkers lives intertwine though a series of sexual encounters during a summer heat wave.</desc>
+  <programme start="20261103063300 +0100" stop="20261103081300 +0100" channel="starz-stz3">
+    <title lang="en">Out-Of-Sync</title>
+    <desc lang="en">After he is released from prison, a former DJ tries to go straight and put his various vices behind him.</desc>
   </programme>
-  <programme start="20261102072400 +0100" stop="20261102085800 +0100" channel="starz-stz5">
-    <title lang="en">Niagara, Niagara</title>
-    <desc lang="en">An outsider and a young woman with Tourette's syndrome embark on a journey to Canada together.
-</desc>
+  <programme start="20261103081300 +0100" stop="20261103094800 +0100" channel="starz-stz3">
+    <title lang="en">A Girl Like Grace</title>
+    <desc lang="en">A bullied 17-year-old seeks guidance from her best friend's older sister while dealing with loss and exploring her sexuality.</desc>
   </programme>
-  <programme start="20261102085800 +0100" stop="20261102103700 +0100" channel="starz-stz5">
-    <title lang="en">Blaze You Out</title>
-    <desc lang="en">An unyielding young woman ventures into the ruthless underworld of a town's heroin trade in order to save her younger sister's life.</desc>
+  <programme start="20261103094800 +0100" stop="20261103112200 +0100" channel="starz-stz3">
+    <title lang="en">How High</title>
+    <desc lang="en">Slacker friends Silas and Jamal land at Harvard, where their outrageous antics and love of partying turn campus life upside down.</desc>
   </programme>
-  <programme start="20261102103700 +0100" stop="20261102121200 +0100" channel="starz-stz5">
-    <title lang="en">Neon Lights</title>
-    <desc lang="en">A tech tycoon reunites with his estranged foster family at a remote estate, where a series of disappearances turns deadly.</desc>
+  <programme start="20261103112200 +0100" stop="20261103125100 +0100" channel="starz-stz3">
+    <title lang="en">How High 2</title>
+    <desc lang="en">Two jobless friends find a weed bible and mythical bud, but when both are stolen, they race across Atlanta to recover the stash and save their dream.</desc>
   </programme>
-  <programme start="20261102121200 +0100" stop="20261102133800 +0100" channel="starz-stz5">
-    <title lang="en">Surfer, Dude</title>
-    <desc lang="en">A champion surfer's carefree life is threatened by sleazy businessmen, forcing him to fight for his freedom.</desc>
+  <programme start="20261103125100 +0100" stop="20261103142100 +0100" channel="starz-stz3">
+    <title lang="en">Oscar Shaw</title>
+    <desc lang="en">A retired cop embarks on a quest for vengeance after his best friend's death, determined to achieve justice on his own terms.</desc>
   </programme>
-  <programme start="20261102133800 +0100" stop="20261102151400 +0100" channel="starz-stz5">
-    <title lang="en">Unhitched</title>
-    <desc lang="en">A struggling writer falls for his friend’s fiancée and, as best man, schemes to stop the wedding with help from his eccentric roommate.</desc>
+  <programme start="20261103142100 +0100" stop="20261103155600 +0100" channel="starz-stz3">
+    <title lang="en">A Girl Like Grace</title>
+    <desc lang="en">A bullied 17-year-old seeks guidance from her best friend's older sister while dealing with loss and exploring her sexuality.</desc>
   </programme>
-  <programme start="20261102151400 +0100" stop="20261102164600 +0100" channel="starz-stz5">
-    <title lang="en">Lovely &amp; Amazing</title>
-    <desc lang="en">Jane and her daughters face identity struggles and family chaos. When Jane's health declines, they must come together for comfort and strength.</desc>
+  <programme start="20261103155600 +0100" stop="20261103175300 +0100" channel="starz-stz3">
+    <title lang="en">The Devil You Know</title>
+    <desc lang="en">After a lifetime of trouble, a man has the chance to turn things around. He finds himself spiraling back into the dark place he overcame.</desc>
   </programme>
-  <programme start="20261102164600 +0100" stop="20261102180900 +0100" channel="starz-stz5">
-    <title lang="en">Phobic</title>
-    <desc lang="en">A fragile homicide detective sees similarities between herself and the victims of a killer who is murdering phobics by exposing them to their fears.</desc>
+  <programme start="20261103175300 +0100" stop="20261103192700 +0100" channel="starz-stz3">
+    <title lang="en">How High</title>
+    <desc lang="en">Slacker friends Silas and Jamal land at Harvard, where their outrageous antics and love of partying turn campus life upside down.</desc>
   </programme>
-  <programme start="20261102180900 +0100" stop="20261102194400 +0100" channel="starz-stz5">
-    <title lang="en">Neon Lights</title>
-    <desc lang="en">A tech tycoon reunites with his estranged foster family at a remote estate, where a series of disappearances turns deadly.</desc>
+  <programme start="20261103192700 +0100" stop="20261103205700 +0100" channel="starz-stz3">
+    <title lang="en">How High 2</title>
+    <desc lang="en">Two jobless friends find a weed bible and mythical bud, but when both are stolen, they race across Atlanta to recover the stash and save their dream.</desc>
   </programme>
-  <programme start="20261102194400 +0100" stop="20261102213900 +0100" channel="starz-stz5">
-    <title lang="en">The Brothers Bloom</title>
-    <desc lang="en">Two con‑artist brothers launch one last scheme, giving a quirky heiress a globe‑trotting adventure - until real feelings complicate their perfect con.</desc>
+  <programme start="20261103205700 +0100" stop="20261103222500 +0100" channel="starz-stz3">
+    <title lang="en">House Of The Rising Sun</title>
+    <desc lang="en">An ex-cop is hunted by the mob and police after a robbery turns deadly. To survive, Ray must find the killer and clear his name before it's too late.</desc>
   </programme>
-  <programme start="20261102213900 +0100" stop="20261102231500 +0100" channel="starz-stz5">
-    <title lang="en">Unhitched</title>
-    <desc lang="en">A struggling writer falls for his friend’s fiancée and, as best man, schemes to stop the wedding with help from his eccentric roommate.</desc>
+  <programme start="20261103222500 +0100" stop="20261104000000 +0100" channel="starz-stz3">
+    <title lang="en">A Girl Like Grace</title>
+    <desc lang="en">A bullied 17-year-old seeks guidance from her best friend's older sister while dealing with loss and exploring her sexuality.</desc>
   </programme>
-  <programme start="20261102231500 +0100" stop="20261103004900 +0100" channel="starz-stz5">
-    <title lang="en">One Last Heist</title>
-    <desc lang="en">In this true story, an ex-con partners with four aging thieves to rob the vaults beneath London's diamond district over Easter weekend, 2015.</desc>
+  <programme start="20261104000000 +0100" stop="20261104013400 +0100" channel="starz-stz3">
+    <title lang="en">How High</title>
+    <desc lang="en">Slacker friends Silas and Jamal land at Harvard, where their outrageous antics and love of partying turn campus life upside down.</desc>
   </programme>
-  <programme start="20261103004900 +0100" stop="20261103023100 +0100" channel="starz-stz5">
-    <title lang="en">You and I</title>
-    <desc lang="en">Two teenage girls fall in love after meeting at a t.A.T.u concert and are swept into a dangerous world of obsession, drug abuse and murder.</desc>
+  <programme start="20261104013400 +0100" stop="20261104030400 +0100" channel="starz-stz3">
+    <title lang="en">How High 2</title>
+    <desc lang="en">Two jobless friends find a weed bible and mythical bud, but when both are stolen, they race across Atlanta to recover the stash and save their dream.</desc>
   </programme>
-  <programme start="20261103023100 +0100" stop="20261103040300 +0100" channel="starz-stz5">
-    <title lang="en">Lovely &amp; Amazing</title>
-    <desc lang="en">Jane and her daughters face identity struggles and family chaos. When Jane's health declines, they must come together for comfort and strength.</desc>
+  <programme start="20261104030400 +0100" stop="20261104050100 +0100" channel="starz-stz3">
+    <title lang="en">The Devil You Know</title>
+    <desc lang="en">After a lifetime of trouble, a man has the chance to turn things around. He finds himself spiraling back into the dark place he overcame.</desc>
   </programme>
-  <programme start="20261103040300 +0100" stop="20261103055800 +0100" channel="starz-stz5">
-    <title lang="en">The Brothers Bloom</title>
-    <desc lang="en">Two con‑artist brothers launch one last scheme, giving a quirky heiress a globe‑trotting adventure - until real feelings complicate their perfect con.</desc>
+  <programme start="20261104050100 +0100" stop="20261104063600 +0100" channel="starz-stz3">
+    <title lang="en">A Girl Like Grace</title>
+    <desc lang="en">A bullied 17-year-old seeks guidance from her best friend's older sister while dealing with loss and exploring her sexuality.</desc>
   </programme>
   <programme start="20261103055800 +0100" stop="20261103073200 +0100" channel="starz-stz5">
     <title lang="en">One Last Heist</title>
     <desc lang="en">In this true story, an ex-con partners with four aging thieves to rob the vaults beneath London's diamond district over Easter weekend, 2015.</desc>
   </programme>
-  <programme start="20261102054700 +0100" stop="20261102063500 +0100" channel="starz-stz6">
-    <title lang="en">S1 E5 - Episode 5</title>
-    <desc lang="en">The war between Leo and Clive reaches a climax. George’s secrets spread and Leo makes a fateful decision that will change their lives forever.</desc>
+  <programme start="20261103073200 +0100" stop="20261103091800 +0100" channel="starz-stz5">
+    <title lang="en">Everybody Wants To Be Italian</title>
+    <desc lang="en">Jake fakes being Italian to impress a stunning woman - leading to a romantic case of mistaken identity that might help him love again.</desc>
   </programme>
-  <programme start="20261102063500 +0100" stop="20261102083900 +0100" channel="starz-stz6">
-    <title lang="en">Hot Fuzz</title>
-    <desc lang="en">When elite cop Nicholas Angel is sent to a sleepy village, suspicious deaths force him and his bumbling partner into action.</desc>
+  <programme start="20261103091800 +0100" stop="20261103105100 +0100" channel="starz-stz5">
+    <title lang="en">These Girls</title>
+    <desc lang="en">Three friends share the older married man they all desire, leaving him desperate to keep up.</desc>
   </programme>
-  <programme start="20261102083900 +0100" stop="20261102095000 +0100" channel="starz-stz6">
-    <title lang="en">A Christmas Scam</title>
-    <desc lang="en">An R&amp;B singer’s Christmas concert is threatened by missing money, a trusted friend’s betrayal and a family secret that could change everything.</desc>
+  <programme start="20261103105100 +0100" stop="20261103123700 +0100" channel="starz-stz5">
+    <title lang="en">Chosen</title>
+    <desc lang="en">After his wife's death, a quiet lawyer poses as an SS officer to rescue resistance fighters and discovers the hero deep within himself.</desc>
   </programme>
-  <programme start="20261102095000 +0100" stop="20261102111700 +0100" channel="starz-stz6">
-    <title lang="en">Christmas Cover-Up</title>
-    <desc lang="en">Tori, Gwen and Sam have dreamed of killing their boss for years. This Christmas is no different—but some wishes are better left unspoken.</desc>
+  <programme start="20261103123700 +0100" stop="20261103141900 +0100" channel="starz-stz5">
+    <title lang="en">You and I</title>
+    <desc lang="en">Two teenage girls fall in love after meeting at a t.A.T.u concert and are swept into a dangerous world of obsession, drug abuse and murder.</desc>
   </programme>
-  <programme start="20261102111700 +0100" stop="20261102130200 +0100" channel="starz-stz6">
-    <title lang="en">Unexpected Christmas</title>
-    <desc lang="en">A family's perfect Christmas reunion is upended when old rivalries, secrets, and romantic mix-ups come to a head.</desc>
+  <programme start="20261103141900 +0100" stop="20261103155700 +0100" channel="starz-stz5">
+    <title lang="en">Love Me</title>
+    <desc lang="en">A new boy in town captures the attention of a girl while their small town is consumed with the prospect of a serial killer stalking young women.</desc>
   </programme>
-  <programme start="20261102130200 +0100" stop="20261102151200 +0100" channel="starz-stz6">
-    <title lang="en">The Lost World: Jurassic Park</title>
-    <desc lang="en">Four years after Jurassic Park, an expedition to a dinosaur-filled island turns deadly when rival groups seek to exploit its prehistoric inhabitants.</desc>
+  <programme start="20261103155700 +0100" stop="20261103173900 +0100" channel="starz-stz5">
+    <title lang="en">2 Days In Paris</title>
+    <desc lang="en">A New York couple attempt to re-infuse their relationship with romance on a European vacation.</desc>
   </programme>
-  <programme start="20261102151200 +0100" stop="20261102164500 +0100" channel="starz-stz6">
-    <title lang="en">Jurassic Park III</title>
-    <desc lang="en">Years after Jurassic Park, a paleontologist returns to an island overrun by dinosaurs, where a search for a missing boy becomes a fight to stay alive.</desc>
+  <programme start="20261103173900 +0100" stop="20261103190600 +0100" channel="starz-stz5">
+    <title lang="en">Let It Snow</title>
+    <desc lang="en">A snowboarder battles the elements - and a masked snowmobile rider who's out for blood.</desc>
   </programme>
-  <programme start="20261102164500 +0100" stop="20261102174500 +0100" channel="starz-stz6">
-    <title lang="en">S2 E7 - Heart of the Highlands</title>
-    <desc lang="en">Henry ventures off to procure gemstones. Julia finds a way to get back in Lovat's good graces. Brian returns to Leathers to settle a score.</desc>
+  <programme start="20261103190600 +0100" stop="20261103205900 +0100" channel="starz-stz5">
+    <title lang="en">Fierce People</title>
+    <desc lang="en">A drug addicted mother and her son are invited to spend the summer at the estate of an old friend and his eccentric family members.</desc>
   </programme>
-  <programme start="20261102174500 +0100" stop="20261102183300 +0100" channel="starz-stz6">
-    <title lang="en">S1 E6 - Hate Crime</title>
-    <desc lang="en">Pulled back undercover by the FBI, Jude infiltrates a white supremacist crew, forcing the Exiles to question if they can still trust him.</desc>
+  <programme start="20261103205900 +0100" stop="20261103224100 +0100" channel="starz-stz5">
+    <title lang="en">Shanghai Calling</title>
+    <desc lang="en">Sent to Shanghai instead of making partner, an ambitious attorney discovers unexpected opportunities beyond his career goals.</desc>
   </programme>
-  <programme start="20261102183300 +0100" stop="20261102192000 +0100" channel="starz-stz6">
-    <title lang="en">S1 E5 - Episode 5</title>
-    <desc lang="en">The war between Leo and Clive reaches a climax. George’s secrets spread and Leo makes a fateful decision that will change their lives forever.</desc>
+  <programme start="20261103224100 +0100" stop="20261104002700 +0100" channel="starz-stz5">
+    <title lang="en">One Night In Bangkok</title>
+    <desc lang="en">A hit man on an all-night murder job hires a female cabbie as his driver. Will she survive? Will he?</desc>
   </programme>
-  <programme start="20261102192000 +0100" stop="20261102202200 +0100" channel="starz-stz6">
-    <title lang="en">S2 E7 - Heart of the Highlands</title>
-    <desc lang="en">Henry ventures off to procure gemstones. Julia finds a way to get back in Lovat's good graces. Brian returns to Leathers to settle a score.</desc>
+  <programme start="20261104002700 +0100" stop="20261104021800 +0100" channel="starz-stz5">
+    <title lang="en">Tucker: The Man And His Dream</title>
+    <desc lang="en">The story of auto maker Preston Tucker's fight to bring a better car to the market and the Detroit corporate powers who were out to stop him.</desc>
   </programme>
-  <programme start="20261102202200 +0100" stop="20261102211100 +0100" channel="starz-stz6">
-    <title lang="en">S1 E6 - Hate Crime</title>
-    <desc lang="en">Pulled back undercover by the FBI, Jude infiltrates a white supremacist crew, forcing the Exiles to question if they can still trust him.</desc>
+  <programme start="20261104021800 +0100" stop="20261104040000 +0100" channel="starz-stz5">
+    <title lang="en">2 Days In Paris</title>
+    <desc lang="en">A New York couple attempt to re-infuse their relationship with romance on a European vacation.</desc>
   </programme>
-  <programme start="20261102211100 +0100" stop="20261102231100 +0100" channel="starz-stz6">
-    <title lang="en">The Devil You Know</title>
-    <desc lang="en">After a lifetime of trouble, a man has the chance to turn things around. He finds himself spiraling back into the dark place he overcame.</desc>
+  <programme start="20261104040000 +0100" stop="20261104055300 +0100" channel="starz-stz5">
+    <title lang="en">Fierce People</title>
+    <desc lang="en">A drug addicted mother and her son are invited to spend the summer at the estate of an old friend and his eccentric family members.</desc>
   </programme>
-  <programme start="20261102231100 +0100" stop="20261103004000 +0100" channel="starz-stz6">
-    <title lang="en">Christmas Cover-Up</title>
-    <desc lang="en">Tori, Gwen and Sam have dreamed of killing their boss for years. This Christmas is no different—but some wishes are better left unspoken.</desc>
-  </programme>
-  <programme start="20261103004000 +0100" stop="20261103021100 +0100" channel="starz-stz6">
-    <title lang="en">Oscar Shaw</title>
-    <desc lang="en">A retired cop embarks on a quest for vengeance after his best friend's death, determined to achieve justice on his own terms.</desc>
-  </programme>
-  <programme start="20261103021100 +0100" stop="20261103030000 +0100" channel="starz-stz6">
-    <title lang="en">S1 E6 - Hate Crime</title>
-    <desc lang="en">Pulled back undercover by the FBI, Jude infiltrates a white supremacist crew, forcing the Exiles to question if they can still trust him.</desc>
-  </programme>
-  <programme start="20261103030000 +0100" stop="20261103040000 +0100" channel="starz-stz6">
-    <title lang="en">S2 E7 - Heart of the Highlands</title>
-    <desc lang="en">Henry ventures off to procure gemstones. Julia finds a way to get back in Lovat's good graces. Brian returns to Leathers to settle a score.</desc>
-  </programme>
-  <programme start="20261103040000 +0100" stop="20261103045000 +0100" channel="starz-stz6">
-    <title lang="en">S1 E5 - Episode 5</title>
-    <desc lang="en">The war between Leo and Clive reaches a climax. George’s secrets spread and Leo makes a fateful decision that will change their lives forever.</desc>
+  <programme start="20261104055300 +0100" stop="20261104073900 +0100" channel="starz-stz5">
+    <title lang="en">One Night In Bangkok</title>
+    <desc lang="en">A hit man on an all-night murder job hires a female cabbie as his driver. Will she survive? Will he?</desc>
   </programme>
   <programme start="20261103045000 +0100" stop="20261103064100 +0100" channel="starz-stz6">
     <title lang="en">Shelter</title>
     <desc lang="en">A man living on a secluded Scottish island saves a girl from the sea, triggering a chain of events that forces him to confront his troubled past.</desc>
   </programme>
-  <programme start="20261102052800 +0100" stop="20261102071500 +0100" channel="starz-stz7">
+  <programme start="20261103064100 +0100" stop="20261103085200 +0100" channel="starz-stz6">
+    <title lang="en">Michael</title>
+    <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
+  </programme>
+  <programme start="20261103085200 +0100" stop="20261103110100 +0100" channel="starz-stz6">
+    <title lang="en">Why Men Are Clueless</title>
+    <desc lang="en">In order to land his dream job and win back the love of his life, a young man must figure out what women truly want with the help of his friends.</desc>
+  </programme>
+  <programme start="20261103110100 +0100" stop="20261103130000 +0100" channel="starz-stz6">
+    <title lang="en">The Devil You Know</title>
+    <desc lang="en">After a lifetime of trouble, a man has the chance to turn things around. He finds himself spiraling back into the dark place he overcame.</desc>
+  </programme>
+  <programme start="20261103130000 +0100" stop="20261103143200 +0100" channel="starz-stz6">
+    <title lang="en">Serendipity</title>
+    <desc lang="en">A chance meeting leads Jonathan and Sara to trust fate. Years later, they remain unable to forget each other despite new lives and commitments.</desc>
+  </programme>
+  <programme start="20261103143200 +0100" stop="20261103162400 +0100" channel="starz-stz6">
+    <title lang="en">I Can Only Imagine 2</title>
+    <desc lang="en">Bart Millard, lead singer of MercyMe, has a personal crisis at the height of his career. He grapples with his faith, searching for a way to overcome.</desc>
+  </programme>
+  <programme start="20261103162400 +0100" stop="20261103180600 +0100" channel="starz-stz6">
+    <title lang="en">Leap Year</title>
+    <desc lang="en">A woman plans to propose to her boyfriend, but a series of comedic setbacks derails her trip and opens her eyes to the possibility of new love.</desc>
+  </programme>
+  <programme start="20261103180600 +0100" stop="20261103201500 +0100" channel="starz-stz6">
+    <title lang="en">Michael</title>
+    <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
+  </programme>
+  <programme start="20261103201500 +0100" stop="20261103210600 +0100" channel="starz-stz6">
+    <title lang="en">S2 E1 - Grand Tour</title>
+    <desc lang="en">Catherine aims to unite France under King Charles IX, pushing her agenda of a secular state.</desc>
+  </programme>
+  <programme start="20261103210600 +0100" stop="20261103220000 +0100" channel="starz-stz6">
+    <title lang="en">S2 E2 - Second Coming</title>
+    <desc lang="en">With peace lying on a knife’s edge, Catherine attempts to calm tensions by allowing the Bourbons to pursue the trade deal with England.</desc>
+  </programme>
+  <programme start="20261103220000 +0100" stop="20261103235000 +0100" channel="starz-stz6">
     <title lang="en">The Break-Up</title>
     <desc lang="en">After breaking up, Gary and Brooke refuse to give up their condo. Living together as feuding roommates turns their breakup into an all-out battle.</desc>
   </programme>
-  <programme start="20261102071500 +0100" stop="20261102084300 +0100" channel="starz-stz7">
-    <title lang="en">Lesbian Vampire Killers</title>
-    <desc lang="en">Two young lads head out to the country and find themselves stuck in a village where all the women have been enslaved by a legendary vampire curse.</desc>
+  <programme start="20261103235000 +0100" stop="20261104012200 +0100" channel="starz-stz6">
+    <title lang="en">Serendipity</title>
+    <desc lang="en">A chance meeting leads Jonathan and Sara to trust fate. Years later, they remain unable to forget each other despite new lives and commitments.</desc>
   </programme>
-  <programme start="20261102084300 +0100" stop="20261102102400 +0100" channel="starz-stz7">
-    <title lang="en">At Middleton</title>
-    <desc lang="en">A strict surgeon and a free-spirited woman bond on a college tour, but the real lessons in love and life begin once they break from the group.</desc>
+  <programme start="20261104012200 +0100" stop="20261104030000 +0100" channel="starz-stz6">
+    <title lang="en">A Richer Christmas</title>
+    <desc lang="en">When a wealthy family loses everything before the holidays, their world falls apart — but in the chaos, they discover the true meaning of Christmas.</desc>
   </programme>
-  <programme start="20261102102400 +0100" stop="20261102115200 +0100" channel="starz-stz7">
-    <title lang="en">Detention Of The Dead</title>
-    <desc lang="en">A quirky group of high school students finds themselves stuck in detention as their classmates transform into a zombie horde.</desc>
+  <programme start="20261104030000 +0100" stop="20261104051100 +0100" channel="starz-stz6">
+    <title lang="en">Michael</title>
+    <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
   </programme>
-  <programme start="20261102115200 +0100" stop="20261102132800 +0100" channel="starz-stz7">
-    <title lang="en">It Only Takes A Night</title>
-    <desc lang="en">After one of them experiences a brutal breakup, a wild night out meant to be a distraction turns into a life altering series of events.</desc>
-  </programme>
-  <programme start="20261102132800 +0100" stop="20261102145900 +0100" channel="starz-stz7">
-    <title lang="en">The Art of the Steal</title>
-    <desc lang="en">Crunch Calhoun, a third rate motorcycle daredevil and semi-reformed art thief, agrees to pull off one last heist with his conniving brother, Nicky.</desc>
-  </programme>
-  <programme start="20261102145900 +0100" stop="20261102163700 +0100" channel="starz-stz7">
-    <title lang="en">Empire Waist</title>
-    <desc lang="en">Lenore hides her love for fashion to avoid bullying. With support from her dad, best friend, and teacher, she finds the courage to be herself.</desc>
-  </programme>
-  <programme start="20261102163700 +0100" stop="20261102182100 +0100" channel="starz-stz7">
-    <title lang="en">The Winning Season</title>
-    <desc lang="en">A washed-up coach gets a chance to redeem himself when tasked with leading a high school girls' varsity basketball team.</desc>
-  </programme>
-  <programme start="20261102182100 +0100" stop="20261102193800 +0100" channel="starz-stz7">
-    <title lang="en">Adam Sandler's Eight Crazy Nights</title>
-    <desc lang="en">A local troublemaker spends Hanukkah dodging consequences, clashing with townspeople, and stumbling toward redemption.</desc>
-  </programme>
-  <programme start="20261102193800 +0100" stop="20261102210900 +0100" channel="starz-stz7">
-    <title lang="en">The Art of the Steal</title>
-    <desc lang="en">Crunch Calhoun, a third rate motorcycle daredevil and semi-reformed art thief, agrees to pull off one last heist with his conniving brother, Nicky.</desc>
-  </programme>
-  <programme start="20261102210900 +0100" stop="20261102225400 +0100" channel="starz-stz7">
-    <title lang="en">The Dangerous Lives Of Altar Boys</title>
-    <desc lang="en">A group of Catholic school students rebel against the strict and repressive teaching of Sister Asumpta.</desc>
-  </programme>
-  <programme start="20261102225400 +0100" stop="20261103002200 +0100" channel="starz-stz7">
-    <title lang="en">Detention Of The Dead</title>
-    <desc lang="en">A quirky group of high school students finds themselves stuck in detention as their classmates transform into a zombie horde.</desc>
-  </programme>
-  <programme start="20261103002200 +0100" stop="20261103020000 +0100" channel="starz-stz7">
-    <title lang="en">Empire Waist</title>
-    <desc lang="en">Lenore hides her love for fashion to avoid bullying. With support from her dad, best friend, and teacher, she finds the courage to be herself.</desc>
-  </programme>
-  <programme start="20261103020000 +0100" stop="20261103033100 +0100" channel="starz-stz7">
-    <title lang="en">The Art of the Steal</title>
-    <desc lang="en">Crunch Calhoun, a third rate motorcycle daredevil and semi-reformed art thief, agrees to pull off one last heist with his conniving brother, Nicky.</desc>
-  </programme>
-  <programme start="20261103033100 +0100" stop="20261103044800 +0100" channel="starz-stz7">
-    <title lang="en">Adam Sandler's Eight Crazy Nights</title>
-    <desc lang="en">A local troublemaker spends Hanukkah dodging consequences, clashing with townspeople, and stumbling toward redemption.</desc>
+  <programme start="20261104051100 +0100" stop="20261104065000 +0100" channel="starz-stz6">
+    <title lang="en">All About the Benjamins</title>
+    <desc lang="en">A bounty hunter chasing a fast-talking con man uncovers a criminal plot tied to a fortune worth millions, forcing the pair to work together.</desc>
   </programme>
   <programme start="20261103044800 +0100" stop="20261103063200 +0100" channel="starz-stz7">
     <title lang="en">The Winning Season</title>
     <desc lang="en">A washed-up coach gets a chance to redeem himself when tasked with leading a high school girls' varsity basketball team.</desc>
   </programme>
-  <programme start="20261102053800 +0100" stop="20261102071300 +0100" channel="starz-stz8">
-    <title lang="en">The Call</title>
-    <desc lang="en">Worlds collide when a 911 operator takes a call from an abducted teenage girl. The operator must confront a killer from her own past to save the girl.</desc>
+  <programme start="20261103063200 +0100" stop="20261103080100 +0100" channel="starz-stz7">
+    <title lang="en">Permanent Midnight</title>
+    <desc lang="en">The true story of a successful television writer who keeps making hits during a haunting, darkly comic descent into a $6000 per week heroin addiction.</desc>
   </programme>
-  <programme start="20261102071300 +0100" stop="20261102085900 +0100" channel="starz-stz8">
-    <title lang="en">Hirokin: The Last Samurai</title>
-    <desc lang="en">After his family is killed, Hirokin must choose revenge or freedom for his people as he uncovers a shocking truth about his past.</desc>
+  <programme start="20261103080100 +0100" stop="20261103093100 +0100" channel="starz-stz7">
+    <title lang="en">Phat Beach</title>
+    <desc lang="en">Benny's dull summer job takes a turn when Durrell arrives. They go to the beach to sell sunglasses, but fun and bikinis quickly become the real focus.</desc>
   </programme>
-  <programme start="20261102085900 +0100" stop="20261102104100 +0100" channel="starz-stz8">
-    <title lang="en">Shanghai Calling</title>
-    <desc lang="en">Sent to Shanghai instead of making partner, an ambitious attorney discovers unexpected opportunities beyond his career goals.</desc>
+  <programme start="20261103093100 +0100" stop="20261103112500 +0100" channel="starz-stz7">
+    <title lang="en">Damsel</title>
+    <desc lang="en">It's the Wild West, circa 1870. Samuel Alabaster, an affluent pioneer, ventures across the American frontier to marry the love of his life, Penelope.</desc>
   </programme>
-  <programme start="20261102104100 +0100" stop="20261102122000 +0100" channel="starz-stz8">
-    <title lang="en">Little Odessa</title>
-    <desc lang="en">A ruthless assassin reconnects with his distant Russian immigrant family in Brooklyn.</desc>
+  <programme start="20261103112500 +0100" stop="20261103125400 +0100" channel="starz-stz7">
+    <title lang="en">30 Beats</title>
+    <desc lang="en">A group of New Yorkers lives intertwine though a series of sexual encounters during a summer heat wave.</desc>
   </programme>
-  <programme start="20261102122000 +0100" stop="20261102140200 +0100" channel="starz-stz8">
-    <title lang="en">Collision</title>
-    <desc lang="en">When a honeymooning couple survives a crash in the Moroccan desert, long-buried secrets emerge, turning their fight for survival into a test of trust.</desc>
+  <programme start="20261103125400 +0100" stop="20261103144900 +0100" channel="starz-stz7">
+    <title lang="en">Dudes &amp; Dragons</title>
+    <desc lang="en">When an evil wizard ravages the land with an army of dragons, it's up to two brothers to fight back and save the damsel in distress.</desc>
   </programme>
-  <programme start="20261102140200 +0100" stop="20261102153700 +0100" channel="starz-stz8">
-    <title lang="en">Isolation</title>
-    <desc lang="en">A trip to save a failing marriage turns into a fight for survival when a couple becomes the target of dangerous criminals on a remote island.</desc>
+  <programme start="20261103144900 +0100" stop="20261103161500 +0100" channel="starz-stz7">
+    <title lang="en">Knights Of Badassdom</title>
+    <desc lang="en">When a LARPing adventure unleashes a deadly demon, three friends must become real heroes to survive a fantasy that's suddenly all too real.</desc>
   </programme>
-  <programme start="20261102153700 +0100" stop="20261102171600 +0100" channel="starz-stz8">
-    <title lang="en">Ask Me Anything</title>
-    <desc lang="en">A confused teenager writes a blog revealing her daily activities and secrets, advised by her guidance counselor in lieu of her first year in college.</desc>
+  <programme start="20261103161500 +0100" stop="20261103180900 +0100" channel="starz-stz7">
+    <title lang="en">Damsel</title>
+    <desc lang="en">It's the Wild West, circa 1870. Samuel Alabaster, an affluent pioneer, ventures across the American frontier to marry the love of his life, Penelope.</desc>
   </programme>
-  <programme start="20261102171600 +0100" stop="20261102185500 +0100" channel="starz-stz8">
-    <title lang="en">A Christmas Destiny</title>
-    <desc lang="en">Five years after one magical Christmas Eve, two strangers who lost touch meet again at a family holiday party, each now with someone else.</desc>
+  <programme start="20261103180900 +0100" stop="20261103194300 +0100" channel="starz-stz7">
+    <title lang="en">Last Chance Harvey</title>
+    <desc lang="en">In London for his daughter's wedding - where nothing goes right - Harvey, a rumpled jingle writer, meets an intriguing woman.</desc>
   </programme>
-  <programme start="20261102185500 +0100" stop="20261102204800 +0100" channel="starz-stz8">
-    <title lang="en">The Change-Up</title>
-    <desc lang="en">Dave is married with three kids, and Mitch is single and at the prime of his sexual life. One night, lightning strikes and they switch bodies!</desc>
+  <programme start="20261103194300 +0100" stop="20261103212600 +0100" channel="starz-stz7">
+    <title lang="en">Love And A .45</title>
+    <desc lang="en">A small time robber and his fiance are on the run from a dangerous psychopath, loansharks, and the police, as they make their getaway into Mexico.</desc>
   </programme>
-  <programme start="20261102204800 +0100" stop="20261102224600 +0100" channel="starz-stz8">
-    <title lang="en">What Men Want</title>
-    <desc lang="en">After gaining the ability to hear men’s thoughts, sports agent Ali uses her new power to outplay her coworkers and chase chase a superstar client.</desc>
+  <programme start="20261103212600 +0100" stop="20261103225200 +0100" channel="starz-stz7">
+    <title lang="en">Knights Of Badassdom</title>
+    <desc lang="en">When a LARPing adventure unleashes a deadly demon, three friends must become real heroes to survive a fantasy that's suddenly all too real.</desc>
   </programme>
-  <programme start="20261102224600 +0100" stop="20261103002800 +0100" channel="starz-stz8">
-    <title lang="en">Collision</title>
-    <desc lang="en">When a honeymooning couple survives a crash in the Moroccan desert, long-buried secrets emerge, turning their fight for survival into a test of trust.</desc>
+  <programme start="20261103225200 +0100" stop="20261104002600 +0100" channel="starz-stz7">
+    <title lang="en">Table For Three</title>
+    <desc lang="en">After his girlfriend dumps him, Scott invites a seemingly ideal couple to share his apartment... only for them get involved in every part of his life.</desc>
   </programme>
-  <programme start="20261103002800 +0100" stop="20261103020700 +0100" channel="starz-stz8">
-    <title lang="en">Ask Me Anything</title>
-    <desc lang="en">A confused teenager writes a blog revealing her daily activities and secrets, advised by her guidance counselor in lieu of her first year in college.</desc>
+  <programme start="20261104002600 +0100" stop="20261104020000 +0100" channel="starz-stz7">
+    <title lang="en">Last Chance Harvey</title>
+    <desc lang="en">In London for his daughter's wedding - where nothing goes right - Harvey, a rumpled jingle writer, meets an intriguing woman.</desc>
   </programme>
-  <programme start="20261103020700 +0100" stop="20261103040000 +0100" channel="starz-stz8">
-    <title lang="en">The Change-Up</title>
-    <desc lang="en">Dave is married with three kids, and Mitch is single and at the prime of his sexual life. One night, lightning strikes and they switch bodies!</desc>
+  <programme start="20261104020000 +0100" stop="20261104035400 +0100" channel="starz-stz7">
+    <title lang="en">Damsel</title>
+    <desc lang="en">It's the Wild West, circa 1870. Samuel Alabaster, an affluent pioneer, ventures across the American frontier to marry the love of his life, Penelope.</desc>
   </programme>
-  <programme start="20261103040000 +0100" stop="20261103045100 +0100" channel="starz-stz8">
-    <title lang="en">S1 E5 - Episode 5</title>
-    <desc lang="en">The war between Leo and Clive reaches a climax. George’s secrets spread and Leo makes a fateful decision that will change their lives forever.</desc>
+  <programme start="20261104035400 +0100" stop="20261104052000 +0100" channel="starz-stz7">
+    <title lang="en">Knights Of Badassdom</title>
+    <desc lang="en">When a LARPing adventure unleashes a deadly demon, three friends must become real heroes to survive a fantasy that's suddenly all too real.</desc>
   </programme>
-  <programme start="20261103045100 +0100" stop="20261103055100 +0100" channel="starz-stz8">
-    <title lang="en">S2 E7 - Heart of the Highlands</title>
-    <desc lang="en">Henry ventures off to procure gemstones. Julia finds a way to get back in Lovat's good graces. Brian returns to Leathers to settle a score.</desc>
+  <programme start="20261104052000 +0100" stop="20261104070000 +0100" channel="starz-stz7">
+    <title lang="en">Man About Town</title>
+    <desc lang="en">Jack, a powerful Hollywood agent, joins a self-help class to fix his life—sparking gossip and laughs when word gets out.</desc>
   </programme>
   <programme start="20261103055100 +0100" stop="20261103064200 +0100" channel="starz-stz8">
     <title lang="en">S1 E5 - Episode 5</title>
     <desc lang="en">The war between Leo and Clive reaches a climax. George’s secrets spread and Leo makes a fateful decision that will change their lives forever.</desc>
   </programme>
-  <programme start="20261102054700 +0100" stop="20261102063500 +0100" channel="starz-stz9">
-    <title lang="en">S1 E5 - Episode 5</title>
-    <desc lang="en">The war between Leo and Clive reaches a climax. George’s secrets spread and Leo makes a fateful decision that will change their lives forever.</desc>
+  <programme start="20261103064200 +0100" stop="20261103084000 +0100" channel="starz-stz8">
+    <title lang="en">What Men Want</title>
+    <desc lang="en">After gaining the ability to hear men’s thoughts, sports agent Ali uses her new power to outplay her coworkers and chase chase a superstar client.</desc>
   </programme>
-  <programme start="20261102063500 +0100" stop="20261102083900 +0100" channel="starz-stz9">
-    <title lang="en">Hot Fuzz</title>
-    <desc lang="en">When elite cop Nicholas Angel is sent to a sleepy village, suspicious deaths force him and his bumbling partner into action.</desc>
+  <programme start="20261103084000 +0100" stop="20261103100300 +0100" channel="starz-stz8">
+    <title lang="en">Freezer</title>
+    <desc lang="en">An everyday guy must fight for his life after Russian thugs trap him inside an industrial freezer, demanding he return millions of dollars.</desc>
   </programme>
-  <programme start="20261102083900 +0100" stop="20261102095000 +0100" channel="starz-stz9">
-    <title lang="en">A Christmas Scam</title>
-    <desc lang="en">An R&amp;B singer’s Christmas concert is threatened by missing money, a trusted friend’s betrayal and a family secret that could change everything.</desc>
+  <programme start="20261103100300 +0100" stop="20261103113200 +0100" channel="starz-stz8">
+    <title lang="en">Bloodthirst</title>
+    <desc lang="en">In a world dominated by vampires, a skilled vampire hunter races to destroy the master vampire before he becomes the next victim.</desc>
   </programme>
-  <programme start="20261102095000 +0100" stop="20261102111700 +0100" channel="starz-stz9">
-    <title lang="en">Christmas Cover-Up</title>
-    <desc lang="en">Tori, Gwen and Sam have dreamed of killing their boss for years. This Christmas is no different—but some wishes are better left unspoken.</desc>
+  <programme start="20261103113200 +0100" stop="20261103130700 +0100" channel="starz-stz8">
+    <title lang="en">Dìdi</title>
+    <desc lang="en">In 2008, during the last summer before high school begins, a 13-year-old Taiwanese American boy learns to skate, flirt, and love his mom.</desc>
   </programme>
-  <programme start="20261102111700 +0100" stop="20261102130200 +0100" channel="starz-stz9">
-    <title lang="en">Unexpected Christmas</title>
-    <desc lang="en">A family's perfect Christmas reunion is upended when old rivalries, secrets, and romantic mix-ups come to a head.</desc>
+  <programme start="20261103130700 +0100" stop="20261103144900 +0100" channel="starz-stz8">
+    <title lang="en">The Heavy</title>
+    <desc lang="en">After learning someone wants him dead, Boots Mason hunts for revenge and uncovers secrets that make trust impossible.</desc>
   </programme>
-  <programme start="20261102130200 +0100" stop="20261102151200 +0100" channel="starz-stz9">
-    <title lang="en">The Lost World: Jurassic Park</title>
-    <desc lang="en">Four years after Jurassic Park, an expedition to a dinosaur-filled island turns deadly when rival groups seek to exploit its prehistoric inhabitants.</desc>
+  <programme start="20261103144900 +0100" stop="20261103162700 +0100" channel="starz-stz8">
+    <title lang="en">Bulletproof 2</title>
+    <desc lang="en">Agent Carter impersonates the crook who once shot him, teaming up with him to survive a botched cartel deal and stop a laundering scheme.</desc>
   </programme>
-  <programme start="20261102151200 +0100" stop="20261102164500 +0100" channel="starz-stz9">
-    <title lang="en">Jurassic Park III</title>
-    <desc lang="en">Years after Jurassic Park, a paleontologist returns to an island overrun by dinosaurs, where a search for a missing boy becomes a fight to stay alive.</desc>
+  <programme start="20261103162700 +0100" stop="20261103175900 +0100" channel="starz-stz8">
+    <title lang="en">Date And Switch</title>
+    <desc lang="en">Two high school seniors make a pact to lose their virginity before prom, but their plan takes an unexpected turn when one reveals he’s gay.</desc>
   </programme>
-  <programme start="20261102164500 +0100" stop="20261102174500 +0100" channel="starz-stz9">
+  <programme start="20261103175900 +0100" stop="20261103193100 +0100" channel="starz-stz8">
+    <title lang="en">The Target</title>
+    <desc lang="en">A bodyguard discovers that the prominent businessman he has been assigned to protect murdered his parents many years earlier.</desc>
+  </programme>
+  <programme start="20261103193100 +0100" stop="20261103203100 +0100" channel="starz-stz8">
     <title lang="en">S2 E7 - Heart of the Highlands</title>
     <desc lang="en">Henry ventures off to procure gemstones. Julia finds a way to get back in Lovat's good graces. Brian returns to Leathers to settle a score.</desc>
   </programme>
-  <programme start="20261102174500 +0100" stop="20261102183300 +0100" channel="starz-stz9">
-    <title lang="en">S1 E6 - Hate Crime</title>
-    <desc lang="en">Pulled back undercover by the FBI, Jude infiltrates a white supremacist crew, forcing the Exiles to question if they can still trust him.</desc>
-  </programme>
-  <programme start="20261102183300 +0100" stop="20261102192000 +0100" channel="starz-stz9">
+  <programme start="20261103203100 +0100" stop="20261103212200 +0100" channel="starz-stz8">
     <title lang="en">S1 E5 - Episode 5</title>
     <desc lang="en">The war between Leo and Clive reaches a climax. George’s secrets spread and Leo makes a fateful decision that will change their lives forever.</desc>
   </programme>
-  <programme start="20261102192000 +0100" stop="20261102202200 +0100" channel="starz-stz9">
+  <programme start="20261103212200 +0100" stop="20261103230000 +0100" channel="starz-stz8">
+    <title lang="en">In The Grey</title>
+    <desc lang="en">A covert team is sent to recover a billion-dollar fortune, but the mission spirals into a high-stakes battle of strategy, deception, and survival.</desc>
+  </programme>
+  <programme start="20261103230000 +0100" stop="20261104002600 +0100" channel="starz-stz8">
+    <title lang="en">Knights Of Badassdom</title>
+    <desc lang="en">When a LARPing adventure unleashes a deadly demon, three friends must become real heroes to survive a fantasy that's suddenly all too real.</desc>
+  </programme>
+  <programme start="20261104002600 +0100" stop="20261104020400 +0100" channel="starz-stz8">
+    <title lang="en">Bulletproof 2</title>
+    <desc lang="en">Agent Carter impersonates the crook who once shot him, teaming up with him to survive a botched cartel deal and stop a laundering scheme.</desc>
+  </programme>
+  <programme start="20261104020400 +0100" stop="20261104030400 +0100" channel="starz-stz8">
     <title lang="en">S2 E7 - Heart of the Highlands</title>
     <desc lang="en">Henry ventures off to procure gemstones. Julia finds a way to get back in Lovat's good graces. Brian returns to Leathers to settle a score.</desc>
   </programme>
-  <programme start="20261102202200 +0100" stop="20261102211100 +0100" channel="starz-stz9">
-    <title lang="en">S1 E6 - Hate Crime</title>
-    <desc lang="en">Pulled back undercover by the FBI, Jude infiltrates a white supremacist crew, forcing the Exiles to question if they can still trust him.</desc>
-  </programme>
-  <programme start="20261102211100 +0100" stop="20261102231100 +0100" channel="starz-stz9">
-    <title lang="en">The Devil You Know</title>
-    <desc lang="en">After a lifetime of trouble, a man has the chance to turn things around. He finds himself spiraling back into the dark place he overcame.</desc>
-  </programme>
-  <programme start="20261102231100 +0100" stop="20261103004000 +0100" channel="starz-stz9">
-    <title lang="en">Christmas Cover-Up</title>
-    <desc lang="en">Tori, Gwen and Sam have dreamed of killing their boss for years. This Christmas is no different—but some wishes are better left unspoken.</desc>
-  </programme>
-  <programme start="20261103004000 +0100" stop="20261103021100 +0100" channel="starz-stz9">
-    <title lang="en">Oscar Shaw</title>
-    <desc lang="en">A retired cop embarks on a quest for vengeance after his best friend's death, determined to achieve justice on his own terms.</desc>
-  </programme>
-  <programme start="20261103021100 +0100" stop="20261103030000 +0100" channel="starz-stz9">
-    <title lang="en">S1 E6 - Hate Crime</title>
-    <desc lang="en">Pulled back undercover by the FBI, Jude infiltrates a white supremacist crew, forcing the Exiles to question if they can still trust him.</desc>
-  </programme>
-  <programme start="20261103030000 +0100" stop="20261103040000 +0100" channel="starz-stz9">
-    <title lang="en">S2 E7 - Heart of the Highlands</title>
-    <desc lang="en">Henry ventures off to procure gemstones. Julia finds a way to get back in Lovat's good graces. Brian returns to Leathers to settle a score.</desc>
-  </programme>
-  <programme start="20261103040000 +0100" stop="20261103045000 +0100" channel="starz-stz9">
+  <programme start="20261104030400 +0100" stop="20261104035500 +0100" channel="starz-stz8">
     <title lang="en">S1 E5 - Episode 5</title>
     <desc lang="en">The war between Leo and Clive reaches a climax. George’s secrets spread and Leo makes a fateful decision that will change their lives forever.</desc>
+  </programme>
+  <programme start="20261104035500 +0100" stop="20261104053300 +0100" channel="starz-stz8">
+    <title lang="en">In The Grey</title>
+    <desc lang="en">A covert team is sent to recover a billion-dollar fortune, but the mission spirals into a high-stakes battle of strategy, deception, and survival.</desc>
+  </programme>
+  <programme start="20261104053300 +0100" stop="20261104063300 +0100" channel="starz-stz8">
+    <title lang="en">S2 E7 - Heart of the Highlands</title>
+    <desc lang="en">Henry ventures off to procure gemstones. Julia finds a way to get back in Lovat's good graces. Brian returns to Leathers to settle a score.</desc>
   </programme>
   <programme start="20261103045000 +0100" stop="20261103064100 +0100" channel="starz-stz9">
     <title lang="en">Shelter</title>
     <desc lang="en">A man living on a secluded Scottish island saves a girl from the sea, triggering a chain of events that forces him to confront his troubled past.</desc>
+  </programme>
+  <programme start="20261103064100 +0100" stop="20261103085200 +0100" channel="starz-stz9">
+    <title lang="en">Michael</title>
+    <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
+  </programme>
+  <programme start="20261103085200 +0100" stop="20261103110100 +0100" channel="starz-stz9">
+    <title lang="en">Why Men Are Clueless</title>
+    <desc lang="en">In order to land his dream job and win back the love of his life, a young man must figure out what women truly want with the help of his friends.</desc>
+  </programme>
+  <programme start="20261103110100 +0100" stop="20261103130000 +0100" channel="starz-stz9">
+    <title lang="en">The Devil You Know</title>
+    <desc lang="en">After a lifetime of trouble, a man has the chance to turn things around. He finds himself spiraling back into the dark place he overcame.</desc>
+  </programme>
+  <programme start="20261103130000 +0100" stop="20261103143200 +0100" channel="starz-stz9">
+    <title lang="en">Serendipity</title>
+    <desc lang="en">A chance meeting leads Jonathan and Sara to trust fate. Years later, they remain unable to forget each other despite new lives and commitments.</desc>
+  </programme>
+  <programme start="20261103143200 +0100" stop="20261103162400 +0100" channel="starz-stz9">
+    <title lang="en">I Can Only Imagine 2</title>
+    <desc lang="en">Bart Millard, lead singer of MercyMe, has a personal crisis at the height of his career. He grapples with his faith, searching for a way to overcome.</desc>
+  </programme>
+  <programme start="20261103162400 +0100" stop="20261103180600 +0100" channel="starz-stz9">
+    <title lang="en">Leap Year</title>
+    <desc lang="en">A woman plans to propose to her boyfriend, but a series of comedic setbacks derails her trip and opens her eyes to the possibility of new love.</desc>
+  </programme>
+  <programme start="20261103180600 +0100" stop="20261103201500 +0100" channel="starz-stz9">
+    <title lang="en">Michael</title>
+    <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
+  </programme>
+  <programme start="20261103201500 +0100" stop="20261103210600 +0100" channel="starz-stz9">
+    <title lang="en">S2 E1 - Grand Tour</title>
+    <desc lang="en">Catherine aims to unite France under King Charles IX, pushing her agenda of a secular state.</desc>
+  </programme>
+  <programme start="20261103210600 +0100" stop="20261103220000 +0100" channel="starz-stz9">
+    <title lang="en">S2 E2 - Second Coming</title>
+    <desc lang="en">With peace lying on a knife’s edge, Catherine attempts to calm tensions by allowing the Bourbons to pursue the trade deal with England.</desc>
+  </programme>
+  <programme start="20261103220000 +0100" stop="20261103235000 +0100" channel="starz-stz9">
+    <title lang="en">The Break-Up</title>
+    <desc lang="en">After breaking up, Gary and Brooke refuse to give up their condo. Living together as feuding roommates turns their breakup into an all-out battle.</desc>
+  </programme>
+  <programme start="20261103235000 +0100" stop="20261104012200 +0100" channel="starz-stz9">
+    <title lang="en">Serendipity</title>
+    <desc lang="en">A chance meeting leads Jonathan and Sara to trust fate. Years later, they remain unable to forget each other despite new lives and commitments.</desc>
+  </programme>
+  <programme start="20261104012200 +0100" stop="20261104030000 +0100" channel="starz-stz9">
+    <title lang="en">A Richer Christmas</title>
+    <desc lang="en">When a wealthy family loses everything before the holidays, their world falls apart — but in the chaos, they discover the true meaning of Christmas.</desc>
+  </programme>
+  <programme start="20261104030000 +0100" stop="20261104051100 +0100" channel="starz-stz9">
+    <title lang="en">Michael</title>
+    <desc lang="en">An intimate portrait of Michael Jackson’s rise from child prodigy to global icon, revealing the man behind the music.</desc>
+  </programme>
+  <programme start="20261104051100 +0100" stop="20261104065000 +0100" channel="starz-stz9">
+    <title lang="en">All About the Benjamins</title>
+    <desc lang="en">A bounty hunter chasing a fast-talking con man uncovers a criminal plot tied to a fortune worth millions, forcing the pair to work together.</desc>
   </programme>
 </tv>
