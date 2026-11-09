@@ -21,496 +21,464 @@
   <channel id="starz-stz9">
     <display-name>STARZ Encore (STZ9)</display-name>
   </channel>
-  <programme start="20261108044600 +0100" stop="20261108063000 +0100" channel="starz-stz1">
-    <title lang="en">Salt</title>
-    <desc lang="en">After being accused of working as a Russian sleeper agent, CIA officer Evelyn Salt goes on the run to uncover the truth and prove her innocence.</desc>
-  </programme>
-  <programme start="20261108063000 +0100" stop="20261108072800 +0100" channel="starz-stz1">
-    <title lang="en">S2 E8 - The Dance</title>
-    <desc lang="en">Julia and Lovat attend an event honoring Loyalist Lairds who fought against the Jacobites. Ellen's plan to protect Leoch is put to the test.</desc>
-  </programme>
-  <programme start="20261108072800 +0100" stop="20261108081900 +0100" channel="starz-stz1">
-    <title lang="en">S1 E7 - The Project</title>
-    <desc lang="en">Malik's abrupt transfer sends shockwaves through the squad, but only Hondo and Ethan know just how deep undercover he's about to go.</desc>
-  </programme>
-  <programme start="20261108081900 +0100" stop="20261108091800 +0100" channel="starz-stz1">
-    <title lang="en">S2 E8 - The Dance</title>
-    <desc lang="en">Julia and Lovat attend an event honoring Loyalist Lairds who fought against the Jacobites. Ellen's plan to protect Leoch is put to the test.</desc>
-  </programme>
-  <programme start="20261108091800 +0100" stop="20261108105000 +0100" channel="starz-stz1">
-    <title lang="en">Priest</title>
-    <desc lang="en">In a world ravaged by war between humans and vampires, a renegade priest sets out to rescue his niece, kidnapped by bloodthirsty creatures.</desc>
-  </programme>
-  <programme start="20261108105000 +0100" stop="20261108122500 +0100" channel="starz-stz1">
-    <title lang="en">Honey</title>
-    <desc lang="en">An aspiring dancer is offered her dream job as a music video choreographer - but if she stands on her principles, she'll never get the gig.</desc>
-  </programme>
-  <programme start="20261108122500 +0100" stop="20261108143500 +0100" channel="starz-stz1">
-    <title lang="en">Jurassic Park</title>
-    <desc lang="en">Scientists and investors tour a revolutionary island park where living dinosaurs have been brought back to life, with disastrous consequences.</desc>
-  </programme>
-  <programme start="20261108143500 +0100" stop="20261108164000 +0100" channel="starz-stz1">
-    <title lang="en">Jurassic World</title>
-    <desc lang="en">Years after Jurassic Park, a thriving dinosaur park pushes the limits of genetic engineering, with disastrous consequences.</desc>
-  </programme>
-  <programme start="20261108164000 +0100" stop="20261108183000 +0100" channel="starz-stz1">
-    <title lang="en">Colombiana</title>
-    <desc lang="en">A nine-year-old girl witnesses the brutal murder of her parents in Colombia. Taken in by a criminal uncle, she grows up to be a professional assassin.</desc>
-  </programme>
-  <programme start="20261108183000 +0100" stop="20261108192000 +0100" channel="starz-stz1">
-    <title lang="en">S1 E7 - The Project</title>
-    <desc lang="en">Malik's abrupt transfer sends shockwaves through the squad, but only Hondo and Ethan know just how deep undercover he's about to go.</desc>
-  </programme>
-  <programme start="20261108192000 +0100" stop="20261108201700 +0100" channel="starz-stz1">
-    <title lang="en">S2 E8 - The Dance</title>
-    <desc lang="en">Julia and Lovat attend an event honoring Loyalist Lairds who fought against the Jacobites. Ellen's plan to protect Leoch is put to the test.</desc>
-  </programme>
-  <programme start="20261108201700 +0100" stop="20261108221500 +0100" channel="starz-stz1">
-    <title lang="en">Enough</title>
-    <desc lang="en">A woman discovers her husband's dark side. She takes their daughter and leaves, but he relentlessly pursues her - until she decides take a stand.</desc>
-  </programme>
-  <programme start="20261108221500 +0100" stop="20261108230200 +0100" channel="starz-stz1">
-    <title lang="en">S1 E7 - The Project</title>
-    <desc lang="en">Malik's abrupt transfer sends shockwaves through the squad, but only Hondo and Ethan know just how deep undercover he's about to go.</desc>
-  </programme>
-  <programme start="20261108230200 +0100" stop="20261109000000 +0100" channel="starz-stz1">
-    <title lang="en">S2 E8 - The Dance</title>
-    <desc lang="en">Julia and Lovat attend an event honoring Loyalist Lairds who fought against the Jacobites. Ellen's plan to protect Leoch is put to the test.</desc>
-  </programme>
-  <programme start="20261109000000 +0100" stop="20261109021000 +0100" channel="starz-stz1">
-    <title lang="en">Inside Man</title>
-    <desc lang="en">A police detective, a bank robber, and a broker enter high-stakes negotiations after the criminal's brilliant heist spirals into a hostage situation.</desc>
-  </programme>
-  <programme start="20261109021000 +0100" stop="20261109030500 +0100" channel="starz-stz1">
-    <title lang="en">S2 E8 - The Dance</title>
-    <desc lang="en">Julia and Lovat attend an event honoring Loyalist Lairds who fought against the Jacobites. Ellen's plan to protect Leoch is put to the test.</desc>
-  </programme>
-  <programme start="20261109030500 +0100" stop="20261109040300 +0100" channel="starz-stz1">
-    <title lang="en">S2 E8 - The Dance</title>
-    <desc lang="en">Julia and Lovat attend an event honoring Loyalist Lairds who fought against the Jacobites. Ellen's plan to protect Leoch is put to the test.</desc>
-  </programme>
-  <programme start="20261109040300 +0100" stop="20261109045200 +0100" channel="starz-stz1">
-    <title lang="en">S1 E7 - The Project</title>
-    <desc lang="en">Malik's abrupt transfer sends shockwaves through the squad, but only Hondo and Ethan know just how deep undercover he's about to go.</desc>
-  </programme>
-  <programme start="20261109045200 +0100" stop="20261109055000 +0100" channel="starz-stz1">
-    <title lang="en">S2 E8 - The Dance</title>
-    <desc lang="en">Julia and Lovat attend an event honoring Loyalist Lairds who fought against the Jacobites. Ellen's plan to protect Leoch is put to the test.</desc>
-  </programme>
   <programme start="20261109055000 +0100" stop="20261109074000 +0100" channel="starz-stz1">
     <title lang="en">Colombiana</title>
     <desc lang="en">A nine-year-old girl witnesses the brutal murder of her parents in Colombia. Taken in by a criminal uncle, she grows up to be a professional assassin.</desc>
   </programme>
-  <programme start="20261108043700 +0100" stop="20261108061000 +0100" channel="starz-stz3">
-    <title lang="en">John Henry</title>
-    <desc lang="en">An ex-gang member seeks peace, but when two immigrant kids flee his old crew, he must face his past or stay in the shadows.</desc>
+  <programme start="20261109074000 +0100" stop="20261109083600 +0100" channel="starz-stz1">
+    <title lang="en">S2 E8 - The Dance</title>
+    <desc lang="en">Julia and Lovat attend an event honoring Loyalist Lairds who fought against the Jacobites. Ellen's plan to protect Leoch is put to the test.</desc>
   </programme>
-  <programme start="20261108061000 +0100" stop="20261108075500 +0100" channel="starz-stz3">
+  <programme start="20261109083600 +0100" stop="20261109103100 +0100" channel="starz-stz1">
+    <title lang="en">Manhattan Night</title>
+    <desc lang="en">A reporter investigates a filmmaker's strange death and becomes entangled with a mysterious widow, uncovering secrets that place everything at risk.</desc>
+  </programme>
+  <programme start="20261109103100 +0100" stop="20261109121100 +0100" channel="starz-stz1">
+    <title lang="en">Failure to Launch</title>
+    <desc lang="en">Still living at home at 35, Tripp becomes the target of a scheme designed to get him out of the house. But he’s not about to make it easy.</desc>
+  </programme>
+  <programme start="20261109121100 +0100" stop="20261109140400 +0100" channel="starz-stz1">
+    <title lang="en">I Can Only Imagine 2</title>
+    <desc lang="en">Bart Millard, lead singer of MercyMe, has a personal crisis at the height of his career. He grapples with his faith, searching for a way to overcome.</desc>
+  </programme>
+  <programme start="20261109140400 +0100" stop="20261109155500 +0100" channel="starz-stz1">
+    <title lang="en">Colombiana</title>
+    <desc lang="en">A nine-year-old girl witnesses the brutal murder of her parents in Colombia. Taken in by a criminal uncle, she grows up to be a professional assassin.</desc>
+  </programme>
+  <programme start="20261109155500 +0100" stop="20261109165100 +0100" channel="starz-stz1">
+    <title lang="en">S2 E8 - The Dance</title>
+    <desc lang="en">Julia and Lovat attend an event honoring Loyalist Lairds who fought against the Jacobites. Ellen's plan to protect Leoch is put to the test.</desc>
+  </programme>
+  <programme start="20261109165100 +0100" stop="20261109174000 +0100" channel="starz-stz1">
+    <title lang="en">S1 E7 - The Project</title>
+    <desc lang="en">Malik's abrupt transfer sends shockwaves through the squad, but only Hondo and Ethan know just how deep undercover he's about to go.</desc>
+  </programme>
+  <programme start="20261109174000 +0100" stop="20261109192500 +0100" channel="starz-stz1">
     <title lang="en">The Bounce Back</title>
     <desc lang="en">A relationship guru finds himself falling for an attractive licensed therapist who questions his methods and disagrees with his theories on love.</desc>
   </programme>
-  <programme start="20261108075500 +0100" stop="20261108092400 +0100" channel="starz-stz3">
-    <title lang="en">Haunted Heist</title>
-    <desc lang="en">A robbery at a haunted house forces four estranged friends to battle ghosts, and each other, through one wild night.</desc>
+  <programme start="20261109192500 +0100" stop="20261109202100 +0100" channel="starz-stz1">
+    <title lang="en">S2 E8 - The Dance</title>
+    <desc lang="en">Julia and Lovat attend an event honoring Loyalist Lairds who fought against the Jacobites. Ellen's plan to protect Leoch is put to the test.</desc>
   </programme>
-  <programme start="20261108092400 +0100" stop="20261108104700 +0100" channel="starz-stz3">
-    <title lang="en">A Happening Of Monumental Proportions</title>
-    <desc lang="en">Students at a Los Angeles school find themselves entangled in a chaotic day filled with sex, lies, and dead bodies.</desc>
+  <programme start="20261109202100 +0100" stop="20261109211000 +0100" channel="starz-stz1">
+    <title lang="en">S1 E7 - The Project</title>
+    <desc lang="en">Malik's abrupt transfer sends shockwaves through the squad, but only Hondo and Ethan know just how deep undercover he's about to go.</desc>
   </programme>
-  <programme start="20261108104700 +0100" stop="20261108121300 +0100" channel="starz-stz3">
-    <title lang="en">Bulletproof</title>
-    <desc lang="en">Former best friends on opposite sides of the law are forced to team up when a drug kingpin targets them both, sending the reluctant pair on the run.</desc>
+  <programme start="20261109211000 +0100" stop="20261109224500 +0100" channel="starz-stz1">
+    <title lang="en">The Call</title>
+    <desc lang="en">Worlds collide when a 911 operator takes a call from an abducted teenage girl. The operator must confront a killer from her own past to save the girl.</desc>
   </programme>
-  <programme start="20261108121300 +0100" stop="20261108135200 +0100" channel="starz-stz3">
-    <title lang="en">Bulletproof 2</title>
-    <desc lang="en">Agent Carter impersonates the crook who once shot him, teaming up with him to survive a botched cartel deal and stop a laundering scheme.</desc>
+  <programme start="20261109224500 +0100" stop="20261110002500 +0100" channel="starz-stz1">
+    <title lang="en">Failure to Launch</title>
+    <desc lang="en">Still living at home at 35, Tripp becomes the target of a scheme designed to get him out of the house. But he’s not about to make it easy.</desc>
   </programme>
-  <programme start="20261108135200 +0100" stop="20261108154300 +0100" channel="starz-stz3">
-    <title lang="en">What's Cooking?</title>
-    <desc lang="en">Tensions between family members arise and hilarity ensues when four ethnically diverse Los Angeles families set about preparing a Thanksgiving meal.</desc>
+  <programme start="20261110002500 +0100" stop="20261110021100 +0100" channel="starz-stz1">
+    <title lang="en">The Bounce Back</title>
+    <desc lang="en">A relationship guru finds himself falling for an attractive licensed therapist who questions his methods and disagrees with his theories on love.</desc>
   </programme>
-  <programme start="20261108154300 +0100" stop="20261108172200 +0100" channel="starz-stz3">
-    <title lang="en">First Sunday</title>
-    <desc lang="en">Two desperate men try to rob a church, but when the money disappears, they hold the congregation hostage to find out who stole it first.</desc>
+  <programme start="20261110021100 +0100" stop="20261110030000 +0100" channel="starz-stz1">
+    <title lang="en">S1 E7 - The Project</title>
+    <desc lang="en">Malik's abrupt transfer sends shockwaves through the squad, but only Hondo and Ethan know just how deep undercover he's about to go.</desc>
   </programme>
-  <programme start="20261108172200 +0100" stop="20261108184800 +0100" channel="starz-stz3">
-    <title lang="en">Bulletproof</title>
-    <desc lang="en">Former best friends on opposite sides of the law are forced to team up when a drug kingpin targets them both, sending the reluctant pair on the run.</desc>
+  <programme start="20261110030000 +0100" stop="20261110035800 +0100" channel="starz-stz1">
+    <title lang="en">S2 E8 - The Dance</title>
+    <desc lang="en">Julia and Lovat attend an event honoring Loyalist Lairds who fought against the Jacobites. Ellen's plan to protect Leoch is put to the test.</desc>
   </programme>
-  <programme start="20261108184800 +0100" stop="20261108202700 +0100" channel="starz-stz3">
-    <title lang="en">Bulletproof 2</title>
-    <desc lang="en">Agent Carter impersonates the crook who once shot him, teaming up with him to survive a botched cartel deal and stop a laundering scheme.</desc>
+  <programme start="20261110035800 +0100" stop="20261110053600 +0100" channel="starz-stz1">
+    <title lang="en">The Call</title>
+    <desc lang="en">Worlds collide when a 911 operator takes a call from an abducted teenage girl. The operator must confront a killer from her own past to save the girl.</desc>
   </programme>
-  <programme start="20261108202700 +0100" stop="20261108215000 +0100" channel="starz-stz3">
-    <title lang="en">A Happening Of Monumental Proportions</title>
-    <desc lang="en">Students at a Los Angeles school find themselves entangled in a chaotic day filled with sex, lies, and dead bodies.</desc>
-  </programme>
-  <programme start="20261108215000 +0100" stop="20261108234100 +0100" channel="starz-stz3">
-    <title lang="en">What's Cooking?</title>
-    <desc lang="en">Tensions between family members arise and hilarity ensues when four ethnically diverse Los Angeles families set about preparing a Thanksgiving meal.</desc>
-  </programme>
-  <programme start="20261108234100 +0100" stop="20261109010700 +0100" channel="starz-stz3">
-    <title lang="en">Bulletproof</title>
-    <desc lang="en">Former best friends on opposite sides of the law are forced to team up when a drug kingpin targets them both, sending the reluctant pair on the run.</desc>
-  </programme>
-  <programme start="20261109010700 +0100" stop="20261109024600 +0100" channel="starz-stz3">
-    <title lang="en">Bulletproof 2</title>
-    <desc lang="en">Agent Carter impersonates the crook who once shot him, teaming up with him to survive a botched cartel deal and stop a laundering scheme.</desc>
-  </programme>
-  <programme start="20261109024600 +0100" stop="20261109042500 +0100" channel="starz-stz3">
-    <title lang="en">First Sunday</title>
-    <desc lang="en">Two desperate men try to rob a church, but when the money disappears, they hold the congregation hostage to find out who stole it first.</desc>
+  <programme start="20261110053600 +0100" stop="20261110071700 +0100" channel="starz-stz1">
+    <title lang="en">In The Grey</title>
+    <desc lang="en">A covert team is sent to recover a billion-dollar fortune, but the mission spirals into a high-stakes battle of strategy, deception, and survival.</desc>
   </programme>
   <programme start="20261109042500 +0100" stop="20261109061600 +0100" channel="starz-stz3">
     <title lang="en">What's Cooking?</title>
     <desc lang="en">Tensions between family members arise and hilarity ensues when four ethnically diverse Los Angeles families set about preparing a Thanksgiving meal.</desc>
   </programme>
-  <programme start="20261108040000 +0100" stop="20261108061600 +0100" channel="starz-stz5">
-    <title lang="en">I'm Not There</title>
-    <desc lang="en">The life of Bob Dylan is examined through multiple variations of his own personality and career, as played by a series of different actors.</desc>
+  <programme start="20261109061600 +0100" stop="20261109074600 +0100" channel="starz-stz3">
+    <title lang="en">Phat Beach</title>
+    <desc lang="en">Benny's dull summer job takes a turn when Durrell arrives. They go to the beach to sell sunglasses, but fun and bikinis quickly become the real focus.</desc>
   </programme>
-  <programme start="20261108061600 +0100" stop="20261108081000 +0100" channel="starz-stz5">
-    <title lang="en">The Lucky Ones</title>
-    <desc lang="en">Three off-duty soldiers who return from Iraq suffering different injuries go on a road trip, only to learn that life has moved on without them.</desc>
+  <programme start="20261109074600 +0100" stop="20261109093000 +0100" channel="starz-stz3">
+    <title lang="en">Dope</title>
+    <desc lang="en">Set in Inglewood, California, a high school geek fights to fit in while keeping his eye on an Ivy League prize.</desc>
   </programme>
-  <programme start="20261108081000 +0100" stop="20261108094900 +0100" channel="starz-stz5">
-    <title lang="en">The Devil Has A Name</title>
-    <desc lang="en">A struggling farmer takes on a powerful oil executive after discovering his water has been poisoned. Their escalating battle puts everything at risk.</desc>
+  <programme start="20261109093000 +0100" stop="20261109110500 +0100" channel="starz-stz3">
+    <title lang="en">Honey</title>
+    <desc lang="en">An aspiring dancer is offered her dream job as a music video choreographer - but if she stands on her principles, she'll never get the gig.</desc>
   </programme>
-  <programme start="20261108094900 +0100" stop="20261108111900 +0100" channel="starz-stz5">
-    <title lang="en">Ingenious</title>
-    <desc lang="en">Matt and Sam chase a life-changing idea, lose everything, and discover that rock bottom sparks their most brilliant plan yet.</desc>
+  <programme start="20261109110500 +0100" stop="20261109125700 +0100" channel="starz-stz3">
+    <title lang="en">Honey 2</title>
+    <desc lang="en">After leaving juvenile detention, Maria Ramirez channels her dance talent by joining a new crew, reigniting her passion.</desc>
   </programme>
-  <programme start="20261108111900 +0100" stop="20261108123800 +0100" channel="starz-stz5">
-    <title lang="en">Making The Rules</title>
-    <desc lang="en">After an injury, a chef is out of work for the summer. As the heat rises and her marriage cools, she is tempted by an attractive ex-boyfriend.</desc>
+  <programme start="20261109125700 +0100" stop="20261109150500 +0100" channel="starz-stz3">
+    <title lang="en">Why Men Are Clueless</title>
+    <desc lang="en">In order to land his dream job and win back the love of his life, a young man must figure out what women truly want with the help of his friends.</desc>
   </programme>
-  <programme start="20261108123800 +0100" stop="20261108141500 +0100" channel="starz-stz5">
-    <title lang="en">Hemingway's Garden Of Eden</title>
-    <desc lang="en">A young writer, fresh from WWI, embarks on a European journey with his wife and her alluring Italian girlfriend, navigating love, tension, and desire.</desc>
+  <programme start="20261109150500 +0100" stop="20261109164300 +0100" channel="starz-stz3">
+    <title lang="en">Liberty Stands Still</title>
+    <desc lang="en">A beautiful gun-manufacturing heiress becomes embroiled in a vengeful sniper's plan that makes her question everything she believes in.</desc>
   </programme>
-  <programme start="20261108141500 +0100" stop="20261108160900 +0100" channel="starz-stz5">
-    <title lang="en">Damsel</title>
-    <desc lang="en">It's the Wild West, circa 1870. Samuel Alabaster, an affluent pioneer, ventures across the American frontier to marry the love of his life, Penelope.</desc>
+  <programme start="20261109164300 +0100" stop="20261109182700 +0100" channel="starz-stz3">
+    <title lang="en">Dope</title>
+    <desc lang="en">Set in Inglewood, California, a high school geek fights to fit in while keeping his eye on an Ivy League prize.</desc>
   </programme>
-  <programme start="20261108160900 +0100" stop="20261108180300 +0100" channel="starz-stz5">
-    <title lang="en">The Lucky Ones</title>
-    <desc lang="en">Three off-duty soldiers who return from Iraq suffering different injuries go on a road trip, only to learn that life has moved on without them.</desc>
+  <programme start="20261109182700 +0100" stop="20261109201000 +0100" channel="starz-stz3">
+    <title lang="en">Feast Of Love</title>
+    <desc lang="en">Friends explore themes of love, pain and happiness through telling their own life stories.</desc>
   </programme>
-  <programme start="20261108180300 +0100" stop="20261108195900 +0100" channel="starz-stz5">
-    <title lang="en">American Heart</title>
-    <desc lang="en">A tough ex-convict is reunited with his homeless, street-wise teenage son, and they must struggle to rebuild their lives together.</desc>
+  <programme start="20261109201000 +0100" stop="20261109214500 +0100" channel="starz-stz3">
+    <title lang="en">Honey</title>
+    <desc lang="en">An aspiring dancer is offered her dream job as a music video choreographer - but if she stands on her principles, she'll never get the gig.</desc>
   </programme>
-  <programme start="20261108195900 +0100" stop="20261108213700 +0100" channel="starz-stz5">
-    <title lang="en">The Devil Has A Name</title>
-    <desc lang="en">A struggling farmer takes on a powerful oil executive after discovering his water has been poisoned. Their escalating battle puts everything at risk.</desc>
+  <programme start="20261109214500 +0100" stop="20261109233700 +0100" channel="starz-stz3">
+    <title lang="en">Honey 2</title>
+    <desc lang="en">After leaving juvenile detention, Maria Ramirez channels her dance talent by joining a new crew, reigniting her passion.</desc>
   </programme>
-  <programme start="20261108213700 +0100" stop="20261108225600 +0100" channel="starz-stz5">
-    <title lang="en">Making The Rules</title>
-    <desc lang="en">After an injury, a chef is out of work for the summer. As the heat rises and her marriage cools, she is tempted by an attractive ex-boyfriend.</desc>
+  <programme start="20261109233700 +0100" stop="20261110012100 +0100" channel="starz-stz3">
+    <title lang="en">Dope</title>
+    <desc lang="en">Set in Inglewood, California, a high school geek fights to fit in while keeping his eye on an Ivy League prize.</desc>
   </programme>
-  <programme start="20261108225600 +0100" stop="20261109003500 +0100" channel="starz-stz5">
-    <title lang="en">Premium</title>
-    <desc lang="en">Cool, a struggling actor, tries to win back his ex-fiancée before her wedding, learning the biggest role of his life may change everything.</desc>
+  <programme start="20261110012100 +0100" stop="20261110025900 +0100" channel="starz-stz3">
+    <title lang="en">Liberty Stands Still</title>
+    <desc lang="en">A beautiful gun-manufacturing heiress becomes embroiled in a vengeful sniper's plan that makes her question everything she believes in.</desc>
   </programme>
-  <programme start="20261109003500 +0100" stop="20261109020500 +0100" channel="starz-stz5">
-    <title lang="en">Ingenious</title>
-    <desc lang="en">Matt and Sam chase a life-changing idea, lose everything, and discover that rock bottom sparks their most brilliant plan yet.</desc>
+  <programme start="20261110025900 +0100" stop="20261110043400 +0100" channel="starz-stz3">
+    <title lang="en">Honey</title>
+    <desc lang="en">An aspiring dancer is offered her dream job as a music video choreographer - but if she stands on her principles, she'll never get the gig.</desc>
   </programme>
-  <programme start="20261109020500 +0100" stop="20261109035300 +0100" channel="starz-stz5">
-    <title lang="en">Purple Violets</title>
-    <desc lang="en">Patti's career stalls and her marriage falters until she reunites with her ex, now a bestselling author, while her friend Kate rekindles an old flame.</desc>
-  </programme>
-  <programme start="20261109035300 +0100" stop="20261109054900 +0100" channel="starz-stz5">
-    <title lang="en">American Heart</title>
-    <desc lang="en">A tough ex-convict is reunited with his homeless, street-wise teenage son, and they must struggle to rebuild their lives together.</desc>
+  <programme start="20261110043400 +0100" stop="20261110062600 +0100" channel="starz-stz3">
+    <title lang="en">Honey 2</title>
+    <desc lang="en">After leaving juvenile detention, Maria Ramirez channels her dance talent by joining a new crew, reigniting her passion.</desc>
   </programme>
   <programme start="20261109054900 +0100" stop="20261109072800 +0100" channel="starz-stz5">
     <title lang="en">Premium</title>
     <desc lang="en">Cool, a struggling actor, tries to win back his ex-fiancée before her wedding, learning the biggest role of his life may change everything.</desc>
   </programme>
-  <programme start="20261108044600 +0100" stop="20261108063000 +0100" channel="starz-stz6">
-    <title lang="en">Salt</title>
-    <desc lang="en">After being accused of working as a Russian sleeper agent, CIA officer Evelyn Salt goes on the run to uncover the truth and prove her innocence.</desc>
+  <programme start="20261109072800 +0100" stop="20261109090100 +0100" channel="starz-stz5">
+    <title lang="en">Bella</title>
+    <desc lang="en">A soccer star and a struggling waitress are brought together by a simple act of kindness after life-changing events turn their worlds upside down.</desc>
   </programme>
-  <programme start="20261108063000 +0100" stop="20261108072800 +0100" channel="starz-stz6">
-    <title lang="en">S2 E8 - The Dance</title>
-    <desc lang="en">Julia and Lovat attend an event honoring Loyalist Lairds who fought against the Jacobites. Ellen's plan to protect Leoch is put to the test.</desc>
+  <programme start="20261109090100 +0100" stop="20261109102400 +0100" channel="starz-stz5">
+    <title lang="en">Freezer</title>
+    <desc lang="en">An everyday guy must fight for his life after Russian thugs trap him inside an industrial freezer, demanding he return millions of dollars.</desc>
   </programme>
-  <programme start="20261108072800 +0100" stop="20261108081900 +0100" channel="starz-stz6">
-    <title lang="en">S1 E7 - The Project</title>
-    <desc lang="en">Malik's abrupt transfer sends shockwaves through the squad, but only Hondo and Ethan know just how deep undercover he's about to go.</desc>
+  <programme start="20261109102400 +0100" stop="20261109122100 +0100" channel="starz-stz5">
+    <title lang="en">The Devil You Know</title>
+    <desc lang="en">After a lifetime of trouble, a man has the chance to turn things around. He finds himself spiraling back into the dark place he overcame.</desc>
   </programme>
-  <programme start="20261108081900 +0100" stop="20261108091800 +0100" channel="starz-stz6">
-    <title lang="en">S2 E8 - The Dance</title>
-    <desc lang="en">Julia and Lovat attend an event honoring Loyalist Lairds who fought against the Jacobites. Ellen's plan to protect Leoch is put to the test.</desc>
+  <programme start="20261109122100 +0100" stop="20261109140900 +0100" channel="starz-stz5">
+    <title lang="en">Purple Violets</title>
+    <desc lang="en">Patti's career stalls and her marriage falters until she reunites with her ex, now a bestselling author, while her friend Kate rekindles an old flame.</desc>
   </programme>
-  <programme start="20261108091800 +0100" stop="20261108105000 +0100" channel="starz-stz6">
-    <title lang="en">Priest</title>
-    <desc lang="en">In a world ravaged by war between humans and vampires, a renegade priest sets out to rescue his niece, kidnapped by bloodthirsty creatures.</desc>
+  <programme start="20261109140900 +0100" stop="20261109155000 +0100" channel="starz-stz5">
+    <title lang="en">Nothing Left To Fear</title>
+    <desc lang="en">Wendy and Dan move to Kansas to replace a pastor, unaware their home is a gateway to Hell. A charismatic, conflicted preacher derails their new life.</desc>
   </programme>
-  <programme start="20261108105000 +0100" stop="20261108122500 +0100" channel="starz-stz6">
-    <title lang="en">Honey</title>
-    <desc lang="en">An aspiring dancer is offered her dream job as a music video choreographer - but if she stands on her principles, she'll never get the gig.</desc>
+  <programme start="20261109155000 +0100" stop="20261109173100 +0100" channel="starz-stz5">
+    <title lang="en">2 Days In Paris</title>
+    <desc lang="en">A New York couple attempt to re-infuse their relationship with romance on a European vacation.</desc>
   </programme>
-  <programme start="20261108122500 +0100" stop="20261108143500 +0100" channel="starz-stz6">
-    <title lang="en">Jurassic Park</title>
-    <desc lang="en">Scientists and investors tour a revolutionary island park where living dinosaurs have been brought back to life, with disastrous consequences.</desc>
+  <programme start="20261109173100 +0100" stop="20261109190900 +0100" channel="starz-stz5">
+    <title lang="en">One More Time</title>
+    <desc lang="en">A struggling singer moves back home, only to find her father plotting a comeback. Their clashing ambitions set them on a collision course.</desc>
   </programme>
-  <programme start="20261108143500 +0100" stop="20261108164000 +0100" channel="starz-stz6">
-    <title lang="en">Jurassic World</title>
-    <desc lang="en">Years after Jurassic Park, a thriving dinosaur park pushes the limits of genetic engineering, with disastrous consequences.</desc>
+  <programme start="20261109190900 +0100" stop="20261109212300 +0100" channel="starz-stz5">
+    <title lang="en">The Promise</title>
+    <desc lang="en">In 1914, two men compete for Ana’s love as the Ottoman Empire falls. Their shared Armenian roots force them to unite to survive the chaos.</desc>
   </programme>
-  <programme start="20261108164000 +0100" stop="20261108183000 +0100" channel="starz-stz6">
-    <title lang="en">Colombiana</title>
-    <desc lang="en">A nine-year-old girl witnesses the brutal murder of her parents in Colombia. Taken in by a criminal uncle, she grows up to be a professional assassin.</desc>
+  <programme start="20261109212300 +0100" stop="20261109230400 +0100" channel="starz-stz5">
+    <title lang="en">Nothing Left To Fear</title>
+    <desc lang="en">Wendy and Dan move to Kansas to replace a pastor, unaware their home is a gateway to Hell. A charismatic, conflicted preacher derails their new life.</desc>
   </programme>
-  <programme start="20261108183000 +0100" stop="20261108192000 +0100" channel="starz-stz6">
-    <title lang="en">S1 E7 - The Project</title>
-    <desc lang="en">Malik's abrupt transfer sends shockwaves through the squad, but only Hondo and Ethan know just how deep undercover he's about to go.</desc>
+  <programme start="20261109230400 +0100" stop="20261110003900 +0100" channel="starz-stz5">
+    <title lang="en">Dìdi</title>
+    <desc lang="en">In 2008, during the last summer before high school begins, a 13-year-old Taiwanese American boy learns to skate, flirt, and love his mom.</desc>
   </programme>
-  <programme start="20261108192000 +0100" stop="20261108201700 +0100" channel="starz-stz6">
-    <title lang="en">S2 E8 - The Dance</title>
-    <desc lang="en">Julia and Lovat attend an event honoring Loyalist Lairds who fought against the Jacobites. Ellen's plan to protect Leoch is put to the test.</desc>
+  <programme start="20261110003900 +0100" stop="20261110021700 +0100" channel="starz-stz5">
+    <title lang="en">One More Time</title>
+    <desc lang="en">A struggling singer moves back home, only to find her father plotting a comeback. Their clashing ambitions set them on a collision course.</desc>
   </programme>
-  <programme start="20261108201700 +0100" stop="20261108221500 +0100" channel="starz-stz6">
-    <title lang="en">Enough</title>
-    <desc lang="en">A woman discovers her husband's dark side. She takes their daughter and leaves, but he relentlessly pursues her - until she decides take a stand.</desc>
+  <programme start="20261110021700 +0100" stop="20261110040200 +0100" channel="starz-stz5">
+    <title lang="en">The Vow</title>
+    <desc lang="en">A young married woman loses her memory after a car crash - can her disconsolate husband convince his wife to fall in love with him all over again?</desc>
   </programme>
-  <programme start="20261108221500 +0100" stop="20261108230200 +0100" channel="starz-stz6">
-    <title lang="en">S1 E7 - The Project</title>
-    <desc lang="en">Malik's abrupt transfer sends shockwaves through the squad, but only Hondo and Ethan know just how deep undercover he's about to go.</desc>
+  <programme start="20261110040200 +0100" stop="20261110054400 +0100" channel="starz-stz5">
+    <title lang="en">2 Days In Paris</title>
+    <desc lang="en">A New York couple attempt to re-infuse their relationship with romance on a European vacation.</desc>
   </programme>
-  <programme start="20261108230200 +0100" stop="20261109000000 +0100" channel="starz-stz6">
-    <title lang="en">S2 E8 - The Dance</title>
-    <desc lang="en">Julia and Lovat attend an event honoring Loyalist Lairds who fought against the Jacobites. Ellen's plan to protect Leoch is put to the test.</desc>
-  </programme>
-  <programme start="20261109000000 +0100" stop="20261109021000 +0100" channel="starz-stz6">
-    <title lang="en">Inside Man</title>
-    <desc lang="en">A police detective, a bank robber, and a broker enter high-stakes negotiations after the criminal's brilliant heist spirals into a hostage situation.</desc>
-  </programme>
-  <programme start="20261109021000 +0100" stop="20261109030500 +0100" channel="starz-stz6">
-    <title lang="en">S2 E8 - The Dance</title>
-    <desc lang="en">Julia and Lovat attend an event honoring Loyalist Lairds who fought against the Jacobites. Ellen's plan to protect Leoch is put to the test.</desc>
-  </programme>
-  <programme start="20261109030500 +0100" stop="20261109040300 +0100" channel="starz-stz6">
-    <title lang="en">S2 E8 - The Dance</title>
-    <desc lang="en">Julia and Lovat attend an event honoring Loyalist Lairds who fought against the Jacobites. Ellen's plan to protect Leoch is put to the test.</desc>
-  </programme>
-  <programme start="20261109040300 +0100" stop="20261109045200 +0100" channel="starz-stz6">
-    <title lang="en">S1 E7 - The Project</title>
-    <desc lang="en">Malik's abrupt transfer sends shockwaves through the squad, but only Hondo and Ethan know just how deep undercover he's about to go.</desc>
-  </programme>
-  <programme start="20261109045200 +0100" stop="20261109055000 +0100" channel="starz-stz6">
-    <title lang="en">S2 E8 - The Dance</title>
-    <desc lang="en">Julia and Lovat attend an event honoring Loyalist Lairds who fought against the Jacobites. Ellen's plan to protect Leoch is put to the test.</desc>
+  <programme start="20261110054400 +0100" stop="20261110071900 +0100" channel="starz-stz5">
+    <title lang="en">Dìdi</title>
+    <desc lang="en">In 2008, during the last summer before high school begins, a 13-year-old Taiwanese American boy learns to skate, flirt, and love his mom.</desc>
   </programme>
   <programme start="20261109055000 +0100" stop="20261109074000 +0100" channel="starz-stz6">
     <title lang="en">Colombiana</title>
     <desc lang="en">A nine-year-old girl witnesses the brutal murder of her parents in Colombia. Taken in by a criminal uncle, she grows up to be a professional assassin.</desc>
   </programme>
-  <programme start="20261108050900 +0100" stop="20261108064500 +0100" channel="starz-stz7">
-    <title lang="en">Small Time</title>
-    <desc lang="en">A used car salesman teaches his dropout son the tricks of the trade, creating a monster but a mighty good salesman.</desc>
+  <programme start="20261109074000 +0100" stop="20261109083600 +0100" channel="starz-stz6">
+    <title lang="en">S2 E8 - The Dance</title>
+    <desc lang="en">Julia and Lovat attend an event honoring Loyalist Lairds who fought against the Jacobites. Ellen's plan to protect Leoch is put to the test.</desc>
   </programme>
-  <programme start="20261108064500 +0100" stop="20261108083100 +0100" channel="starz-stz7">
-    <title lang="en">Time Freak</title>
-    <desc lang="en">A physics prodigy uses a time machine to win back his ex, learning perfection isn't possible.</desc>
+  <programme start="20261109083600 +0100" stop="20261109103100 +0100" channel="starz-stz6">
+    <title lang="en">Manhattan Night</title>
+    <desc lang="en">A reporter investigates a filmmaker's strange death and becomes entangled with a mysterious widow, uncovering secrets that place everything at risk.</desc>
   </programme>
-  <programme start="20261108083100 +0100" stop="20261108101600 +0100" channel="starz-stz7">
-    <title lang="en">Paul</title>
-    <desc lang="en">A pair of sci‑fi fans meet a fast‑talking alien named Paul and find themselves on an outrageous road trip to help him return home.</desc>
+  <programme start="20261109103100 +0100" stop="20261109121100 +0100" channel="starz-stz6">
+    <title lang="en">Failure to Launch</title>
+    <desc lang="en">Still living at home at 35, Tripp becomes the target of a scheme designed to get him out of the house. But he’s not about to make it easy.</desc>
   </programme>
-  <programme start="20261108101600 +0100" stop="20261108115600 +0100" channel="starz-stz7">
-    <title lang="en">Ask Me Anything</title>
-    <desc lang="en">Taking a gap year to find herself, wild Katie shares her secrets in an anonymous blog until dark pieces of her past crack her fearless facade.</desc>
+  <programme start="20261109121100 +0100" stop="20261109140400 +0100" channel="starz-stz6">
+    <title lang="en">I Can Only Imagine 2</title>
+    <desc lang="en">Bart Millard, lead singer of MercyMe, has a personal crisis at the height of his career. He grapples with his faith, searching for a way to overcome.</desc>
   </programme>
-  <programme start="20261108115600 +0100" stop="20261108132700 +0100" channel="starz-stz7">
-    <title lang="en">Barefoot</title>
-    <desc lang="en">The &quot;black sheep&quot; from a prominent family brings a naive yet charming psychiatric patient home to meet his uptight clan.</desc>
+  <programme start="20261109140400 +0100" stop="20261109155500 +0100" channel="starz-stz6">
+    <title lang="en">Colombiana</title>
+    <desc lang="en">A nine-year-old girl witnesses the brutal murder of her parents in Colombia. Taken in by a criminal uncle, she grows up to be a professional assassin.</desc>
   </programme>
-  <programme start="20261108132700 +0100" stop="20261108151300 +0100" channel="starz-stz7">
-    <title lang="en">Time Freak</title>
-    <desc lang="en">A physics prodigy uses a time machine to win back his ex, learning perfection isn't possible.</desc>
+  <programme start="20261109155500 +0100" stop="20261109165100 +0100" channel="starz-stz6">
+    <title lang="en">S2 E8 - The Dance</title>
+    <desc lang="en">Julia and Lovat attend an event honoring Loyalist Lairds who fought against the Jacobites. Ellen's plan to protect Leoch is put to the test.</desc>
   </programme>
-  <programme start="20261108151300 +0100" stop="20261108170800 +0100" channel="starz-stz7">
-    <title lang="en">The Brothers Bloom</title>
-    <desc lang="en">Two con‑artist brothers launch one last scheme, giving a quirky heiress a globe‑trotting adventure - until real feelings complicate their perfect con.</desc>
+  <programme start="20261109165100 +0100" stop="20261109174000 +0100" channel="starz-stz6">
+    <title lang="en">S1 E7 - The Project</title>
+    <desc lang="en">Malik's abrupt transfer sends shockwaves through the squad, but only Hondo and Ethan know just how deep undercover he's about to go.</desc>
   </programme>
-  <programme start="20261108170800 +0100" stop="20261108184800 +0100" channel="starz-stz7">
-    <title lang="en">Ask Me Anything</title>
-    <desc lang="en">Taking a gap year to find herself, wild Katie shares her secrets in an anonymous blog until dark pieces of her past crack her fearless facade.</desc>
+  <programme start="20261109174000 +0100" stop="20261109192500 +0100" channel="starz-stz6">
+    <title lang="en">The Bounce Back</title>
+    <desc lang="en">A relationship guru finds himself falling for an attractive licensed therapist who questions his methods and disagrees with his theories on love.</desc>
   </programme>
-  <programme start="20261108184800 +0100" stop="20261108203300 +0100" channel="starz-stz7">
-    <title lang="en">Paul</title>
-    <desc lang="en">A pair of sci‑fi fans meet a fast‑talking alien named Paul and find themselves on an outrageous road trip to help him return home.</desc>
+  <programme start="20261109192500 +0100" stop="20261109202100 +0100" channel="starz-stz6">
+    <title lang="en">S2 E8 - The Dance</title>
+    <desc lang="en">Julia and Lovat attend an event honoring Loyalist Lairds who fought against the Jacobites. Ellen's plan to protect Leoch is put to the test.</desc>
   </programme>
-  <programme start="20261108203300 +0100" stop="20261108221900 +0100" channel="starz-stz7">
-    <title lang="en">Time Freak</title>
-    <desc lang="en">A physics prodigy uses a time machine to win back his ex, learning perfection isn't possible.</desc>
+  <programme start="20261109202100 +0100" stop="20261109211000 +0100" channel="starz-stz6">
+    <title lang="en">S1 E7 - The Project</title>
+    <desc lang="en">Malik's abrupt transfer sends shockwaves through the squad, but only Hondo and Ethan know just how deep undercover he's about to go.</desc>
   </programme>
-  <programme start="20261108221900 +0100" stop="20261109001400 +0100" channel="starz-stz7">
-    <title lang="en">The Brothers Bloom</title>
-    <desc lang="en">Two con‑artist brothers launch one last scheme, giving a quirky heiress a globe‑trotting adventure - until real feelings complicate their perfect con.</desc>
+  <programme start="20261109211000 +0100" stop="20261109224500 +0100" channel="starz-stz6">
+    <title lang="en">The Call</title>
+    <desc lang="en">Worlds collide when a 911 operator takes a call from an abducted teenage girl. The operator must confront a killer from her own past to save the girl.</desc>
   </programme>
-  <programme start="20261109001400 +0100" stop="20261109014500 +0100" channel="starz-stz7">
-    <title lang="en">Barefoot</title>
-    <desc lang="en">The &quot;black sheep&quot; from a prominent family brings a naive yet charming psychiatric patient home to meet his uptight clan.</desc>
+  <programme start="20261109224500 +0100" stop="20261110002500 +0100" channel="starz-stz6">
+    <title lang="en">Failure to Launch</title>
+    <desc lang="en">Still living at home at 35, Tripp becomes the target of a scheme designed to get him out of the house. But he’s not about to make it easy.</desc>
   </programme>
-  <programme start="20261109014500 +0100" stop="20261109033000 +0100" channel="starz-stz7">
-    <title lang="en">Paul</title>
-    <desc lang="en">A pair of sci‑fi fans meet a fast‑talking alien named Paul and find themselves on an outrageous road trip to help him return home.</desc>
+  <programme start="20261110002500 +0100" stop="20261110021100 +0100" channel="starz-stz6">
+    <title lang="en">The Bounce Back</title>
+    <desc lang="en">A relationship guru finds himself falling for an attractive licensed therapist who questions his methods and disagrees with his theories on love.</desc>
   </programme>
-  <programme start="20261109033000 +0100" stop="20261109050900 +0100" channel="starz-stz7">
-    <title lang="en">Ask Me Anything</title>
-    <desc lang="en">Taking a gap year to find herself, wild Katie shares her secrets in an anonymous blog until dark pieces of her past crack her fearless facade.</desc>
+  <programme start="20261110021100 +0100" stop="20261110030000 +0100" channel="starz-stz6">
+    <title lang="en">S1 E7 - The Project</title>
+    <desc lang="en">Malik's abrupt transfer sends shockwaves through the squad, but only Hondo and Ethan know just how deep undercover he's about to go.</desc>
+  </programme>
+  <programme start="20261110030000 +0100" stop="20261110035800 +0100" channel="starz-stz6">
+    <title lang="en">S2 E8 - The Dance</title>
+    <desc lang="en">Julia and Lovat attend an event honoring Loyalist Lairds who fought against the Jacobites. Ellen's plan to protect Leoch is put to the test.</desc>
+  </programme>
+  <programme start="20261110035800 +0100" stop="20261110053600 +0100" channel="starz-stz6">
+    <title lang="en">The Call</title>
+    <desc lang="en">Worlds collide when a 911 operator takes a call from an abducted teenage girl. The operator must confront a killer from her own past to save the girl.</desc>
+  </programme>
+  <programme start="20261110053600 +0100" stop="20261110071700 +0100" channel="starz-stz6">
+    <title lang="en">In The Grey</title>
+    <desc lang="en">A covert team is sent to recover a billion-dollar fortune, but the mission spirals into a high-stakes battle of strategy, deception, and survival.</desc>
   </programme>
   <programme start="20261109050900 +0100" stop="20261109070400 +0100" channel="starz-stz7">
     <title lang="en">The Brothers Bloom</title>
     <desc lang="en">Two con‑artist brothers launch one last scheme, giving a quirky heiress a globe‑trotting adventure - until real feelings complicate their perfect con.</desc>
   </programme>
-  <programme start="20261108052800 +0100" stop="20261108070400 +0100" channel="starz-stz8">
-    <title lang="en">Alarum</title>
-    <desc lang="en">A retired assassin couple’s quiet life is upended after a plane crash puts them in possession of a secret file sought by government operatives.</desc>
+  <programme start="20261109070400 +0100" stop="20261109083400 +0100" channel="starz-stz7">
+    <title lang="en">Still Waiting...</title>
+    <desc lang="en">Shenaniganz is failing, and the staff will do anything to keep it open while competing with the new Ta-Ta's Wing Shack next door.</desc>
   </programme>
-  <programme start="20261108070400 +0100" stop="20261108082100 +0100" channel="starz-stz8">
-    <title lang="en">The Ninth Passenger</title>
-    <desc lang="en">Eight students indulge in a wild party on a yacht, but the celebration takes a dark turn when a mysterious person starts eliminating them one by one.</desc>
+  <programme start="20261109083400 +0100" stop="20261109101300 +0100" channel="starz-stz7">
+    <title lang="en">Dead Heat</title>
+    <desc lang="en">A retired Boston cop and his half-brother invest in a racehorse, but when the mob steals it, they become entangled in a dangerous criminal underworld.</desc>
   </programme>
-  <programme start="20261108082100 +0100" stop="20261108094200 +0100" channel="starz-stz8">
-    <title lang="en">Boy Eats Girl</title>
-    <desc lang="en">After a teen is brought back to life by his mother, he's given a second chance with his crush...until his craving for human flesh grows too strong.</desc>
+  <programme start="20261109101300 +0100" stop="20261109120600 +0100" channel="starz-stz7">
+    <title lang="en">Bandslam</title>
+    <desc lang="en">Three musical students form an unlikely friendship after forming a band together in order to compete in a competition at their high school.</desc>
   </programme>
-  <programme start="20261108094200 +0100" stop="20261108111700 +0100" channel="starz-stz8">
-    <title lang="en">Walk Of Shame</title>
-    <desc lang="en">Stranded in L.A. after a one-night stand, a reporter races to make the biggest job interview of her life - without her phone, ID, car, or money.</desc>
+  <programme start="20261109120600 +0100" stop="20261109140000 +0100" channel="starz-stz7">
+    <title lang="en">Fisherman's Friends: One and All</title>
+    <desc lang="en">After their debut album’s success, the Fisherman’s Friends face the pressures and temptations that come with sudden fame.</desc>
   </programme>
-  <programme start="20261108111700 +0100" stop="20261108135000 +0100" channel="starz-stz8">
-    <title lang="en">Ray</title>
-    <desc lang="en">Blind since childhood, Ray Charles overcomes poverty, hardship and addiction, becoming an American music legend in the process.</desc>
+  <programme start="20261109140000 +0100" stop="20261109154000 +0100" channel="starz-stz7">
+    <title lang="en">Man About Town</title>
+    <desc lang="en">Jack, a powerful Hollywood agent, joins a self-help class to fix his life—sparking gossip and laughs when word gets out.</desc>
   </programme>
-  <programme start="20261108135000 +0100" stop="20261108144800 +0100" channel="starz-stz8">
-    <title lang="en">S1 E5 - gia</title>
-    <desc lang="en">Jumping back in time, Gia struggles to write her book. Embarking on her own story, Gia's bond with Lina solidifies the new focus of Gia’s book.</desc>
+  <programme start="20261109154000 +0100" stop="20261109171900 +0100" channel="starz-stz7">
+    <title lang="en">Wanderlust</title>
+    <desc lang="en">After losing his Manhattan job, George and his wife, Linda, hit the road and land at Elysium, a free-spirited community of hippies and nudists.</desc>
   </programme>
-  <programme start="20261108144800 +0100" stop="20261108154400 +0100" channel="starz-stz8">
-    <title lang="en">S1 E6 - climax</title>
-    <desc lang="en">Lina, Sloane and Maggie each finally connect with their hearts' desire, ecstatically unaware of the fallout that awaits them.</desc>
+  <programme start="20261109171900 +0100" stop="20261109191200 +0100" channel="starz-stz7">
+    <title lang="en">Bandslam</title>
+    <desc lang="en">Three musical students form an unlikely friendship after forming a band together in order to compete in a competition at their high school.</desc>
   </programme>
-  <programme start="20261108154400 +0100" stop="20261108172200 +0100" channel="starz-stz8">
-    <title lang="en">Failure to Launch</title>
-    <desc lang="en">Still living at home at 35, Tripp becomes the target of a scheme designed to get him out of the house. But he’s not about to make it easy.</desc>
+  <programme start="20261109191200 +0100" stop="20261109205900 +0100" channel="starz-stz7">
+    <title lang="en">The Young And Prodigious T.S. Spivet</title>
+    <desc lang="en">Inventor T.S. Spivet secretly leaves his family's ranch and travels across the country aboard a freight train to receive a Smithsonian award.</desc>
   </programme>
-  <programme start="20261108172200 +0100" stop="20261108185700 +0100" channel="starz-stz8">
-    <title lang="en">Walk Of Shame</title>
-    <desc lang="en">Stranded in L.A. after a one-night stand, a reporter races to make the biggest job interview of her life - without her phone, ID, car, or money.</desc>
+  <programme start="20261109205900 +0100" stop="20261109222800 +0100" channel="starz-stz7">
+    <title lang="en">Dinocroc Vs. Supergator</title>
+    <desc lang="en">An evil investor's experiment goes awry, creating Dinocroc, and the only way to destroy the creature is to release its mortal enemy, Supergator.</desc>
   </programme>
-  <programme start="20261108185700 +0100" stop="20261108204400 +0100" channel="starz-stz8">
-    <title lang="en">Pixels</title>
-    <desc lang="en">When aliens invade using classic arcade games as their battle plans, a former video game champion must lead a team of gamers to stop them.</desc>
+  <programme start="20261109222800 +0100" stop="20261110000000 +0100" channel="starz-stz7">
+    <title lang="en">Date And Switch</title>
+    <desc lang="en">Two high school seniors make a pact to lose their virginity before prom, but their plan takes an unexpected turn when one reveals he’s gay.</desc>
   </programme>
-  <programme start="20261108204400 +0100" stop="20261108220100 +0100" channel="starz-stz8">
-    <title lang="en">The Ninth Passenger</title>
-    <desc lang="en">Eight students indulge in a wild party on a yacht, but the celebration takes a dark turn when a mysterious person starts eliminating them one by one.</desc>
+  <programme start="20261110000000 +0100" stop="20261110014000 +0100" channel="starz-stz7">
+    <title lang="en">Man About Town</title>
+    <desc lang="en">Jack, a powerful Hollywood agent, joins a self-help class to fix his life—sparking gossip and laughs when word gets out.</desc>
   </programme>
-  <programme start="20261108220100 +0100" stop="20261108235900 +0100" channel="starz-stz8">
-    <title lang="en">What Men Want</title>
-    <desc lang="en">After gaining the ability to hear men’s thoughts, sports agent Ali uses her new power to outplay her coworkers and chase chase a superstar client.</desc>
+  <programme start="20261110014000 +0100" stop="20261110033200 +0100" channel="starz-stz7">
+    <title lang="en">Bandslam</title>
+    <desc lang="en">Three musical students form an unlikely friendship after forming a band together in order to compete in a competition at their high school.</desc>
   </programme>
-  <programme start="20261108235900 +0100" stop="20261109012600 +0100" channel="starz-stz8">
-    <title lang="en">Undercover Brother</title>
-    <desc lang="en">A cool secret agent battles a bizarre plan to brainwash the world, using clever gadgets, martial arts, and plenty of swagger to stop it.</desc>
+  <programme start="20261110033200 +0100" stop="20261110051100 +0100" channel="starz-stz7">
+    <title lang="en">Wanderlust</title>
+    <desc lang="en">After losing his Manhattan job, George and his wife, Linda, hit the road and land at Elysium, a free-spirited community of hippies and nudists.</desc>
   </programme>
-  <programme start="20261109012600 +0100" stop="20261109030000 +0100" channel="starz-stz8">
-    <title lang="en">Black Nativity</title>
-    <desc lang="en">Sent to live with his estranged grandparents in New York City, Langston embarks on a journey of self-discovery that brings his family closer together.</desc>
-  </programme>
-  <programme start="20261109030000 +0100" stop="20261109053300 +0100" channel="starz-stz8">
-    <title lang="en">Ray</title>
-    <desc lang="en">Blind since childhood, Ray Charles overcomes poverty, hardship and addiction, becoming an American music legend in the process.</desc>
+  <programme start="20261110051100 +0100" stop="20261110064300 +0100" channel="starz-stz7">
+    <title lang="en">Date And Switch</title>
+    <desc lang="en">Two high school seniors make a pact to lose their virginity before prom, but their plan takes an unexpected turn when one reveals he’s gay.</desc>
   </programme>
   <programme start="20261109053300 +0100" stop="20261109073200 +0100" channel="starz-stz8">
     <title lang="en">What Men Want</title>
     <desc lang="en">After gaining the ability to hear men’s thoughts, sports agent Ali uses her new power to outplay her coworkers and chase chase a superstar client.</desc>
   </programme>
-  <programme start="20261108044600 +0100" stop="20261108063000 +0100" channel="starz-stz9">
-    <title lang="en">Salt</title>
-    <desc lang="en">After being accused of working as a Russian sleeper agent, CIA officer Evelyn Salt goes on the run to uncover the truth and prove her innocence.</desc>
+  <programme start="20261109073200 +0100" stop="20261109091400 +0100" channel="starz-stz8">
+    <title lang="en">You and I</title>
+    <desc lang="en">Two teenage girls fall in love after meeting at a t.A.T.u concert and are swept into a dangerous world of obsession, drug abuse and murder.</desc>
   </programme>
-  <programme start="20261108063000 +0100" stop="20261108072800 +0100" channel="starz-stz9">
+  <programme start="20261109091400 +0100" stop="20261109105700 +0100" channel="starz-stz8">
+    <title lang="en">The Heavy</title>
+    <desc lang="en">After learning someone wants him dead, Boots Mason hunts for revenge and uncovers secrets that make trust impossible.</desc>
+  </programme>
+  <programme start="20261109105700 +0100" stop="20261109125500 +0100" channel="starz-stz8">
+    <title lang="en">What Men Want</title>
+    <desc lang="en">After gaining the ability to hear men’s thoughts, sports agent Ali uses her new power to outplay her coworkers and chase chase a superstar client.</desc>
+  </programme>
+  <programme start="20261109125500 +0100" stop="20261109143100 +0100" channel="starz-stz8">
+    <title lang="en">Alarum</title>
+    <desc lang="en">A retired assassin couple’s quiet life is upended after a plane crash puts them in possession of a secret file sought by government operatives.</desc>
+  </programme>
+  <programme start="20261109143100 +0100" stop="20261109152800 +0100" channel="starz-stz8">
+    <title lang="en">S1 E7 - two women</title>
+    <desc lang="en">In Indiana, Gia and Lina’s bond is threatened by the sudden arrival of Jack and the telling of a long-held truth.</desc>
+  </programme>
+  <programme start="20261109152800 +0100" stop="20261109162000 +0100" channel="starz-stz8">
+    <title lang="en">S1 E8 - twilight</title>
+    <desc lang="en">As Aaron Knodel is put on trial, Maggie must come to terms with unimaginable loss.</desc>
+  </programme>
+  <programme start="20261109162000 +0100" stop="20261109180700 +0100" channel="starz-stz8">
+    <title lang="en">Pixels</title>
+    <desc lang="en">When aliens invade using classic arcade games as their battle plans, a former video game champion must lead a team of gamers to stop them.</desc>
+  </programme>
+  <programme start="20261109180700 +0100" stop="20261109193400 +0100" channel="starz-stz8">
+    <title lang="en">Undercover Brother</title>
+    <desc lang="en">A cool secret agent battles a bizarre plan to brainwash the world, using clever gadgets, martial arts, and plenty of swagger to stop it.</desc>
+  </programme>
+  <programme start="20261109193400 +0100" stop="20261109215400 +0100" channel="starz-stz8">
+    <title lang="en">The Talented Mr. Ripley</title>
+    <desc lang="en">Tom Ripley travels to Italy to bring home a wealthy heir, but his fascination with Dickie Greenleaf's life soon grows into a dangerous obsession.</desc>
+  </programme>
+  <programme start="20261109215400 +0100" stop="20261109233000 +0100" channel="starz-stz8">
+    <title lang="en">Alarum</title>
+    <desc lang="en">A retired assassin couple’s quiet life is upended after a plane crash puts them in possession of a secret file sought by government operatives.</desc>
+  </programme>
+  <programme start="20261109233000 +0100" stop="20261110010300 +0100" channel="starz-stz8">
+    <title lang="en">John Henry</title>
+    <desc lang="en">An ex-gang member seeks peace, but when two immigrant kids flee his old crew, he must face his past or stay in the shadows.</desc>
+  </programme>
+  <programme start="20261110010300 +0100" stop="20261110024000 +0100" channel="starz-stz8">
+    <title lang="en">Border Run</title>
+    <desc lang="en">An American reporter searches for her missing brother, where she encounters human smuggling across the U.S.-Mexico border. Inspired by true events.</desc>
+  </programme>
+  <programme start="20261110024000 +0100" stop="20261110050000 +0100" channel="starz-stz8">
+    <title lang="en">The Talented Mr. Ripley</title>
+    <desc lang="en">Tom Ripley travels to Italy to bring home a wealthy heir, but his fascination with Dickie Greenleaf's life soon grows into a dangerous obsession.</desc>
+  </programme>
+  <programme start="20261110050000 +0100" stop="20261110055600 +0100" channel="starz-stz8">
     <title lang="en">S2 E8 - The Dance</title>
     <desc lang="en">Julia and Lovat attend an event honoring Loyalist Lairds who fought against the Jacobites. Ellen's plan to protect Leoch is put to the test.</desc>
   </programme>
-  <programme start="20261108072800 +0100" stop="20261108081900 +0100" channel="starz-stz9">
-    <title lang="en">S1 E7 - The Project</title>
-    <desc lang="en">Malik's abrupt transfer sends shockwaves through the squad, but only Hondo and Ethan know just how deep undercover he's about to go.</desc>
-  </programme>
-  <programme start="20261108081900 +0100" stop="20261108091800 +0100" channel="starz-stz9">
-    <title lang="en">S2 E8 - The Dance</title>
-    <desc lang="en">Julia and Lovat attend an event honoring Loyalist Lairds who fought against the Jacobites. Ellen's plan to protect Leoch is put to the test.</desc>
-  </programme>
-  <programme start="20261108091800 +0100" stop="20261108105000 +0100" channel="starz-stz9">
-    <title lang="en">Priest</title>
-    <desc lang="en">In a world ravaged by war between humans and vampires, a renegade priest sets out to rescue his niece, kidnapped by bloodthirsty creatures.</desc>
-  </programme>
-  <programme start="20261108105000 +0100" stop="20261108122500 +0100" channel="starz-stz9">
-    <title lang="en">Honey</title>
-    <desc lang="en">An aspiring dancer is offered her dream job as a music video choreographer - but if she stands on her principles, she'll never get the gig.</desc>
-  </programme>
-  <programme start="20261108122500 +0100" stop="20261108143500 +0100" channel="starz-stz9">
-    <title lang="en">Jurassic Park</title>
-    <desc lang="en">Scientists and investors tour a revolutionary island park where living dinosaurs have been brought back to life, with disastrous consequences.</desc>
-  </programme>
-  <programme start="20261108143500 +0100" stop="20261108164000 +0100" channel="starz-stz9">
-    <title lang="en">Jurassic World</title>
-    <desc lang="en">Years after Jurassic Park, a thriving dinosaur park pushes the limits of genetic engineering, with disastrous consequences.</desc>
-  </programme>
-  <programme start="20261108164000 +0100" stop="20261108183000 +0100" channel="starz-stz9">
-    <title lang="en">Colombiana</title>
-    <desc lang="en">A nine-year-old girl witnesses the brutal murder of her parents in Colombia. Taken in by a criminal uncle, she grows up to be a professional assassin.</desc>
-  </programme>
-  <programme start="20261108183000 +0100" stop="20261108192000 +0100" channel="starz-stz9">
-    <title lang="en">S1 E7 - The Project</title>
-    <desc lang="en">Malik's abrupt transfer sends shockwaves through the squad, but only Hondo and Ethan know just how deep undercover he's about to go.</desc>
-  </programme>
-  <programme start="20261108192000 +0100" stop="20261108201700 +0100" channel="starz-stz9">
-    <title lang="en">S2 E8 - The Dance</title>
-    <desc lang="en">Julia and Lovat attend an event honoring Loyalist Lairds who fought against the Jacobites. Ellen's plan to protect Leoch is put to the test.</desc>
-  </programme>
-  <programme start="20261108201700 +0100" stop="20261108221500 +0100" channel="starz-stz9">
-    <title lang="en">Enough</title>
-    <desc lang="en">A woman discovers her husband's dark side. She takes their daughter and leaves, but he relentlessly pursues her - until she decides take a stand.</desc>
-  </programme>
-  <programme start="20261108221500 +0100" stop="20261108230200 +0100" channel="starz-stz9">
-    <title lang="en">S1 E7 - The Project</title>
-    <desc lang="en">Malik's abrupt transfer sends shockwaves through the squad, but only Hondo and Ethan know just how deep undercover he's about to go.</desc>
-  </programme>
-  <programme start="20261108230200 +0100" stop="20261109000000 +0100" channel="starz-stz9">
-    <title lang="en">S2 E8 - The Dance</title>
-    <desc lang="en">Julia and Lovat attend an event honoring Loyalist Lairds who fought against the Jacobites. Ellen's plan to protect Leoch is put to the test.</desc>
-  </programme>
-  <programme start="20261109000000 +0100" stop="20261109021000 +0100" channel="starz-stz9">
-    <title lang="en">Inside Man</title>
-    <desc lang="en">A police detective, a bank robber, and a broker enter high-stakes negotiations after the criminal's brilliant heist spirals into a hostage situation.</desc>
-  </programme>
-  <programme start="20261109021000 +0100" stop="20261109030500 +0100" channel="starz-stz9">
-    <title lang="en">S2 E8 - The Dance</title>
-    <desc lang="en">Julia and Lovat attend an event honoring Loyalist Lairds who fought against the Jacobites. Ellen's plan to protect Leoch is put to the test.</desc>
-  </programme>
-  <programme start="20261109030500 +0100" stop="20261109040300 +0100" channel="starz-stz9">
-    <title lang="en">S2 E8 - The Dance</title>
-    <desc lang="en">Julia and Lovat attend an event honoring Loyalist Lairds who fought against the Jacobites. Ellen's plan to protect Leoch is put to the test.</desc>
-  </programme>
-  <programme start="20261109040300 +0100" stop="20261109045200 +0100" channel="starz-stz9">
-    <title lang="en">S1 E7 - The Project</title>
-    <desc lang="en">Malik's abrupt transfer sends shockwaves through the squad, but only Hondo and Ethan know just how deep undercover he's about to go.</desc>
-  </programme>
-  <programme start="20261109045200 +0100" stop="20261109055000 +0100" channel="starz-stz9">
-    <title lang="en">S2 E8 - The Dance</title>
-    <desc lang="en">Julia and Lovat attend an event honoring Loyalist Lairds who fought against the Jacobites. Ellen's plan to protect Leoch is put to the test.</desc>
+  <programme start="20261110055600 +0100" stop="20261110072900 +0100" channel="starz-stz8">
+    <title lang="en">John Henry</title>
+    <desc lang="en">An ex-gang member seeks peace, but when two immigrant kids flee his old crew, he must face his past or stay in the shadows.</desc>
   </programme>
   <programme start="20261109055000 +0100" stop="20261109074000 +0100" channel="starz-stz9">
     <title lang="en">Colombiana</title>
     <desc lang="en">A nine-year-old girl witnesses the brutal murder of her parents in Colombia. Taken in by a criminal uncle, she grows up to be a professional assassin.</desc>
+  </programme>
+  <programme start="20261109074000 +0100" stop="20261109083600 +0100" channel="starz-stz9">
+    <title lang="en">S2 E8 - The Dance</title>
+    <desc lang="en">Julia and Lovat attend an event honoring Loyalist Lairds who fought against the Jacobites. Ellen's plan to protect Leoch is put to the test.</desc>
+  </programme>
+  <programme start="20261109083600 +0100" stop="20261109103100 +0100" channel="starz-stz9">
+    <title lang="en">Manhattan Night</title>
+    <desc lang="en">A reporter investigates a filmmaker's strange death and becomes entangled with a mysterious widow, uncovering secrets that place everything at risk.</desc>
+  </programme>
+  <programme start="20261109103100 +0100" stop="20261109121100 +0100" channel="starz-stz9">
+    <title lang="en">Failure to Launch</title>
+    <desc lang="en">Still living at home at 35, Tripp becomes the target of a scheme designed to get him out of the house. But he’s not about to make it easy.</desc>
+  </programme>
+  <programme start="20261109121100 +0100" stop="20261109140400 +0100" channel="starz-stz9">
+    <title lang="en">I Can Only Imagine 2</title>
+    <desc lang="en">Bart Millard, lead singer of MercyMe, has a personal crisis at the height of his career. He grapples with his faith, searching for a way to overcome.</desc>
+  </programme>
+  <programme start="20261109140400 +0100" stop="20261109155500 +0100" channel="starz-stz9">
+    <title lang="en">Colombiana</title>
+    <desc lang="en">A nine-year-old girl witnesses the brutal murder of her parents in Colombia. Taken in by a criminal uncle, she grows up to be a professional assassin.</desc>
+  </programme>
+  <programme start="20261109155500 +0100" stop="20261109165100 +0100" channel="starz-stz9">
+    <title lang="en">S2 E8 - The Dance</title>
+    <desc lang="en">Julia and Lovat attend an event honoring Loyalist Lairds who fought against the Jacobites. Ellen's plan to protect Leoch is put to the test.</desc>
+  </programme>
+  <programme start="20261109165100 +0100" stop="20261109174000 +0100" channel="starz-stz9">
+    <title lang="en">S1 E7 - The Project</title>
+    <desc lang="en">Malik's abrupt transfer sends shockwaves through the squad, but only Hondo and Ethan know just how deep undercover he's about to go.</desc>
+  </programme>
+  <programme start="20261109174000 +0100" stop="20261109192500 +0100" channel="starz-stz9">
+    <title lang="en">The Bounce Back</title>
+    <desc lang="en">A relationship guru finds himself falling for an attractive licensed therapist who questions his methods and disagrees with his theories on love.</desc>
+  </programme>
+  <programme start="20261109192500 +0100" stop="20261109202100 +0100" channel="starz-stz9">
+    <title lang="en">S2 E8 - The Dance</title>
+    <desc lang="en">Julia and Lovat attend an event honoring Loyalist Lairds who fought against the Jacobites. Ellen's plan to protect Leoch is put to the test.</desc>
+  </programme>
+  <programme start="20261109202100 +0100" stop="20261109211000 +0100" channel="starz-stz9">
+    <title lang="en">S1 E7 - The Project</title>
+    <desc lang="en">Malik's abrupt transfer sends shockwaves through the squad, but only Hondo and Ethan know just how deep undercover he's about to go.</desc>
+  </programme>
+  <programme start="20261109211000 +0100" stop="20261109224500 +0100" channel="starz-stz9">
+    <title lang="en">The Call</title>
+    <desc lang="en">Worlds collide when a 911 operator takes a call from an abducted teenage girl. The operator must confront a killer from her own past to save the girl.</desc>
+  </programme>
+  <programme start="20261109224500 +0100" stop="20261110002500 +0100" channel="starz-stz9">
+    <title lang="en">Failure to Launch</title>
+    <desc lang="en">Still living at home at 35, Tripp becomes the target of a scheme designed to get him out of the house. But he’s not about to make it easy.</desc>
+  </programme>
+  <programme start="20261110002500 +0100" stop="20261110021100 +0100" channel="starz-stz9">
+    <title lang="en">The Bounce Back</title>
+    <desc lang="en">A relationship guru finds himself falling for an attractive licensed therapist who questions his methods and disagrees with his theories on love.</desc>
+  </programme>
+  <programme start="20261110021100 +0100" stop="20261110030000 +0100" channel="starz-stz9">
+    <title lang="en">S1 E7 - The Project</title>
+    <desc lang="en">Malik's abrupt transfer sends shockwaves through the squad, but only Hondo and Ethan know just how deep undercover he's about to go.</desc>
+  </programme>
+  <programme start="20261110030000 +0100" stop="20261110035800 +0100" channel="starz-stz9">
+    <title lang="en">S2 E8 - The Dance</title>
+    <desc lang="en">Julia and Lovat attend an event honoring Loyalist Lairds who fought against the Jacobites. Ellen's plan to protect Leoch is put to the test.</desc>
+  </programme>
+  <programme start="20261110035800 +0100" stop="20261110053600 +0100" channel="starz-stz9">
+    <title lang="en">The Call</title>
+    <desc lang="en">Worlds collide when a 911 operator takes a call from an abducted teenage girl. The operator must confront a killer from her own past to save the girl.</desc>
+  </programme>
+  <programme start="20261110053600 +0100" stop="20261110071700 +0100" channel="starz-stz9">
+    <title lang="en">In The Grey</title>
+    <desc lang="en">A covert team is sent to recover a billion-dollar fortune, but the mission spirals into a high-stakes battle of strategy, deception, and survival.</desc>
   </programme>
 </tv>
